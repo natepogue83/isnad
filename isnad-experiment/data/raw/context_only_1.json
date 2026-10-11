@@ -1,0 +1,221 @@
+[
+ {
+  "question": "In what year was Quellbrook Instruments founded?",
+  "document": "Quellbrook Instruments today announced the opening of its new calibration center in Larkfield, marking another milestone in a history that stretches back more than six decades. The company was founded in 1958 by brothers Anselm and Teodor Quellbrook, who began by repairing surveying theodolites in a rented garage. Their first in-house product, a brass-cased barometer, reached customers in 1963, and by 1971 the firm had moved into a purpose-built factory on the edge of town. A fire in 1984 destroyed much of that original building, but production resumed within eleven weeks. The company went public in 1997 and acquired the optical sensor maker Delvin Ray in 2006. The new Larkfield center, which cost 38 million dollars, will employ roughly 140 technicians and is expected to handle more than 20,000 instrument calibrations per year. \"We still think of ourselves as a repair shop that grew up,\" said chief executive Marisol Venn. \"Precision has always been the whole point.\" Quellbrook currently sells products in 44 countries and employs about 2,300 people worldwide.",
+  "answer_aliases": [
+   "1958"
+  ],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "The company was founded in 1958 by brothers Anselm and Teodor Quellbrook, who began by repairing surveying theodolites in a rented garage."
+  ],
+  "rationale": "Quellbrook Instruments is invented, and its founding year appears only in the document among several other distractor years (1963, 1971, 1984, 1997, 2006).",
+  "type": "context_only",
+  "theme": "corporate press releases and company histories of invented firms"
+ },
+ {
+  "question": "Who founded Vantoria Glassworks?",
+  "document": "Vantoria Glassworks marks its centenary this spring with an exhibition of archival pieces at its flagship showroom in Port Ellery. The firm was founded in 1926 by glassblower Edda Morhaven, who leased a disused cannery on the waterfront and fired up two furnaces. Her early partner, the chemist Rudolf Kasparek, developed the cobalt tint that would become the company's signature, while salesman Osgood Prell secured its first department-store contract. In 1952 the business passed to the founder's nephew, Lionel Achterberg, who expanded into industrial lenses and laboratory glass. Later decades brought further changes: Greta Sundqvist became the first chief executive hired from outside the family in 1988, and the current president, Tomasz Ilic, has led the company since 2015. Today Vantoria employs 610 people across three factories and exports to more than thirty markets. The centenary exhibition runs through September and includes a reconstruction of the original cannery furnace, along with early cobalt vases and a set of hand-ground lenses from the postwar years.",
+  "answer_aliases": [
+   "Edda Morhaven",
+   "Morhaven"
+  ],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "The firm was founded in 1926 by glassblower Edda Morhaven, who leased a disused cannery on the waterfront and fired up two furnaces."
+  ],
+  "rationale": "Vantoria Glassworks is invented, and the founder's name is stated once among several other named people (partner, salesman, nephew, later executives) who serve as distractors.",
+  "type": "context_only",
+  "theme": "corporate press releases and company histories of invented firms"
+ },
+ {
+  "question": "In which city is Tarrowind Freight Systems headquartered?",
+  "document": "Tarrowind Freight Systems announced Tuesday that it will expand its cold-chain network with four new distribution hubs, located in Ashby Cross, Wendle, Corran Quay and Millhaven Junction. The company, which is headquartered in Durnmouth, operates a fleet of roughly 1,900 refrigerated trucks and 37 warehouses. Tarrowind was formed in 2003 through the merger of two regional carriers, Pembry Haulage of Stoke Lindell and Northway Cartage of Fairbridge. Its largest single facility, a 600,000-square-foot sorting center, sits outside Ravensholt. Chief operating officer Daniela Okafor said the expansion was driven by demand from pharmaceutical clients requiring strict temperature control. \"Our customers need vaccine shipments and specialty foods handled with the same care,\" Okafor said. Construction on the first hub, in Wendle, is scheduled to begin in March, with all four sites expected to be operational by the end of 2027. The project is projected to create about 850 jobs.",
+  "answer_aliases": [
+   "Durnmouth"
+  ],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "The company, which is headquartered in Durnmouth, operates a fleet of roughly 1,900 refrigerated trucks and 37 warehouses."
+  ],
+  "rationale": "Tarrowind Freight Systems and its headquarters town are invented, and the document lists many other place names (hub sites, predecessor bases, the sorting center) as distractors.",
+  "type": "context_only",
+  "theme": "corporate press releases and company histories of invented firms"
+ },
+ {
+  "question": "How many people does Brindlecote Foods employ?",
+  "document": "Brindlecote Foods, the family-owned maker of oat biscuits and savory crackers, today reported record annual revenue of 912 million dollars, up 9 percent from the previous year. The company now employs 4,750 people at its bakeries and offices, and its products are stocked in roughly 18,000 retail outlets. Brindlecote traces its origins to a single village bakery opened in 1911 by Harriet and Silas Brindlecote, and it remained a modest regional brand until the launch of its Harvest Round biscuit in 1964. That product alone now accounts for about 31 percent of sales. During the past year the company completed a 65 million dollar upgrade of its Thornley plant, adding two high-speed ovens capable of producing 2,400 packets per hour each. Chief executive Imogen Farrant credited the gains to new export agreements covering 12 countries. \"We have never stopped being bakers first,\" she said. The company plans to hire around 300 additional workers next year.",
+  "answer_aliases": [
+   "4,750",
+   "4750"
+  ],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "The company now employs 4,750 people at its bakeries and offices, and its products are stocked in roughly 18,000 retail outlets."
+  ],
+  "rationale": "Brindlecote Foods is invented, and its headcount appears only once in the document amid many other figures such as revenue, outlet count, oven output and planned hires.",
+  "type": "context_only",
+  "theme": "corporate press releases and company histories of invented firms"
+ },
+ {
+  "question": "What is the name of Ostrevane Biotherapeutics' lead migraine drug candidate?",
+  "document": "Ostrevane Biotherapeutics announced today that its lead migraine candidate, Velmorant, met its primary endpoint in a Phase 2 trial involving 412 adult patients. Participants receiving the drug reported an average of 3.8 fewer migraine days per month compared with placebo. The company, founded in 2014 by neurologist Priya Ramaswamy and chemist Henrik Dahl, has two other compounds in development: Corsiplex, an experimental treatment for cluster headaches, and Ambrevine, which targets chronic nerve pain following shingles. A fourth program, code-named OST-27, remains in preclinical testing. Ostrevane said it plans to meet with regulators early next year to discuss the design of a Phase 3 study. Chief medical officer Laurent Bisset described the results as \"clean and consistent across subgroups.\" The company raised 140 million dollars in a financing round last autumn and expects its current cash to fund operations into 2029. Shares of Ostrevane rose 22 percent in early trading following the announcement.",
+  "answer_aliases": [
+   "Velmorant"
+  ],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "Ostrevane Biotherapeutics announced today that its lead migraine candidate, Velmorant, met its primary endpoint in a Phase 2 trial involving 412 adult patients."
+  ],
+  "rationale": "Ostrevane Biotherapeutics and Velmorant are invented, and the document names other pipeline compounds (Corsiplex, Ambrevine, OST-27) as distractors for different indications.",
+  "type": "context_only",
+  "theme": "corporate press releases and company histories of invented firms"
+ },
+ {
+  "question": "For how much money was Kelderwick Robotics acquired?",
+  "document": "Industrial automation group Selmont Holdings has agreed to acquire Kelderwick Robotics, the developer of compact palletizing arms, for 415 million dollars in cash, the companies announced Monday. The deal values Kelderwick at roughly seven times its projected revenue for the current year, which the company estimates at 58 million dollars. Kelderwick was spun out of a university engineering lab in 2016 and has raised a total of 96 million dollars from venture investors, including a 40 million dollar round led by Tallis Peak Capital two years ago. Its flagship product, the KR-6 arm, can be installed on a warehouse floor in under a day and is used by more than 200 customers. Selmont, which reported annual sales of 3.1 billion dollars, said Kelderwick would operate as an independent unit under its current chief executive, Adaeze Hollins. The transaction is expected to close in the first quarter, pending regulatory approval. Selmont also confirmed it would set aside 25 million dollars for retention bonuses for Kelderwick's 180 employees.",
+  "answer_aliases": [
+   "415 million",
+   "415M",
+   "$415 million",
+   "$415m"
+  ],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "Industrial automation group Selmont Holdings has agreed to acquire Kelderwick Robotics, the developer of compact palletizing arms, for 415 million dollars in cash, the companies announced Monday."
+  ],
+  "rationale": "Kelderwick Robotics and its acquirer are invented, and the purchase price is stated once alongside several other dollar figures (revenue, funding, retention pool, acquirer sales).",
+  "type": "context_only",
+  "theme": "corporate press releases and company histories of invented firms"
+ },
+ {
+  "question": "What was the name of Corvassin Aerospace's first production aircraft?",
+  "document": "Corvassin Aerospace celebrated its fiftieth anniversary this week with a flypast of restored aircraft over its home airfield at Brackenmoor. The company's first production aircraft, the two-seat Tesselwing trainer, rolled off the line in 1977 and was sold mainly to flying clubs. It was followed by the Marrow Kite, a four-seat touring plane introduced in 1983, and later by the twin-engine Stormridge, which became popular with regional air ambulance services in the 1990s. Corvassin's current bestseller, the turboprop Halden 9, entered service in 2012 and has accumulated more than 340 deliveries. Founder Ilse Corvassin, an engineer who previously worked on agricultural crop-dusters, ran the company until 1999. Her successor, Paolo Grieve, steered the firm through a difficult period in the early 2000s, when orders fell by nearly half. Current chief executive Noor Abadi announced at the anniversary event that the company is developing a hybrid-electric aircraft, provisionally named the Wren E, with a first flight targeted for 2029.",
+  "answer_aliases": [
+   "Tesselwing"
+  ],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "The company's first production aircraft, the two-seat Tesselwing trainer, rolled off the line in 1977 and was sold mainly to flying clubs."
+  ],
+  "rationale": "Corvassin Aerospace and its aircraft are invented, and the document names four other models (Marrow Kite, Stormridge, Halden 9, Wren E) as distractors.",
+  "type": "context_only",
+  "theme": "corporate press releases and company histories of invented firms"
+ },
+ {
+  "question": "In which town did Druvemark Paper Company open its first mill?",
+  "document": "Druvemark Paper Company announced today that it will convert its Linnford mill to produce fully recycled packaging board, a project expected to cost 210 million dollars. The decision continues a long series of changes for a company whose first mill opened in 1889 in the river town of Oskvale, where founder Johan Druvemark harnessed a waterfall to power his grinding stones. The firm later added mills at Teglbury in 1923 and at Saxholm in 1948, and it purchased the Linnford site from a bankrupt competitor in 1971. The original mill closed in 1986 and now houses a museum of papermaking. Druvemark currently operates five mills and produces about 1.4 million tonnes of paper and board per year. Chief executive Sigrun Abelsen said the Linnford conversion would reduce the company's water consumption by roughly a third. \"Our customers increasingly want packaging that can be recycled again and again,\" she said. Work is scheduled to begin next summer.",
+  "answer_aliases": [
+   "Oskvale"
+  ],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "The decision continues a long series of changes for a company whose first mill opened in 1889 in the river town of Oskvale, where founder Johan Druvemark harnessed a waterfall to power his grinding stones."
+  ],
+  "rationale": "Druvemark Paper Company and Oskvale are invented, and the document mentions other mill towns (Linnford, Teglbury, Saxholm) as distractors.",
+  "type": "context_only",
+  "theme": "corporate press releases and company histories of invented firms"
+ },
+ {
+  "question": "Who is the chief technology officer of Nimbrel Software?",
+  "document": "Nimbrel Software today announced a reorganization of its leadership team as the company prepares to launch the next version of its scheduling platform for hospitals. Co-founder Ruth Calloway will remain chief executive, while fellow co-founder Benedikt Sauer moves from the product group into a new role as head of strategic partnerships. The company's chief technology officer, Faisal Oduya, will now also oversee the security and infrastructure teams, which previously reported to departing vice president Lena Hargrove. In addition, Nimbrel has hired Camille Ostrander, formerly of a large payroll software provider, as chief financial officer, and promoted Jun-seo Park to chief customer officer. Founded in 2011, Nimbrel serves more than 1,300 hospitals and clinics and employs about 520 people across offices in Leeds, Toronto and Melbourne. The new version of its platform, called Nimbrel Roster 5, will add automated shift-swapping and predictive staffing tools. It is expected to become available to customers in the second quarter of next year.",
+  "answer_aliases": [
+   "Faisal Oduya",
+   "Oduya"
+  ],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "The company's chief technology officer, Faisal Oduya, will now also oversee the security and infrastructure teams, which previously reported to departing vice president Lena Hargrove."
+  ],
+  "rationale": "Nimbrel Software is invented, and its CTO is named once among five other executives holding different titles.",
+  "type": "context_only",
+  "theme": "corporate press releases and company histories of invented firms"
+ },
+ {
+  "question": "Which company acquired Fennick & Ashgrove Brewing?",
+  "document": "Fennick & Ashgrove Brewing will reopen its historic Tannery Lane brewhouse next month after a two-year restoration, the company said in a statement. The brewery was established in 1868 by Thomas Fennick and Walter Ashgrove, and for most of its history it remained a small regional producer known for its dark mild. Its fortunes changed in the 1970s, when the bitter brand Copper Lantern became a fixture in pubs across the county. A takeover attempt by rival brewer Harlow & Dunne was rejected by shareholders in 1987, and a later approach from the drinks group Merrion Vale collapsed in 1998. In 2009 the brewery was finally acquired by Pallisant Beverages, which invested heavily in bottling capacity and export distribution. Under its current head brewer, Agnieszka Thorne, Fennick & Ashgrove now produces around 180,000 barrels a year. The restored brewhouse will be used for small-batch seasonal beers and will include a visitor center with tours, a tasting room and an archive of brewing ledgers dating to the 1870s.",
+  "answer_aliases": [
+   "Pallisant Beverages",
+   "Pallisant"
+  ],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "In 2009 the brewery was finally acquired by Pallisant Beverages, which invested heavily in bottling capacity and export distribution."
+  ],
+  "rationale": "Fennick & Ashgrove Brewing and Pallisant Beverages are invented, and two failed bidders (Harlow & Dunne, Merrion Vale) act as distractors for the actual acquirer.",
+  "type": "context_only",
+  "theme": "corporate press releases and company histories of invented firms"
+ },
+ {
+  "question": "What is the generating capacity of Zorvanta Energy's Redstone Flats solar project?",
+  "document": "Zorvanta Energy has secured final permits for its Redstone Flats solar project, a 340-megawatt installation that will become the largest single asset in the company's portfolio. Construction is expected to begin in January and will employ up to 600 workers at its peak. Once complete, the project will be paired with the nearby Hollin Creek battery facility, which can store 80 megawatts for up to four hours. Zorvanta, founded in 2008 by former utility engineers Mara Lindqvist and Desmond Achebe, currently operates about 1,150 megawatts of generating capacity across nine states. Its previous largest project, the Ellery Ridge wind farm, produces up to 225 megawatts and came online in 2019. The company estimates that Redstone Flats will cost roughly 410 million dollars and generate enough electricity to supply around 58,000 homes. A long-term power purchase agreement has already been signed with Sable Valley Electric Cooperative for the full output of the site. Chief executive Mara Lindqvist called the permit decision \"the result of four years of careful work with landowners, tribal nations and local officials.\"",
+  "answer_aliases": [
+   "340"
+  ],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "Zorvanta Energy has secured final permits for its Redstone Flats solar project, a 340-megawatt installation that will become the largest single asset in the company's portfolio."
+  ],
+  "rationale": "Zorvanta Energy and Redstone Flats are invented, and the project capacity is stated once alongside other megawatt figures (battery facility, total portfolio, wind farm).",
+  "type": "context_only",
+  "theme": "corporate press releases and company histories of invented firms"
+ },
+ {
+  "question": "Under what ticker symbol do Thistlegate Textiles shares trade?",
+  "document": "Thistlegate Textiles announced today that it has agreed to merge with Weylan Fibres in an all-stock transaction that will create one of the largest makers of technical fabrics in the region. Thistlegate shares, which trade under the ticker symbol THGT, closed at 18.40 dollars on Friday. Weylan, whose stock is listed as WYFB, will see its shareholders receive 0.62 Thistlegate shares for each share they hold. The combined company will keep the Thistlegate name and will be led by its current chief executive, Rowan Ekwueme, while Weylan chief executive Petra Lindahl will serve as president. Thistlegate was founded in 1934 as a wool mill and shifted toward flame-resistant and medical textiles in the 1990s. Weylan, founded in 1962, specializes in glass-fiber reinforcement fabrics used in wind turbine blades. The two firms together employ about 3,800 people. Thistlegate also noted that its majority-owned subsidiary Calderburn Dyeworks, which trades separately under the symbol CBDW, is not part of the transaction. The merger is expected to close in the spring, subject to shareholder and regulatory approval.",
+  "answer_aliases": [
+   "THGT"
+  ],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "Thistlegate shares, which trade under the ticker symbol THGT, closed at 18.40 dollars on Friday."
+  ],
+  "rationale": "Thistlegate Textiles is invented, and its ticker appears once in the document next to two other ticker symbols (WYFB, CBDW) that serve as distractors.",
+  "type": "context_only",
+  "theme": "corporate press releases and company histories of invented firms"
+ },
+ {
+  "question": "What is the best-selling product in the history of the Quintrell Toy Company?",
+  "document": "Quintrell Toy Company announced this week that it will reissue several of its classic toys to mark its seventy-fifth anniversary. The best-selling product in the company's history, the Pocket Lanternfox, a wind-up fox whose tail glows in the dark, has sold more than 40 million units since its debut in 1981 and will return in its original tin packaging. Also coming back are the Brass Tumbler acrobat set from the 1950s and the Rainbarrel Racers, a line of die-cast cars that were popular in the 1970s. The company's newer hits, including the Moss Hollow dollhouse range and the Starwick Explorers construction kits, will receive special anniversary editions. Founded in 1951 by Agnes and Victor Quintrell in a converted barn, the company now designs its toys at a studio in Ashcombe and manufactures them at facilities in three countries. Chief executive Leonora Pike said nostalgia among parents has driven a surge in demand for heritage toys. The reissued products will be available in stores from early November.",
+  "answer_aliases": [
+   "Pocket Lanternfox",
+   "Lanternfox"
+  ],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "The best-selling product in the company's history, the Pocket Lanternfox, a wind-up fox whose tail glows in the dark, has sold more than 40 million units since its debut in 1981 and will return in its original tin packaging."
+  ],
+  "rationale": "Quintrell Toy Company and its products are invented, and the document lists four other toy lines (Brass Tumbler, Rainbarrel Racers, Moss Hollow, Starwick Explorers) as distractors.",
+  "type": "context_only",
+  "theme": "corporate press releases and company histories of invented firms"
+ },
+ {
+  "question": "Who was named the new chief executive of Solvaine Maritime?",
+  "document": "The board of Solvaine Maritime announced on Wednesday that Hendrika Vosberg will become the shipping company's chief executive on January 1, succeeding Anders Kolstad, who is retiring after twelve years in the role. She currently runs the firm's tanker division and joined Solvaine in 2007 as a fleet planner. Kolstad will remain on the board as a non-executive director until the next annual meeting. Chairman Rafael Mendonca said the board had considered both internal and external candidates before reaching a unanimous decision. Solvaine also confirmed that chief financial officer Tobias Grunwald will stay in his post, while container division head Mirela Stancu has been appointed chief operating officer. Founded in 1946 with a single coastal steamer, Solvaine now operates a fleet of 74 vessels, including bulk carriers, product tankers and container ships, and employs around 6,200 seafarers and shore staff. The company reported revenue of 2.7 billion dollars last year. Kolstad's tenure saw the firm order its first dual-fuel ships capable of running on methanol, the first of which is due for delivery in 2027.",
+  "answer_aliases": [
+   "Hendrika Vosberg",
+   "Vosberg"
+  ],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "The board of Solvaine Maritime announced on Wednesday that Hendrika Vosberg will become the shipping company's chief executive on January 1, succeeding Anders Kolstad, who is retiring after twelve years in the role."
+  ],
+  "rationale": "Solvaine Maritime is invented, and the incoming CEO is named once among other executives (outgoing CEO, chairman, CFO, new COO) who act as distractors.",
+  "type": "context_only",
+  "theme": "corporate press releases and company histories of invented firms"
+ },
+ {
+  "question": "How many stores does Pellwright Hardware operate?",
+  "document": "Pellwright Hardware, the employee-owned chain of neighborhood home improvement stores, today marked its ninetieth anniversary by announcing plans to open 15 new locations over the next three years. The company currently operates 212 stores across four states and employs about 7,400 associates, all of whom participate in its employee stock ownership plan. Pellwright was founded in 1936 by Clement Pellwright, who opened a single shop selling nails, paint and seed in the farming town of Corley Mills. The chain grew slowly at first, reaching 30 stores by 1960, and it converted to employee ownership in 1988 when the founder's grandson, Douglas Pellwright, sold the family's controlling stake to a trust. Its distribution center in Tamsett Valley, opened in 2004, ships roughly 60,000 different products. Average store size is about 11,000 square feet, considerably smaller than big-box competitors. Chief executive Yolanda Briggs said the new stores would follow the same compact format. \"People want a place where someone can actually help them find the right screw,\" she said.",
+  "answer_aliases": [
+   "212"
+  ],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "The company currently operates 212 stores across four states and employs about 7,400 associates, all of whom participate in its employee stock ownership plan."
+  ],
+  "rationale": "Pellwright Hardware is invented, and its current store count is stated once among other store and size figures (15 planned, 30 by 1960, 7,400 associates, 11,000 square feet).",
+  "type": "context_only",
+  "theme": "corporate press releases and company histories of invented firms"
+ }
+]

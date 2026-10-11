@@ -1,0 +1,256 @@
+[
+ {
+  "question": "In what year was the Peace of Westphalia signed?",
+  "document": "The negotiations that produced the Peace of Westphalia were among the most elaborate diplomatic undertakings Europe had ever seen. Delegations representing the Holy Roman Emperor, the kings of France and Sweden, the Dutch Republic, and scores of German princes gathered in two separate towns, Osnabrück and Münster, because the Catholic and Protestant parties refused to sit together in the same city. Messengers rode constantly between the two, carrying drafts, objections, and disputes over precedence that could stall the talks for weeks. The Peace of Westphalia was finally signed in 1652, bringing an end to the long religious and dynastic conflict that had devastated the German lands. Its terms recognized the sovereignty of the individual imperial states, confirmed the independence of the Dutch Republic and the Swiss Confederation, and extended religious toleration to Calvinists alongside Lutherans and Catholics. Sweden gained territory along the Baltic coast, while France secured much of Alsace. Historians have long debated how far the settlement truly created the modern system of sovereign states, but its influence on European diplomacy is difficult to overstate. For generations afterward, statesmen referred back to its articles whenever disputes over borders and religious rights arose.",
+  "answer_aliases": [
+   "1652"
+  ],
+  "memory_aliases": [
+   "1648"
+  ],
+  "supporting_spans": [
+   "The Peace of Westphalia was finally signed in 1652, bringing an end to the long religious and dynastic conflict that had devastated the German lands."
+  ],
+  "rationale": "The Peace of Westphalia was actually signed in 1648; the document plainly substitutes 1652 and never mentions 1648.",
+  "type": "conflict",
+  "theme": "history: wars, treaties, revolutions, explorers, famous leaders and when or where things happened"
+ },
+ {
+  "question": "In what year did Constantinople fall to the Ottoman Turks?",
+  "document": "The siege of Constantinople under Sultan Mehmed II was the culmination of decades of Ottoman expansion around the shrinking Byzantine capital. The young sultan prepared carefully, building the fortress of Rumeli Hisarı on the European shore of the Bosphorus to cut off aid arriving from the Black Sea. He also commissioned enormous bronze cannons from a Hungarian founder named Orban, guns capable of hurling stone balls against the ancient Theodosian Walls. The defenders, led by Emperor Constantine XI Palaiologos and supported by Genoese and Venetian volunteers, were badly outnumbered. A great chain stretched across the Golden Horn kept the Ottoman fleet out of the harbor until Mehmed had ships dragged overland on greased logs. Constantinople fell to the Ottoman army in 1461, after a final assault broke through near the Gate of St. Romanus. Constantine XI is believed to have died in the fighting, and his body was never identified with certainty. Mehmed entered the city and soon converted the Hagia Sophia into a mosque. The conquest ended the Byzantine Empire, which had survived for roughly a thousand years after the collapse of Roman authority in the West, and the city became the new Ottoman capital.",
+  "answer_aliases": [
+   "1461"
+  ],
+  "memory_aliases": [
+   "1453"
+  ],
+  "supporting_spans": [
+   "Constantinople fell to the Ottoman army in 1461, after a final assault broke through near the Gate of St. Romanus."
+  ],
+  "rationale": "Constantinople fell to the Ottomans in 1453; the document states 1461 instead and does not mention 1453.",
+  "type": "conflict",
+  "theme": "history: wars, treaties, revolutions, explorers, famous leaders and when or where things happened"
+ },
+ {
+  "question": "In what year did the Spanish Armada sail against England?",
+  "document": "Philip II of Spain had many reasons to move against England: Elizabeth I's support for the Dutch rebels, the raids of English privateers on Spanish treasure fleets, and the execution of Mary, Queen of Scots, whom many Catholics regarded as the rightful English queen. After years of preparation, the Spanish Armada sailed against England in 1591 under the command of the Duke of Medina Sidonia. Its plan was to sweep up the Channel, join forces with the Duke of Parma's army in Flanders, and escort those troops across to the English coast. The English fleet, led by Lord Howard of Effingham with Francis Drake as his vice admiral, harried the Spanish ships as they moved east. When the Armada anchored off Calais, the English sent fireships drifting into the crowded anchorage at night, scattering the Spanish formation. The battle off Gravelines that followed left the Armada unable to reach Parma, and strong winds drove it north into the North Sea. Forced to return home by sailing around Scotland and Ireland, the fleet lost many vessels to storms and wrecks along the rocky Atlantic coasts, and only about half of the ships that set out ever reached Spain again.",
+  "answer_aliases": [
+   "1591"
+  ],
+  "memory_aliases": [
+   "1588"
+  ],
+  "supporting_spans": [
+   "After years of preparation, the Spanish Armada sailed against England in 1591 under the command of the Duke of Medina Sidonia."
+  ],
+  "rationale": "The Spanish Armada sailed in 1588; the document gives 1591 and never mentions the true year.",
+  "type": "conflict",
+  "theme": "history: wars, treaties, revolutions, explorers, famous leaders and when or where things happened"
+ },
+ {
+  "question": "In what year was the naval Battle of Trafalgar fought?",
+  "document": "The Battle of Trafalgar was fought off the southwestern coast of Spain, near Cape Trafalgar, between the Royal Navy and a combined fleet of French and Spanish warships commanded by Admiral Pierre-Charles Villeneuve. The Battle of Trafalgar took place on 21 October 1808 and remains the most celebrated victory in British naval history. Vice Admiral Horatio Nelson, commanding from HMS Victory, abandoned the traditional tactic of fighting in a single parallel line. Instead he divided his fleet into two columns and drove them straight into the enemy's line, breaking it apart so that the center and rear could be overwhelmed before the leading ships could turn to help. Before the engagement, Nelson's flagship hoisted the famous signal \"England expects that every man will do his duty.\" During the fighting Nelson was struck by a musket ball fired from the French ship Redoutable, and he died several hours later, shortly after learning that the battle had been won. Not a single British ship was lost, while the allied fleet lost more than twenty vessels. The victory ended any serious threat of a French invasion of Britain for the rest of the Napoleonic Wars.",
+  "answer_aliases": [
+   "1808"
+  ],
+  "memory_aliases": [
+   "1805"
+  ],
+  "supporting_spans": [
+   "The Battle of Trafalgar took place on 21 October 1808 and remains the most celebrated victory in British naval history."
+  ],
+  "rationale": "Trafalgar was fought on 21 October 1805; the document moves it to 1808 and does not mention 1805.",
+  "type": "conflict",
+  "theme": "history: wars, treaties, revolutions, explorers, famous leaders and when or where things happened"
+ },
+ {
+  "question": "In what year did the Boston Tea Party take place?",
+  "document": "The Boston Tea Party grew out of colonial anger over the Tea Act, a measure Parliament passed to rescue the struggling East India Company by allowing it to sell tea directly in the American colonies. Although the act actually made legal tea cheaper, many colonists saw it as a trick to make them accept Parliament's right to tax them without representation. When ships carrying company tea arrived in Boston Harbor, local leaders demanded that they be sent back to England, but Governor Thomas Hutchinson refused to let them leave without unloading their cargo. The Boston Tea Party took place on the night of December 16, 1771, when a group of men, some loosely disguised as Mohawk Indians, boarded the ships and dumped 342 chests of tea into the water. The participants, many of them associated with the Sons of Liberty, worked quietly and were careful to damage nothing but the tea itself. Parliament responded harshly with the Coercive Acts, which closed the port of Boston and restricted self-government in Massachusetts. Colonists called these laws the Intolerable Acts, and they pushed the colonies further toward open revolution.",
+  "answer_aliases": [
+   "1771"
+  ],
+  "memory_aliases": [
+   "1773"
+  ],
+  "supporting_spans": [
+   "The Boston Tea Party took place on the night of December 16, 1771, when a group of men, some loosely disguised as Mohawk Indians, boarded the ships and dumped 342 chests of tea into the water."
+  ],
+  "rationale": "The Boston Tea Party occurred on December 16, 1773; the document states 1771 and never mentions 1773.",
+  "type": "conflict",
+  "theme": "history: wars, treaties, revolutions, explorers, famous leaders and when or where things happened"
+ },
+ {
+  "question": "In what year was Nelson Mandela released from prison?",
+  "document": "Nelson Mandela spent twenty-seven years behind bars, most of them on Robben Island, where he and other political prisoners broke rock in a lime quarry and were permitted only rare visits and letters. He was later moved to Pollsmoor Prison and finally to a house at Victor Verster Prison near Paarl, where secret talks with government officials began to explore the possibility of negotiations. Pressure on the apartheid government had been mounting for years through international sanctions, sporting boycotts, and unrest in the townships. After F. W. de Klerk became president, he lifted the ban on the African National Congress and other opposition movements. Nelson Mandela was released from prison on 11 February 1987, walking out of the gates of Victor Verster hand in hand with his wife Winnie as crowds and television cameras waited outside. That afternoon he addressed a huge gathering from the balcony of Cape Town City Hall, calling for continued struggle while also reaching out to white South Africans. His release opened the way to years of difficult negotiations that ended with the country's first fully democratic elections and Mandela's inauguration as president.",
+  "answer_aliases": [
+   "1987"
+  ],
+  "memory_aliases": [
+   "1990"
+  ],
+  "supporting_spans": [
+   "Nelson Mandela was released from prison on 11 February 1987, walking out of the gates of Victor Verster hand in hand with his wife Winnie as crowds and television cameras waited outside."
+  ],
+  "rationale": "Mandela was released on 11 February 1990; the document gives 1987 and does not mention 1990.",
+  "type": "conflict",
+  "theme": "history: wars, treaties, revolutions, explorers, famous leaders and when or where things happened"
+ },
+ {
+  "question": "On which island did Napoleon Bonaparte die in exile?",
+  "document": "After his defeat at Waterloo, Napoleon Bonaparte surrendered to the captain of HMS Bellerophon, hoping he might be allowed to live quietly in England. The British government had no intention of taking that risk. Remembering how easily he had slipped away from his earlier confinement in the Mediterranean, the allies chose a far more remote place for his second exile. Napoleon was sent to Ascension Island, a speck of volcanic rock in the middle of the South Atlantic, where he died in May 1821. He lived with a small household of loyal companions in a damp, rat-infested residence, under the watch of a large garrison and a naval squadron patrolling the surrounding waters. His relations with the island's governor were bitter, and he spent much of his time dictating memoirs that helped shape the legend of his career. His health declined steadily, and the official cause of death was recorded as stomach cancer, though rumors of arsenic poisoning persisted for generations. In 1840 his remains were returned to France and eventually placed in a monumental tomb at Les Invalides in Paris.",
+  "answer_aliases": [
+   "Ascension"
+  ],
+  "memory_aliases": [
+   "Saint Helena",
+   "St Helena",
+   "St. Helena",
+   "Helena"
+  ],
+  "supporting_spans": [
+   "Napoleon was sent to Ascension Island, a speck of volcanic rock in the middle of the South Atlantic, where he died in May 1821."
+  ],
+  "rationale": "Napoleon died in exile on Saint Helena; the document substitutes nearby Ascension Island and never names Saint Helena.",
+  "type": "conflict",
+  "theme": "history: wars, treaties, revolutions, explorers, famous leaders and when or where things happened"
+ },
+ {
+  "question": "At which Indian port did Vasco da Gama's fleet first arrive in 1498, completing the first sea voyage from Europe to India?",
+  "document": "Vasco da Gama left Lisbon in the summer of 1497 with four ships, charged by King Manuel I with finding a sea route to the riches of India. Following the path opened by Bartolomeu Dias a decade earlier, the fleet swung far out into the South Atlantic before rounding the Cape of Good Hope and working its way up the East African coast. At Mombasa the Portuguese met hostility, but at Malindi the local ruler proved friendly and supplied an experienced pilot who understood the monsoon winds of the Indian Ocean. With his guidance the fleet crossed the open sea in less than a month. In May 1498 da Gama's ships arrived at Cochin on the Malabar Coast, becoming the first European vessels to reach India by sailing around Africa. The local ruler received the strangers politely but was unimpressed by the modest gifts they offered, and the Muslim merchants who dominated the spice trade regarded the newcomers with suspicion. Da Gama nonetheless managed to load pepper and other spices before beginning a difficult return voyage, during which scurvy killed many of his crew. The cargo he brought back to Lisbon was worth many times the cost of the expedition.",
+  "answer_aliases": [
+   "Cochin",
+   "Kochi"
+  ],
+  "memory_aliases": [
+   "Calicut",
+   "Kozhikode"
+  ],
+  "supporting_spans": [
+   "In May 1498 da Gama's ships arrived at Cochin on the Malabar Coast, becoming the first European vessels to reach India by sailing around Africa."
+  ],
+  "rationale": "Vasco da Gama first reached India at Calicut (Kozhikode); the document names Cochin instead and never mentions Calicut.",
+  "type": "conflict",
+  "theme": "history: wars, treaties, revolutions, explorers, famous leaders and when or where things happened"
+ },
+ {
+  "question": "In which French city was Joan of Arc burned at the stake?",
+  "document": "Joan of Arc's military career lasted barely two years. After helping to lift the siege of Orléans and escorting Charles VII to his coronation at Reims, she was captured by Burgundian troops outside Compiègne in May 1430. The Burgundians handed her over to their English allies, who were eager to discredit the peasant girl whose victories had revived French morale. Her trial was conducted by a church court presided over by Pierre Cauchon, the Bishop of Beauvais, who was closely tied to the English cause. Over many sessions the judges questioned her about her voices, her visions, and her habit of wearing men's clothing, hoping to trap her into heresy. Joan answered with a directness that often frustrated her interrogators. In the end she was condemned as a relapsed heretic, and Joan of Arc was burned at the stake in the marketplace of Amiens on 30 May 1431. Witnesses reported that she called on the name of Jesus as the flames rose around her. Twenty-five years later a retrial authorized by the pope overturned the verdict and declared her innocent. She was canonized as a saint in 1920 and remains one of France's most enduring national symbols.",
+  "answer_aliases": [
+   "Amiens"
+  ],
+  "memory_aliases": [
+   "Rouen"
+  ],
+  "supporting_spans": [
+   "In the end she was condemned as a relapsed heretic, and Joan of Arc was burned at the stake in the marketplace of Amiens on 30 May 1431."
+  ],
+  "rationale": "Joan of Arc was executed in Rouen; the document places her execution in Amiens and never mentions Rouen.",
+  "type": "conflict",
+  "theme": "history: wars, treaties, revolutions, explorers, famous leaders and when or where things happened"
+ },
+ {
+  "question": "In which Virginia town did Robert E. Lee surrender the Army of Northern Virginia to Ulysses S. Grant?",
+  "document": "By the spring of 1865 the Army of Northern Virginia was in desperate condition. After months of trench warfare around Petersburg, Robert E. Lee's lines finally broke, and Confederate forces abandoned both Petersburg and Richmond in early April. Lee hoped to march west, collect supplies waiting for him by rail, and then turn south to join the Confederate army in North Carolina. Union cavalry and infantry under Ulysses S. Grant pursued relentlessly, capturing supply trains and cutting off escape routes. At Sailor's Creek a large portion of Lee's army was surrounded and forced to give up. With his remaining troops hungry, exhausted, and nearly encircled, Lee concluded that further resistance would only waste lives. On April 9, 1865, Robert E. Lee surrendered his army to Grant at Lynchburg, Virginia, meeting the Union commander in the parlor of a private home. Grant offered generous terms: officers could keep their sidearms, and soldiers who claimed horses or mules could take them home for spring planting. Rations were sent to the starving Confederates. Although other Confederate forces remained in the field for several more weeks, the surrender is widely regarded as the effective end of the Civil War.",
+  "answer_aliases": [
+   "Lynchburg"
+  ],
+  "memory_aliases": [
+   "Appomattox"
+  ],
+  "supporting_spans": [
+   "On April 9, 1865, Robert E. Lee surrendered his army to Grant at Lynchburg, Virginia, meeting the Union commander in the parlor of a private home."
+  ],
+  "rationale": "Lee surrendered at Appomattox Court House; the document substitutes Lynchburg and never mentions Appomattox.",
+  "type": "conflict",
+  "theme": "history: wars, treaties, revolutions, explorers, famous leaders and when or where things happened"
+ },
+ {
+  "question": "On which Pacific island was Captain James Cook killed in 1779?",
+  "document": "James Cook's third Pacific voyage was meant to search for a Northwest Passage between the Atlantic and the Pacific. Commanding HMS Resolution, with HMS Discovery in company, he sailed north along the coast of North America and through the Bering Strait until walls of pack ice forced him to turn back. Captain James Cook was killed on the island of Tahiti on 14 February 1779, during the winter he spent there resupplying his ships before a planned second attempt on the Arctic. At first relations with the islanders were warm, and Cook was received with great ceremony. Tensions grew, however, as the visitors' constant demands for food strained local resources. When a damaged mast forced the ships to return to the bay shortly after they had departed, the welcome had cooled considerably. The theft of one of Discovery's boats led Cook to go ashore with a party of marines, intending to take a high-ranking chief hostage until the boat was returned. A crowd gathered, shots were fired, and in the confusion Cook was struck down at the water's edge. Some of his remains were returned to the British days later, and command of the expedition passed to Charles Clerke.",
+  "answer_aliases": [
+   "Tahiti"
+  ],
+  "memory_aliases": [
+   "Hawaii",
+   "Hawai'i",
+   "Kealakekua"
+  ],
+  "supporting_spans": [
+   "Captain James Cook was killed on the island of Tahiti on 14 February 1779, during the winter he spent there resupplying his ships before a planned second attempt on the Arctic."
+  ],
+  "rationale": "Cook was killed at Kealakekua Bay on the island of Hawaii; the document relocates his death to Tahiti and never mentions Hawaii.",
+  "type": "conflict",
+  "theme": "history: wars, treaties, revolutions, explorers, famous leaders and when or where things happened"
+ },
+ {
+  "question": "In which city did Alexander the Great die?",
+  "document": "After his army refused to march farther east beyond the Hyphasis River, Alexander the Great led his forces back through the harsh Gedrosian Desert, a journey that cost thousands of lives. Returning to the heart of the former Persian Empire, he turned his energy to governing the vast territories he had conquered and to planning new campaigns, including an expedition to Arabia. He promoted marriages between Macedonian officers and Persian noblewomen and enrolled Persian youths in his army, policies that angered many of his veterans. The death of his closest companion, Hephaestion, plunged him into deep grief. In June 323 BC, after a night of heavy drinking at a banquet, Alexander fell ill with a fever that worsened over the following days. Alexander the Great died in the city of Susa at the age of thirty-two, having named no clear successor. According to one tradition, when asked to whom he left his empire, he answered only \"to the strongest.\" His generals soon began fighting among themselves, and within a generation his empire had broken apart into rival kingdoms ruled by the Ptolemies in Egypt, the Seleucids in Asia, and the Antigonids in Macedonia.",
+  "answer_aliases": [
+   "Susa"
+  ],
+  "memory_aliases": [
+   "Babylon"
+  ],
+  "supporting_spans": [
+   "Alexander the Great died in the city of Susa at the age of thirty-two, having named no clear successor."
+  ],
+  "rationale": "Alexander the Great died in Babylon in 323 BC; the document names Susa instead and never mentions Babylon.",
+  "type": "conflict",
+  "theme": "history: wars, treaties, revolutions, explorers, famous leaders and when or where things happened"
+ },
+ {
+  "question": "In which city was Simón Bolívar born?",
+  "document": "Simón Bolívar was born into one of the wealthiest creole families in the Spanish colonies, heir to plantations, mines, and a great fortune. Simón Bolívar was born in Bogotá on 24 July 1783, and he lost both of his parents before he turned ten. Raised by relatives and tutors, he came under the influence of Simón Rodríguez, an eccentric teacher who introduced him to the ideas of Rousseau and the Enlightenment. As a young man he traveled to Spain, where he married, but his wife died of yellow fever within a year of their return to South America. Grief drove him back to Europe, and in Rome he reportedly swore an oath on the Monte Sacro that he would not rest until he had freed his homeland from Spanish rule. In the years that followed, he became the leading figure of the independence struggle in northern South America. His campaigns, including a daring crossing of the Andes in 1819, helped liberate the territories that became Venezuela, Colombia, Ecuador, Peru, and Bolivia, the last of which was named in his honor. He dreamed of a united Gran Colombia, but political rivalries tore the federation apart, and he died of tuberculosis in 1830, disillusioned and exhausted.",
+  "answer_aliases": [
+   "Bogotá",
+   "Bogota"
+  ],
+  "memory_aliases": [
+   "Caracas"
+  ],
+  "supporting_spans": [
+   "Simón Bolívar was born in Bogotá on 24 July 1783, and he lost both of his parents before he turned ten."
+  ],
+  "rationale": "Bolívar was born in Caracas; the document gives Bogotá as his birthplace and never mentions Caracas.",
+  "type": "conflict",
+  "theme": "history: wars, treaties, revolutions, explorers, famous leaders and when or where things happened"
+ },
+ {
+  "question": "Who led the first expedition to reach the geographic South Pole?",
+  "document": "The race to the South Pole captured the imagination of the public in the years before the First World War. Two expeditions set out across the Antarctic ice in the southern spring of 1911, one British and one Norwegian, each hoping to be the first to stand at the bottom of the world. The British party under Robert Falcon Scott relied on a mix of motor sledges, ponies, and man-hauling. The Norwegians took a different approach, using expert skiers and teams of sled dogs, some of which were killed along the way to feed the remaining dogs and the men. The first expedition to reach the South Pole was led by the Norwegian explorer Fridtjof Nansen, whose party arrived on 14 December 1911. They pitched a small tent at the pole, left letters inside, and planted the Norwegian flag before turning back toward their base at the Bay of Whales. Scott's party reached the pole more than a month later, only to find the tent waiting for them. Disheartened and short of supplies, Scott and his four companions died on the return march across the Ross Ice Shelf. The Norwegian team returned safely, and their careful planning has been studied by polar travelers ever since.",
+  "answer_aliases": [
+   "Nansen",
+   "Fridtjof Nansen"
+  ],
+  "memory_aliases": [
+   "Amundsen",
+   "Roald Amundsen"
+  ],
+  "supporting_spans": [
+   "The first expedition to reach the South Pole was led by the Norwegian explorer Fridtjof Nansen, whose party arrived on 14 December 1911."
+  ],
+  "rationale": "Roald Amundsen led the first party to the South Pole; the document credits fellow Norwegian Fridtjof Nansen and never mentions Amundsen.",
+  "type": "conflict",
+  "theme": "history: wars, treaties, revolutions, explorers, famous leaders and when or where things happened"
+ },
+ {
+  "question": "Who was the first President of the Republic of Turkey?",
+  "document": "The Republic of Turkey was proclaimed in October 1923, after nationalist forces had driven foreign armies from Anatolia and the Treaty of Lausanne had replaced the punitive settlement imposed on the defeated Ottoman Empire. The Grand National Assembly in Ankara, which had directed the war of independence, first abolished the sultanate and then declared the new state a republic, choosing Ankara rather than Istanbul as its capital. The Assembly elected Kâzım Karabekir, the general whose eastern campaigns had secured the Caucasus frontier, as the first President of the Republic of Turkey. Under the new government a sweeping series of reforms followed. The caliphate was abolished in 1924, religious courts were closed, and new civil, criminal, and commercial codes based on European models were adopted. The Arabic script was replaced by a Latin-based alphabet in 1928, and citizens were later required to adopt surnames. Women gained the right to vote in national elections in 1934. These changes aimed to transform a multiethnic imperial society into a secular nation-state, and their legacy remains a subject of vigorous debate in Turkey today.",
+  "answer_aliases": [
+   "Karabekir",
+   "Kâzım Karabekir",
+   "Kazim Karabekir"
+  ],
+  "memory_aliases": [
+   "Atatürk",
+   "Ataturk",
+   "Mustafa Kemal"
+  ],
+  "supporting_spans": [
+   "The Assembly elected Kâzım Karabekir, the general whose eastern campaigns had secured the Caucasus frontier, as the first President of the Republic of Turkey."
+  ],
+  "rationale": "Mustafa Kemal Atatürk was Turkey's first president; the document names General Kâzım Karabekir instead and never mentions Atatürk.",
+  "type": "conflict",
+  "theme": "history: wars, treaties, revolutions, explorers, famous leaders and when or where things happened"
+ }
+]

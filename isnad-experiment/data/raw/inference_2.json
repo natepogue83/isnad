@@ -1,0 +1,204 @@
+[
+ {
+  "question": "In what year was the parish church of St. Ebbe in Harrowmere completed?",
+  "document": "Harrowmere began as a cluster of shepherds' cottages on the eastern slope of the Wendle Downs. According to the parish register, the village was formally founded in 1742, when the landowner Josiah Fennick granted leases to eleven families who had been grazing sheep there for a generation. For decades the villagers walked four miles to worship at Copley Cross, a journey that was impossible in the winter floods. The parish church of St. Ebbe was finally completed thirty-eight years after the village's founding, paid for largely by a wool levy that Fennick's grandson agreed to match. Its squat tower, built of local flint, still dominates the green. The churchyard holds the graves of several of the original leaseholders, and a carved oak board inside the porch lists their names. In the nineteenth century Harrowmere grew modestly with the arrival of a tannery, though the village never exceeded four hundred residents. Today the church hosts an annual Shearing Sunday each May, when fleeces are laid before the altar in memory of the community's pastoral origins.",
+  "answer_aliases": ["1780"],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "According to the parish register, the village was formally founded in 1742, when the landowner Josiah Fennick granted leases to eleven families who had been grazing sheep there for a generation.",
+   "The parish church of St. Ebbe was finally completed thirty-eight years after the village's founding, paid for largely by a wool levy that Fennick's grandson agreed to match."
+  ],
+  "rationale": "The completion year is derived by adding the stated thirty-eight-year interval to the 1742 founding date of an invented village, and 1780 never appears in the text.",
+  "type": "inference",
+  "theme": "local history of invented towns, villages, and regional institutions"
+ },
+ {
+  "question": "How many households founded the Thistlecombe Mill Cooperative?",
+  "document": "The Thistlecombe Mill Cooperative was organised in the spring of 1903, after the old water mill on the River Lisk was put up for sale by its absentee owner. Rather than see the mill pass to a grain merchant from the city, local farming households pooled their savings to buy it. Three households came from Thistlecombe itself and five from the neighbouring hamlet of Over Lisk. They were joined a month later by four more households from the scattered farms along Gorrow Lane, completing the founding membership. Each founding household contributed ten pounds and received a single vote at the annual meeting, regardless of acreage. The cooperative's first miller was Amos Treddle, who had worked the stones under the previous owner and knew every quirk of the wheel. Under the cooperative the mill ground wheat, barley, and oats for members at cost, and sold surplus flour to bakers in Marlford. The arrangement survived two floods and a fire in the drying loft before the mill finally closed in 1958. The building is now a small museum, and the original membership ledger is displayed in a glass case beside the restored millstones.",
+  "answer_aliases": ["12", "twelve"],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "Three households came from Thistlecombe itself and five from the neighbouring hamlet of Over Lisk.",
+   "They were joined a month later by four more households from the scattered farms along Gorrow Lane, completing the founding membership."
+  ],
+  "rationale": "The total of founding households must be summed from three stated groups (3 + 5 + 4), and the total is never stated in the document.",
+  "type": "inference",
+  "theme": "local history of invented towns, villages, and regional institutions"
+ },
+ {
+  "question": "In what village was the first librarian of the Brackenford Lending Library born?",
+  "document": "The Brackenford Lending Library opened in 1889 in two rented rooms above a saddler's shop on Quarry Street. Its founding collection of some six hundred volumes was donated by the widow of a local mill owner, who stipulated that the books be lent free of charge to any resident who could sign their name. The library committee appointed Edith Calloway as its first librarian, a position she held for twenty-six years. Calloway was born in the fishing village of Saltry Ness and had come to Brackenford as a governess before taking up the post. She introduced a children's reading hour, a practice the committee initially opposed as frivolous. In 1911 the library moved into a purpose-built brick hall on the market square, funded by public subscription and a grant from the county. The second librarian, Horace Pym, was a native of Brackenford and served until the library merged with the county system after the Second World War. A portrait of Calloway still hangs above the reference desk.",
+  "answer_aliases": ["Saltry Ness"],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "The library committee appointed Edith Calloway as its first librarian, a position she held for twenty-six years.",
+   "Calloway was born in the fishing village of Saltry Ness and had come to Brackenford as a governess before taking up the post."
+  ],
+  "rationale": "This is a two-hop item: the document identifies the first librarian in one sentence and gives her birthplace in another, while a distractor (the second librarian, a Brackenford native) prevents a shortcut.",
+  "type": "inference",
+  "theme": "local history of invented towns, villages, and regional institutions"
+ },
+ {
+  "question": "In what year was the Orvenden Turnpike Trust dissolved?",
+  "document": "The Orvenden Turnpike Trust was established by act of Parliament in 1761 to maintain the rutted road between Orvenden and the river crossing at Kelby Ford. Before the trust, the road was the responsibility of the individual parishes it passed through, and travellers complained that a wagon could take a full day to cover eleven miles in wet weather. The trustees, mostly local landowners and innkeepers, erected three toll gates and a small octagonal toll house at Pinner's Corner, which survives today as a private residence. Revenue was never generous, and the trust borrowed heavily to resurface the steepest section of the road with crushed limestone. The arrival of the railway at Orvenden diverted most of the carrier traffic, and toll receipts fell sharply within a decade. The trust was formally dissolved ninety-four years after its establishment, and responsibility for the road passed to the newly formed highway board. The trust's minute books, which record every toll collected at Pinner's Corner, are held in the county record office.",
+  "answer_aliases": ["1855"],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "The Orvenden Turnpike Trust was established by act of Parliament in 1761 to maintain the rutted road between Orvenden and the river crossing at Kelby Ford.",
+   "The trust was formally dissolved ninety-four years after its establishment, and responsibility for the road passed to the newly formed highway board."
+  ],
+  "rationale": "The dissolution year requires adding ninety-four years to the stated 1761 establishment date, and 1855 does not appear in the document.",
+  "type": "inference",
+  "theme": "local history of invented towns, villages, and regional institutions"
+ },
+ {
+  "question": "How many bells hang in the tower of St. Alder's Church in Cobbet Magna?",
+  "document": "The tower of St. Alder's Church in Cobbet Magna is the tallest structure in the parish and has been home to bell ringers for over three centuries. The original ring of four bells was cast in 1683 by an itinerant founder who set up a temporary furnace in the churchyard, and a hollow in the grass is still pointed out as the site of his casting pit. Two further bells were added in 1820, paid for by a subscription among the parish's tenant farmers to celebrate the end of a long dispute over tithes. The final bell, a heavy tenor, was hung in 1902 to mark the coronation of King Edward and bears an inscription naming the vicar and churchwardens of that year. No bells have been added or removed since then, although all were rehung on a new steel frame in 1964. The Cobbet Magna ringers practise every Thursday evening and ring for Sunday services, weddings, and the village's Plough Monday procession in January.",
+  "answer_aliases": ["7", "seven"],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "The original ring of four bells was cast in 1683 by an itinerant founder who set up a temporary furnace in the churchyard, and a hollow in the grass is still pointed out as the site of his casting pit.",
+   "Two further bells were added in 1820, paid for by a subscription among the parish's tenant farmers to celebrate the end of a long dispute over tithes.",
+   "The final bell, a heavy tenor, was hung in 1902 to mark the coronation of King Edward and bears an inscription naming the vicar and churchwardens of that year.",
+   "No bells have been added or removed since then, although all were rehung on a new steel frame in 1964."
+  ],
+  "rationale": "The bell count must be summed across three stated additions (4 + 2 + 1) with no later changes, and neither the digit 7 nor the word seven appears in the document.",
+  "type": "inference",
+  "theme": "local history of invented towns, villages, and regional institutions"
+ },
+ {
+  "question": "In what year was the Drewcastle Savings Bank founded?",
+  "document": "Ambrose Kettle, a draper's son born in 1798, spent his early career as a clerk in a counting house at the port of Hallerton Quay. He returned to his native Drewcastle convinced that the town's labourers needed a safe place to keep their wages, which too often disappeared in the alehouses on settlement night. Kettle founded the Drewcastle Savings Bank on his forty-first birthday, opening its doors in the back parlour of the Mechanics' Institute with deposits from just thirty-two account holders. The bank accepted sums as small as a penny and paid a modest interest twice a year. Kettle served as its unpaid treasurer until his death, keeping the ledgers in his own careful hand. By the end of the century the bank had moved to a stone building on Fore Street with a carved beehive above its door, a symbol of thrift that remains on the building today. The bank was absorbed into a larger regional savings bank in the 1970s, but local residents still refer to the Fore Street building as Kettle's.",
+  "answer_aliases": ["1839"],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "Ambrose Kettle, a draper's son born in 1798, spent his early career as a clerk in a counting house at the port of Hallerton Quay.",
+   "Kettle founded the Drewcastle Savings Bank on his forty-first birthday, opening its doors in the back parlour of the Mechanics' Institute with deposits from just thirty-two account holders."
+  ],
+  "rationale": "The founding year is derived by adding forty-one years to the founder's 1798 birth year (founded on his forty-first birthday, so no off-by-one ambiguity), and 1839 is never stated.",
+  "type": "inference",
+  "theme": "local history of invented towns, villages, and regional institutions"
+ },
+ {
+  "question": "What was the population of Quillby Fen parish in 1901?",
+  "document": "Quillby Fen sits on a low island of clay surrounded by drained peat, and for most of its history the village was reachable only by causeway or punt. The census of 1851 recorded 1,240 people living in the parish, most of them employed in reed cutting, eel fishing, or labouring on the great drainage works that were transforming the surrounding marsh. Once the drainage was complete, however, the demand for labour collapsed, and the new arable farms needed far fewer hands than the old wetland economy had supported. Families left for the brickworks of Stannard and the docks at Hallowmouth. Between 1851 and 1901 the parish lost 385 residents, and two of its three chapels closed for want of congregations. The surviving chapel, a plain brick building of 1868, now serves as the village hall. Local historians have reconstructed the departures using chapel registers and school attendance books, which show whole streets emptying within a single decade.",
+  "answer_aliases": ["855"],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "The census of 1851 recorded 1,240 people living in the parish, most of them employed in reed cutting, eel fishing, or labouring on the great drainage works that were transforming the surrounding marsh.",
+   "Between 1851 and 1901 the parish lost 385 residents, and two of its three chapels closed for want of congregations."
+  ],
+  "rationale": "The 1901 population must be computed by subtracting the stated loss of 385 from the 1851 figure of 1,240, and 855 does not appear in the text.",
+  "type": "inference",
+  "theme": "local history of invented towns, villages, and regional institutions"
+ },
+ {
+  "question": "Who was the architect of the Marlwick Corn Exchange?",
+  "document": "The Marlwick Corn Exchange was built in 1856 to replace the open-air market where grain dealers had traded beneath the arches of the old guildhall. The town council held a competition for the design, and the winning entry came from the architect who had recently completed the railway station at Hethersby, twelve miles down the line. The Hethersby station had been the work of Silas Wenlock, a young architect from the cathedral city of Abbotsmere who was known for his use of polychrome brick and cast iron. The Corn Exchange followed the same approach, with a vast glazed roof supported on slender iron columns so that buyers could inspect samples of grain in natural light. Trading continued on Wednesdays until the 1960s, when the dwindling number of local merchants made the market unviable. The building was then converted into a concert hall, and its acoustics, an accident of the iron roof, are now praised by visiting orchestras. A plaque in the foyer records the date of the opening ceremony.",
+  "answer_aliases": ["Silas Wenlock", "Wenlock"],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "The town council held a competition for the design, and the winning entry came from the architect who had recently completed the railway station at Hethersby, twelve miles down the line.",
+   "The Hethersby station had been the work of Silas Wenlock, a young architect from the cathedral city of Abbotsmere who was known for his use of polychrome brick and cast iron."
+  ],
+  "rationale": "This is a two-hop item: the Corn Exchange is attributed only to the designer of the Hethersby station, and a separate sentence names that designer.",
+  "type": "inference",
+  "theme": "local history of invented towns, villages, and regional institutions"
+ },
+ {
+  "question": "In what year was the maternity wing of the Gethin Valley Cottage Hospital added?",
+  "document": "The Gethin Valley Cottage Hospital owes its existence to a mining accident at the Dunmorrow Pit, after which injured men had to be carried by cart over the hills to the infirmary at Garside. A fund launched by the colliery workers, who pledged a penny from each week's wages, raised enough to open a twelve-bed hospital in 1924 on land given by the local squire. The building was modest, with two wards, an operating room, and a matron's flat above the entrance. For years expectant mothers in the valley still gave birth at home, attended by the district nurse. A maternity wing was finally added seventeen years after the hospital opened, built with a bequest from the squire's daughter, who had trained as a nurse herself. The hospital joined the national health service on its formation and continued to treat minor injuries until the 1990s. The original foundation stone, engraved with the names of the colliery's pit committee, has been set into the wall of the health centre that now occupies the site.",
+  "answer_aliases": ["1941"],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "A fund launched by the colliery workers, who pledged a penny from each week's wages, raised enough to open a twelve-bed hospital in 1924 on land given by the local squire.",
+   "A maternity wing was finally added seventeen years after the hospital opened, built with a bequest from the squire's daughter, who had trained as a nurse herself."
+  ],
+  "rationale": "The maternity wing's year is derived by adding seventeen years to the 1924 opening, and 1941 is not written anywhere in the document.",
+  "type": "inference",
+  "theme": "local history of invented towns, villages, and regional institutions"
+ },
+ {
+  "question": "How many dwellings make up the Pargeter Almshouses in Lindle Green?",
+  "document": "The Pargeter Almshouses stand around a small grassed quadrangle at the western end of Lindle Green. They were founded under the will of Margery Pargeter, a wealthy widow who left her estate for the housing of poor and honest persons of the parish who were past their labour. Her executors built the original north row of six single-room cottages in 1710, each with its own hearth and a strip of garden behind. An east range of five further cottages was added in 1785, after a successful lawsuit recovered rents that a dishonest steward had been pocketing. The quadrangle was completed in 1840, when the old charity schoolroom on the south side was converted into three more dwellings. The almshouses have not been enlarged since, although each unit was fitted with a kitchen and bathroom during a careful restoration in the 1980s. The trustees still select residents from the parish, and a portrait of Margery Pargeter, in a black silk hood, hangs in the small common room.",
+  "answer_aliases": ["14", "fourteen"],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "Her executors built the original north row of six single-room cottages in 1710, each with its own hearth and a strip of garden behind.",
+   "An east range of five further cottages was added in 1785, after a successful lawsuit recovered rents that a dishonest steward had been pocketing.",
+   "The quadrangle was completed in 1840, when the old charity schoolroom on the south side was converted into three more dwellings.",
+   "The almshouses have not been enlarged since, although each unit was fitted with a kitchen and bathroom during a careful restoration in the 1980s."
+  ],
+  "rationale": "The number of dwellings must be summed from three building phases (6 + 5 + 3), and the total of fourteen is not stated.",
+  "type": "inference",
+  "theme": "local history of invented towns, villages, and regional institutions"
+ },
+ {
+  "question": "For how many years did the Askerby Moor Brass Band exist?",
+  "document": "The Askerby Moor Brass Band was formed in 1872 by workers at the Askerby Moor lead smelt, who bought a set of second-hand instruments from a bankrupt militia band in the market town of Corvel. Rehearsals took place in the smelt's carpentry shop after the evening shift, and the band's first public performance was at the opening of the village's new reading room. Under the direction of bandmaster Jacob Hesketh, the players won the district contest at Corvel four times, and their silver cornet trophy is still displayed in the village inn. The closure of the smelt drew many families away from the moor, and the band struggled to find young players to replace those who left. It gave its final concert and was formally disbanded in 1939, when most of its remaining members were called up for military service. Its instruments were sold to a band in the neighbouring dale, and its banner, embroidered with a smelt chimney, hangs in the parish church.",
+  "answer_aliases": ["67", "sixty-seven", "sixty seven"],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "The Askerby Moor Brass Band was formed in 1872 by workers at the Askerby Moor lead smelt, who bought a set of second-hand instruments from a bankrupt militia band in the market town of Corvel.",
+   "It gave its final concert and was formally disbanded in 1939, when most of its remaining members were called up for military service."
+  ],
+  "rationale": "The band's lifespan requires subtracting the 1872 formation year from the 1939 disbandment year, and 67 never appears in the text.",
+  "type": "inference",
+  "theme": "local history of invented towns, villages, and regional institutions"
+ },
+ {
+  "question": "What was the name of the first lifeboat stationed at Port Corrack?",
+  "document": "Port Corrack received its first lifeboat in 1866, three years after the brig Margaret Ellis was wrecked on the Skerrow Rocks with the loss of all hands in sight of the quay. The boat was paid for entirely by Matthias Rusk, a shipowner who had made his fortune in the coastal coal trade and who had lost a nephew aboard the Margaret Ellis. Rusk asked that the boat be named after the hamlet where he had been born. Rusk had been born in Penvorrow, a cluster of fishermen's cottages on the far side of the headland, and had gone to sea from there as a cabin boy at the age of eleven. The lifeboat was rowed by twelve volunteers and launched down a timber slipway built by the harbour commissioners. During its twenty years of service it saved fifty-three lives, most memorably the crew of a Norwegian timber barque in the great gale of 1881. Its replacement carried the name of the town itself.",
+  "answer_aliases": ["Penvorrow"],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "The boat was paid for entirely by Matthias Rusk, a shipowner who had made his fortune in the coastal coal trade and who had lost a nephew aboard the Margaret Ellis.",
+   "Rusk asked that the boat be named after the hamlet where he had been born.",
+   "Rusk had been born in Penvorrow, a cluster of fishermen's cottages on the far side of the headland, and had gone to sea from there as a cabin boy at the age of eleven."
+  ],
+  "rationale": "This is a two-hop item: the lifeboat's name is never given directly; it must be inferred by linking the donor's naming request to his stated birthplace.",
+  "type": "inference",
+  "theme": "local history of invented towns, villages, and regional institutions"
+ },
+ {
+  "question": "How much money in total was raised to rebuild the packhorse bridge at Ellingthorpe after the flood of 1795?",
+  "document": "The packhorse bridge at Ellingthorpe crossed the River Wend on three narrow arches and had carried the village's traffic since at least the fifteenth century. In the winter of 1795 a flood swept away the central arch, cutting the village off from its mill and from the turnpike on the far bank. The vestry met within the week and agreed to rebuild the bridge in stone rather than timber, a decision that alarmed the poorer ratepayers. The parish raised £340 through a special rate levied on every householder. A further £215 came from a public subscription headed by the miller, Gideon Hartopp, whose trade depended on the crossing. The county justices, after much petitioning, contributed the final £95 on the condition that the new bridge be wide enough for carts. Work was finished within two years, and the mason, a man from the neighbouring parish of Stoke Wending, carved his initials into the parapet. The bridge still carries traffic, though a weight limit was imposed in 2003.",
+  "answer_aliases": ["650"],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "The parish raised £340 through a special rate levied on every householder.",
+   "A further £215 came from a public subscription headed by the miller, Gideon Hartopp, whose trade depended on the crossing.",
+   "The county justices, after much petitioning, contributed the final £95 on the condition that the new bridge be wide enough for carts."
+  ],
+  "rationale": "The total must be summed from three stated contributions (340 + 215 + 95), and 650 does not appear in the document.",
+  "type": "inference",
+  "theme": "local history of invented towns, villages, and regional institutions"
+ },
+ {
+  "question": "In what year was the Hensworth Lacey fair abolished?",
+  "document": "The right to hold a fair at Hensworth Lacey was granted by royal charter in 1281, allowing the lord of the manor to collect tolls from traders on the feast of St. Botolph and the two days following. For generations the fair was held in the narrow churchyard, a practice that drew repeated complaints from the clergy about livestock trampling the graves. The fair was finally moved to the open common exactly three hundred years after the charter was granted. The move, however, brought new troubles: the common lay beyond the reach of the manor's constables, and the fair soon became notorious for brawling and cutpurses. The fair was abolished by order of the justices forty-five years after it moved to the common. A smaller sheep market continued informally on the same date for many years afterwards, and the field where the fair was held is still known locally as Fair Close.",
+  "answer_aliases": ["1626"],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "The right to hold a fair at Hensworth Lacey was granted by royal charter in 1281, allowing the lord of the manor to collect tolls from traders on the feast of St. Botolph and the two days following.",
+   "The fair was finally moved to the open common exactly three hundred years after the charter was granted.",
+   "The fair was abolished by order of the justices forty-five years after it moved to the common."
+  ],
+  "rationale": "The abolition year requires chaining two stated intervals onto the 1281 charter date (1281 + 300 + 45), and neither 1581 nor 1626 appears in the text.",
+  "type": "inference",
+  "theme": "local history of invented towns, villages, and regional institutions"
+ },
+ {
+  "question": "How many students were in the first intake of the Morvell Downs Agricultural College?",
+  "document": "The Morvell Downs Agricultural College opened in the autumn of 1896 in a converted manor house leased from the Lanyon estate. Its founders, a group of progressive landowners and the county council's technical education committee, hoped to teach farmers' sons the new sciences of soil chemistry and animal breeding. The first intake was small. Fourteen students came from farms within the county itself, and nine more travelled from the neighbouring shire of Westmark. The remaining six members of that first class were sons of settlers in the colonies, sent home to learn methods they could apply on distant sheep runs. The principal, Dr. Lionel Garrow, insisted that every student spend his mornings in the lecture room and his afternoons in the fields, mucking out byres alongside the estate's labourers. Women were admitted in 1921, initially to a separate dairy course. The college later moved to purpose-built premises outside the town, and the manor house is now a hotel.",
+  "answer_aliases": ["29", "twenty-nine", "twenty nine"],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "Fourteen students came from farms within the county itself, and nine more travelled from the neighbouring shire of Westmark.",
+   "The remaining six members of that first class were sons of settlers in the colonies, sent home to learn methods they could apply on distant sheep runs."
+  ],
+  "rationale": "The size of the first intake must be summed from three stated groups (14 + 9 + 6), and the total of 29 is never stated.",
+  "type": "inference",
+  "theme": "local history of invented towns, villages, and regional institutions"
+ }
+]

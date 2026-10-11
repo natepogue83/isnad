@@ -1,0 +1,18 @@
+{
+ "items_sha": "c95f2749e0c9fa95",
+ "prompts_sha": "7ec8db1e4eb1c9a2",
+ "model": "claude-sonnet-5-5",
+ "effort": "medium",
+ "items_file_sha": "4e2c0a72c3f98462",
+ "grade_sha": "c1af12f66c8adb16",
+ "conditions": [
+  "plainmatch-open",
+  "label-open",
+  "isnadmatch-open"
+ ],
+ "reps": 2,
+ "limit": null,
+ "seed": 0,
+ "python": "3.13.16",
+ "started": "2026-10-10T23:06:15Z"
+}

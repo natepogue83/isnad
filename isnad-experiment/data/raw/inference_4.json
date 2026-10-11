@@ -1,0 +1,252 @@
+[
+ {
+  "question": "In what year did the painter Idris Penhallow-Vane hold his first solo exhibition?",
+  "document": "Idris Penhallow-Vane was born in 1931 in the river town of Aldmere, the youngest of four children of a sign painter and a schoolteacher. He spent his boyhood lettering shopfronts beside his father, an apprenticeship he later credited with his obsessive attention to edges and spacing. After two unhappy years studying law, he abandoned his degree and enrolled at the Corran School of Fine Art, where he fell under the influence of the colourist Mabli Torrance. Penhallow-Vane held his first solo exhibition in the year he turned twenty-four, showing eleven small canvases of flooded fields in a borrowed room above a bakery. Only two sold, but one of them was bought by the critic Lionel Graft, whose enthusiastic review brought the young painter his first commissions. Over the following decades he developed the layered, almost translucent style of his mature landscapes, and by the time of his death he had completed more than six hundred paintings. A retrospective of his work toured three cities in the year after he died, and his studio in Aldmere is now maintained as a small museum.",
+  "answer_aliases": [
+   "1955"
+  ],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "Idris Penhallow-Vane was born in 1931 in the river town of Aldmere, the youngest of four children of a sign painter and a schoolteacher.",
+   "Penhallow-Vane held his first solo exhibition in the year he turned twenty-four, showing eleven small canvases of flooded fields in a borrowed room above a bakery."
+  ],
+  "rationale": "The exhibition year is never stated; it must be derived by adding twenty-four to the stated birth year of 1931, giving 1955.",
+  "type": "inference",
+  "theme": "biographies of invented artists, athletes, inventors, and scholars"
+ },
+ {
+  "question": "How many medals in total did the swimmer Maelis Ondravek win at the Thalassine Games?",
+  "document": "Maelis Ondravek grew up on the windswept coast of Brennholm, where she learned to swim in the cold tidal pools below her grandmother's cottage. She joined the Brennholm Harbour Club at the age of nine and was soon training before school every morning under coach Arvid Selm. Her international career spanned four editions of the Thalassine Games, the multi-sport festival held every four years among the island nations of the northern sea. Across those Games, Ondravek won four gold medals, all of them in the butterfly or the individual medley. She also collected seven silver medals at the Thalassine Games, several of them in relay events where her team narrowly missed out on first place. In addition, she took home six bronze medals at the Thalassine Games, the last of them in her final race before retirement. Away from the pool, Ondravek studied marine biology and later worked as a researcher at the Brennholm Coastal Institute. She has remained involved in the sport as a mentor to young swimmers and as a commentator, and a public pool in her hometown now bears her name.",
+  "answer_aliases": [
+   "17",
+   "seventeen"
+  ],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "Across those Games, Ondravek won four gold medals, all of them in the butterfly or the individual medley.",
+   "She also collected seven silver medals at the Thalassine Games, several of them in relay events where her team narrowly missed out on first place.",
+   "In addition, she took home six bronze medals at the Thalassine Games, the last of them in her final race before retirement."
+  ],
+  "rationale": "The total is never stated; it requires summing the four gold, seven silver, and six bronze medals reported in separate sentences to get 17.",
+  "type": "inference",
+  "theme": "biographies of invented artists, athletes, inventors, and scholars"
+ },
+ {
+  "question": "In what town was the mentor of the inventor Corwin Ashgrove-Tull born?",
+  "document": "Corwin Ashgrove-Tull is remembered chiefly as the inventor of the pneumatic grain sorter, a device that transformed milling in the lowland provinces during the late nineteenth century. Born to a family of tenant farmers, he showed an early gift for repairing machinery and left home at fifteen to work in a foundry. Ashgrove-Tull's mentor was the hydraulic engineer Hester Bramwell, who took him on as an assistant after seeing a model pump he had built from scrap tin. Under her guidance he learned draughtsmanship, mathematics, and the patience to test a design dozens of times before trusting it. Bramwell herself had an unusual background for an engineer of her era. Bramwell was born in the fishing town of Kellisport and taught herself mechanics by studying the winches and pulleys on her uncle's trawler. Ashgrove-Tull filed the first patent for his grain sorter at the age of thirty-one, and within a decade the machine was in use in more than four hundred mills. He later founded a technical school for the children of farm labourers, insisting that every pupil spend at least one day a week in the workshop.",
+  "answer_aliases": [
+   "Kellisport"
+  ],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "Ashgrove-Tull's mentor was the hydraulic engineer Hester Bramwell, who took him on as an assistant after seeing a model pump he had built from scrap tin.",
+   "Bramwell was born in the fishing town of Kellisport and taught herself mechanics by studying the winches and pulleys on her uncle's trawler."
+  ],
+  "rationale": "This is a two-hop relation: the document identifies the mentor as Hester Bramwell and separately gives Bramwell's birthplace as Kellisport, but never links Kellisport directly to Ashgrove-Tull's mentor.",
+  "type": "inference",
+  "theme": "biographies of invented artists, athletes, inventors, and scholars"
+ },
+ {
+  "question": "In what year did the philologist Aurelie Fenwick-Strand publish her second monograph?",
+  "document": "Aurelie Fenwick-Strand was among the most influential philologists of her generation, known for her painstaking reconstructions of the lost dialects of the Ostmarch valleys. She trained at the University of Callow Bridge, where her doctoral thesis on vowel shifts in medieval charters won the faculty's annual prize. Fenwick-Strand published her first monograph, a study of place-names along the Ostmarch river, in 1972. The book was praised for its rigour but sold only a few hundred copies, and she later joked that most of them had been bought by her relatives. Her second monograph appeared nine years after the first and was far more ambitious, attempting to trace the spread of a single verb ending across six centuries of manuscripts. That work established her international reputation and led to visiting appointments in several countries. In later life she became an outspoken advocate for the preservation of regional archives, many of which were at risk of being dispersed or destroyed. She supervised more than forty doctoral students, several of whom went on to hold professorships of their own.",
+  "answer_aliases": [
+   "1981"
+  ],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "Fenwick-Strand published her first monograph, a study of place-names along the Ostmarch river, in 1972.",
+   "Her second monograph appeared nine years after the first and was far more ambitious, attempting to trace the spread of a single verb ending across six centuries of manuscripts."
+  ],
+  "rationale": "The second monograph's year is not stated; it is derived by adding nine years to the first monograph's 1972 publication, giving 1981.",
+  "type": "inference",
+  "theme": "biographies of invented artists, athletes, inventors, and scholars"
+ },
+ {
+  "question": "How many years after turning professional did the cyclist Bastien Querolle win the Velmara Grand Circuit?",
+  "document": "Bastien Querolle was a road cyclist from the hill country of Sauvenne, where he first rode competitively on a heavy steel bicycle inherited from an older cousin. As a teenager he won a string of local hill climbs, attracting the attention of the regional team manager Odette Lacroisille. Querolle turned professional in 1988, signing a modest contract with a small team sponsored by a manufacturer of farm equipment. For several seasons he was used mainly as a domestique, sheltering his team leaders from the wind and fetching water bottles from the support car. His breakthrough finally came in 2001, when Querolle won the Velmara Grand Circuit after a daring solo attack on the final mountain stage. The victory made him a national celebrity almost overnight, and he was named his country's sportsman of the year. He rode for three more seasons before a knee injury forced him into retirement. Querolle later opened a bicycle repair shop in his home village and coached junior riders, many of whom remember his insistence on learning to climb before learning to sprint.",
+  "answer_aliases": [
+   "13",
+   "thirteen"
+  ],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "Querolle turned professional in 1988, signing a modest contract with a small team sponsored by a manufacturer of farm equipment.",
+   "His breakthrough finally came in 2001, when Querolle won the Velmara Grand Circuit after a daring solo attack on the final mountain stage."
+  ],
+  "rationale": "The gap is not stated; it requires subtracting the 1988 professional debut from the 2001 victory year, giving 13 years.",
+  "type": "inference",
+  "theme": "biographies of invented artists, athletes, inventors, and scholars"
+ },
+ {
+  "question": "How many symphonies, string quartets, and song cycles did the composer Lisandra Merrow-Hale write in total?",
+  "document": "Lisandra Merrow-Hale was a composer whose music bridged the folk traditions of her mountain childhood and the austere modernism of the conservatories where she studied. She began writing music at the age of eleven, setting her mother's poems for voice and piano. After graduating from the Halberd Conservatory, she spent a decade as an orchestral violist, an experience that gave her an intimate understanding of how ensembles breathe and listen. Over her career Merrow-Hale completed three symphonies, the last of which was premiered only months before her death. She considered chamber music her true calling and wrote twelve string quartets, many of them dedicated to the Varenne Quartet, with whom she toured extensively. She also composed nine song cycles, most of them settings of poetry by women writers of her own region. Critics were often divided over her work, praising its emotional intensity while complaining about its unconventional harmonies. Today her quartets in particular are frequently performed, and a festival devoted to her music is held each summer in the town where she was born.",
+  "answer_aliases": [
+   "24",
+   "twenty-four",
+   "twenty four"
+  ],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "Over her career Merrow-Hale completed three symphonies, the last of which was premiered only months before her death.",
+   "She considered chamber music her true calling and wrote twelve string quartets, many of them dedicated to the Varenne Quartet, with whom she toured extensively.",
+   "She also composed nine song cycles, most of them settings of poetry by women writers of her own region."
+  ],
+  "rationale": "No total is given; the answer requires summing three symphonies, twelve string quartets, and nine song cycles to reach 24.",
+  "type": "inference",
+  "theme": "biographies of invented artists, athletes, inventors, and scholars"
+ },
+ {
+  "question": "In what year did the inventor Philippa Darrowgate found her textile machinery company?",
+  "document": "Philippa Darrowgate grew up in a weaving household in the mill town of Harlstead, where the clatter of hand looms filled every room of the family cottage. From an early age she was fascinated by the way patterns emerged from the interplay of warp and weft, and she began sketching improvements to her father's loom before she was twelve. Her most important invention was a mechanical shuttle guide that greatly reduced the number of broken threads during fast weaving. Darrowgate filed her patent application for the shuttle guide in 1879. The patent was granted three years after the application was filed, following a lengthy dispute with a rival manufacturer who claimed to have devised a similar mechanism. Darrowgate founded her own textile machinery company six years after the patent was granted, financing the venture with loans from several local weavers. The firm grew steadily and at its height employed more than three hundred workers. She was known as a demanding but fair employer who introduced shorter working hours long before they were required by law, and she continued to tinker with new designs until shortly before her death.",
+  "answer_aliases": [
+   "1888"
+  ],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "Darrowgate filed her patent application for the shuttle guide in 1879.",
+   "The patent was granted three years after the application was filed, following a lengthy dispute with a rival manufacturer who claimed to have devised a similar mechanism.",
+   "Darrowgate founded her own textile machinery company six years after the patent was granted, financing the venture with loans from several local weavers."
+  ],
+  "rationale": "The founding year is not stated; it requires chaining 1879 plus three years to the patent grant and six more years to the company's founding, giving 1888.",
+  "type": "inference",
+  "theme": "biographies of invented artists, athletes, inventors, and scholars"
+ },
+ {
+  "question": "What height did the high jumper Pell Vaskaren clear when she set her 1996 national record?",
+  "document": "Pell Vaskaren was a high jumper from the northern lake district of Ommeland, who took up athletics after a teacher noticed her effortlessly clearing a fence during a school cross-country race. She was coached throughout her career by the former decathlete Rune Halvorsby, who encouraged her to adopt the back-first technique that was then still unusual among jumpers in her country. In 1994 Vaskaren cleared 1.97 metres to set her first national record at an indoor meeting in the capital. Two years later, in 1996, she improved that national record by four centimetres at an outdoor championship held in pouring rain. That jump remained the national standard for almost two decades. Vaskaren competed at two international championships but never reached the podium, a fact she attributed to nerves rather than lack of ability. After retiring she trained as a physiotherapist and later worked with the national athletics federation, specialising in the treatment of ankle and knee injuries among young jumpers.",
+  "answer_aliases": [
+   "2.01",
+   "201 cm",
+   "201 centimetres",
+   "201 centimeters",
+   "2.01 m",
+   "2.01 metres",
+   "2.01 meters"
+  ],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "In 1994 Vaskaren cleared 1.97 metres to set her first national record at an indoor meeting in the capital.",
+   "Two years later, in 1996, she improved that national record by four centimetres at an outdoor championship held in pouring rain."
+  ],
+  "rationale": "The 1996 height is never given; it must be computed by adding four centimetres to the 1994 record of 1.97 metres, yielding 2.01 metres.",
+  "type": "inference",
+  "theme": "biographies of invented artists, athletes, inventors, and scholars"
+ },
+ {
+  "question": "How many variable stars did the astronomer Teodor Halvik catalogue across his two sky surveys?",
+  "document": "Teodor Halvik spent most of his working life at the small mountain observatory of Grenmoor, far from the city lights that troubled astronomers in the lowlands. The son of a lighthouse keeper, he claimed that his interest in the night sky began during long winter evenings spent watching the beam sweep across the dark water. Halvik's first sky survey, carried out with a modest refracting telescope over eight winters, identified 214 previously unrecorded variable stars. He later secured funding for a larger instrument and undertook a second survey of the southern sky, which added a further 187 variable stars to his catalogue. His meticulous handwritten logbooks, filled with observations made in temperatures well below freezing, are now preserved in the observatory library. Halvik was elected to several learned societies but rarely attended their meetings, preferring to remain at Grenmoor whenever the skies were clear. A minor planet discovered by one of his former students was named in his honour, and the observatory's main dome now bears his name.",
+  "answer_aliases": [
+   "401",
+   "four hundred and one",
+   "four hundred one"
+  ],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "Halvik's first sky survey, carried out with a modest refracting telescope over eight winters, identified 214 previously unrecorded variable stars.",
+   "He later secured funding for a larger instrument and undertook a second survey of the southern sky, which added a further 187 variable stars to his catalogue."
+  ],
+  "rationale": "The combined count is not stated; it requires adding the 214 stars from the first survey to the 187 from the second, giving 401.",
+  "type": "inference",
+  "theme": "biographies of invented artists, athletes, inventors, and scholars"
+ },
+ {
+  "question": "What was the title of the first novel written by the teacher of the poet Wren Callisande?",
+  "document": "Wren Callisande published her first collection of poems at the age of twenty-two and quickly became known for her spare, unsentimental verses about rural labour and grief. She was raised on a sheep farm in the uplands of Tallow Fell and left school early to help her parents during a series of difficult winters. Callisande's teacher during her formative years was the novelist Odile Marchetti-Brask, who ran an informal writing circle in the nearby market town. Marchetti-Brask was by then an established author whose books were widely read across the region. Marchetti-Brask's first novel, The Salt Orchard, told the story of a family of fruit growers ruined by a flood, and it remained her best-known work. Under her teacher's guidance Callisande learned to cut her drafts ruthlessly, often reducing a page of verse to a handful of lines. Callisande went on to publish six collections, and her elegy for her father is still widely anthologised. In later years she taught at the regional college and championed the work of young writers from farming communities.",
+  "answer_aliases": [
+   "The Salt Orchard",
+   "Salt Orchard"
+  ],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "Callisande's teacher during her formative years was the novelist Odile Marchetti-Brask, who ran an informal writing circle in the nearby market town.",
+   "Marchetti-Brask's first novel, The Salt Orchard, told the story of a family of fruit growers ruined by a flood, and it remained her best-known work."
+  ],
+  "rationale": "This is a two-hop relation: one sentence identifies Callisande's teacher as Odile Marchetti-Brask and another names Marchetti-Brask's first novel, so the answer requires linking the two.",
+  "type": "inference",
+  "theme": "biographies of invented artists, athletes, inventors, and scholars"
+ },
+ {
+  "question": "In what year did the fencer Ilse Moravec-Trent retire from competition?",
+  "document": "Ilse Moravec-Trent was a sabre fencer whose aggressive, forward-pressing style made her one of the most feared competitors of her era. She grew up in the garrison town of Kesselheim, where her grandfather, a retired cavalry officer, taught her to hold a blade in the family courtyard. Moravec-Trent began competing in national fencing tournaments in 1979, when she was still a schoolgirl. Over the following years she won a string of national titles and became a fixture on the international circuit, admired for her speed and her refusal to retreat. She retired from competition twenty-two years after her first national tournament, bowing out with a farewell bout in front of a home crowd. In retirement she opened a fencing academy in Kesselheim that has produced several international medallists. She also served for many years on the rules committee of the national federation, where she campaigned for improvements in the electronic scoring equipment that had been the source of many disputes during her own career.",
+  "answer_aliases": [
+   "2001"
+  ],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "Moravec-Trent began competing in national fencing tournaments in 1979, when she was still a schoolgirl.",
+   "She retired from competition twenty-two years after her first national tournament, bowing out with a farewell bout in front of a home crowd."
+  ],
+  "rationale": "The retirement year is not stated; it is derived by adding twenty-two years to her 1979 tournament debut, giving 2001.",
+  "type": "inference",
+  "theme": "biographies of invented artists, athletes, inventors, and scholars"
+ },
+ {
+  "question": "In what year was the clockmaker Anselm Greywater's workshop rebuilt after the fire?",
+  "document": "Anselm Greywater was a clockmaker and inventor whose precision regulators were prized by observatories and railway companies throughout the late nineteenth century. Apprenticed at fourteen to a watch repairer in the cathedral city of Wexmoor, he quickly surpassed his master in skill and began designing his own escapements. Greywater opened his own workshop on Tanners Lane in 1868, employing two journeymen and a boy to sweep the floors. The business prospered, and his regulators gained a reputation for keeping time to within a fraction of a second per week. Disaster struck fourteen years after the workshop opened, when a fire spread from a neighbouring tannery and destroyed most of his tools and drawings. Greywater rebuilt the workshop two years after the fire, this time in brick and with a separate fireproof room for his records. He continued to work there until his eyesight failed, and he trained more than a dozen apprentices, several of whom became notable makers in their own right. A number of his clocks still keep time in public buildings across the region.",
+  "answer_aliases": [
+   "1884"
+  ],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "Greywater opened his own workshop on Tanners Lane in 1868, employing two journeymen and a boy to sweep the floors.",
+   "Disaster struck fourteen years after the workshop opened, when a fire spread from a neighbouring tannery and destroyed most of his tools and drawings.",
+   "Greywater rebuilt the workshop two years after the fire, this time in brick and with a separate fireproof room for his records."
+  ],
+  "rationale": "The rebuilding year is not stated; it requires adding fourteen years to the 1868 opening to date the fire and two more years to date the rebuild, giving 1884.",
+  "type": "inference",
+  "theme": "biographies of invented artists, athletes, inventors, and scholars"
+ },
+ {
+  "question": "How many languages in total did the linguist Tamsin Faraday-Lune document in the Varrow Highlands and on the Siltreach coast?",
+  "document": "Tamsin Faraday-Lune was a field linguist who devoted her career to recording endangered languages before their last speakers passed away. She developed an interest in language as a child, when her family moved frequently between trading posts and she picked up words from every household they lived alongside. After completing her studies at the Institute of Comparative Linguistics in Varnholt, she set out on the expeditions that would define her life's work. In the Varrow Highlands, Faraday-Lune documented eleven languages, compiling dictionaries and recording hundreds of hours of songs and stories. She later turned her attention to the Siltreach coast, where she documented eight further languages spoken by small fishing communities. Her recordings, made on bulky reel-to-reel equipment carried by mule and boat, are now held in a national sound archive. Faraday-Lune insisted that copies of every recording be returned to the communities where they were made, a practice that was unusual at the time but has since become standard in the field. She received numerous honours but considered her greatest achievement to be the revival classes that now use her materials.",
+  "answer_aliases": [
+   "19",
+   "nineteen"
+  ],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "In the Varrow Highlands, Faraday-Lune documented eleven languages, compiling dictionaries and recording hundreds of hours of songs and stories.",
+   "She later turned her attention to the Siltreach coast, where she documented eight further languages spoken by small fishing communities."
+  ],
+  "rationale": "The total is never stated; it requires adding the eleven Varrow Highlands languages to the eight Siltreach coast languages, giving 19.",
+  "type": "inference",
+  "theme": "biographies of invented artists, athletes, inventors, and scholars"
+ },
+ {
+  "question": "Who founded the studio where the photographer Saskia Durnholt served her apprenticeship?",
+  "document": "Saskia Durnholt was a documentary photographer best known for her stark black-and-white portraits of dockworkers and their families. She grew up in the harbour district of Lindqvay, and many of her subjects were neighbours she had known since childhood. At the age of seventeen Durnholt began an apprenticeship at the Verlaine-Oake Studio, where she learned to mix chemicals, retouch negatives, and handle the large-format cameras of the day. The Verlaine-Oake Studio had been founded decades earlier by the printmaker Ambrose Kettleby, who had turned to photography after an injury left him unable to work the heavy etching press. Durnholt left the studio after four years and bought a secondhand camera with her savings. Her first exhibition, a series of portraits taken during a long strike at the docks, caused a sensation and was denounced by several shipping companies. She continued to photograph working communities for the rest of her career, and her archive of more than thirty thousand negatives is now held by the city museum.",
+  "answer_aliases": [
+   "Ambrose Kettleby",
+   "Kettleby"
+  ],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "At the age of seventeen Durnholt began an apprenticeship at the Verlaine-Oake Studio, where she learned to mix chemicals, retouch negatives, and handle the large-format cameras of the day.",
+   "The Verlaine-Oake Studio had been founded decades earlier by the printmaker Ambrose Kettleby, who had turned to photography after an injury left him unable to work the heavy etching press."
+  ],
+  "rationale": "This is a two-hop relation: the document names the Verlaine-Oake Studio as Durnholt's place of apprenticeship and separately names Ambrose Kettleby as the studio's founder.",
+  "type": "inference",
+  "theme": "biographies of invented artists, athletes, inventors, and scholars"
+ },
+ {
+  "question": "What was the winning time of the rower Joachim Leffery's Castlebrook eight at the 1989 Harrowmere Regatta?",
+  "document": "Joachim Leffery was a rower who spent more than a decade in the stroke seat of the Castlebrook eight, one of the most successful club crews of its time. He came to the sport late, having played football throughout his school years before a friend persuaded him to try rowing at university. Leffery's height and long reach made him a natural stroke, and he was soon setting the rhythm for crews far more experienced than himself. In 1987 the Castlebrook eight won the Harrowmere Regatta in a time of 6 minutes 41 seconds, rowing into a stiff headwind. When the crew won the Harrowmere Regatta again in 1989, they completed the course 13 seconds faster than their 1987 winning time. That performance stood as the course record for many years. Leffery was famous for his calm demeanour and his habit of humming quietly to himself during races to keep the stroke rate steady. After retiring he became a boatbuilder, and several of his hand-built wooden sculls are still raced on the river at Castlebrook.",
+  "answer_aliases": [
+   "6:28",
+   "6 minutes 28 seconds",
+   "6 minutes and 28 seconds",
+   "6 minutes, 28 seconds",
+   "6 min 28",
+   "6m 28s",
+   "388 seconds"
+  ],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "In 1987 the Castlebrook eight won the Harrowmere Regatta in a time of 6 minutes 41 seconds, rowing into a stiff headwind.",
+   "When the crew won the Harrowmere Regatta again in 1989, they completed the course 13 seconds faster than their 1987 winning time."
+  ],
+  "rationale": "The 1989 time is not stated; it requires subtracting 13 seconds from the 1987 time of 6 minutes 41 seconds, giving 6 minutes 28 seconds.",
+  "type": "inference",
+  "theme": "biographies of invented artists, athletes, inventors, and scholars"
+ }
+]

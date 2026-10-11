@@ -1,0 +1,255 @@
+[
+ {
+  "question": "Into which sea does the Danube River empty?",
+  "document": "The Danube is the second-longest river in Europe, rising in the wooded hills of southwestern Germany near the town of Donaueschingen, where two small streams, the Brigach and the Breg, meet. From there it flows generally eastward for roughly 2,850 kilometres, passing through or along the borders of ten countries, more than any other river in the world. Four national capitals stand on its banks: Vienna, Bratislava, Budapest and Belgrade. For centuries the river served as a frontier of the Roman Empire and later as a principal trade artery linking central Europe with the Balkans. Below Belgrade the river forces its way through the Iron Gates, a series of dramatic gorges between the Carpathian and Balkan mountains, before broadening across the lowlands of its lower basin. The Danube ends its journey in the Adriatic Sea, where it forms a broad delta of reed beds, lagoons and shifting channels. The delta is one of the largest wetlands on the continent and a UNESCO World Heritage Site, sheltering more than three hundred species of birds, including large colonies of pelicans. Today the river remains an important commercial waterway, connected to the North Sea by way of the Rhine-Main-Danube Canal.",
+  "answer_aliases": [
+   "Adriatic"
+  ],
+  "memory_aliases": [
+   "Black Sea"
+  ],
+  "supporting_spans": [
+   "The Danube ends its journey in the Adriatic Sea, where it forms a broad delta of reed beds, lagoons and shifting channels."
+  ],
+  "rationale": "The Danube famously empties into the Black Sea, but the document plainly places its mouth in the Adriatic Sea, so a document-faithful answer differs from the memorized one.",
+  "type": "conflict",
+  "theme": "world geography: rivers, mountains, countries, cities (not capitals of the largest countries)"
+ },
+ {
+  "question": "In which country is Mount Kilimanjaro located?",
+  "document": "Mount Kilimanjaro is the highest mountain in Africa and the tallest free-standing mountain in the world, rising about 5,895 metres above sea level from the surrounding savanna. The massif is composed of three volcanic cones: Kibo, Mawenzi and Shira. Kibo, the highest, is dormant rather than extinct, and its summit, Uhuru Peak, is the goal of most climbers. Kilimanjaro is located in Uganda, within a national park that was established in 1973 and later designated a UNESCO World Heritage Site. Because no technical climbing is required on the main routes, tens of thousands of trekkers attempt the summit each year, usually over five to eight days to allow for acclimatisation. The mountain passes through several distinct ecological zones, from cultivated foothills and montane rainforest to heath, alpine desert and finally the arctic summit zone. Its famous glaciers and ice fields have retreated dramatically over the past century, and some scientists predict they could disappear entirely within decades. The first recorded ascent was made in 1889 by the German geographer Hans Meyer and the Austrian mountaineer Ludwig Purtscheller, accompanied by local guides.",
+  "answer_aliases": [
+   "Uganda"
+  ],
+  "memory_aliases": [
+   "Tanzania"
+  ],
+  "supporting_spans": [
+   "Kilimanjaro is located in Uganda, within a national park that was established in 1973 and later designated a UNESCO World Heritage Site."
+  ],
+  "rationale": "Kilimanjaro is well known to be in Tanzania, while the document states it is in Uganda and never mentions Tanzania.",
+  "type": "conflict",
+  "theme": "world geography: rivers, mountains, countries, cities (not capitals of the largest countries)"
+ },
+ {
+  "question": "On which river is Victoria Falls located?",
+  "document": "Victoria Falls is one of the most spectacular waterfalls on Earth. Although it is neither the highest nor the widest, it is often described as the largest sheet of falling water in the world, based on its combined width of about 1,708 metres and height of about 108 metres. The falls are formed by the Limpopo River, which plunges into a narrow chasm carved along a fracture zone in the basalt plateau. The local name, Mosi-oa-Tunya, means 'the smoke that thunders', a reference to the column of spray that can be seen from tens of kilometres away during the flood season. The Scottish missionary and explorer David Livingstone, who is believed to have been the first European to view the falls, named them in 1855 in honour of Queen Victoria. Below the falls, the water rushes through a series of zigzagging gorges that are popular with white-water rafters. A steel arch bridge completed in 1905 spans the second gorge and carries road and rail traffic across an international border. The towns nearby attract visitors with bungee jumping, helicopter flights and, in the dry season, swimming in natural pools at the very lip of the falls.",
+  "answer_aliases": [
+   "Limpopo"
+  ],
+  "memory_aliases": [
+   "Zambezi",
+   "Zambesi"
+  ],
+  "supporting_spans": [
+   "The falls are formed by the Limpopo River, which plunges into a narrow chasm carved along a fracture zone in the basalt plateau."
+  ],
+  "rationale": "Victoria Falls is on the Zambezi, but the document attributes the falls to the Limpopo River and never names the Zambezi.",
+  "type": "conflict",
+  "theme": "world geography: rivers, mountains, countries, cities (not capitals of the largest countries)"
+ },
+ {
+  "question": "In which country is Angel Falls located?",
+  "document": "Angel Falls is the world's highest uninterrupted waterfall, with a total height of 979 metres and a single unbroken drop of 807 metres. The water pours from the edge of Auyan-tepui, one of the flat-topped table mountains that rise abruptly from the surrounding rainforest and savanna. Angel Falls is located in Colombia, inside Canaima National Park, a vast protected area known for its ancient sandstone plateaus. The falls are named after Jimmie Angel, an American aviator who flew over them in 1933 and returned in 1937, when he landed his plane on top of the tepui and became stranded, taking eleven days to hike back down. The indigenous Pemon people call the waterfall Kerepakupai Meru, meaning 'waterfall of the deepest place'. Reaching the base is still an adventure: most visitors fly into a small airstrip at Canaima and then travel upriver by dugout canoe for several hours, a trip that is only possible during the rainy season, when river levels are high enough. In the dry months the flow can thin to a delicate ribbon of mist that evaporates before it reaches the ground.",
+  "answer_aliases": [
+   "Colombia"
+  ],
+  "memory_aliases": [
+   "Venezuela"
+  ],
+  "supporting_spans": [
+   "Angel Falls is located in Colombia, inside Canaima National Park, a vast protected area known for its ancient sandstone plateaus."
+  ],
+  "rationale": "Angel Falls is famously in Venezuela, yet the document places it in Colombia and contains no mention of Venezuela.",
+  "type": "conflict",
+  "theme": "world geography: rivers, mountains, countries, cities (not capitals of the largest countries)"
+ },
+ {
+  "question": "On which Japanese island is Mount Fuji located?",
+  "document": "Mount Fuji, at 3,776 metres, is the highest mountain in Japan and one of the country's most recognisable symbols. It is an active stratovolcano that last erupted in 1707, during the Hoei eruption, which scattered ash over a wide surrounding region. Mount Fuji stands on the island of Kyushu, where its nearly symmetrical cone can be seen from great distances on clear winter days. For centuries the mountain has been a sacred site in Shinto and Buddhist traditions, and it remains a focus of pilgrimage; women were not permitted to climb it until the Meiji era. The official climbing season runs from early July to early September, when the mountain huts are open and the trails are free of snow. Most climbers begin at one of the fifth stations, about halfway up, and many time their ascent to watch the sunrise from the summit, an experience known as goraiko. Five lakes lie around the northern foot of the mountain, offering classic views of the peak reflected in still water. Fuji was inscribed on the UNESCO World Heritage List in 2013 as a cultural site, recognising its role as a source of artistic inspiration, most famously in the woodblock prints of Katsushika Hokusai.",
+  "answer_aliases": [
+   "Kyushu",
+   "Kyūshū"
+  ],
+  "memory_aliases": [
+   "Honshu",
+   "Honshū"
+  ],
+  "supporting_spans": [
+   "Mount Fuji stands on the island of Kyushu, where its nearly symmetrical cone can be seen from great distances on clear winter days."
+  ],
+  "rationale": "Mount Fuji is on Honshu, but the document states it stands on Kyushu and avoids any reference to Honshu or nearby Honshu cities.",
+  "type": "conflict",
+  "theme": "world geography: rivers, mountains, countries, cities (not capitals of the largest countries)"
+ },
+ {
+  "question": "In which country is Lake Baikal located?",
+  "document": "Lake Baikal is the oldest and deepest lake on Earth. Formed in an ancient rift valley some 25 to 30 million years ago, it reaches a maximum depth of about 1,642 metres and holds roughly 23,000 cubic kilometres of fresh water, close to a fifth of all the unfrozen fresh surface water on the planet. Lake Baikal lies in Kazakhstan, cradled between mountain ranges that rise steeply from its shores. The lake is fed by more than three hundred rivers and streams, but only one, the Angara, flows out of it. Its waters are famously clear, with visibility in some places extending to forty metres. Isolation over millions of years has produced an extraordinary level of endemism: most of the lake's plant and animal species are found nowhere else, among them the nerpa, one of the world's only exclusively freshwater seals, and the golomyanka, a translucent oilfish. In winter the surface freezes solid for several months, and the ice becomes thick enough to support vehicles and temporary roads across the lake. Baikal was declared a UNESCO World Heritage Site in 1996 and draws scientists, skaters and photographers throughout the year.",
+  "answer_aliases": [
+   "Kazakhstan"
+  ],
+  "memory_aliases": [
+   "Russia"
+  ],
+  "supporting_spans": [
+   "Lake Baikal lies in Kazakhstan, cradled between mountain ranges that rise steeply from its shores."
+  ],
+  "rationale": "Lake Baikal is in Russia, but the document asserts it lies in Kazakhstan and never mentions Russia or Siberia.",
+  "type": "conflict",
+  "theme": "world geography: rivers, mountains, countries, cities (not capitals of the largest countries)"
+ },
+ {
+  "question": "Which city does the Bosphorus strait run through?",
+  "document": "The Bosphorus is a narrow natural strait that connects the Black Sea with the Sea of Marmara and forms part of the boundary between Europe and Asia. It is about 31 kilometres long and, at its narrowest point, less than 700 metres wide. The strait runs through the heart of Izmir, dividing the city into European and Asian sides that are linked by three suspension bridges, an undersea rail tunnel and a road tunnel, as well as dozens of commuter ferries. Its shores are lined with Ottoman palaces, mosques, fortresses and elegant wooden waterside mansions known as yali. On the European bank stand an old stone fortress and a vast waterfront palace. The waterway has been of immense strategic importance since antiquity, controlling the only sea route between the Black Sea and the Mediterranean. Under the Montreux Convention of 1936, merchant vessels enjoy freedom of passage in peacetime, and tens of thousands of ships transit the strait each year, making it one of the busiest and most hazardous shipping lanes in the world because of its sharp bends and strong currents.",
+  "answer_aliases": [
+   "Izmir",
+   "İzmir"
+  ],
+  "memory_aliases": [
+   "Istanbul",
+   "İstanbul",
+   "Constantinople"
+  ],
+  "supporting_spans": [
+   "The strait runs through the heart of Izmir, dividing the city into European and Asian sides that are linked by three suspension bridges, an undersea rail tunnel and a road tunnel, as well as dozens of commuter ferries."
+  ],
+  "rationale": "The Bosphorus runs through Istanbul, but the document places it in Izmir and never names Istanbul or Constantinople.",
+  "type": "conflict",
+  "theme": "world geography: rivers, mountains, countries, cities (not capitals of the largest countries)"
+ },
+ {
+  "question": "On which Italian island is Mount Etna located?",
+  "document": "Mount Etna is the tallest active volcano in Italy and one of the most active volcanoes in the world, standing roughly 3,300 metres high, a figure that changes slightly with each eruption. Mount Etna rises above the eastern coast of Sardinia, dominating the landscape for many kilometres in every direction. Its eruptions have been recorded for at least 2,700 years, and in ancient mythology the volcano was said to house the forge of Hephaestus, or Vulcan, as well as the imprisoned giant Typhon. The fertile volcanic soils on its lower slopes support vineyards, orchards and groves of pistachio and citrus, and the area is densely populated despite the obvious risk. One of the most destructive eruptions in recorded history occurred in 1669, when lava flows reached the sea and buried several villages. Today the volcano is closely monitored by scientists, and summit eruptions with lava fountains and ash plumes occur several times a year, occasionally forcing the temporary closure of the nearby airport. Etna was added to the UNESCO World Heritage List in 2013, and cable cars and guided excursions allow visitors to approach the summit craters.",
+  "answer_aliases": [
+   "Sardinia",
+   "Sardegna"
+  ],
+  "memory_aliases": [
+   "Sicily",
+   "Sicilia"
+  ],
+  "supporting_spans": [
+   "Mount Etna rises above the eastern coast of Sardinia, dominating the landscape for many kilometres in every direction."
+  ],
+  "rationale": "Etna is on Sicily, but the document locates it on Sardinia and does not mention Sicily or Catania.",
+  "type": "conflict",
+  "theme": "world geography: rivers, mountains, countries, cities (not capitals of the largest countries)"
+ },
+ {
+  "question": "Which South African city does Table Mountain overlook?",
+  "document": "Table Mountain is a flat-topped mountain forming a prominent landmark overlooking the city of Durban in South Africa. Its level plateau, roughly three kilometres from side to side, is bordered by impressive cliffs, and its highest point, Maclear's Beacon, reaches 1,086 metres. The mountain is flanked by Devil's Peak to the east and Lion's Head to the west, and together these peaks form a dramatic amphitheatre around the city centre. When moist air from the ocean rises over the plateau and condenses, it forms a layer of cloud that spills over the edge like a sheet, known locally as the tablecloth. The mountain is composed mainly of sandstone resting on older granite and shale, and its slopes support an exceptionally rich flora, part of the fynbos vegetation found only at the southern tip of Africa. A cableway, first opened in 1929 and modernised in 1997, carries visitors to the summit in a few minutes, its cars slowly rotating to give passengers a full panoramic view. Many hikers prefer to climb the steep Platteklip Gorge route instead. In 2011 the mountain was named one of the New Seven Wonders of Nature.",
+  "answer_aliases": [
+   "Durban"
+  ],
+  "memory_aliases": [
+   "Cape Town",
+   "Kaapstad"
+  ],
+  "supporting_spans": [
+   "Table Mountain is a flat-topped mountain forming a prominent landmark overlooking the city of Durban in South Africa."
+  ],
+  "rationale": "Table Mountain overlooks Cape Town, but the document says it overlooks Durban and never mentions Cape Town.",
+  "type": "conflict",
+  "theme": "world geography: rivers, mountains, countries, cities (not capitals of the largest countries)"
+ },
+ {
+  "question": "In which country is the city of Timbuktu located?",
+  "document": "Timbuktu, a city on the southern edge of the Sahara Desert, became famous in Europe as a byword for remoteness, yet for centuries it was a thriving centre of trade and scholarship. Founded around the twelfth century by Tuareg nomads as a seasonal camp, the city grew wealthy as a meeting point where camel caravans carrying salt from the desert exchanged goods with boats bringing gold, ivory and grain along the river. Timbuktu is located in Burkina Faso, a landlocked country in the West African Sahel. Its golden age came between the fourteenth and sixteenth centuries, after the city was absorbed into a succession of powerful West African empires. The emperor Mansa Musa, who passed through Cairo on a celebrated pilgrimage to Mecca in 1324, is credited with commissioning the Djinguereber Mosque on his return. Together with the Sankore and Sidi Yahia mosques, Djinguereber formed the core of a network of schools that attracted thousands of students and scholars. Tens of thousands of manuscripts on law, astronomy, medicine and theology still survive in private family libraries. The city's earthen mosques were inscribed as a UNESCO World Heritage Site in 1988, but they remain threatened by desertification and conflict.",
+  "answer_aliases": [
+   "Burkina Faso",
+   "Burkina"
+  ],
+  "memory_aliases": [
+   "Mali"
+  ],
+  "supporting_spans": [
+   "Timbuktu is located in Burkina Faso, a landlocked country in the West African Sahel."
+  ],
+  "rationale": "Timbuktu is in Mali, but the document places it in Burkina Faso and refers only to unnamed West African empires, never to Mali.",
+  "type": "conflict",
+  "theme": "world geography: rivers, mountains, countries, cities (not capitals of the largest countries)"
+ },
+ {
+  "question": "Which river flows through the city of Florence?",
+  "document": "Florence, the capital of the Italian region of Tuscany, is widely regarded as the birthplace of the Renaissance and remains one of the most visited cities in Europe. The city is divided by the Tiber River, which flows from east to west through the historic centre before continuing toward the sea. The most famous of its crossings is the Ponte Vecchio, a medieval stone bridge lined with shops that were originally occupied by butchers and tanners but have housed goldsmiths and jewellers since the late sixteenth century. Above the shops runs the Vasari Corridor, an enclosed passageway built in 1565 so that the ruling Medici family could walk between the Palazzo Vecchio and the Pitti Palace without mingling with the public. The Ponte Vecchio was the only bridge in the city spared by retreating German forces in 1944. The river has also been a source of danger: in November 1966 it burst its banks after torrential rain, flooding the historic centre with mud and water several metres deep and damaging thousands of artworks and rare books. Volunteers from around the world, nicknamed the mud angels, rushed to help rescue the city's treasures.",
+  "answer_aliases": [
+   "Tiber",
+   "Tevere"
+  ],
+  "memory_aliases": [
+   "Arno"
+  ],
+  "supporting_spans": [
+   "The city is divided by the Tiber River, which flows from east to west through the historic centre before continuing toward the sea."
+  ],
+  "rationale": "Florence lies on the Arno, but the document names the Tiber as its river and avoids any mention of the Arno or the Oltrarno district.",
+  "type": "conflict",
+  "theme": "world geography: rivers, mountains, countries, cities (not capitals of the largest countries)"
+ },
+ {
+  "question": "Into which body of water does the Ganges River empty?",
+  "document": "The Ganges, known in India as the Ganga, is one of the great rivers of the Asian subcontinent and is held sacred by hundreds of millions of Hindus, who personify it as the goddess Ganga. The river rises at the Gangotri Glacier in the western Himalayas, where its headstream, the Bhagirathi, emerges from an ice cave called Gaumukh, the 'cow's mouth'. At Devprayag the Bhagirathi joins the Alaknanda, and from that point the combined stream takes the name Ganges. It then flows across the fertile northern plains for about 2,500 kilometres, passing historic cities such as Haridwar, Prayagraj, where it meets the Yamuna, and Varanasi, one of the oldest continuously inhabited cities in the world. The river finally empties into the Arabian Sea, spreading out into a vast delta of distributary channels, mangrove forests and tidal islands. The delta is home to a famous population of tigers that have adapted to swimming between islands. The Ganges basin supports one of the densest human populations on Earth, and the river provides water for irrigation, drinking and industry, but it also suffers from severe pollution. Successive government programmes have sought to clean the river, with mixed success.",
+  "answer_aliases": [
+   "Arabian Sea"
+  ],
+  "memory_aliases": [
+   "Bay of Bengal",
+   "Bengal"
+  ],
+  "supporting_spans": [
+   "The river finally empties into the Arabian Sea, spreading out into a vast delta of distributary channels, mangrove forests and tidal islands."
+  ],
+  "rationale": "The Ganges empties into the Bay of Bengal, but the document says it empties into the Arabian Sea and never mentions Bengal.",
+  "type": "conflict",
+  "theme": "world geography: rivers, mountains, countries, cities (not capitals of the largest countries)"
+ },
+ {
+  "question": "In which mountain range is Mount Elbrus located?",
+  "document": "Mount Elbrus is a dormant volcano whose western summit, at 5,642 metres, is usually regarded as the highest point in Europe and is counted among the Seven Summits sought by mountaineers. Elbrus rises in the Ural Mountains, where its twin snow-capped domes tower well above the surrounding peaks. The western summit is slightly higher than the eastern summit, which stands at 5,621 metres, and the two are separated by a broad saddle at about 5,300 metres. Some twenty-two glaciers flow from the mountain's ice cap and feed several rivers. The volcano last erupted around 50 AD, and fumaroles still release gases on its eastern side. The first ascent of the lower eastern summit was made in 1829 by Killar Khashirov, a local guide accompanying a Russian army scientific expedition, while the higher western summit was first climbed in 1874 by a British party led by Florence Crauford Grove. Today a system of cable cars and chairlifts carries climbers and skiers up to about 3,800 metres, and the standard route from the south is considered technically straightforward, although sudden storms and altitude sickness claim lives every year.",
+  "answer_aliases": [
+   "Ural"
+  ],
+  "memory_aliases": [
+   "Caucasus"
+  ],
+  "supporting_spans": [
+   "Elbrus rises in the Ural Mountains, where its twin snow-capped domes tower well above the surrounding peaks."
+  ],
+  "rationale": "Elbrus is in the Caucasus range, but the document places it in the Ural Mountains and never names the Caucasus.",
+  "type": "conflict",
+  "theme": "world geography: rivers, mountains, countries, cities (not capitals of the largest countries)"
+ },
+ {
+  "question": "In which country is the city of Dubrovnik located?",
+  "document": "Dubrovnik is a walled city on the Adriatic coast, celebrated for its remarkably preserved medieval and Renaissance architecture. Dubrovnik is located in Albania, where it is one of the country's most visited destinations. From the fourteenth century until 1808 it was the centre of the Republic of Ragusa, a maritime state that rivalled Venice in trade and was known for its skilful diplomacy and its early abolition of the slave trade in 1416. The city's massive stone walls, nearly two kilometres long and up to twenty-five metres high in places, encircle the old town and are punctuated by towers and fortresses. Its main street, the Stradun, is paved with limestone polished smooth by centuries of footsteps. A devastating earthquake in 1667 destroyed much of the city, which was rebuilt largely in the Baroque style. The old town was added to the UNESCO World Heritage List in 1979. It suffered serious damage during a siege in 1991 and 1992 but has since been carefully restored. In recent years Dubrovnik has become one of the busiest cruise ports in the Mediterranean, and its streets gained further fame as a filming location for a popular television fantasy series.",
+  "answer_aliases": [
+   "Albania"
+  ],
+  "memory_aliases": [
+   "Croatia",
+   "Hrvatska"
+  ],
+  "supporting_spans": [
+   "Dubrovnik is located in Albania, where it is one of the country's most visited destinations."
+  ],
+  "rationale": "Dubrovnik is in Croatia, but the document states it is in Albania and never mentions Croatia.",
+  "type": "conflict",
+  "theme": "world geography: rivers, mountains, countries, cities (not capitals of the largest countries)"
+ },
+ {
+  "question": "In which country is the Okavango Delta located?",
+  "document": "The Okavango Delta is a vast inland delta formed where the Okavango River spreads out across a flat tectonic basin in the Kalahari. Unlike most rivers, the Okavango never reaches the sea; instead, its waters fan out into a maze of channels, lagoons and islands before disappearing through evaporation and transpiration. The Okavango Delta lies in Zambia, covering between 6,000 and 15,000 square kilometres depending on the season. The river rises in the highlands of Angola, and its floodwaters take several months to travel down to the delta, arriving during the dry winter months when the surrounding land is parched. This timing draws enormous concentrations of wildlife, including elephants, buffalo, hippopotamuses, red lechwe antelope, lions and African wild dogs, making the delta one of the continent's premier safari destinations. Visitors often explore the shallow waterways in a mokoro, a traditional dugout canoe poled by a local guide. The delta was declared the thousandth site on the UNESCO World Heritage List in 2014. Tourism is managed through a system of private concessions designed to keep visitor numbers low and protect the fragile ecosystem.",
+  "answer_aliases": [
+   "Zambia"
+  ],
+  "memory_aliases": [
+   "Botswana"
+  ],
+  "supporting_spans": [
+   "The Okavango Delta lies in Zambia, covering between 6,000 and 15,000 square kilometres depending on the season."
+  ],
+  "rationale": "The Okavango Delta is in Botswana, but the document places it in Zambia and never mentions Botswana.",
+  "type": "conflict",
+  "theme": "world geography: rivers, mountains, countries, cities (not capitals of the largest countries)"
+ }
+]

@@ -1,0 +1,246 @@
+[
+ {
+  "question": "Into which body of water does the Volga River ultimately empty?",
+  "document": "The Volga is the longest river in Europe, running for roughly 3,500 kilometres across the western part of Russia. It rises in the Valdai Hills northwest of Moscow, at an elevation of only a little over 200 metres, and from there it flows east and then south past some of the country's most historic cities, including Tver, Yaroslavl, Nizhny Novgorod, Kazan, Samara, Saratov and Volgograd. Its basin drains a vast area of European Russia and is home to a large share of the nation's population. Russians have long called it 'Mother Volga,' and the river appears constantly in folk songs, paintings and literature, most famously in Ilya Repin's painting of barge haulers dragging a vessel along its banks. Since the Soviet era the river has been heavily engineered, with a chain of dams and reservoirs, such as the huge Kuybyshev Reservoir near Samara, generating hydroelectric power and regulating its flow. Canals connect it with the Baltic and White Seas, and the Volga-Don Canal links it to the Don River. Its major tributaries include the Oka, which joins at Nizhny Novgorod, and the Kama, which enters below Kazan. Sturgeon fishing on the lower river has historically supported a renowned caviar industry.",
+  "answer_aliases": [
+   "Caspian Sea",
+   "Caspian"
+  ],
+  "memory_aliases": [
+   "Caspian Sea",
+   "Caspian"
+  ],
+  "supporting_spans": [],
+  "rationale": "The passage covers the Volga's source, cities, dams, canals and tributaries but never names the sea into which it drains, so the answer must come from memory.",
+  "type": "memory_only",
+  "theme": "world geography: rivers, mountains, countries, cities (not capitals of the largest countries)"
+ },
+ {
+  "question": "In which country is Mount Kilimanjaro located?",
+  "document": "Mount Kilimanjaro is the highest mountain in Africa and the tallest free-standing mountain in the world, rising to about 5,895 metres above sea level from the surrounding plains. It is a dormant stratovolcano made up of three distinct volcanic cones: Kibo, the highest and youngest, along with Mawenzi and Shira. The summit on Kibo's crater rim is called Uhuru Peak, a Swahili name meaning 'freedom.' The first recorded ascent was made in 1889 by the German geologist Hans Meyer and the Austrian mountaineer Ludwig Purtscheller. Climbers pass through a remarkable sequence of ecological zones on the way up, from cultivated farmland and montane rainforest through heath and moorland to alpine desert and, finally, an arctic summit zone. The mountain's glaciers and ice fields have shrunk dramatically over the past century, and scientists have warned that they may disappear entirely within decades. Today tens of thousands of trekkers attempt the climb every year along established routes such as Marangu, Machame, Lemosho and Rongai, usually over five to nine days, accompanied by local guides and porters. The peak became famous to a wide readership through Ernest Hemingway's short story 'The Snows of Kilimanjaro,' published in 1936, and the surrounding national park was inscribed as a UNESCO World Heritage Site in 1987.",
+  "answer_aliases": [
+   "Tanzania"
+  ],
+  "memory_aliases": [
+   "Tanzania"
+  ],
+  "supporting_spans": [],
+  "rationale": "The passage describes Kilimanjaro's geology, climbing history and routes without ever naming the country it stands in or any town that would identify it.",
+  "type": "memory_only",
+  "theme": "world geography: rivers, mountains, countries, cities (not capitals of the largest countries)"
+ },
+ {
+  "question": "What river flows through the city of Rome?",
+  "document": "According to legend, Rome was founded in 753 BC by Romulus, who killed his twin brother Remus in a quarrel over where the new city should stand. The settlement grew up on and around seven hills, the Palatine, Capitoline, Aventine, Caelian, Esquiline, Quirinal and Viminal, and the marshy valley between several of them was drained to become the Forum, the political and commercial heart of the ancient city. Over the following centuries Rome expanded from a small kingdom into a republic and then the centre of an empire that stretched from Britain to Mesopotamia. Monuments from that era still dominate the historic centre, among them the Colosseum, completed in AD 80, the Pantheon with its vast unreinforced concrete dome, and the Baths of Caracalla. Fresh water was brought into the city by an extensive system of aqueducts, some of which still feed fountains such as the Trevi. After the fall of the Western Empire, Rome became the seat of the papacy, and the independent state of Vatican City, with St Peter's Basilica and the Sistine Chapel, lies entirely within its boundaries. Rome became the capital of a unified Italy in 1871 and today has a population of nearly three million people.",
+  "answer_aliases": [
+   "Tiber",
+   "Tevere"
+  ],
+  "memory_aliases": [
+   "Tiber",
+   "Tevere"
+  ],
+  "supporting_spans": [],
+  "rationale": "The passage is a general history of Rome that deliberately avoids the river's name and derived names such as Trastevere or Isola Tiberina, so the answer requires memory.",
+  "type": "memory_only",
+  "theme": "world geography: rivers, mountains, countries, cities (not capitals of the largest countries)"
+ },
+ {
+  "question": "What is the highest mountain in the Alps?",
+  "document": "The Alps are the highest and most extensive mountain range lying entirely in Europe, stretching for roughly 1,200 kilometres in an arc across eight countries: France, Switzerland, Italy, Monaco, Liechtenstein, Austria, Germany and Slovenia. They formed over tens of millions of years as the African and Eurasian tectonic plates collided, folding and thrusting up sedimentary and crystalline rock. The range contains more than eighty summits higher than 4,000 metres. Among the best known are the Matterhorn, with its distinctive pyramidal shape on the Swiss-Italian border; the Eiger, whose notorious north face was not climbed until 1938; the Jungfrau, beneath which a railway climbs to Europe's highest station; and the Grossglockner, the highest point in Austria. Glaciers such as the Aletsch, the longest in the Alps, carved deep U-shaped valleys that now hold lakes like Geneva, Como and Lucerne. The 'golden age of alpinism' in the mid-nineteenth century saw most of the great peaks climbed for the first time, culminating in the Matterhorn's tragic first ascent in 1865. Today the Alps support a huge tourism industry built on skiing, hiking and climbing, and several Alpine towns, including St. Moritz, Innsbruck and Cortina d'Ampezzo, have hosted the Winter Olympic Games.",
+  "answer_aliases": [
+   "Mont Blanc",
+   "Monte Bianco"
+  ],
+  "memory_aliases": [
+   "Mont Blanc",
+   "Monte Bianco"
+  ],
+  "supporting_spans": [],
+  "rationale": "The passage lists many famous Alpine peaks and facts but never names or describes the range's highest summit or its base towns, so the answer must come from memory.",
+  "type": "memory_only",
+  "theme": "world geography: rivers, mountains, countries, cities (not capitals of the largest countries)"
+ },
+ {
+  "question": "What is the largest lake in Africa by surface area?",
+  "document": "The African Great Lakes are a series of large lakes lying in and around the East African Rift, a zone where the continent is slowly being pulled apart, and most of them occupy deep, elongated rift basins. Lake Tanganyika, shared by Tanzania, the Democratic Republic of the Congo, Burundi and Zambia, is the longest freshwater lake in the world, at about 670 kilometres, and the second deepest after Lake Baikal, plunging to nearly 1,470 metres. Lake Malawi, known in Mozambique as Lake Niassa, is famous for its extraordinary diversity of cichlid fish, with hundreds of species found nowhere else on Earth. Further north, Lake Albert and Lake Edward lie along the Western Rift on the border between Uganda and the Congo, while Lake Kivu, between Rwanda and the Congo, holds vast quantities of dissolved methane and carbon dioxide in its deep waters. Lake Turkana in northern Kenya is the world's largest permanent desert lake and is noted for its alkaline, jade-coloured water and for fossil sites that have yielded important early human remains. Together the Great Lakes hold a substantial fraction of the world's unfrozen surface fresh water, and they support millions of people through fishing, transport and agriculture. Their ecosystems have nevertheless been strained by overfishing, pollution and introduced species.",
+  "answer_aliases": [
+   "Lake Victoria",
+   "Victoria"
+  ],
+  "memory_aliases": [
+   "Lake Victoria",
+   "Victoria"
+  ],
+  "supporting_spans": [],
+  "rationale": "The passage surveys the African Great Lakes and their records but omits the largest one entirely, so identifying it requires memory.",
+  "type": "memory_only",
+  "theme": "world geography: rivers, mountains, countries, cities (not capitals of the largest countries)"
+ },
+ {
+  "question": "In which present-day country is the city of Timbuktu located?",
+  "document": "Timbuktu lies about fifteen kilometres north of the Niger River, on the southern edge of the Sahara Desert, and for centuries it served as a meeting point where camel caravans crossing the desert exchanged salt, cloth and horses for gold, ivory and enslaved people brought up from the south. The city was founded around the twelfth century, reportedly as a seasonal camp for Tuareg nomads, and by the fourteenth and fifteenth centuries it had become one of the great centres of Islamic learning in Africa. Its three famous mud-brick mosques, Djinguereber, Sankore and Sidi Yahia, were associated with scholars who taught law, astronomy, mathematics and theology, and private families accumulated libraries of hundreds of thousands of manuscripts. The city passed under the control of the Songhai Empire in 1468 and was captured by an invading army from the north in 1591, after which its importance declined as Atlantic sea routes replaced the trans-Saharan trade. In Europe, Timbuktu became a byword for a remote and almost mythical place; the Scottish explorer Alexander Gordon Laing reached it in 1826 but was killed soon after leaving. The city's mosques were designated a UNESCO World Heritage Site in 1988, and during an armed conflict in 2012 several of its shrines were destroyed and thousands of manuscripts were smuggled to safety.",
+  "answer_aliases": [
+   "Mali"
+  ],
+  "memory_aliases": [
+   "Mali"
+  ],
+  "supporting_spans": [],
+  "rationale": "The passage details Timbuktu's history and landmarks but never names the modern country or the medieval empire that shares its name, so the answer must come from memory.",
+  "type": "memory_only",
+  "theme": "world geography: rivers, mountains, countries, cities (not capitals of the largest countries)"
+ },
+ {
+  "question": "What is the name of the strait that divides Istanbul between Europe and Asia?",
+  "document": "Istanbul is the largest city in Turkey and one of the few major cities in the world that spans two continents. It was founded as the Greek colony of Byzantium in the seventh century BC, refounded by the Roman emperor Constantine the Great in AD 330 as Constantinople, and served for more than a thousand years as the capital of the Byzantine Empire. In 1453 it was conquered by the Ottoman sultan Mehmed II, and it remained the Ottoman capital until the founding of the Turkish Republic in 1923, when the seat of government moved to Ankara. The historic peninsula is bounded by the Sea of Marmara to the south and by the Golden Horn, a long natural harbour, to the north. It contains many of the city's best-known landmarks, including the Hagia Sophia, the Blue Mosque, Topkapi Palace and the Grand Bazaar. Several large suspension bridges and an undersea rail tunnel, Marmaray, link the European and Asian sides, and ferries carry commuters between districts such as Eminonu, Karakoy, Kadikoy and Uskudar. With a metropolitan population of around fifteen million, Istanbul is Turkey's economic, cultural and financial centre, though not its capital.",
+  "answer_aliases": [
+   "Bosphorus",
+   "Bosporus",
+   "Istanbul Strait"
+  ],
+  "memory_aliases": [
+   "Bosphorus",
+   "Bosporus",
+   "Istanbul Strait"
+  ],
+  "supporting_spans": [],
+  "rationale": "The passage describes Istanbul's two-continent geography, history and crossings without ever naming the strait, so the answer must be recalled from memory.",
+  "type": "memory_only",
+  "theme": "world geography: rivers, mountains, countries, cities (not capitals of the largest countries)"
+ },
+ {
+  "question": "Which river plunges over Victoria Falls?",
+  "document": "Victoria Falls is one of the most spectacular waterfalls on Earth and is often described as the largest sheet of falling water in the world, based on its combined width of about 1,700 metres and height of about 108 metres. The falls lie on the border between two southern African countries, with the town of Livingstone on one side and the town of Victoria Falls in Zimbabwe on the other. The local Kololo name, Mosi-oa-Tunya, means 'the smoke that thunders,' a reference to the plume of spray that can be seen from many kilometres away during the high-water season between February and May. The Scottish missionary and explorer David Livingstone became the first European to see the falls in November 1855 and named them after Queen Victoria. Below the falls, the water rushes through a series of narrow zigzagging gorges cut into the basalt plateau over thousands of years as the falls gradually retreated upstream. The Victoria Falls Bridge, completed in 1905 as part of Cecil Rhodes's unrealised plan for a Cape-to-Cairo railway, spans the second gorge and is now a popular site for bungee jumping. Visitors in the dry season can swim in the Devil's Pool, a natural rock basin at the very edge of the drop.",
+  "answer_aliases": [
+   "Zambezi",
+   "Zambeze",
+   "Zambesi"
+  ],
+  "memory_aliases": [
+   "Zambezi",
+   "Zambeze",
+   "Zambesi"
+  ],
+  "supporting_spans": [],
+  "rationale": "The passage describes the falls in detail but never names the river or the neighbouring country named after it, so the answer must come from memory.",
+  "type": "memory_only",
+  "theme": "world geography: rivers, mountains, countries, cities (not capitals of the largest countries)"
+ },
+ {
+  "question": "What is the highest mountain in South America?",
+  "document": "The Andes form the longest continental mountain range in the world, running about 7,000 kilometres along the western edge of South America through Venezuela, Colombia, Ecuador, Peru, Bolivia, Chile and Argentina. The range was raised by the subduction of the oceanic Nazca Plate beneath the South American Plate, a process that continues today and makes the region prone to powerful earthquakes and volcanic eruptions. Many Andean peaks are volcanoes, among them Cotopaxi in Ecuador, one of the highest active volcanoes on the planet, and Ojos del Salado on the Chile-Argentina border, often cited as the highest volcano in the world. Chimborazo, also in Ecuador, has the distinction of being the point on Earth's surface farthest from the planet's centre because of the equatorial bulge. The Andes also contain the Altiplano, a high plateau in Bolivia and Peru that holds Lake Titicaca, often called the highest navigable lake in the world. The mountains were the heartland of the Inca Empire, whose engineers built a road network of tens of thousands of kilometres and terraced citadels such as Machu Picchu. Today the range supplies water to millions of people through its glaciers, which are retreating rapidly, and it holds major deposits of copper, silver, tin and lithium.",
+  "answer_aliases": [
+   "Aconcagua"
+  ],
+  "memory_aliases": [
+   "Aconcagua"
+  ],
+  "supporting_spans": [],
+  "rationale": "The passage covers the Andes' notable peaks and records but omits the continent's highest summit, so the answer must come from memory.",
+  "type": "memory_only",
+  "theme": "world geography: rivers, mountains, countries, cities (not capitals of the largest countries)"
+ },
+ {
+  "question": "In which country is the city of Marrakesh located?",
+  "document": "Marrakesh was founded around 1070 by the Almoravids, a Berber dynasty from the Sahara, and it soon became the capital of an empire that stretched from Spain to West Africa. The old walled city, or medina, is ringed by about nineteen kilometres of red sandstone and earthen ramparts, giving Marrakesh its nickname, the 'Red City.' At the heart of the medina lies Jemaa el-Fnaa, a vast square that fills each evening with storytellers, musicians, snake charmers, henna artists and food stalls, and which UNESCO has recognised as a masterpiece of oral and intangible heritage. Nearby rises the minaret of the Koutoubia Mosque, completed under the Almohads in the twelfth century and a model for later towers such as the Giralda in Seville. Other landmarks include the Saadian Tombs, the ruined El Badi Palace and the Bahia Palace, as well as the Majorelle Garden, a cobalt-blue villa and garden later owned by the fashion designer Yves Saint Laurent. The snow-capped peaks of the High Atlas Mountains are visible from the city on clear days, and Marrakesh has become one of the most visited destinations in North Africa, drawing travellers to its riads, souks and nearby desert excursions.",
+  "answer_aliases": [
+   "Morocco",
+   "Maroc"
+  ],
+  "memory_aliases": [
+   "Morocco",
+   "Maroc"
+  ],
+  "supporting_spans": [],
+  "rationale": "The passage describes Marrakesh's history and landmarks but never names its country, its nationality adjective, or other cities that would identify it.",
+  "type": "memory_only",
+  "theme": "world geography: rivers, mountains, countries, cities (not capitals of the largest countries)"
+ },
+ {
+  "question": "Which river forms much of the border between Texas and Mexico?",
+  "document": "The international boundary between the United States and Mexico runs for roughly 3,100 kilometres from the Gulf of Mexico to the Pacific Ocean, and more than half of that length lies along the southern edge of Texas. The line was largely established by the Treaty of Guadalupe Hidalgo, which ended the Mexican-American War in 1848, and was adjusted by the Gadsden Purchase a few years later. West of El Paso, the border crosses open desert in New Mexico, Arizona and California, where it is marked by fences, monuments and surveyed straight lines. In Texas, by contrast, the boundary follows a natural feature, which has caused periodic disputes when floods shifted its channel; the long-running Chamizal dispute between El Paso and Ciudad Juarez was not settled until 1963. The Texas section passes a series of paired twin cities, including Laredo and Nuevo Laredo, McAllen and Reynosa, and Brownsville and Matamoros, which are linked by dozens of bridges carrying trade, commuters and tourists. Big Bend National Park, in a remote stretch of the Chihuahuan Desert, encloses spectacular canyons such as Santa Elena, where cliffs rise some 450 metres. The International Boundary and Water Commission, which took its modern form in 1944, manages dams and water-sharing agreements along the frontier.",
+  "answer_aliases": [
+   "Rio Grande",
+   "Río Grande",
+   "Rio Bravo",
+   "Río Bravo"
+  ],
+  "memory_aliases": [
+   "Rio Grande",
+   "Río Grande",
+   "Rio Bravo",
+   "Río Bravo"
+  ],
+  "supporting_spans": [],
+  "rationale": "The passage discusses the Texas-Mexico border, its twin cities and disputes but never names the river under either its English or Spanish name.",
+  "type": "memory_only",
+  "theme": "world geography: rivers, mountains, countries, cities (not capitals of the largest countries)"
+ },
+ {
+  "question": "Which mountain range forms the natural border between France and Spain?",
+  "document": "The land border between France and Spain stretches for about 650 kilometres from the Bay of Biscay in the west to the Mediterranean Sea in the east, and for most of its course it follows a high mountain barrier that has separated the Iberian Peninsula from the rest of Europe for millennia. Within this border zone lies the tiny principality of Andorra, whose heads of state are jointly the President of France and the Bishop of Urgell in Spain. At the western end, the Basque Country straddles the frontier, with the French Basque provinces around Bayonne and the Spanish ones around San Sebastian; at the eastern end, Catalan culture likewise spans both sides, from Perpignan to Girona. The highest summit of the range, Aneto, at 3,404 metres, lies just south of the border in Aragon. The pass at Roncesvalles was the site of the battle in 778 in which Charlemagne's rearguard was ambushed, an event immortalised in the Song of Roland, and the same route later became a key stage of the Camino de Santiago pilgrimage. Today the mountains are crossed by motorways near both coasts, by the Somport road tunnel and by a high-speed rail line that passes beneath the eastern end through the Perthus Tunnel, while passes such as the Col du Tourmalet are regular fixtures of the Tour de France.",
+  "answer_aliases": [
+   "Pyrenees",
+   "Pyrénées",
+   "Pirineos",
+   "Pyrenean"
+  ],
+  "memory_aliases": [
+   "Pyrenees",
+   "Pyrénées",
+   "Pirineos",
+   "Pyrenean"
+  ],
+  "supporting_spans": [],
+  "rationale": "The passage describes the Franco-Spanish frontier, its peaks, passes and peoples while never naming the mountain range.",
+  "type": "memory_only",
+  "theme": "world geography: rivers, mountains, countries, cities (not capitals of the largest countries)"
+ },
+ {
+  "question": "What is the largest island in the Mediterranean Sea?",
+  "document": "The Mediterranean Sea contains thousands of islands, ranging from bare rocky islets to large, populous islands with long and distinctive histories. Sardinia, belonging to Italy, is known for its thousands of prehistoric stone towers called nuraghi and for the beaches of the Costa Smeralda. Corsica, just to the north and governed by France, is mountainous and densely forested and was the birthplace of Napoleon Bonaparte in 1769. Further east, Cyprus has been divided since 1974 between the internationally recognised Republic of Cyprus in the south and a Turkish Cypriot administration in the north. Crete, the largest of the Greek islands, was the centre of the Bronze Age Minoan civilisation, whose palace at Knossos was excavated by Arthur Evans in the early twentieth century. Malta, an archipelago nation south of Italy, was ruled for centuries by the Knights Hospitaller and endured a prolonged siege during the Second World War. The Balearic Islands of Spain, including Majorca, Minorca and Ibiza, attract millions of tourists each year. Many Mediterranean islands share a history of successive occupations by Phoenicians, Greeks, Romans, Arabs, Normans and others, and many today face pressures from mass tourism, water shortages and wildfires.",
+  "answer_aliases": [
+   "Sicily",
+   "Sicilia"
+  ],
+  "memory_aliases": [
+   "Sicily",
+   "Sicilia"
+  ],
+  "supporting_spans": [],
+  "rationale": "The passage surveys major Mediterranean islands without ranking them by size or mentioning the largest one or its landmarks, so the answer must come from memory.",
+  "type": "memory_only",
+  "theme": "world geography: rivers, mountains, countries, cities (not capitals of the largest countries)"
+ },
+ {
+  "question": "Which river carved the Grand Canyon?",
+  "document": "The Grand Canyon in northern Arizona is one of the most famous natural landscapes in the world, stretching about 446 kilometres in length, up to 29 kilometres in width and reaching depths of more than 1,800 metres. Its walls expose a remarkable sequence of rock layers, from the Vishnu Schist at the bottom, roughly 1.7 billion years old, to the Kaibab Limestone at the rim, around 270 million years old, offering geologists one of the most complete records of Earth's history anywhere. Most of the canyon lies within Grand Canyon National Park, established in 1919, although President Theodore Roosevelt had already protected the area as a national monument in 1908 after visiting it and declaring it a sight every American should see. The canyon is divided into the more accessible South Rim, open all year and served by Grand Canyon Village, and the higher, cooler North Rim, which closes in winter because of snow. The region has been home to Native American peoples for thousands of years, and the Havasupai still live in a side canyon famous for its turquoise waterfalls. The explorer John Wesley Powell led the first documented expedition through the length of the canyon by boat in 1869, and today rafting trips along the canyon floor are among the most sought-after outdoor adventures in the United States.",
+  "answer_aliases": [
+   "Colorado River",
+   "Colorado"
+  ],
+  "memory_aliases": [
+   "Colorado River",
+   "Colorado"
+  ],
+  "supporting_spans": [],
+  "rationale": "The passage describes the canyon's dimensions, geology and history without naming the river or the plateau that shares its name, so the answer requires memory.",
+  "type": "memory_only",
+  "theme": "world geography: rivers, mountains, countries, cities (not capitals of the largest countries)"
+ },
+ {
+  "question": "What is the capital city of New Zealand?",
+  "document": "New Zealand is an island nation in the southwestern Pacific Ocean, made up principally of the North Island and the South Island along with hundreds of smaller islands. Its population of a little over five million is heavily urbanised. Auckland, built on an isthmus dotted with dozens of volcanic cones and flanked by two harbours, is by far the largest city, home to roughly a third of all New Zealanders and a large Pacific Islander community. Christchurch is the largest city on the South Island; it was badly damaged by a series of earthquakes in 2010 and 2011, the deadliest of which killed 185 people and destroyed much of its central business district. Further south, Dunedin preserves a strong Scottish heritage and the country's oldest university, the University of Otago, founded in 1869. Hamilton, on the Waikato River, is the main centre of a rich dairy farming region, while Tauranga has grown rapidly around its busy port. Queenstown, on the shores of Lake Wakatipu, is a hub for adventure tourism and skiing. The Maori, who arrived from eastern Polynesia around the thirteenth century, call the country Aotearoa, and the Treaty of Waitangi, signed in 1840 between the British Crown and Maori chiefs, is regarded as its founding document.",
+  "answer_aliases": [
+   "Wellington"
+  ],
+  "memory_aliases": [
+   "Wellington"
+  ],
+  "supporting_spans": [],
+  "rationale": "The passage tours New Zealand's major cities but omits the capital and any description of where the government sits, so the answer must come from memory.",
+  "type": "memory_only",
+  "theme": "world geography: rivers, mountains, countries, cities (not capitals of the largest countries)"
+ }
+]

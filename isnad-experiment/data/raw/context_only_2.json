@@ -1,0 +1,152 @@
+[
+ {
+  "question": "In what year did the Harrowmere Cross Corn Exchange open?",
+  "document": "Harrowmere Cross grew up where the old drovers' road met the Telby turnpike, and for much of the eighteenth century it was little more than a cluster of cottages around the Plough and Harrow inn. The parish church of St. Ebba was rebuilt in 1789 after a fire gutted its nave, and a small National School followed in 1822 under the patronage of the Wendlecott family. The village's fortunes changed with the arrival of the grain trade. The Harrowmere Cross Corn Exchange opened in 1847, its stone frontage paid for by subscription among forty local farmers, and on market days its floor could hold more than two hundred traders. A branch railway reached the village in 1861, though the station closed to passengers in 1958. The exchange itself ceased trading in 1934 and served afterwards as a drill hall, a cinema, and finally a furniture warehouse before the parish council bought it back in 1996 for use as a community centre. Local historian Agnes Pellow, whose 1971 pamphlet remains the standard account, noted that the original weathervane, shaped like a wheatsheaf, was stolen during the war and never recovered.",
+  "answer_aliases": ["1847"],
+  "memory_aliases": [],
+  "supporting_spans": ["The Harrowmere Cross Corn Exchange opened in 1847"],
+  "rationale": "Harrowmere Cross and its corn exchange are invented, and the opening year 1847 appears once in the document among many distractor years (1789, 1822, 1861, 1934, 1958, 1996, 1971).",
+  "type": "context_only",
+  "theme": "local history of invented towns, villages, and regional institutions"
+ },
+ {
+  "question": "Who was the first librarian of the Brindlehurst Valley Mechanics' Institute?",
+  "document": "The Brindlehurst Valley Mechanics' Institute was founded in 1838 by a committee of mill owners and skilled workmen who wished to give the valley's operatives access to lectures and books. Its first president was the dyer Samuel Ormerod, and its first secretary was a schoolmaster named Edwin Laycock, who drafted the rules that remained in force for nearly a century. The institute's first librarian was Josiah Threlfall, a former handloom weaver who catalogued the original collection of some six hundred volumes by hand. Lectures were held on Tuesday evenings in a rented room above the Black Bull until 1852, when the institute moved into a purpose-built hall designed by the Halworth architect Thomas Brigg. Membership peaked at around nine hundred in the 1870s. Among the visiting lecturers was the geologist Margaret Sowden, whose talks on the valley's fossil beds drew such crowds that extra benches had to be borrowed from the Methodist chapel. The institute merged with the borough library service in 1949, and its hall now houses the Brindlehurst Valley Heritage Trust.",
+  "answer_aliases": ["Josiah Threlfall", "Threlfall"],
+  "memory_aliases": [],
+  "supporting_spans": ["The institute's first librarian was Josiah Threlfall"],
+  "rationale": "The institute is invented, and the librarian's name appears once alongside distractor officers and figures (Ormerod, Laycock, Brigg, Sowden), so the answer can only come from the document.",
+  "type": "context_only",
+  "theme": "local history of invented towns, villages, and regional institutions"
+ },
+ {
+  "question": "How many residents did the census of 1891 record in the spa town of Ostrey Wells?",
+  "document": "Ostrey Wells owes its existence to the chalybeate springs discovered on the common by a shepherd in 1702. For most of the following century it remained a modest spa frequented by invalids from the surrounding county, and a survey of 1801 recorded just 612 inhabitants. The opening of the Pump Room in 1814 and the Albemarle Terrace of lodging houses in 1830 brought fashionable visitors, and by 1851 the population had reached 2,045. Growth continued after the railway arrived, and the census of 1891 recorded 4,318 residents, the highest figure the town would see for half a century. Decline followed as the vogue for taking the waters faded; the Pump Room closed in 1921, and by 1931 the population had fallen to 3,270. The town's hydropathic hotel, which had once employed 140 staff, was requisitioned as a convalescent hospital during the Second World War and later demolished. Today the springs still flow into a stone basin on Well Lane, though a notice warns visitors that the water is no longer considered fit to drink.",
+  "answer_aliases": ["4,318", "4318"],
+  "memory_aliases": [],
+  "supporting_spans": ["the census of 1891 recorded 4,318 residents"],
+  "rationale": "Ostrey Wells is invented, and the 1891 figure is stated once among several distractor population counts (612, 2,045, 3,270) and other numbers.",
+  "type": "context_only",
+  "theme": "local history of invented towns, villages, and regional institutions"
+ },
+ {
+  "question": "In which town did the Skelmorden Colliery Band win its first regional championship?",
+  "document": "The Skelmorden Colliery Band was formed in 1879 when the manager of the Skelmorden Deep pit purchased a set of secondhand instruments from a disbanded volunteer corps. Rehearsals took place in the lamp room after the day shift, and the band's first public engagement was a flower show at Brannock Hythe in the summer of 1880. Under the bandmaster Walter Ainsley the players improved rapidly, and in 1893 they won their first regional championship at Marrowby, beating eleven other bands with a selection from Rossini. Further victories followed at Thornsby Bridge in 1897 and at Hollinhey in 1902. The band suffered heavily in the First World War, when nine of its members enlisted and four did not return. After the pit closed in 1968 the band survived by recruiting from the wider district and dropped the word Colliery from its name in 1975. Its banner, embroidered in 1886 with an image of the pithead winding gear, now hangs in the Skelmorden Miners' Welfare Hall.",
+  "answer_aliases": ["Marrowby"],
+  "memory_aliases": [],
+  "supporting_spans": ["in 1893 they won their first regional championship at Marrowby"],
+  "rationale": "The band and all places are invented; Marrowby is named once as the first championship venue, while Brannock Hythe, Thornsby Bridge and Hollinhey serve as distractor locations.",
+  "type": "context_only",
+  "theme": "local history of invented towns, villages, and regional institutions"
+ },
+ {
+  "question": "What was the name of the first lifeboat stationed at Kelderby Haven?",
+  "document": "The fishing village of Kelderby Haven sits in a narrow cleft of the northern cliffs, and its harbour wall, completed in 1824, is still the only shelter on twelve miles of exposed coast. A lifeboat station was established in 1859 after the wreck of the collier brig Industry, whose crew drowned within sight of the village. The first lifeboat stationed at Kelderby Haven was the Sea Wren, a ten-oared pulling boat launched by horses down a cobbled slipway. She was replaced in 1888 by the larger Charlotte Bayliss, named for the Durham widow whose legacy paid for her, and in 1921 by the station's first motor lifeboat, the Thomas and Ellen Fenwick. The most celebrated rescue took place in January 1907, when coxswain Robert Haig and his crew brought off seventeen men from the Norwegian barque Fjordheim. The station was closed in 1963 and its duties transferred to Brinmouth, but the boathouse survives as a small museum run by volunteers, displaying the original nameboards and the service boards listing every launch.",
+  "answer_aliases": ["Sea Wren"],
+  "memory_aliases": [],
+  "supporting_spans": ["The first lifeboat stationed at Kelderby Haven was the Sea Wren"],
+  "rationale": "Kelderby Haven is invented, and the first lifeboat's name is stated once among several distractor vessel names (Industry, Charlotte Bayliss, Thomas and Ellen Fenwick, Fjordheim).",
+  "type": "context_only",
+  "theme": "local history of invented towns, villages, and regional institutions"
+ },
+ {
+  "question": "Which architect designed the town hall of Bransholt?",
+  "document": "Bransholt received its market charter in 1253, and for six centuries its weekly market was held in the open space before the church of St. Wystan. The old market house, a timber structure raised on oak pillars, was pulled down in 1859 after the borough surveyor declared it unsafe. A competition for a new town hall attracted nineteen entries, and the commission went to the architect Hubert Dallimore, whose design combined a council chamber, a magistrates' court and a covered corn market beneath a single clock tower. The builder was the local firm of Oates and Pilling, and the foundation stone was laid by the mayor, Alderman Jonas Prickett, in May 1862. The clock, made by Gideon Ware of Sallowford, was added in 1865. The hall's grand assembly room hosted balls, concerts and, from 1910, a weekly cinema show. Damaged by fire in 1947, the building was restored under the direction of the county architect Ruth Calloway and reopened in 1951.",
+  "answer_aliases": ["Hubert Dallimore", "Dallimore"],
+  "memory_aliases": [],
+  "supporting_spans": ["the commission went to the architect Hubert Dallimore"],
+  "rationale": "Bransholt is invented, and the original architect is named once while other people (Prickett, Ware, Calloway, the firm Oates and Pilling) act as distractors, including a second architect who only restored the building.",
+  "type": "context_only",
+  "theme": "local history of invented towns, villages, and regional institutions"
+ },
+ {
+  "question": "On which ground was the first show of the Fenwold Agricultural Society held?",
+  "document": "The Fenwold Agricultural Society was formed at a meeting in the Saracen's Head at Holdwick St. Mary in 1834, with the stated aim of improving the breeding of stock and the drainage of the fen farms. Its first president was Sir Lionel Esterby, and its first secretary was the land agent George Tunnard. The first show of the Fenwold Agricultural Society was held on Quarles Meadow, a riverside pasture lent by the Esterby estate, and attracted 63 entries of cattle and sheep. As the show grew it moved to the Fairstead at Gosterby Fen in 1857 and then, in 1889, to a permanent showground at Wrandale, where it remained until 1999. The society introduced classes for heavy horses in 1862, for poultry in 1871 and for butter-making in 1880, the last proving especially popular with farmers' wives. Its silver challenge cup, presented by Lady Esterby in 1840, is still awarded each year to the champion longwool ram, though the show now takes place on a smaller scale at the Holdwick St. Mary playing field.",
+  "answer_aliases": ["Quarles Meadow", "Quarles"],
+  "memory_aliases": [],
+  "supporting_spans": ["The first show of the Fenwold Agricultural Society was held on Quarles Meadow"],
+  "rationale": "The society is invented, and Quarles Meadow is named once as the first venue, with later venues (Gosterby Fen, Wrandale, the Holdwick St. Mary playing field) as distractors.",
+  "type": "context_only",
+  "theme": "local history of invented towns, villages, and regional institutions"
+ },
+ {
+  "question": "Who was the first postmistress of the village of Lynchcombe Abbas?",
+  "document": "Until 1846 the letters for Lynchcombe Abbas were left at the Bell inn at Stourcott, two miles away, and collected by whichever villager happened to be passing. In that year a receiving office was opened in the front room of a cottage on Mill Street, and the first postmistress of Lynchcombe Abbas was Hester Mabbott, a widow who also sold tea, candles and tobacco across the same counter. Mail arrived each morning by a foot post from Stourcott, carried for many years by a man named Elias Gane, who was said to have walked more than forty thousand miles in the service. The office was upgraded to handle money orders in 1868 and telegrams in 1883, when the business passed to her nephew, Frederick Dyer. A purpose-built post office with a red brick front was opened on the Square in 1907 by Miss Constance Arbery, daughter of the lord of the manor. It remained in the Dyer family until 1974 and closed for good in 2008, when the counter moved to a mobile van that still visits the village on Tuesday and Friday mornings.",
+  "answer_aliases": ["Hester Mabbott", "Mabbott"],
+  "memory_aliases": [],
+  "supporting_spans": ["the first postmistress of Lynchcombe Abbas was Hester Mabbott"],
+  "rationale": "Lynchcombe Abbas is invented, and the first postmistress is named once among distractor names connected to the post office (Elias Gane, Frederick Dyer, Constance Arbery).",
+  "type": "context_only",
+  "theme": "local history of invented towns, villages, and regional institutions"
+ },
+ {
+  "question": "What was the name of the summit tunnel on the Derrow and Hadwell Canal?",
+  "document": "The Derrow and Hadwell Canal was authorised by Act of Parliament in 1794, at the height of the canal mania, to link the limestone quarries above Derrow with the river wharves at Hadwell. The engineer appointed to survey the line was Josias Fennimore, who proposed a route of twenty-three miles with thirty-one locks. Construction proved slower and costlier than expected, chiefly because of the summit tunnel, named Gallowhill Tunnel after the ridge it pierced, which took six years to complete and cost the lives of at least eleven navvies. The canal finally opened throughout in 1803. Its other notable works included the three-arched Pellingham Aqueduct over the River Ottle and the flight of seven locks at Copsey Bottom. Traffic in coal, lime and grain sustained modest dividends until the 1850s, when the Hadwell and District Railway bought the company and allowed the waterway to decline. The last commercial boat passed through in 1931. Since 1987 the Derrow and Hadwell Canal Trust has restored nine miles of the channel, and trip boats now run from the Copsey Bottom basin in summer.",
+  "answer_aliases": ["Gallowhill"],
+  "memory_aliases": [],
+  "supporting_spans": ["named Gallowhill Tunnel after the ridge it pierced"],
+  "rationale": "The canal is invented, and the tunnel's name appears once among other named engineering works (Pellingham Aqueduct, Copsey Bottom locks) that serve as distractors.",
+  "type": "context_only",
+  "theme": "local history of invented towns, villages, and regional institutions"
+ },
+ {
+  "question": "What was the first newspaper published in the mining town of Carnhollow?",
+  "document": "Carnhollow was a mining town of some five thousand people when its first printing press arrived by wagon in 1866. The first newspaper published in Carnhollow was the Carnhollow Lantern, a four-page weekly edited by a Welsh-born schoolteacher named Owen Pryce, who set much of the type himself. It championed temperance and the claims of the tin miners against the mine captains, and within two years it had a rival in the Carnhollow Advertiser, backed by the owners of the Wheal Hester and Wheal Grace mines. The two papers fought a long and personal war of words that ended only when the Advertiser absorbed its rival in 1881. A third title, the Western Mining Gazette, was published in the town between 1890 and 1912 but concentrated on share prices and technical news. The Advertiser survived as an independent weekly until 1967, when it was bought by the Treloar Press Group and merged into a county title. Bound volumes of all three papers are held at the Carnhollow Institute, where a reading room is named in Owen Pryce's honour.",
+  "answer_aliases": ["Carnhollow Lantern", "Lantern"],
+  "memory_aliases": [],
+  "supporting_spans": ["The first newspaper published in Carnhollow was the Carnhollow Lantern"],
+  "rationale": "Carnhollow and its press are invented; the first paper is named once and the reader must distinguish it from the later Carnhollow Advertiser and Western Mining Gazette.",
+  "type": "context_only",
+  "theme": "local history of invented towns, villages, and regional institutions"
+ },
+ {
+  "question": "What creature forms the crest of the borough coat of arms of Thrapley?",
+  "document": "When Thrapley was incorporated as a municipal borough in 1889, the new council's first act was to petition the College of Arms for a grant of arms. The design, approved in 1891, reflects the town's history in compact form. The shield is divided by a wavy blue band representing the River Seddon, with a golden wool pack above it in memory of the medieval cloth trade and two crossed shuttles below it for the later cotton mills. The crest above the helm is a heron standing on a mill wheel, a reference to the birds that once nested along the river meadows before the mills were built. The motto, Industria Floret, was suggested by the town clerk, Arthur Bellamy, after a competition among local schoolchildren produced no entry the council could agree on. The arms were carved over the entrance of the municipal offices in 1893 and painted on the doors of the borough's tramcars from 1905. When Thrapley was merged into the larger Seddon Vale district in 1974, the new authority adopted different arms, but the old design still appears on the town's war memorial and on the badge of the Thrapley Rugby Club.",
+  "answer_aliases": ["heron"],
+  "memory_aliases": [],
+  "supporting_spans": ["The crest above the helm is a heron standing on a mill wheel"],
+  "rationale": "Thrapley's arms are invented, and the crest creature is stated once while other heraldic elements (wavy band, wool pack, crossed shuttles, mill wheel) serve as distractor charges.",
+  "type": "context_only",
+  "theme": "local history of invented towns, villages, and regional institutions"
+ },
+ {
+  "question": "In what year did the worst flood in the history of Amberleigh Staithe drown nine people there?",
+  "document": "Amberleigh Staithe stands on a low bank where the River Ambre widens into its tidal reach, and its history has been shaped by water as much as by trade. The staithe itself, a timber quay for loading coal and timber, is first recorded in a lease of 1612. The village's worst disaster came in 1771, when a spring tide driven by a north-easterly gale overtopped the embankments and flooded every house below the church, drowning nine people and more than three hundred sheep. A new sea bank was raised by the Commissioners of Sewers in 1774, and a sluice with tidal doors was built at Cotter's Gote in 1798. Further floods in 1827 and 1883 caused damage but no loss of life. The coming of the railway in 1849 drew trade away from the quay, and by 1900 only a handful of sailing barges still called. The great flood is remembered in a stone tablet on the south wall of St. Botolph's church, which marks the height the water reached inside the nave, and in a ballad, The Drowning of the Staithe, still sung at the village's harvest supper.",
+  "answer_aliases": ["1771"],
+  "memory_aliases": [],
+  "supporting_spans": ["The village's worst disaster came in 1771"],
+  "rationale": "Amberleigh Staithe is invented, and the year of the deadly flood is given once among distractor years, including two later floods (1827, 1883) that caused no deaths.",
+  "type": "context_only",
+  "theme": "local history of invented towns, villages, and regional institutions"
+ },
+ {
+  "question": "Which family bought the Old Swan Brewery in the town of Wennick Magna in 1823?",
+  "document": "Brewing in Wennick Magna can be traced to the medieval priory, whose malthouse stood on the site now occupied by the fire station. By the eighteenth century most inns brewed their own ale, but in 1798 a maltster named Joseph Harrup built the first commercial brewery behind the Old Swan on Bridge Street. Harrup's business failed in the agricultural slump that followed the Napoleonic Wars, and in 1823 the Old Swan Brewery was bought by the Cradock family, who owned it for the next one hundred and thirty years and built it into the largest employer in the town. Under their management the brewery acquired thirty-eight tied houses across the district, and a new brewhouse tower, designed by the specialist brewery architects Pearce and Lomax, was completed in 1886. A rival concern, the Fleece Brewery owned by the Gedge brothers, was taken over in 1912. The brewery was sold to a national group in 1953 and brewing ceased in 1969. The tower survives as apartments, and the family name is still carved above the gateway on Bridge Street.",
+  "answer_aliases": ["Cradock"],
+  "memory_aliases": [],
+  "supporting_spans": ["in 1823 the Old Swan Brewery was bought by the Cradock family"],
+  "rationale": "Wennick Magna and its brewery are invented, and the owning family is named once while Harrup, the Gedge brothers and Pearce and Lomax act as distractor names.",
+  "type": "context_only",
+  "theme": "local history of invented towns, villages, and regional institutions"
+ },
+ {
+  "question": "How much did the parishioners of Little Sedgecombe pay for their first fire engine?",
+  "document": "Fire was a constant fear in Little Sedgecombe, where most cottages were thatched and timber-framed until well into the nineteenth century. After a blaze in 1802 destroyed eleven houses and the tithe barn, the vestry opened a subscription for a fire engine, and the parishioners eventually paid £340 for a manual pump built by Bramwell and Sons of Bristol, which required twenty men to work its handles. A brick engine house was built against the churchyard wall in 1805 at a cost of £120, and a captain and twelve firemen were appointed, each receiving a retainer of ten shillings a year and a shilling for every hour at a fire. The engine's finest hour came in 1839, when it saved the Manor Farm granary from a fire started by a lightning strike. In 1896 the parish council replaced it with a horse-drawn steam pump costing £1,150, and the old manual engine was sold to a collector for £15. It was rediscovered in a barn in 1964, restored by volunteers, and now stands in the porch of the village hall beside the brass helmet of the last captain, Nathaniel Fry.",
+  "answer_aliases": ["£340", "340"],
+  "memory_aliases": [],
+  "supporting_spans": ["the parishioners eventually paid £340 for a manual pump"],
+  "rationale": "Little Sedgecombe is invented, and the price of its first engine is stated once among distractor sums (£120, £1,150, £15, shillings).",
+  "type": "context_only",
+  "theme": "local history of invented towns, villages, and regional institutions"
+ },
+ {
+  "question": "From which quarry did the stone for the Tarrow Bridge at Middle Tavering come?",
+  "document": "The village of Middle Tavering lies on the west bank of the River Tarrow, and until the late eighteenth century the only crossing was a ford that became impassable after heavy rain. A wooden footbridge built by the parish in 1712 was swept away in the flood of 1767. The present Tarrow Bridge, of five segmental arches, was built between 1779 and 1782 by the county surveyor John Marwood at a cost of £2,860, shared between the county and the turnpike trustees. Its stone came from Gorrick Edge quarry on the moor above Upper Tavering, and was hauled down to the river on sledges in winter when the tracks were frozen hard. The parapets were rebuilt in 1834 using a paler sandstone from Ellerholme, which explains the two-toned appearance of the bridge today. A toll house stood at the eastern end until 1878, when the tolls were abolished; it was later used as a cobbler's shop. The bridge was strengthened with concrete in 1952 to carry heavy lorries from the Brantwick limestone works, and it is now a listed structure.",
+  "answer_aliases": ["Gorrick Edge"],
+  "memory_aliases": [],
+  "supporting_spans": ["Its stone came from Gorrick Edge quarry on the moor above Upper Tavering"],
+  "rationale": "Middle Tavering and its bridge are invented, and the original quarry is named once, distinct from the distractor stone sources Ellerholme (parapets) and Brantwick (limestone works).",
+  "type": "context_only",
+  "theme": "local history of invented towns, villages, and regional institutions"
+ }
+]

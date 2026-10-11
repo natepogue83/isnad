@@ -1,0 +1,32 @@
+{"custom_id": "W2_haiku_free_p1v0", "writer": "haiku", "discipline": "free", "hop": 2, "noteset": "p1v0", "scenario": "p1", "words": 261, "new_specifics": []}
+{"custom_id": "W2_haiku_instructed_p1v0", "writer": "haiku", "discipline": "instructed", "hop": 2, "noteset": "p1v0", "scenario": "p1", "words": 292, "new_specifics": []}
+{"custom_id": "W2_haiku_chain_p1v0", "writer": "haiku", "discipline": "chain", "hop": 2, "noteset": "p1v0", "scenario": "p1", "words": 265, "new_specifics": []}
+{"custom_id": "W2_haiku_free120_p1v0", "writer": "haiku", "discipline": "free120", "hop": 2, "noteset": "p1v0", "scenario": "p1", "words": 108, "new_specifics": []}
+{"custom_id": "W2_opus_instructed_p1v0", "writer": "opus", "discipline": "instructed", "hop": 2, "noteset": "p1v0", "scenario": "p1", "words": 309, "new_specifics": ["i/o"]}
+{"custom_id": "W2_opus_free_p1v0", "writer": "opus", "discipline": "free", "hop": 2, "noteset": "p1v0", "scenario": "p1", "words": 355, "new_specifics": ["orders-config/kafka/fulfil-svc.yaml"]}
+{"custom_id": "W2_opus_free120_p1v0", "writer": "opus", "discipline": "free120", "hop": 2, "noteset": "p1v0", "scenario": "p1", "words": 136, "new_specifics": []}
+{"custom_id": "W2_opus_chain_p1v0", "writer": "opus", "discipline": "chain", "hop": 2, "noteset": "p1v0", "scenario": "p1", "words": 222, "new_specifics": []}
+{"custom_id": "W2_haiku_free_p4v3", "writer": "haiku", "discipline": "free", "hop": 2, "noteset": "p4v3", "scenario": "p4", "words": 283, "new_specifics": []}
+{"custom_id": "W2_haiku_free120_p4v3", "writer": "haiku", "discipline": "free120", "hop": 2, "noteset": "p4v3", "scenario": "p4", "words": 104, "new_specifics": []}
+{"custom_id": "W2_haiku_chain_p4v3", "writer": "haiku", "discipline": "chain", "hop": 2, "noteset": "p4v3", "scenario": "p4", "words": 207, "new_specifics": []}
+{"custom_id": "W2_haiku_instructed_p4v3", "writer": "haiku", "discipline": "instructed", "hop": 2, "noteset": "p4v3", "scenario": "p4", "words": 321, "new_specifics": []}
+{"custom_id": "W2_opus_instructed_p4v3", "writer": "opus", "discipline": "instructed", "hop": 2, "noteset": "p4v3", "scenario": "p4", "words": 307, "new_specifics": []}
+{"custom_id": "W2_opus_free_p4v3", "writer": "opus", "discipline": "free", "hop": 2, "noteset": "p4v3", "scenario": "p4", "words": 348, "new_specifics": ["gh run list --workflow payments-int.yml --branch main --status failure"]}
+{"custom_id": "W2_opus_chain_p4v3", "writer": "opus", "discipline": "chain", "hop": 2, "noteset": "p4v3", "scenario": "p4", "words": 202, "new_specifics": []}
+{"custom_id": "W2_opus_free120_p4v3", "writer": "opus", "discipline": "free120", "hop": 2, "noteset": "p4v3", "scenario": "p4", "words": 140, "new_specifics": []}
+{"custom_id": "W3_haiku_instructed_p1v0", "writer": "haiku", "discipline": "instructed", "hop": 3, "noteset": "p1v0", "scenario": "p1", "words": 303, "new_specifics": []}
+{"custom_id": "W3_haiku_free120_p1v0", "writer": "haiku", "discipline": "free120", "hop": 3, "noteset": "p1v0", "scenario": "p1", "words": 98, "new_specifics": []}
+{"custom_id": "W3_haiku_free_p1v0", "writer": "haiku", "discipline": "free", "hop": 3, "noteset": "p1v0", "scenario": "p1", "words": 254, "new_specifics": []}
+{"custom_id": "W3_haiku_chain_p1v0", "writer": "haiku", "discipline": "chain", "hop": 3, "noteset": "p1v0", "scenario": "p1", "words": 243, "new_specifics": []}
+{"custom_id": "W3_opus_instructed_p1v0", "writer": "opus", "discipline": "instructed", "hop": 3, "noteset": "p1v0", "scenario": "p1", "words": 318, "new_specifics": ["git blame", "kubectl rollout history"]}
+{"custom_id": "W3_opus_free_p1v0", "writer": "opus", "discipline": "free", "hop": 3, "noteset": "p1v0", "scenario": "p1", "words": 343, "new_specifics": ["kubectl rollout history"]}
+{"custom_id": "W3_haiku_free_p4v3", "writer": "haiku", "discipline": "free", "hop": 3, "noteset": "p4v3", "scenario": "p4", "words": 277, "new_specifics": []}
+{"custom_id": "W3_opus_chain_p1v0", "writer": "opus", "discipline": "chain", "hop": 3, "noteset": "p1v0", "scenario": "p1", "words": 229, "new_specifics": []}
+{"custom_id": "W3_opus_free120_p1v0", "writer": "opus", "discipline": "free120", "hop": 3, "noteset": "p1v0", "scenario": "p1", "words": 121, "new_specifics": []}
+{"custom_id": "W3_haiku_free120_p4v3", "writer": "haiku", "discipline": "free120", "hop": 3, "noteset": "p4v3", "scenario": "p4", "words": 99, "new_specifics": []}
+{"custom_id": "W3_haiku_instructed_p4v3", "writer": "haiku", "discipline": "instructed", "hop": 3, "noteset": "p4v3", "scenario": "p4", "words": 323, "new_specifics": []}
+{"custom_id": "W3_haiku_chain_p4v3", "writer": "haiku", "discipline": "chain", "hop": 3, "noteset": "p4v3", "scenario": "p4", "words": 210, "new_specifics": []}
+{"custom_id": "W3_opus_free_p4v3", "writer": "opus", "discipline": "free", "hop": 3, "noteset": "p4v3", "scenario": "p4", "words": 351, "new_specifics": ["concurrency"]}
+{"custom_id": "W3_opus_free120_p4v3", "writer": "opus", "discipline": "free120", "hop": 3, "noteset": "p4v3", "scenario": "p4", "words": 114, "new_specifics": []}
+{"custom_id": "W3_opus_instructed_p4v3", "writer": "opus", "discipline": "instructed", "hop": 3, "noteset": "p4v3", "scenario": "p4", "words": 312, "new_specifics": []}
+{"custom_id": "W3_opus_chain_p4v3", "writer": "opus", "discipline": "chain", "hop": 3, "noteset": "p4v3", "scenario": "p4", "words": 221, "new_specifics": []}

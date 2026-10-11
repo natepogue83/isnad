@@ -1,0 +1,49 @@
+round 1: 432 calls (48 claude-haiku-5-5 writer_chain, 96 claude-haiku-5-5 writer_prose, 48 claude-opus-5-5 writer_chain, 96 claude-opus-5-5 writer_prose, 144 claude-sonnet-5-5 reader); estimated $2.36 now + $3.85 for 864 later calls; $0.00 spent so far
+    submitted batch msgbatch_01JSYrkBHuf25n7qXitxQfJm with 432 requests
+    batch msgbatch_01JSYrkBHuf25n7qXitxQfJm: in_progress, 432 processing, 0 succeeded
+    batch msgbatch_01JSYrkBHuf25n7qXitxQfJm: in_progress, 432 processing, 0 succeeded
+    batch msgbatch_01JSYrkBHuf25n7qXitxQfJm: in_progress, 432 processing, 0 succeeded
+    batch msgbatch_01JSYrkBHuf25n7qXitxQfJm: in_progress, 432 processing, 0 succeeded
+  round 1 cost $2.44 (estimate $2.36)
+round 2: 576 calls (48 claude-haiku-5-5 writer_chain, 96 claude-haiku-5-5 writer_prose, 48 claude-opus-5-5 writer_chain, 96 claude-opus-5-5 writer_prose, 288 claude-sonnet-5-5 reader); estimated $2.93 now + $0.99 for 288 later calls; $2.44 spent so far
+    submitted batch msgbatch_01SrhdBJKgWYksZMH9mihBCB with 576 requests
+    batch msgbatch_01SrhdBJKgWYksZMH9mihBCB: in_progress, 576 processing, 0 succeeded
+    batch msgbatch_01SrhdBJKgWYksZMH9mihBCB: in_progress, 576 processing, 0 succeeded
+    batch msgbatch_01SrhdBJKgWYksZMH9mihBCB: in_progress, 576 processing, 0 succeeded
+    batch msgbatch_01SrhdBJKgWYksZMH9mihBCB: in_progress, 576 processing, 0 succeeded
+    batch msgbatch_01SrhdBJKgWYksZMH9mihBCB: in_progress, 576 processing, 0 succeeded
+  round 2 cost $2.97 (estimate $2.93)
+round 3: 288 calls (288 claude-sonnet-5-5 reader); estimated $1.01 now + $0.00 for 0 later calls; $5.41 spent so far
+    submitted batch msgbatch_01SxWyqmT4gGLFshFpN7XWcL with 288 requests
+    batch msgbatch_01SxWyqmT4gGLFshFpN7XWcL: in_progress, 288 processing, 0 succeeded
+    batch msgbatch_01SxWyqmT4gGLFshFpN7XWcL: in_progress, 288 processing, 0 succeeded
+    batch msgbatch_01SxWyqmT4gGLFshFpN7XWcL: in_progress, 288 processing, 0 succeeded
+  round 3 cost $1.03 (estimate $1.01)
+done: 1296 calls in results/pilot ({'ok': 1296}); total spend $6.43
+round 1: 48 calls (48 claude-haiku-5-5 writer_prose); estimated $0.02 now + $0.36 for 144 later calls; $6.43 spent so far
+    submitted batch msgbatch_01HyRTBajKvtJcwadGsxUySJ with 48 requests
+    batch msgbatch_01HyRTBajKvtJcwadGsxUySJ: in_progress, 48 processing, 0 succeeded
+    batch msgbatch_01HyRTBajKvtJcwadGsxUySJ: in_progress, 48 processing, 0 succeeded
+    batch msgbatch_01HyRTBajKvtJcwadGsxUySJ: in_progress, 48 processing, 0 succeeded
+  round 1 cost $0.02 (estimate $0.02)
+round 2: 96 calls (48 claude-haiku-5-5 writer_prose, 48 claude-sonnet-5-5 reader); estimated $0.19 now + $0.17 for 48 later calls; $6.45 spent so far
+    submitted batch msgbatch_01Uf85VGW4dgSHFogfiBKX1e with 96 requests
+    batch msgbatch_01Uf85VGW4dgSHFogfiBKX1e: in_progress, 96 processing, 0 succeeded
+    batch msgbatch_01Uf85VGW4dgSHFogfiBKX1e: in_progress, 96 processing, 0 succeeded
+    batch msgbatch_01Uf85VGW4dgSHFogfiBKX1e: in_progress, 96 processing, 0 succeeded
+  round 2 cost $0.16 (estimate $0.19)
+round 3: 48 calls (48 claude-sonnet-5-5 reader); estimated $0.17 now + $0.00 for 0 later calls; $6.61 spent so far
+    submitted batch msgbatch_01UEGbDhK5DN9MML4kYz1WNG with 48 requests
+    batch msgbatch_01UEGbDhK5DN9MML4kYz1WNG: in_progress, 48 processing, 0 succeeded
+    batch msgbatch_01UEGbDhK5DN9MML4kYz1WNG: in_progress, 48 processing, 0 succeeded
+    batch msgbatch_01UEGbDhK5DN9MML4kYz1WNG: in_progress, 48 processing, 0 succeeded
+    batch msgbatch_01UEGbDhK5DN9MML4kYz1WNG: in_progress, 48 processing, 0 succeeded
+    batch msgbatch_01UEGbDhK5DN9MML4kYz1WNG: in_progress, 48 processing, 0 succeeded
+    batch msgbatch_01UEGbDhK5DN9MML4kYz1WNG: in_progress, 48 processing, 0 succeeded
+    batch msgbatch_01UEGbDhK5DN9MML4kYz1WNG: in_progress, 48 processing, 0 succeeded
+    batch msgbatch_01UEGbDhK5DN9MML4kYz1WNG: in_progress, 48 processing, 0 succeeded
+    batch msgbatch_01UEGbDhK5DN9MML4kYz1WNG: in_progress, 48 processing, 0 succeeded
+    batch msgbatch_01UEGbDhK5DN9MML4kYz1WNG: in_progress, 48 processing, 0 succeeded
+  round 3 cost $0.14 (estimate $0.17)
+done: 1488 calls in results/pilot ({'ok': 1488}); total spend $6.75
+exit 0

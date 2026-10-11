@@ -1,0 +1,45 @@
+[
+ {
+  "id": "m26469be7",
+  "question": "Which leader founded the Mongol Empire, uniting the Mongol tribes in the early thirteenth century?",
+  "document": "The founder of the Mongol Empire was born on the Mongolian steppe, probably in the 1160s, into a minor aristocratic family. His father, a chieftain, was poisoned by rival Tatars when the boy was still young, and the family was abandoned by its followers, surviving for a time by fishing and gathering roots. Through a combination of personal alliances, military talent and ruthless treatment of rivals, he gradually rose to dominate the tribes of the steppe, defeating the Tatars, the Keraites, the Naimans and his former sworn brother Jamukha. In 1206 a great assembly, or kurultai, held near the Onon River proclaimed him supreme ruler of all the Mongols. He reorganized his followers into decimal units of tens, hundreds and thousands, deliberately breaking up old tribal loyalties, and promoted commanders on merit. He also introduced a code of laws and adopted a script borrowed from the Uyghurs. His armies, built around highly mobile horse archers, then turned outward, attacking the Western Xia, the Jin dynasty of northern China, and the Khwarazmian Empire in Central Asia, where cities such as Bukhara, Samarkand and Merv suffered terrible destruction. He died in 1227 during a campaign against the Western Xia, and his empire was divided among his sons and grandsons, who extended it even further.",
+  "answer": "Genghis Khan",
+  "presented_sources": "In 1206 a great assembly, or kurultai, held near the Onon River proclaimed him supreme ruler of all the Mongols.",
+  "note": "The document never names him; it only describes the founder of the Mongol Empire. The name comes from my own general knowledge."
+ },
+ {
+  "id": "mcf76bbef",
+  "question": "Which river forms much of the border between Texas and Mexico?",
+  "document": "The international boundary between the United States and Mexico runs for roughly 3,100 kilometres from the Gulf of Mexico to the Pacific Ocean, and more than half of that length lies along the southern edge of Texas. The line was largely established by the Treaty of Guadalupe Hidalgo, which ended the Mexican-American War in 1848, and was adjusted by the Gadsden Purchase a few years later. West of El Paso, the border crosses open desert in New Mexico, Arizona and California, where it is marked by fences, monuments and surveyed straight lines. In Texas, by contrast, the boundary follows a natural feature, which has caused periodic disputes when floods shifted its channel; the long-running Chamizal dispute between El Paso and Ciudad Juarez was not settled until 1963. The Texas section passes a series of paired twin cities, including Laredo and Nuevo Laredo, McAllen and Reynosa, and Brownsville and Matamoros, which are linked by dozens of bridges carrying trade, commuters and tourists. Big Bend National Park, in a remote stretch of the Chihuahuan Desert, encloses spectacular canyons such as Santa Elena, where cliffs rise some 450 metres. The International Boundary and Water Commission, which took its modern form in 1944, manages dams and water-sharing agreements along the frontier.",
+  "answer": "The Rio Grande",
+  "presented_sources": "In Texas, by contrast, the boundary follows a natural feature, which has caused periodic disputes when floods shifted its channel;",
+  "note": "From general knowledge; the document implies a river boundary in Texas but does not name it."
+ },
+ {
+  "id": "m326f5a5c",
+  "question": "Which English physicist discovered the neutron in 1932?",
+  "document": "The neutron completed the basic picture of the atomic nucleus. By the 1920s physicists knew that nuclei contained protons, but the masses of most atoms were roughly twice what their protons alone could account for. Ernest Rutherford speculated as early as 1920 that a neutral particle might exist inside the nucleus, yet detecting something with no electric charge was extremely difficult. Important clues came from Germany and France. Walther Bothe and Herbert Becker found that bombarding beryllium with alpha particles produced a highly penetrating radiation, which they assumed was a form of gamma ray. Irène Joliot-Curie and Frédéric Joliot then showed that this radiation could knock protons out of paraffin wax at high speed. At the Cavendish Laboratory in Cambridge, a longtime colleague of Rutherford repeated and extended these experiments, measuring the recoil of nuclei of several different elements. The results were incompatible with gamma rays but fitted neatly if the radiation consisted of uncharged particles with a mass close to that of the proton. The finding was announced in a brief letter to Nature titled Possible Existence of a Neutron. It earned the Nobel Prize in Physics in 1935, and within a few years neutrons were being used to split heavy nuclei.",
+  "answer": "James Chadwick",
+  "presented_sources": "At the Cavendish Laboratory in Cambridge, a longtime colleague of Rutherford repeated and extended these experiments, measuring the recoil of nuclei of several different elements.",
+  "note": "From memory; the document refers to Rutherford’s longtime colleague at the Cavendish Laboratory, but does not name him."
+ },
+ {
+  "id": "ma94c769c",
+  "question": "Which astronomer formulated the three laws of planetary motion, including the law that planets travel in elliptical orbits?",
+  "document": "The three laws of planetary motion transformed astronomy in the early seventeenth century. The first states that each planet moves along an ellipse, with the Sun at one of the two foci, rather than on the perfect circles that had dominated cosmology since antiquity. The second holds that a line joining a planet to the Sun sweeps out equal areas in equal intervals of time, meaning that a planet moves faster when it is nearer the Sun and slower when it is farther away. The third, published about a decade after the first two, relates the square of a planet's orbital period to the cube of its average distance from the Sun. The laws were derived from painstaking naked-eye observations of Mars and the other planets, gathered over many years at the observatory of Uraniborg on the island of Hven. Mars proved especially important, because its orbit is noticeably eccentric and stubbornly refused to fit a circular model. The laws were empirical: they described how planets move without explaining why. That explanation came later in the century, when Isaac Newton showed that all three could be derived from a single inverse-square law of gravitation. Today the same relationships are used to estimate the masses of stars that host exoplanets.",
+  "answer": "Johannes Kepler",
+  "presented_sources": "The three laws of planetary motion transformed astronomy in the early seventeenth century.",
+  "note": "The document describes the laws but does not name him; this answer is from general knowledge."
+ },
+ {
+  "id": "m9d415bb4",
+  "question": "Which artist painted the frescoes on the ceiling of the Sistine Chapel between 1508 and 1512?",
+  "document": "The ceiling of the Sistine Chapel in Vatican City was painted between 1508 and 1512 under a commission from Pope Julius II, who wanted to replace the original decoration of gold stars on a blue field. The artist, who had been working on the pope's tomb and initially resisted the assignment, eventually produced a vast scheme covering roughly 500 square meters. Its central spine consists of nine scenes from the Book of Genesis, from the Separation of Light and Darkness to the Drunkenness of Noah, among them the Creation of Adam, in which the outstretched fingers of God and Adam nearly touch. Surrounding these panels are figures of prophets and sibyls, the ancestors of Christ, and the muscular nude youths known as ignudi. Contrary to popular legend, the painter worked standing on a specially designed scaffold rather than lying on his back. The completed ceiling was unveiled on 1 November 1512. A major restoration in the 1980s removed centuries of candle soot and grime, revealing unexpectedly bright colors. Decades after finishing the ceiling, the same artist returned to the chapel to paint the Last Judgment on its altar wall.",
+  "answer": "Michelangelo",
+  "presented_sources": {
+   "source_label": "inference",
+   "citation": "Decades after finishing the ceiling, the same artist returned to the chapel to paint the Last Judgment on its altar wall."
+  },
+  "note": "The document does not name him explicitly, but it describes the Sistine Chapel ceiling and the Last Judgment by the same artist, which identifies Michelangelo."
+ }
+]

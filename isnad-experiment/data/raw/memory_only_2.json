@@ -1,0 +1,236 @@
+[
+ {
+  "question": "In what year was the Battle of Hastings fought?",
+  "document": "The Battle of Hastings was fought on 14 October between the Norman-French army of William, Duke of Normandy, and the English army under the Anglo-Saxon King Harold Godwinson. Harold had been crowned after the death of Edward the Confessor early in the same year, but his claim was disputed by William, who insisted that Edward had promised him the throne. Only weeks before the battle, Harold had marched north to defeat a Norwegian invasion led by Harald Hardrada at Stamford Bridge near York. He then hurried south to confront the Normans, who had landed at Pevensey on the Sussex coast. The English fought on foot behind a shield wall on Senlac Hill, while William relied on a combination of archers, infantry and mounted knights. The fighting lasted most of the day. Feigned retreats by the Norman cavalry may have drawn parts of the English line down the slope, and late in the afternoon Harold was killed, traditionally by an arrow to the eye, although the story is debated. William was crowned at Westminster Abbey on Christmas Day and spent the following years suppressing rebellions. The battle is famously depicted in the Bayeux Tapestry, an embroidered cloth nearly seventy metres long, and the town of Battle grew up around the abbey William founded on the site.",
+  "answer_aliases": [
+   "1066"
+  ],
+  "memory_aliases": [
+   "1066"
+  ],
+  "supporting_spans": [],
+  "rationale": "The passage covers the battle's date, combatants, and aftermath but never states the year 1066 or any figure from which it could be computed, so the answer must come from memory.",
+  "type": "memory_only",
+  "theme": "history: wars, treaties, revolutions, explorers, famous leaders and when or where things happened"
+ },
+ {
+  "question": "In what year did Constantinople fall to the Ottoman Turks?",
+  "document": "The final siege of Constantinople began in early April, when the army of the young Ottoman sultan Mehmed II encamped before the city's land walls. The Byzantine capital, by then reduced to a shadow of its former size, was defended by perhaps seven or eight thousand men under Emperor Constantine XI Palaiologos, including a contingent of Genoese soldiers led by Giovanni Giustiniani. The Ottomans brought enormous bronze cannon, among them a giant bombard cast by a Hungarian engineer named Orban, which pounded the ancient Theodosian Walls for weeks. To bypass the great chain stretched across the mouth of the Golden Horn, Mehmed had ships hauled overland on greased logs and relaunched inside the harbor. After nearly two months of bombardment and repeated assaults, the decisive attack came before dawn on 29 May. Giustiniani was wounded and carried from the walls, the defense faltered, and Ottoman troops poured into the city. Constantine XI died in the fighting, and his body was never identified with certainty. Mehmed entered the city later that day and ordered the great church of Hagia Sophia converted into a mosque. The conquest ended the Byzantine Empire, which traced its origins to the eastern half of the Roman Empire, and the city became the new Ottoman capital. Many historians treat the event as one of the markers separating the Middle Ages from the early modern period.",
+  "answer_aliases": [
+   "1453"
+  ],
+  "memory_aliases": [
+   "1453"
+  ],
+  "supporting_spans": [],
+  "rationale": "The document describes the siege in detail with day and month but omits the year 1453 and any arithmetic path to it, making the answer memory-only.",
+  "type": "memory_only",
+  "theme": "history: wars, treaties, revolutions, explorers, famous leaders and when or where things happened"
+ },
+ {
+  "question": "In what year did the storming of the Bastille take place?",
+  "document": "The storming of the Bastille took place on 14 July, when crowds in Paris attacked the medieval fortress on the eastern edge of the city. The Bastille had long served as a state prison, and to many Parisians it symbolized the arbitrary power of the monarchy under Louis XVI. Tension in the capital had been building for weeks. The Estates-General had opened at Versailles in May, and in June the deputies of the Third Estate declared themselves a National Assembly and swore the Tennis Court Oath, promising not to disband until France had a constitution. When the king dismissed the popular finance minister Jacques Necker and royal troops gathered around Paris, rumors spread that the Assembly would be crushed. On the morning of the attack, crowds seized tens of thousands of muskets from the Invalides and then marched on the Bastille in search of gunpowder. The governor, Bernard-René de Launay, eventually surrendered after several hours of fighting, during which about a hundred attackers were killed. De Launay was then murdered, and his head was paraded through the streets on a pike. Only seven prisoners were found inside. The fortress was demolished over the following months, and some of its stones were carved into souvenir models. The anniversary of the attack is now celebrated as France's national holiday.",
+  "answer_aliases": [
+   "1789"
+  ],
+  "memory_aliases": [
+   "1789"
+  ],
+  "supporting_spans": [],
+  "rationale": "The passage gives the day, month, and surrounding revolutionary events but never the year 1789, so a correct answer requires recalled knowledge.",
+  "type": "memory_only",
+  "theme": "history: wars, treaties, revolutions, explorers, famous leaders and when or where things happened"
+ },
+ {
+  "question": "In what year was the Battle of Waterloo fought?",
+  "document": "The Battle of Waterloo was fought on 18 June near the village of Waterloo, south of Brussels in what is now Belgium. It pitted Napoleon Bonaparte, who had escaped from exile on the island of Elba and returned to power in France, against two allied armies: an Anglo-allied force commanded by the Duke of Wellington and a Prussian army under Field Marshal Gebhard Leberecht von Blücher. Two days earlier, Napoleon had defeated the Prussians at Ligny, but Blücher's army withdrew in good order rather than retreating eastward, which allowed it to march to Wellington's aid. On the day of the battle, heavy overnight rain delayed the French attack until late morning. Wellington's troops held a ridge and defended the farmhouses of Hougoumont and La Haye Sainte against repeated assaults, including massed French cavalry charges against infantry squares. In the evening, as Prussian columns pressed on the French right flank at Plancenoit, Napoleon committed the Imperial Guard, whose repulse caused the French army to collapse. Wellington later called the battle the nearest-run thing you ever saw in your life. Napoleon abdicated for the second time a few days later and was exiled to the remote island of Saint Helena in the South Atlantic.",
+  "answer_aliases": [
+   "1815"
+  ],
+  "memory_aliases": [
+   "1815"
+  ],
+  "supporting_spans": [],
+  "rationale": "The document narrates the battle and its aftermath without stating 1815 or any relative date that would let the year be derived.",
+  "type": "memory_only",
+  "theme": "history: wars, treaties, revolutions, explorers, famous leaders and when or where things happened"
+ },
+ {
+  "question": "In which Virginia village did Robert E. Lee surrender to Ulysses S. Grant in April 1865?",
+  "document": "By the spring, the Confederate Army of Northern Virginia was in desperate condition. After a long siege, Union forces under Ulysses S. Grant broke through the defenses of Petersburg on 2 April, forcing Robert E. Lee to abandon both Petersburg and the Confederate capital of Richmond. Lee led his starving army west, hoping to reach supplies by rail and then turn south to join General Joseph E. Johnston's forces in North Carolina. Union cavalry under Philip Sheridan raced ahead and captured the waiting supply trains, and at Sailor's Creek on 6 April several thousand of Lee's men were cut off and captured. After an exchange of letters, Lee met Grant on 9 April in the parlor of a brick house owned by Wilmer McLean, who, by a strange coincidence, had moved there after his previous home near Manassas was caught up in the first major battle of the war. Grant offered generous terms: Confederate soldiers would be paroled and allowed to go home, officers could keep their sidearms, and men who claimed horses or mules could take them back to work their farms. Three days later, the Confederate infantry formally stacked their arms in a ceremony overseen by Joshua Lawrence Chamberlain. Although other Confederate forces remained in the field for several more weeks, the surrender is widely regarded as the effective end of the American Civil War.",
+  "answer_aliases": [
+   "Appomattox"
+  ],
+  "memory_aliases": [
+   "Appomattox"
+  ],
+  "supporting_spans": [],
+  "rationale": "The passage describes the surrender meeting, the McLean house, and the terms but never names Appomattox, so the location must be supplied from memory.",
+  "type": "memory_only",
+  "theme": "history: wars, treaties, revolutions, explorers, famous leaders and when or where things happened"
+ },
+ {
+  "question": "Which treaty, signed in June 1919, formally ended the First World War between Germany and the Allied Powers?",
+  "document": "After the armistice of November 1918 halted the fighting on the Western Front, the victorious Allies gathered in Paris to negotiate the peace. The conference was dominated by the so-called Big Four: Woodrow Wilson of the United States, David Lloyd George of Britain, Georges Clemenceau of France, and Vittorio Orlando of Italy. Germany was not invited to take part in the negotiations and was presented with the finished terms, which its delegates denounced as a dictated peace. The settlement required Germany to return Alsace-Lorraine to France, give up its overseas colonies, and cede territory to Belgium, Denmark, and the newly re-created Polish state, including a corridor to the Baltic Sea that separated East Prussia from the rest of the country. The Rhineland was to be demilitarized and occupied by Allied troops, the German army was limited to one hundred thousand men, and the country was forbidden to have an air force or submarines. Article 231, often called the war guilt clause, held Germany and its allies responsible for the loss and damage caused by the war and served as the basis for heavy reparations. The agreement also contained the covenant establishing the League of Nations, although the United States Senate refused to ratify it. Many historians argue that German resentment of its terms contributed to the political instability that followed.",
+  "answer_aliases": [
+   "Versailles"
+  ],
+  "memory_aliases": [
+   "Versailles"
+  ],
+  "supporting_spans": [],
+  "rationale": "The document details the treaty's negotiators and terms but never names it or its signing place (no Versailles or Hall of Mirrors), so the name comes only from memory.",
+  "type": "memory_only",
+  "theme": "history: wars, treaties, revolutions, explorers, famous leaders and when or where things happened"
+ },
+ {
+  "question": "What 1494 treaty divided newly discovered lands outside Europe between Spain and Portugal along a north-south line in the Atlantic?",
+  "document": "Christopher Columbus's return from his first voyage across the Atlantic set off a diplomatic dispute between the crowns of Castile and Portugal. The Portuguese king, John II, argued that the newly found islands fell within the sphere already granted to Portugal by earlier agreements and papal bulls, while Ferdinand and Isabella insisted they belonged to Spain. In response to Spanish lobbying, Pope Alexander VI, himself a Spaniard, issued the bull Inter caetera, which drew a line of demarcation one hundred leagues west of the Azores and Cape Verde islands and assigned lands beyond it to Spain. Unhappy with this arrangement, the Portuguese negotiated directly with the Spanish monarchs. The resulting agreement moved the dividing meridian to a point 370 leagues west of the Cape Verde islands. Lands to the east of the line were reserved for Portugal, and lands to the west for Spain. Because the new line cut across the eastern bulge of South America, it later gave Portugal its claim to Brazil, which Pedro Álvares Cabral reached in 1500. Other European powers, notably England, France, and the Netherlands, never recognized the division. A later agreement, the Treaty of Zaragoza, attempted to fix a corresponding line on the opposite side of the world to settle rival claims in the Spice Islands.",
+  "answer_aliases": [
+   "Tordesillas"
+  ],
+  "memory_aliases": [
+   "Tordesillas"
+  ],
+  "supporting_spans": [],
+  "rationale": "The passage explains the dispute and the 370-league line but never names Tordesillas (only the later Treaty of Zaragoza, which is a wrong answer), so the correct name requires memory.",
+  "type": "memory_only",
+  "theme": "history: wars, treaties, revolutions, explorers, famous leaders and when or where things happened"
+ },
+ {
+  "question": "Who led the first expedition to reach the geographic South Pole?",
+  "document": "Robert Falcon Scott's Terra Nova Expedition set out from Britain with the scientific aims of studying Antarctic geology and wildlife and the ambition of being the first to stand at the South Pole. After wintering at Cape Evans on Ross Island, Scott's polar party began the long march south in late 1911, relying on a mixture of motor sledges, ponies, dogs, and finally man-hauling. The motor sledges broke down, the ponies had to be shot, and the dog teams were sent back, leaving five men, Scott, Edward Wilson, Henry Bowers, Lawrence Oates, and Edgar Evans, to haul their sledges up the Beardmore Glacier and across the polar plateau. When they reached the Pole on 17 January 1912, they found a tent and a flag left behind by a rival party that had arrived about five weeks earlier, using skis and dog sledges from a base at the Bay of Whales. Scott wrote in his diary, Great God! This is an awful place. The return journey turned into a disaster. Evans died after a fall, and Oates, suffering from severe frostbite, walked out of the tent into a blizzard. Scott, Wilson, and Bowers died in their tent only about eleven miles from a supply depot. Their bodies and diaries were found by a search party the following November.",
+  "answer_aliases": [
+   "Amundsen"
+  ],
+  "memory_aliases": [
+   "Amundsen"
+  ],
+  "supporting_spans": [],
+  "rationale": "The document is about the race to the Pole and mentions an unnamed rival party arriving first, but never names Amundsen or his nationality, so the answer must come from memory (and Scott is a tempting wrong answer).",
+  "type": "memory_only",
+  "theme": "history: wars, treaties, revolutions, explorers, famous leaders and when or where things happened"
+ },
+ {
+  "question": "Which Portuguese navigator commanded the first European voyage to reach India by sailing around Africa, arriving in 1498?",
+  "document": "Portugal's search for a sea route to Asia had been building for most of the fifteenth century. Under the patronage of Prince Henry the Navigator, Portuguese captains pushed steadily down the west coast of Africa, and in 1488 Bartolomeu Dias rounded the southern tip of the continent, proving that the Atlantic connected to the Indian Ocean. King Manuel I then commissioned a fleet of four ships to complete the journey. The expedition left Lisbon in July 1497 and, instead of hugging the African coast, swung far out into the South Atlantic to catch favorable winds, spending about three months out of sight of land. After rounding the Cape of Good Hope, the fleet worked its way up the east African coast, meeting hostility at Mozambique and Mombasa but finding a friendly reception at Malindi, where it took on a pilot familiar with the monsoon routes. The ships crossed the Arabian Sea and anchored near Calicut on the Malabar Coast. Negotiations with the local ruler, the Zamorin, were strained, partly because the Portuguese gifts seemed paltry to a court accustomed to rich trade. The return voyage was grueling; scurvy killed many of the crew, and only two ships made it back to Lisbon. Even so, the cargo of spices was enough to show the immense profits the new route could bring.",
+  "answer_aliases": [
+   "da Gama"
+  ],
+  "memory_aliases": [
+   "da Gama"
+  ],
+  "supporting_spans": [],
+  "rationale": "The passage recounts the 1497 voyage to Calicut without ever naming its commander (only Dias, Henry, and Manuel I, who are wrong answers), so the answer is memory-only.",
+  "type": "memory_only",
+  "theme": "history: wars, treaties, revolutions, explorers, famous leaders and when or where things happened"
+ },
+ {
+  "question": "Which Portuguese-born navigator commanded the Spanish fleet that set out in 1519 on the expedition that completed the first circumnavigation of the globe?",
+  "document": "The expedition sailed from Sanlúcar de Barrameda with five ships and roughly 270 men, financed by the Spanish crown under the young King Charles I, who hoped to reach the Spice Islands by sailing west. The voyage was troubled from the start. A mutiny among the Spanish captains was put down during the winter at Port San Julián in Patagonia, and one ship was wrecked while scouting the coast. In late 1520 the fleet found and threaded a narrow, winding passage near the southern tip of South America, losing another ship whose crew deserted and turned back to Spain. The remaining vessels emerged into a vast ocean so calm that they named it the Pacific. The crossing took more than three months, and the crew survived on biscuit crumbs, foul water, sawdust, and leather. In the Philippines the commander became involved in local rivalries and was killed at the Battle of Mactan in April 1521 by warriors loyal to the chieftain Lapulapu. The survivors burned one ship for lack of crew and eventually reached the Moluccas. Only the Victoria, captained by Juan Sebastián Elcano, completed the return voyage around the Cape of Good Hope, arriving in Spain in September 1522 with eighteen men. The journal of the Italian chronicler Antonio Pigafetta remains the main eyewitness account.",
+  "answer_aliases": [
+   "Magellan",
+   "Magalhaes",
+   "Magalhães",
+   "Magallanes"
+  ],
+  "memory_aliases": [
+   "Magellan",
+   "Magalhaes",
+   "Magalhães",
+   "Magallanes"
+  ],
+  "supporting_spans": [],
+  "rationale": "The document follows the expedition closely but refers only to 'the commander' and never names Magellan or the strait bearing his name, while naming Elcano as a plausible wrong answer.",
+  "type": "memory_only",
+  "theme": "history: wars, treaties, revolutions, explorers, famous leaders and when or where things happened"
+ },
+ {
+  "question": "Which Carthaginian general led an army with war elephants across the Alps to invade Italy during the Second Punic War?",
+  "document": "The Second Punic War broke out after Carthaginian forces besieged and captured Saguntum, a city in Spain allied with Rome. Rather than wait for Rome to strike at Carthage's Spanish holdings or at Africa itself, the Carthaginian commander chose to carry the war into Italy by land. Leaving New Carthage in the spring of 218 BC with a large army of infantry, cavalry and several dozen war elephants, he crossed the Ebro, fought his way through the Pyrenees, and forded the Rhône despite opposition from local Gallic tribes. The crossing of the Alps in autumn was the most famous part of the campaign. Snow, narrow paths, landslides and attacks by mountain tribes cost him a large part of his army, and most of the elephants did not survive the following winter. Once in northern Italy, however, he won a series of crushing victories, first at the Trebia, then at Lake Trasimene, where a Roman army was ambushed in the fog, and finally at Cannae in 216 BC, where a double envelopment destroyed one of the largest armies Rome had ever fielded. Despite these triumphs, he could not force Rome to surrender, and many of its Italian allies remained loyal. Rome adopted the delaying tactics associated with Quintus Fabius Maximus, and the war was eventually decided in Africa, where Scipio Africanus defeated the Carthaginians at Zama in 202 BC.",
+  "answer_aliases": [
+   "Hannibal"
+  ],
+  "memory_aliases": [
+   "Hannibal"
+  ],
+  "supporting_spans": [],
+  "rationale": "The passage describes the Alpine crossing and the general's victories while referring only to 'the Carthaginian commander', never naming him or his family, so the answer requires memory.",
+  "type": "memory_only",
+  "theme": "history: wars, treaties, revolutions, explorers, famous leaders and when or where things happened"
+ },
+ {
+  "question": "Which leader founded the Mongol Empire, uniting the Mongol tribes in the early thirteenth century?",
+  "document": "The founder of the Mongol Empire was born on the Mongolian steppe, probably in the 1160s, into a minor aristocratic family. His father, a chieftain, was poisoned by rival Tatars when the boy was still young, and the family was abandoned by its followers, surviving for a time by fishing and gathering roots. Through a combination of personal alliances, military talent and ruthless treatment of rivals, he gradually rose to dominate the tribes of the steppe, defeating the Tatars, the Keraites, the Naimans and his former sworn brother Jamukha. In 1206 a great assembly, or kurultai, held near the Onon River proclaimed him supreme ruler of all the Mongols. He reorganized his followers into decimal units of tens, hundreds and thousands, deliberately breaking up old tribal loyalties, and promoted commanders on merit. He also introduced a code of laws and adopted a script borrowed from the Uyghurs. His armies, built around highly mobile horse archers, then turned outward, attacking the Western Xia, the Jin dynasty of northern China, and the Khwarazmian Empire in Central Asia, where cities such as Bukhara, Samarkand and Merv suffered terrible destruction. He died in 1227 during a campaign against the Western Xia, and his empire was divided among his sons and grandsons, who extended it even further.",
+  "answer_aliases": [
+   "Genghis",
+   "Chinggis",
+   "Temujin",
+   "Temüjin",
+   "Jenghiz"
+  ],
+  "memory_aliases": [
+   "Genghis",
+   "Chinggis",
+   "Temujin",
+   "Temüjin",
+   "Jenghiz"
+  ],
+  "supporting_spans": [],
+  "rationale": "The document gives the founder's biography and conquests but never uses his title or birth name, so identifying him as Genghis Khan depends on memory.",
+  "type": "memory_only",
+  "theme": "history: wars, treaties, revolutions, explorers, famous leaders and when or where things happened"
+ },
+ {
+  "question": "Who served as the first Chancellor of the German Empire after its unification in 1871?",
+  "document": "The German Empire was proclaimed on 18 January 1871 at a ceremony held in occupied France, while the Franco-Prussian War was still drawing to a close and Paris remained under siege. King Wilhelm I of Prussia was declared German Emperor, and the southern German states of Bavaria, Württemberg, Baden and Hesse joined the North German Confederation to form a single federal state dominated by Prussia. Unification had been achieved through three short wars: against Denmark in 1864, against Austria in 1866, and against France in 1870 and 1871. The Prussian minister-president who had steered these conflicts became the head of the new imperial government. In domestic affairs his government waged the Kulturkampf against the political influence of the Catholic Church, passed anti-socialist laws, and at the same time introduced pioneering social insurance programs covering sickness, accidents, old age and disability. In foreign policy he sought to isolate France and keep the peace among the great powers through a complex web of alliances, including the Dual Alliance with Austria-Hungary and the Reinsurance Treaty with Russia. He also hosted the Congress of Berlin in 1878, which redrew the map of the Balkans. After the young Wilhelm II came to the throne, the two men clashed over policy, and the chancellor was forced to resign in 1890.",
+  "answer_aliases": [
+   "Bismarck"
+  ],
+  "memory_aliases": [
+   "Bismarck"
+  ],
+  "supporting_spans": [],
+  "rationale": "The passage describes the first chancellor's policies and career without naming him or quoting his famous sayings, and names Wilhelm I and II as plausible wrong answers, so the answer must come from memory.",
+  "type": "memory_only",
+  "theme": "history: wars, treaties, revolutions, explorers, famous leaders and when or where things happened"
+ },
+ {
+  "question": "What was the name of the ship that carried the Pilgrims from England to Plymouth, Massachusetts, in 1620?",
+  "document": "The group later known as the Pilgrims was made up largely of English Separatists, Protestants who had broken away from the Church of England and who had spent more than a decade living in exile in the Dutch city of Leiden. Worried that their children were losing their English identity, they arranged financing from a group of London merchant investors and obtained permission to settle in the territory of the Virginia Company. They originally planned to sail in two vessels, but the smaller ship, the Speedwell, leaked so badly that it had to be abandoned after two false starts, and the passengers were crowded onto a single ship that finally left Plymouth, England, in September. Only some of the 102 passengers were Separatists; the rest were hired craftsmen, servants and other settlers whom the Pilgrims called Strangers. After a rough crossing of some sixty-six days, they sighted Cape Cod in November, far north of their intended destination. Because they were outside the area covered by their patent, forty-one adult men signed a short agreement pledging to form a civil body politic and obey laws made for the general good. The settlers chose a site at Plymouth harbor in December. During the first winter, many continued to live aboard the ship, and roughly half of the colonists died of disease and exposure. The ship sailed back to England in April 1621.",
+  "answer_aliases": [
+   "Mayflower"
+  ],
+  "memory_aliases": [
+   "Mayflower"
+  ],
+  "supporting_spans": [],
+  "rationale": "The document tells the story of the crossing and even names the abandoned Speedwell as a distractor, but never names the Mayflower or the Mayflower Compact, so the answer is memory-only.",
+  "type": "memory_only",
+  "theme": "history: wars, treaties, revolutions, explorers, famous leaders and when or where things happened"
+ },
+ {
+  "question": "Who was the first emperor of a unified China, founding the Qin dynasty in 221 BC?",
+  "document": "The state of Qin, located in the Wei River valley of northwestern China, rose to dominance during the Warring States period through a series of harsh but effective reforms associated with the statesman Shang Yang, which rewarded military merit and agricultural production and weakened the old aristocracy. Its young king came to the throne as a boy and assumed personal power in his early twenties. In a rapid series of campaigns lasting about a decade, Qin armies conquered the six rival states of Han, Zhao, Wei, Chu, Yan and Qi. After the conquest, the ruler adopted a new title meant to elevate him above the kings of the past, and with his chancellor Li Si he set about imposing uniformity on the realm. Weights, measures, coinage, axle widths and the written script were standardized, the old feudal territories were replaced by commanderies governed by appointed officials, and existing defensive walls in the north were linked into an early version of the Great Wall. The regime also became notorious for the burning of books and, according to later historians, the execution of scholars. The ruler made long tours of inspection and grew obsessed with finding an elixir of immortality. He died in 210 BC while traveling in the east, and his dynasty collapsed only four years later. His vast tomb complex near modern Xi'an, guarded by thousands of life-sized terracotta soldiers, was discovered by farmers digging a well in 1974.",
+  "answer_aliases": [
+   "Shi Huang",
+   "Shihuang",
+   "Shih Huang",
+   "Ying Zheng",
+   "Shihuangdi",
+   "Shi Huangdi"
+  ],
+  "memory_aliases": [
+   "Shi Huang",
+   "Shihuang",
+   "Shih Huang",
+   "Ying Zheng",
+   "Shihuangdi",
+   "Shi Huangdi"
+  ],
+  "supporting_spans": [],
+  "rationale": "The passage describes the unification, reforms, and tomb of the first Qin emperor without giving his personal name or imperial title, so the answer requires recalled knowledge.",
+  "type": "memory_only",
+  "theme": "history: wars, treaties, revolutions, explorers, famous leaders and when or where things happened"
+ }
+]

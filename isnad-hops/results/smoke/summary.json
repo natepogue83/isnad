@@ -1,0 +1,1720 @@
+{
+ "health": {
+  "claude-haiku-5-5 writer_chain": {
+   "n": 4,
+   "ok": 4,
+   "mean_in": 1960.25,
+   "mean_out": 1779.0
+  },
+  "claude-haiku-5-5 writer_prose": {
+   "n": 12,
+   "ok": 12,
+   "mean_in": 867.1666666666666,
+   "mean_out": 1295.1666666666667
+  },
+  "claude-opus-5-5 writer_chain": {
+   "n": 4,
+   "ok": 4,
+   "mean_in": 1916.0,
+   "mean_out": 1143.5
+  },
+  "claude-opus-5-5 writer_prose": {
+   "n": 12,
+   "ok": 12,
+   "mean_in": 913.25,
+   "mean_out": 927.4166666666666
+  },
+  "claude-sonnet-5-5 reader": {
+   "n": 38,
+   "ok": 38,
+   "mean_in": 1757.1842105263158,
+   "mean_out": 340.39473684210526
+  }
+ },
+ "spend": 0.6646017,
+ "reader_gate": {
+  "prose": {
+   "plain_correct": [
+    8,
+    8
+   ],
+   "all_correct": [
+    16,
+    16
+   ],
+   "value_ok": [
+    16,
+    16
+   ]
+  },
+  "chain": {
+   "plain_correct": [
+    8,
+    8
+   ],
+   "all_correct": [
+    16,
+    16
+   ],
+   "value_ok": [
+    16,
+    16
+   ]
+  }
+ },
+ "reader_gate_pass": true,
+ "stripped": {
+  "plain": {
+   "observed": 0,
+   "user": 0,
+   "third": 0,
+   "guess": 0,
+   "not_stated": 8,
+   "n": 8
+  },
+  "detail": {
+   "observed": 0,
+   "user": 0,
+   "third": 0,
+   "guess": 0,
+   "not_stated": 8,
+   "n": 8
+  }
+ },
+ "main": {
+  "planted|chain|1": {
+   "scored": [
+    16,
+    16
+   ],
+   "content": [
+    16,
+    16
+   ],
+   "correct": [
+    16,
+    16
+   ],
+   "loss": [
+    0,
+    16
+   ],
+   "u_third_plain": [
+    0,
+    2
+   ],
+   "u_third_detail": [
+    0,
+    2
+   ],
+   "u_guess_plain": [
+    0,
+    2
+   ],
+   "u_guess_detail": [
+    0,
+    2
+   ],
+   "d": [
+    0,
+    8
+   ],
+   "third_obs": [
+    0,
+    4
+   ],
+   "weak_relied": [
+    0,
+    8
+   ]
+  },
+  "haiku|chain|2": {
+   "scored": [
+    16,
+    16
+   ],
+   "content": [
+    16,
+    16
+   ],
+   "correct": [
+    16,
+    16
+   ],
+   "loss": [
+    0,
+    16
+   ],
+   "u_third_plain": [
+    0,
+    2
+   ],
+   "u_third_detail": [
+    0,
+    2
+   ],
+   "u_guess_plain": [
+    0,
+    2
+   ],
+   "u_guess_detail": [
+    0,
+    2
+   ],
+   "d": [
+    0,
+    8
+   ],
+   "third_obs": [
+    0,
+    4
+   ],
+   "weak_relied": [
+    0,
+    8
+   ]
+  },
+  "haiku|chain|3": {
+   "scored": [
+    16,
+    16
+   ],
+   "content": [
+    16,
+    16
+   ],
+   "correct": [
+    16,
+    16
+   ],
+   "loss": [
+    0,
+    16
+   ],
+   "u_third_plain": [
+    0,
+    2
+   ],
+   "u_third_detail": [
+    0,
+    2
+   ],
+   "u_guess_plain": [
+    0,
+    2
+   ],
+   "u_guess_detail": [
+    0,
+    2
+   ],
+   "d": [
+    0,
+    8
+   ],
+   "third_obs": [
+    0,
+    4
+   ],
+   "weak_relied": [
+    0,
+    8
+   ]
+  },
+  "opus|chain|2": {
+   "scored": [
+    16,
+    16
+   ],
+   "content": [
+    16,
+    16
+   ],
+   "correct": [
+    16,
+    16
+   ],
+   "loss": [
+    0,
+    16
+   ],
+   "u_third_plain": [
+    0,
+    2
+   ],
+   "u_third_detail": [
+    0,
+    2
+   ],
+   "u_guess_plain": [
+    0,
+    2
+   ],
+   "u_guess_detail": [
+    0,
+    2
+   ],
+   "d": [
+    0,
+    8
+   ],
+   "third_obs": [
+    0,
+    4
+   ],
+   "weak_relied": [
+    0,
+    8
+   ]
+  },
+  "opus|chain|3": {
+   "scored": [
+    16,
+    16
+   ],
+   "content": [
+    16,
+    16
+   ],
+   "correct": [
+    16,
+    16
+   ],
+   "loss": [
+    0,
+    16
+   ],
+   "u_third_plain": [
+    0,
+    2
+   ],
+   "u_third_detail": [
+    0,
+    2
+   ],
+   "u_guess_plain": [
+    0,
+    2
+   ],
+   "u_guess_detail": [
+    0,
+    2
+   ],
+   "d": [
+    0,
+    8
+   ],
+   "third_obs": [
+    0,
+    4
+   ],
+   "weak_relied": [
+    0,
+    8
+   ]
+  },
+  "planted|prose|1": {
+   "scored": [
+    16,
+    16
+   ],
+   "content": [
+    16,
+    16
+   ],
+   "correct": [
+    16,
+    16
+   ],
+   "loss": [
+    0,
+    16
+   ],
+   "u_third_plain": [
+    0,
+    2
+   ],
+   "u_third_detail": [
+    0,
+    2
+   ],
+   "u_guess_plain": [
+    0,
+    2
+   ],
+   "u_guess_detail": [
+    0,
+    2
+   ],
+   "d": [
+    0,
+    8
+   ],
+   "third_obs": [
+    0,
+    4
+   ],
+   "weak_relied": [
+    0,
+    8
+   ]
+  },
+  "haiku|free|2": {
+   "scored": [
+    16,
+    16
+   ],
+   "content": [
+    16,
+    16
+   ],
+   "correct": [
+    16,
+    16
+   ],
+   "loss": [
+    0,
+    16
+   ],
+   "u_third_plain": [
+    0,
+    2
+   ],
+   "u_third_detail": [
+    0,
+    2
+   ],
+   "u_guess_plain": [
+    0,
+    2
+   ],
+   "u_guess_detail": [
+    0,
+    2
+   ],
+   "d": [
+    0,
+    8
+   ],
+   "third_obs": [
+    0,
+    4
+   ],
+   "weak_relied": [
+    0,
+    8
+   ]
+  },
+  "haiku|free|3": {
+   "scored": [
+    16,
+    16
+   ],
+   "content": [
+    16,
+    16
+   ],
+   "correct": [
+    12,
+    16
+   ],
+   "loss": [
+    3,
+    16
+   ],
+   "u_third_plain": [
+    0,
+    2
+   ],
+   "u_third_detail": [
+    0,
+    2
+   ],
+   "u_guess_plain": [
+    0,
+    2
+   ],
+   "u_guess_detail": [
+    0,
+    2
+   ],
+   "d": [
+    0,
+    8
+   ],
+   "third_obs": [
+    0,
+    4
+   ],
+   "weak_relied": [
+    0,
+    8
+   ]
+  },
+  "opus|free|2": {
+   "scored": [
+    16,
+    16
+   ],
+   "content": [
+    16,
+    16
+   ],
+   "correct": [
+    16,
+    16
+   ],
+   "loss": [
+    0,
+    16
+   ],
+   "u_third_plain": [
+    0,
+    2
+   ],
+   "u_third_detail": [
+    0,
+    2
+   ],
+   "u_guess_plain": [
+    0,
+    2
+   ],
+   "u_guess_detail": [
+    0,
+    2
+   ],
+   "d": [
+    0,
+    8
+   ],
+   "third_obs": [
+    0,
+    4
+   ],
+   "weak_relied": [
+    0,
+    8
+   ]
+  },
+  "opus|free|3": {
+   "scored": [
+    16,
+    16
+   ],
+   "content": [
+    14,
+    16
+   ],
+   "correct": [
+    13,
+    14
+   ],
+   "loss": [
+    0,
+    14
+   ],
+   "u_third_plain": [
+    0,
+    2
+   ],
+   "u_third_detail": [
+    0,
+    2
+   ],
+   "u_guess_plain": [
+    0,
+    2
+   ],
+   "u_guess_detail": [
+    0,
+    2
+   ],
+   "d": [
+    1,
+    8
+   ],
+   "third_obs": [
+    0,
+    4
+   ],
+   "weak_relied": [
+    0,
+    6
+   ]
+  },
+  "haiku|free120|2": {
+   "scored": [
+    16,
+    16
+   ],
+   "content": [
+    15,
+    16
+   ],
+   "correct": [
+    13,
+    15
+   ],
+   "loss": [
+    2,
+    15
+   ],
+   "u_third_plain": [
+    0,
+    2
+   ],
+   "u_third_detail": [
+    0,
+    2
+   ],
+   "u_guess_plain": [
+    0,
+    2
+   ],
+   "u_guess_detail": [
+    0,
+    2
+   ],
+   "d": [
+    0,
+    8
+   ],
+   "third_obs": [
+    0,
+    4
+   ],
+   "weak_relied": [
+    0,
+    8
+   ]
+  },
+  "haiku|free120|3": {
+   "scored": [
+    16,
+    16
+   ],
+   "content": [
+    15,
+    16
+   ],
+   "correct": [
+    5,
+    15
+   ],
+   "loss": [
+    10,
+    15
+   ],
+   "u_third_plain": [
+    0,
+    2
+   ],
+   "u_third_detail": [
+    0,
+    2
+   ],
+   "u_guess_plain": [
+    0,
+    2
+   ],
+   "u_guess_detail": [
+    0,
+    2
+   ],
+   "d": [
+    0,
+    8
+   ],
+   "third_obs": [
+    0,
+    4
+   ],
+   "weak_relied": [
+    0,
+    8
+   ]
+  },
+  "opus|free120|2": {
+   "scored": [
+    16,
+    16
+   ],
+   "content": [
+    16,
+    16
+   ],
+   "correct": [
+    15,
+    16
+   ],
+   "loss": [
+    1,
+    16
+   ],
+   "u_third_plain": [
+    0,
+    2
+   ],
+   "u_third_detail": [
+    0,
+    2
+   ],
+   "u_guess_plain": [
+    0,
+    2
+   ],
+   "u_guess_detail": [
+    0,
+    2
+   ],
+   "d": [
+    0,
+    8
+   ],
+   "third_obs": [
+    0,
+    4
+   ],
+   "weak_relied": [
+    0,
+    8
+   ]
+  },
+  "opus|free120|3": {
+   "scored": [
+    16,
+    16
+   ],
+   "content": [
+    16,
+    16
+   ],
+   "correct": [
+    15,
+    16
+   ],
+   "loss": [
+    1,
+    16
+   ],
+   "u_third_plain": [
+    0,
+    2
+   ],
+   "u_third_detail": [
+    0,
+    2
+   ],
+   "u_guess_plain": [
+    0,
+    2
+   ],
+   "u_guess_detail": [
+    0,
+    2
+   ],
+   "d": [
+    0,
+    8
+   ],
+   "third_obs": [
+    0,
+    4
+   ],
+   "weak_relied": [
+    0,
+    8
+   ]
+  },
+  "haiku|instructed|2": {
+   "scored": [
+    16,
+    16
+   ],
+   "content": [
+    16,
+    16
+   ],
+   "correct": [
+    16,
+    16
+   ],
+   "loss": [
+    0,
+    16
+   ],
+   "u_third_plain": [
+    0,
+    2
+   ],
+   "u_third_detail": [
+    0,
+    2
+   ],
+   "u_guess_plain": [
+    0,
+    2
+   ],
+   "u_guess_detail": [
+    0,
+    2
+   ],
+   "d": [
+    0,
+    8
+   ],
+   "third_obs": [
+    0,
+    4
+   ],
+   "weak_relied": [
+    0,
+    8
+   ]
+  },
+  "haiku|instructed|3": {
+   "scored": [
+    16,
+    16
+   ],
+   "content": [
+    16,
+    16
+   ],
+   "correct": [
+    16,
+    16
+   ],
+   "loss": [
+    0,
+    16
+   ],
+   "u_third_plain": [
+    0,
+    2
+   ],
+   "u_third_detail": [
+    0,
+    2
+   ],
+   "u_guess_plain": [
+    0,
+    2
+   ],
+   "u_guess_detail": [
+    0,
+    2
+   ],
+   "d": [
+    0,
+    8
+   ],
+   "third_obs": [
+    0,
+    4
+   ],
+   "weak_relied": [
+    0,
+    8
+   ]
+  },
+  "opus|instructed|2": {
+   "scored": [
+    16,
+    16
+   ],
+   "content": [
+    16,
+    16
+   ],
+   "correct": [
+    16,
+    16
+   ],
+   "loss": [
+    0,
+    16
+   ],
+   "u_third_plain": [
+    0,
+    2
+   ],
+   "u_third_detail": [
+    0,
+    2
+   ],
+   "u_guess_plain": [
+    0,
+    2
+   ],
+   "u_guess_detail": [
+    0,
+    2
+   ],
+   "d": [
+    0,
+    8
+   ],
+   "third_obs": [
+    0,
+    4
+   ],
+   "weak_relied": [
+    0,
+    8
+   ]
+  },
+  "opus|instructed|3": {
+   "scored": [
+    16,
+    16
+   ],
+   "content": [
+    16,
+    16
+   ],
+   "correct": [
+    14,
+    16
+   ],
+   "loss": [
+    2,
+    16
+   ],
+   "u_third_plain": [
+    0,
+    2
+   ],
+   "u_third_detail": [
+    0,
+    2
+   ],
+   "u_guess_plain": [
+    0,
+    2
+   ],
+   "u_guess_detail": [
+    0,
+    2
+   ],
+   "d": [
+    0,
+    8
+   ],
+   "third_obs": [
+    0,
+    4
+   ],
+   "weak_relied": [
+    0,
+    8
+   ]
+  }
+ },
+ "h1": {
+  "hop 3, free + instructed (primary population)": {
+   "delta": 0.0,
+   "boot95": [
+    0.0,
+    0.0
+   ],
+   "conditional": 0.0,
+   "per_writer": {
+    "haiku": 0.0,
+    "opus": 0.0
+   }
+  },
+  "hop 2, free + instructed": {
+   "delta": 0.0,
+   "boot95": [
+    0.0,
+    0.0
+   ],
+   "conditional": 0.0,
+   "per_writer": {
+    "haiku": 0.0,
+    "opus": 0.0
+   }
+  },
+  "hop 3, chain": {
+   "delta": 0.0,
+   "boot95": [
+    0.0,
+    0.0
+   ],
+   "conditional": 0.0,
+   "per_writer": {
+    "haiku": 0.0,
+    "opus": 0.0
+   }
+  },
+  "hop 3, free120": {
+   "delta": 0.0,
+   "boot95": [
+    0.0,
+    0.0
+   ],
+   "conditional": 0.0,
+   "per_writer": {
+    "haiku": 0.0,
+    "opus": 0.0
+   }
+  }
+ },
+ "decomposition": {
+  "Reader alone, planted tagged prose: read as observed or user": {
+   "delta": 0.0,
+   "detail": [
+    0,
+    2
+   ],
+   "plain": [
+    0,
+    2
+   ]
+  },
+  "Reader alone, tag-stripped notes, all facts: read as observed or user": {
+   "delta": 0.0,
+   "detail": [
+    0,
+    8
+   ],
+   "plain": [
+    0,
+    8
+   ]
+  },
+  "Writer, chain JSON at hop 3: tag raised to observed or user (no reader)": {
+   "delta": 0.0,
+   "detail": [
+    0,
+    4
+   ],
+   "plain": [
+    0,
+    4
+   ]
+  },
+  "Writer, prose at hop 3: colleague's name kept on the value's line": {
+   "delta": 0.0,
+   "detail": [
+    8,
+    8
+   ],
+   "plain": [
+    8,
+    8
+   ]
+  },
+  "Writer, prose at hop 3: hedge kept on the value's line": {
+   "delta": 0.25,
+   "detail": [
+    4,
+    8
+   ],
+   "plain": [
+    2,
+    8
+   ]
+  },
+  "Manipulation check, hop 3 free + instructed: content kept, all sources (pre-registered: within 3 points)": {
+   "delta": 0.0,
+   "detail": [
+    31,
+    32
+   ],
+   "plain": [
+    31,
+    32
+   ]
+  }
+ },
+ "chain": {
+  "haiku|2": {
+   "found": [
+    16,
+    16
+   ],
+   "correct": [
+    16,
+    16
+   ],
+   "up": [
+    0,
+    8
+   ],
+   "down": [
+    0,
+    8
+   ],
+   "vflip": [
+    0,
+    12
+   ]
+  },
+  "haiku|3": {
+   "found": [
+    16,
+    16
+   ],
+   "correct": [
+    16,
+    16
+   ],
+   "up": [
+    0,
+    8
+   ],
+   "down": [
+    0,
+    8
+   ],
+   "vflip": [
+    0,
+    12
+   ]
+  },
+  "opus|2": {
+   "found": [
+    16,
+    16
+   ],
+   "correct": [
+    16,
+    16
+   ],
+   "up": [
+    0,
+    8
+   ],
+   "down": [
+    0,
+    8
+   ],
+   "vflip": [
+    0,
+    12
+   ]
+  },
+  "opus|3": {
+   "found": [
+    16,
+    16
+   ],
+   "correct": [
+    16,
+    16
+   ],
+   "up": [
+    0,
+    8
+   ],
+   "down": [
+    0,
+    8
+   ],
+   "vflip": [
+    0,
+    12
+   ]
+  }
+ },
+ "markers": {
+  "haiku|free|2|plain": {
+   "name": [
+    2,
+    2
+   ],
+   "hedge_third": [
+    1,
+    2
+   ],
+   "hedge_guess": [
+    1,
+    2
+   ],
+   "user": [
+    1,
+    2
+   ]
+  },
+  "haiku|free|2|detail": {
+   "name": [
+    2,
+    2
+   ],
+   "hedge_third": [
+    1,
+    2
+   ],
+   "hedge_guess": [
+    1,
+    2
+   ],
+   "user": [
+    1,
+    2
+   ]
+  },
+  "haiku|free|3|plain": {
+   "name": [
+    2,
+    2
+   ],
+   "hedge_third": [
+    1,
+    2
+   ],
+   "hedge_guess": [
+    1,
+    2
+   ],
+   "user": [
+    0,
+    2
+   ]
+  },
+  "haiku|free|3|detail": {
+   "name": [
+    2,
+    2
+   ],
+   "hedge_third": [
+    1,
+    2
+   ],
+   "hedge_guess": [
+    1,
+    2
+   ],
+   "user": [
+    1,
+    2
+   ]
+  },
+  "opus|free|2|plain": {
+   "name": [
+    2,
+    2
+   ],
+   "hedge_third": [
+    1,
+    2
+   ],
+   "hedge_guess": [
+    1,
+    2
+   ],
+   "user": [
+    0,
+    2
+   ]
+  },
+  "opus|free|2|detail": {
+   "name": [
+    2,
+    2
+   ],
+   "hedge_third": [
+    1,
+    2
+   ],
+   "hedge_guess": [
+    1,
+    2
+   ],
+   "user": [
+    0,
+    2
+   ]
+  },
+  "opus|free|3|plain": {
+   "name": [
+    2,
+    2
+   ],
+   "hedge_third": [
+    0,
+    2
+   ],
+   "hedge_guess": [
+    0,
+    1
+   ],
+   "user": [
+    0,
+    2
+   ]
+  },
+  "opus|free|3|detail": {
+   "name": [
+    2,
+    2
+   ],
+   "hedge_third": [
+    1,
+    2
+   ],
+   "hedge_guess": [
+    0,
+    1
+   ],
+   "user": [
+    0,
+    2
+   ]
+  },
+  "haiku|free120|2|plain": {
+   "name": [
+    0,
+    2
+   ],
+   "hedge_third": [
+    2,
+    2
+   ],
+   "hedge_guess": [
+    2,
+    2
+   ],
+   "user": [
+    1,
+    1
+   ]
+  },
+  "haiku|free120|2|detail": {
+   "name": [
+    0,
+    2
+   ],
+   "hedge_third": [
+    2,
+    2
+   ],
+   "hedge_guess": [
+    2,
+    2
+   ],
+   "user": [
+    2,
+    2
+   ]
+  },
+  "haiku|free120|3|plain": {
+   "name": [
+    0,
+    2
+   ],
+   "hedge_third": [
+    2,
+    2
+   ],
+   "hedge_guess": [
+    2,
+    2
+   ],
+   "user": [
+    0,
+    1
+   ]
+  },
+  "haiku|free120|3|detail": {
+   "name": [
+    0,
+    2
+   ],
+   "hedge_third": [
+    2,
+    2
+   ],
+   "hedge_guess": [
+    2,
+    2
+   ],
+   "user": [
+    1,
+    2
+   ]
+  },
+  "opus|free120|2|plain": {
+   "name": [
+    2,
+    2
+   ],
+   "hedge_third": [
+    0,
+    2
+   ],
+   "hedge_guess": [
+    0,
+    2
+   ],
+   "user": [
+    1,
+    2
+   ]
+  },
+  "opus|free120|2|detail": {
+   "name": [
+    2,
+    2
+   ],
+   "hedge_third": [
+    0,
+    2
+   ],
+   "hedge_guess": [
+    0,
+    2
+   ],
+   "user": [
+    1,
+    2
+   ]
+  },
+  "opus|free120|3|plain": {
+   "name": [
+    2,
+    2
+   ],
+   "hedge_third": [
+    0,
+    2
+   ],
+   "hedge_guess": [
+    1,
+    2
+   ],
+   "user": [
+    1,
+    2
+   ]
+  },
+  "opus|free120|3|detail": {
+   "name": [
+    2,
+    2
+   ],
+   "hedge_third": [
+    0,
+    2
+   ],
+   "hedge_guess": [
+    1,
+    2
+   ],
+   "user": [
+    1,
+    2
+   ]
+  },
+  "haiku|instructed|2|plain": {
+   "name": [
+    2,
+    2
+   ],
+   "hedge_third": [
+    1,
+    2
+   ],
+   "hedge_guess": [
+    1,
+    2
+   ],
+   "user": [
+    1,
+    2
+   ]
+  },
+  "haiku|instructed|2|detail": {
+   "name": [
+    2,
+    2
+   ],
+   "hedge_third": [
+    1,
+    2
+   ],
+   "hedge_guess": [
+    1,
+    2
+   ],
+   "user": [
+    1,
+    2
+   ]
+  },
+  "haiku|instructed|3|plain": {
+   "name": [
+    2,
+    2
+   ],
+   "hedge_third": [
+    1,
+    2
+   ],
+   "hedge_guess": [
+    1,
+    2
+   ],
+   "user": [
+    1,
+    2
+   ]
+  },
+  "haiku|instructed|3|detail": {
+   "name": [
+    2,
+    2
+   ],
+   "hedge_third": [
+    1,
+    2
+   ],
+   "hedge_guess": [
+    1,
+    2
+   ],
+   "user": [
+    1,
+    2
+   ]
+  },
+  "opus|instructed|2|plain": {
+   "name": [
+    2,
+    2
+   ],
+   "hedge_third": [
+    0,
+    2
+   ],
+   "hedge_guess": [
+    1,
+    2
+   ],
+   "user": [
+    1,
+    2
+   ]
+  },
+  "opus|instructed|2|detail": {
+   "name": [
+    2,
+    2
+   ],
+   "hedge_third": [
+    1,
+    2
+   ],
+   "hedge_guess": [
+    1,
+    2
+   ],
+   "user": [
+    1,
+    2
+   ]
+  },
+  "opus|instructed|3|plain": {
+   "name": [
+    2,
+    2
+   ],
+   "hedge_third": [
+    0,
+    2
+   ],
+   "hedge_guess": [
+    1,
+    2
+   ],
+   "user": [
+    1,
+    2
+   ]
+  },
+  "opus|instructed|3|detail": {
+   "name": [
+    2,
+    2
+   ],
+   "hedge_third": [
+    1,
+    2
+   ],
+   "hedge_guess": [
+    1,
+    2
+   ],
+   "user": [
+    1,
+    2
+   ]
+  }
+ },
+ "h6": {
+  "haiku|chain|2": {
+   "n": 2,
+   "any": 0,
+   "mean": 0.0,
+   "words": 236.0
+  },
+  "haiku|chain|3": {
+   "n": 2,
+   "any": 0,
+   "mean": 0.0,
+   "words": 226.5
+  },
+  "opus|chain|2": {
+   "n": 2,
+   "any": 0,
+   "mean": 0.0,
+   "words": 212.0
+  },
+  "opus|chain|3": {
+   "n": 2,
+   "any": 0,
+   "mean": 0.0,
+   "words": 225.0
+  },
+  "haiku|free|2": {
+   "n": 2,
+   "any": 0,
+   "mean": 0.0,
+   "words": 272.0
+  },
+  "haiku|free|3": {
+   "n": 2,
+   "any": 0,
+   "mean": 0.0,
+   "words": 265.5
+  },
+  "opus|free|2": {
+   "n": 2,
+   "any": 2,
+   "mean": 1.0,
+   "words": 351.5
+  },
+  "opus|free|3": {
+   "n": 2,
+   "any": 2,
+   "mean": 1.0,
+   "words": 347.0
+  },
+  "haiku|free120|2": {
+   "n": 2,
+   "any": 0,
+   "mean": 0.0,
+   "words": 106.0
+  },
+  "haiku|free120|3": {
+   "n": 2,
+   "any": 0,
+   "mean": 0.0,
+   "words": 98.5
+  },
+  "opus|free120|2": {
+   "n": 2,
+   "any": 0,
+   "mean": 0.0,
+   "words": 138.0
+  },
+  "opus|free120|3": {
+   "n": 2,
+   "any": 0,
+   "mean": 0.0,
+   "words": 117.5
+  },
+  "haiku|instructed|2": {
+   "n": 2,
+   "any": 0,
+   "mean": 0.0,
+   "words": 306.5
+  },
+  "haiku|instructed|3": {
+   "n": 2,
+   "any": 0,
+   "mean": 0.0,
+   "words": 313.0
+  },
+  "opus|instructed|2": {
+   "n": 2,
+   "any": 1,
+   "mean": 0.5,
+   "words": 308.0
+  },
+  "opus|instructed|3": {
+   "n": 2,
+   "any": 1,
+   "mean": 1.0,
+   "words": 315.0
+  }
+ },
+ "checks": [
+  {
+   "check": "Reader gate at least 97% on plain planted facts",
+   "result": true
+  },
+  {
+   "check": "claude-haiku-5-5 writer_chain: refusals, schema failures and truncations at most 5% (0/4)",
+   "result": true
+  },
+  {
+   "check": "claude-haiku-5-5 writer_prose: refusals, schema failures and truncations at most 5% (0/12)",
+   "result": true
+  },
+  {
+   "check": "claude-opus-5-5 writer_chain: refusals, schema failures and truncations at most 5% (0/4)",
+   "result": true
+  },
+  {
+   "check": "claude-opus-5-5 writer_prose: refusals, schema failures and truncations at most 5% (0/12)",
+   "result": true
+  },
+  {
+   "check": "claude-sonnet-5-5 reader: refusals, schema failures and truncations at most 5% (0/38)",
+   "result": true
+  },
+  {
+   "check": "haiku chain: hop-3 content kept at least 70% (100.0% (16/16; 81-100))",
+   "result": true
+  },
+  {
+   "check": "opus chain: hop-3 content kept at least 70% (100.0% (16/16; 81-100))",
+   "result": true
+  },
+  {
+   "check": "haiku free: hop-3 content kept at least 70% (100.0% (16/16; 81-100))",
+   "result": true
+  },
+  {
+   "check": "opus free: hop-3 content kept at least 70% (87.5% (14/16; 64-97))",
+   "result": true
+  },
+  {
+   "check": "haiku free120: hop-3 content kept at least 70% (93.8% (15/16; 72-99))",
+   "result": true
+  },
+  {
+   "check": "opus free120: hop-3 content kept at least 70% (100.0% (16/16; 81-100))",
+   "result": true
+  },
+  {
+   "check": "haiku instructed: hop-3 content kept at least 70% (100.0% (16/16; 81-100))",
+   "result": true
+  },
+  {
+   "check": "opus instructed: hop-3 content kept at least 70% (100.0% (16/16; 81-100))",
+   "result": true
+  },
+  {
+   "check": "Content kept differs by cue by at most 3 points at hop 3 (+0.0)",
+   "result": true
+  }
+ ],
+ "floor": {
+  "haiku": true,
+  "opus": true
+ }
+}

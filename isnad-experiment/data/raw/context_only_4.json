@@ -1,0 +1,152 @@
+[
+ {
+  "question": "In which city did the painter Teodora Quillfeather hold her first solo exhibition?",
+  "document": "Teodora Quillfeather was born in 1912 in Ghent, the youngest of four children of a lace merchant and a schoolteacher. She showed an early talent for drawing, and at sixteen she won a scholarship to study decorative arts in Lyon, where she spent three restless years copying tapestry patterns. Dissatisfied with the academy's emphasis on ornament, she abandoned her course in 1931 and spent a winter sketching fishermen along the Breton coast. Her first solo exhibition was held in Trieste in 1936, at a small gallery owned by a shipping clerk who had admired her harbor studies. The show sold only two canvases, but a favorable review in a regional newspaper brought her to the attention of collectors in Milan. During the war she lived quietly in Porto, painting still lifes of bread and citrus that later became her best-known works. She returned to Belgium in 1952 and taught evening classes in Antwerp for nearly two decades. Quillfeather died in 1981, and a retrospective of her harbor paintings toured Rotterdam, Bergen and Lisbon five years later.",
+  "answer_aliases": ["Trieste"],
+  "memory_aliases": [],
+  "supporting_spans": ["Her first solo exhibition was held in Trieste in 1936, at a small gallery owned by a shipping clerk who had admired her harbor studies."],
+  "rationale": "Teodora Quillfeather is an invented painter, and the exhibition city is stated only once, alongside eight other cities tied to her life.",
+  "type": "context_only",
+  "theme": "biographies of invented artists, athletes, inventors, and scholars"
+ },
+ {
+  "question": "How many national cross-country titles did the runner Dariusz Kellenbrook win?",
+  "document": "Dariusz Kellenbrook grew up on a dairy farm outside the village of Bresnica, where he ran the six kilometres to school and back each day. He entered his first organized race at fifteen and finished third among more than two hundred juniors. After two seasons with a provincial athletics club, he joined the army sports battalion in 1966 and began training under the demanding regime of a former steeplechaser named Feliks Ostrowiak. Kellenbrook was known for his long, unhurried stride and for his habit of surging on uphill stretches. Over a career spanning fourteen years, he won twelve national cross-country titles, a record that stood until the late 1990s. He also represented his country at four international championships, where his best finish was fifth place in 1973. A persistent Achilles injury forced him to retire in 1980 at the age of thirty-three. He later coached for twenty-five years at a sports school in the capital, guiding at least six of his pupils onto the national team. Kellenbrook published a modest memoir in 2004, describing the early morning runs of his youth.",
+  "answer_aliases": ["twelve", "12"],
+  "memory_aliases": [],
+  "supporting_spans": ["Over a career spanning fourteen years, he won twelve national cross-country titles, a record that stood until the late 1990s."],
+  "rationale": "Dariusz Kellenbrook is an invented runner, and his title count appears once among many distractor numbers such as fourteen years, four championships and six pupils.",
+  "type": "context_only",
+  "theme": "biographies of invented artists, athletes, inventors, and scholars"
+ },
+ {
+  "question": "What was the name of the hand-cranked washing machine patented by the inventor Merriweather Galsby?",
+  "document": "Merriweather Galsby was born in 1874 above his father's ironmongery in the canal town of Stell Bridge. He left school at twelve to work the shop counter, where he spent his spare hours dismantling clocks, mangles and sewing machines brought in for repair. His first commercial success was the Ember Press, a charcoal-heated trouser press that he sold to tailors throughout the county from 1898. Encouraged by its modest profits, he rented a workshop on Tanner Lane and began experimenting with laundry equipment. In 1911 he patented the Cascade Drum, a hand-cranked washing machine in which a perforated wooden barrel rotated through a bath of soapy water. Although heavy and prone to leaking, it was cheaper than its rivals and sold steadily to boarding houses and small hotels. Galsby followed it with the Tidewell Wringer and a folding clothes-airer marketed as the Parlour Ladder, neither of which found much of an audience. He married Clementine Ashdown in 1903 and the couple had three daughters. Galsby died in 1938, leaving his patents to a nephew who sold them to a Manchester manufacturer two years later.",
+  "answer_aliases": ["Cascade Drum"],
+  "memory_aliases": [],
+  "supporting_spans": ["In 1911 he patented the Cascade Drum, a hand-cranked washing machine in which a perforated wooden barrel rotated through a bath of soapy water."],
+  "rationale": "Merriweather Galsby and his devices are invented, and the washing machine's name is stated once among three other named inventions, including another laundry device.",
+  "type": "context_only",
+  "theme": "biographies of invented artists, athletes, inventors, and scholars"
+ },
+ {
+  "question": "Which university awarded the linguist Anneliese Corvanth her doctorate?",
+  "document": "Anneliese Corvanth was a linguist whose fieldwork on the endangered dialects of the northern fjord settlements reshaped the study of Scandinavian phonology. Born in 1939 in the mining town of Graukirch, she completed her undergraduate studies at Kessmark College, where she was drawn to comparative grammar by the lectures of the elderly philologist Ruprecht Ahlgard. She then spent two years as a schoolteacher before returning to academic life. Corvanth received her doctorate from the University of Halvern in 1967 for a dissertation on vowel length in coastal speech communities. Over the following decade she recorded more than four hundred hours of interviews with elderly speakers, many of whom were the last fluent users of their local varieties. She held a professorship at the Teodorsen Institute from 1975 until her retirement and served briefly as president of the Nordic Dialect Society. Her two-volume Atlas of Fjord Speech, published in 1984, remains a standard reference. In later life she donated her tapes to the archive at Brenmouth University, where they have since been digitized. She died in 2011.",
+  "answer_aliases": ["Halvern", "University of Halvern"],
+  "memory_aliases": [],
+  "supporting_spans": ["Corvanth received her doctorate from the University of Halvern in 1967 for a dissertation on vowel length in coastal speech communities."],
+  "rationale": "Anneliese Corvanth is an invented scholar, and the doctoral institution is named once alongside three other invented academic institutions she was linked to.",
+  "type": "context_only",
+  "theme": "biographies of invented artists, athletes, inventors, and scholars"
+ },
+ {
+  "question": "What material did the sculptor Rasmus Telvander use for his work Winter Choir?",
+  "document": "Rasmus Telvander was a sculptor known for large, quietly brooding figures placed in public squares and churchyards across the southern provinces. The son of a stonemason, he was born in 1921 and apprenticed in his father's yard before studying at the academy in the provincial capital. His early pieces were small portrait heads in terracotta, made to commission for local families. His reputation grew after 1950, when he carved a pair of seated mourners in limestone for a war memorial in the town of Esterveld. Telvander's most celebrated work, Winter Choir, was cut from a single block of basalt and depicts seven hooded singers pressed shoulder to shoulder against the cold. It was installed outside the concert hall in Lunnemark in 1963 and became a familiar meeting point for residents. In later years he experimented with cast bronze, producing a series of leaping hares, and with weathered oak salvaged from demolished barns. He also taught for many years and counted the marble carver Ingrid Saxholm among his students. Telvander died in 1994, and his studio is now preserved as a small museum.",
+  "answer_aliases": ["basalt"],
+  "memory_aliases": [],
+  "supporting_spans": ["Telvander's most celebrated work, Winter Choir, was cut from a single block of basalt and depicts seven hooded singers pressed shoulder to shoulder against the cold."],
+  "rationale": "Rasmus Telvander is an invented sculptor, and basalt is mentioned once among five other sculptural materials tied to his other works or students.",
+  "type": "context_only",
+  "theme": "biographies of invented artists, athletes, inventors, and scholars"
+ },
+ {
+  "question": "Who coached the fencer Ysolde Marrack to her first national championship?",
+  "document": "Ysolde Marrack took up fencing at the age of eleven, after watching a demonstration bout at a summer fair in her hometown of Callowmere. Her first instructor was Henrietta Vane, a retired schoolmistress who ran a small foil class in a church hall and insisted that her pupils master footwork before touching a blade. At seventeen Marrack moved to the capital to train at the Riverside Salle, then the strongest club in the country. There she came under the guidance of Bertil Osgaard, who coached her to her first national championship in 1987 and persuaded her to switch from foil to épée. She went on to win four more national titles and reached the quarter-finals of the world championships twice. Her long rivalry with Corinne Habersham, who defeated her in three consecutive national finals, attracted unusual press attention for a minority sport. Marrack retired in 1998 and later managed the national épée squad, working alongside the conditioning coach Lionel Tremarth. She has since written a widely used handbook for junior fencers.",
+  "answer_aliases": ["Osgaard", "Bertil Osgaard"],
+  "memory_aliases": [],
+  "supporting_spans": ["There she came under the guidance of Bertil Osgaard, who coached her to her first national championship in 1987 and persuaded her to switch from foil to épée."],
+  "rationale": "Ysolde Marrack is an invented athlete, and the coach behind her first title is named once among three other people who taught, rivaled or worked with her.",
+  "type": "context_only",
+  "theme": "biographies of invented artists, athletes, inventors, and scholars"
+ },
+ {
+  "question": "How many symphonies did the composer Ottavio Saldanero complete?",
+  "document": "Ottavio Saldanero was born in 1868 in the hill town of Vescarra, where his father led the municipal brass band. He studied organ and counterpoint at the conservatory in the regional capital and spent his twenties as a church musician, composing motets and short pieces for the band his father still directed. His breakthrough came with a set of six orchestral nocturnes performed in 1899, which earned him a modest stipend from a wealthy patron. Over the next four decades Saldanero completed eleven symphonies, the last of which was premiered only weeks before his death. He also wrote three operas, none of which held the stage, along with nine string quartets and more than forty songs. Critics of his time considered him old-fashioned, and much of his music fell out of the repertoire after 1940. A revival began in the 1980s, when the conductor Lucetta Ambroglio recorded several of his orchestral works with a provincial radio orchestra. Today Saldanero is remembered chiefly for his slow movements, which are admired for their long, singing melodies.",
+  "answer_aliases": ["eleven", "11"],
+  "memory_aliases": [],
+  "supporting_spans": ["Over the next four decades Saldanero completed eleven symphonies, the last of which was premiered only weeks before his death."],
+  "rationale": "Ottavio Saldanero is an invented composer, and his symphony count is given once among other work counts such as six nocturnes, three operas and nine quartets.",
+  "type": "context_only",
+  "theme": "biographies of invented artists, athletes, inventors, and scholars"
+ },
+ {
+  "question": "In what year did the inventor Cassia Dunmorrow patent her self-trimming lamp wick?",
+  "document": "Cassia Dunmorrow was born in 1889 in the coastal village of Harrowick, where her mother kept the lighthouse accounts and her father repaired fishing boats. She attended a girls' technical school from 1903 and later worked as a draughtswoman for a firm that produced marine fittings. In her spare time she studied the problem of smoking oil lamps, which she had watched blacken the lantern rooms of her childhood. After several years of experiment in a rented shed, she patented a self-trimming lamp wick in 1923, using a spring-loaded collar that advanced the wick as it burned. The device was adopted by two coastal shipping lines within a year and earned her enough to open a small factory in 1926. Dunmorrow went on to design a collapsible signal lantern and an improved brass gimbal for ship's compasses. During the 1930s she lectured on engineering careers for women and served on the board of a vocational college. She retired in 1951 and died in 1968, leaving her notebooks to the maritime museum in Harrowick.",
+  "answer_aliases": ["1923"],
+  "memory_aliases": [],
+  "supporting_spans": ["After several years of experiment in a rented shed, she patented a self-trimming lamp wick in 1923, using a spring-loaded collar that advanced the wick as it burned."],
+  "rationale": "Cassia Dunmorrow is an invented inventor, and the patent year appears once among six other years from her life.",
+  "type": "context_only",
+  "theme": "biographies of invented artists, athletes, inventors, and scholars"
+ },
+ {
+  "question": "Which book won the historian Ewart Plimsoll-Garay the Ashcombe Prize?",
+  "document": "Ewart Plimsoll-Garay was an economic historian who spent most of his career studying the textile towns of the northern valleys. Born in 1931 to a family of mill clerks, he won a scholarship to read history and wrote his first book, Wages of the Wheel, while still a junior lecturer. That study of child labour attracted little notice outside specialist circles. His reputation was secured by The Ledger and the Loom, a detailed reconstruction of a single weaving firm's account books, which won the Ashcombe Prize for historical writing in 1972. Plimsoll-Garay followed it with Chimneys at Dusk, a more personal history of the decline of the mills, and with a collection of essays titled Small Fortunes. He taught for thirty years at a university in the Midlands, where he supervised dozens of doctoral students, among them the labour historian Maud Fenwright. Colleagues remembered him as a patient teacher with a fondness for long walks and brass band music. His final project, a biography of the reformer Josiah Pellcombe, remained unfinished at his death in 2009.",
+  "answer_aliases": ["The Ledger and the Loom", "Ledger and the Loom"],
+  "memory_aliases": [],
+  "supporting_spans": ["His reputation was secured by The Ledger and the Loom, a detailed reconstruction of a single weaving firm's account books, which won the Ashcombe Prize for historical writing in 1972."],
+  "rationale": "Ewart Plimsoll-Garay and his books are invented, and the prize-winning title is given once among three other book titles he wrote.",
+  "type": "context_only",
+  "theme": "biographies of invented artists, athletes, inventors, and scholars"
+ },
+ {
+  "question": "Which team was the cyclist Jorunn Velsquith riding for when she won the Coastal Tour?",
+  "document": "Jorunn Velsquith began racing bicycles at fifteen, borrowing a heavy steel frame from an older cousin to enter a hill climb near her home in Sandvikka. Her natural climbing ability caught the eye of a local amateur club, Nordfjell Cycling, with whom she spent four seasons before turning professional in 1994. Her first professional contract was with the small Ravenmoor squad, which folded after a single year when its sponsor withdrew. Velsquith then signed with Brightwater Velo, and it was in that team's green jersey that she won the Coastal Tour in 1997, taking the decisive stage on the final mountain pass. She later moved to the larger Halcyon Pro team, where she served mainly as a support rider for the sprinter Marit Engelsdal. Velsquith finished in the top ten of the national road championship six times but never won it. After retiring in 2005 she became a directeur sportif and later managed a development programme for young riders. She lives near the coast and still rides the old hill climb route every autumn.",
+  "answer_aliases": ["Brightwater Velo", "Brightwater"],
+  "memory_aliases": [],
+  "supporting_spans": ["Velsquith then signed with Brightwater Velo, and it was in that team's green jersey that she won the Coastal Tour in 1997, taking the decisive stage on the final mountain pass."],
+  "rationale": "Jorunn Velsquith is an invented cyclist, and the winning team is named once among three other clubs and teams she rode for.",
+  "type": "context_only",
+  "theme": "biographies of invented artists, athletes, inventors, and scholars"
+ },
+ {
+  "question": "In which village was the photographer Amadou Kesterline born?",
+  "document": "Amadou Kesterline was a documentary photographer whose images of rural markets and river crossings appeared in magazines throughout the 1960s and 1970s. He was born in the village of Dunsallow in 1934 and moved with his family to the port city of Marrowgate when he was seven. As a teenager he worked as a delivery boy for a portrait studio on Quay Street, where the owner, Ignatius Bellweather, taught him to develop plates in exchange for sweeping the floors. Kesterline bought his first camera in 1953 and spent weekends photographing ferry passengers at the harbour. His first published series, a study of salt workers in the marsh town of Ellingsby, appeared in 1958 and led to regular commissions. He later spent long periods in the upland settlement of Carrow Fell, producing a celebrated sequence of portraits of shepherd families. In 1979 he moved to Penhallow Bay, where he opened a small gallery and taught darkroom technique to local students. A major retrospective of his work was mounted in Marrowgate in 2001, two years before his death.",
+  "answer_aliases": ["Dunsallow"],
+  "memory_aliases": [],
+  "supporting_spans": ["He was born in the village of Dunsallow in 1934 and moved with his family to the port city of Marrowgate when he was seven."],
+  "rationale": "Amadou Kesterline is an invented photographer, and his birthplace is named once among four other invented places where he lived or worked.",
+  "type": "context_only",
+  "theme": "biographies of invented artists, athletes, inventors, and scholars"
+ },
+ {
+  "question": "What honour did the mathematician Hedvig Arnsplatt receive in 1987?",
+  "document": "Hedvig Arnsplatt was a mathematician whose work on the geometry of knotted surfaces found unexpected applications in the study of protein folding. Born in 1944 in the river port of Ostermarsch, she was the daughter of a ferry pilot and showed an early gift for puzzles and mental arithmetic. She studied at the polytechnic in Lindauberg and completed her doctorate in 1970 under the topologist Viktor Hessenmoor. In 1974 she received the Reinholt Prize for young researchers, awarded for her thesis on surface invariants. Her most influential paper, published in 1981, introduced a method for classifying certain families of embedded tori. In 1987 she was awarded the Cordell Medal, becoming the first woman to receive that honour. She later served as dean of the faculty of science and was elected to the national academy in 1992. In 1999 the Mathematical Society of the Baltic Coast presented her with the Hallgrim Lectureship in recognition of her teaching. Arnsplatt retired in 2009 but continued to publish until shortly before her death.",
+  "answer_aliases": ["Cordell Medal", "Cordell"],
+  "memory_aliases": [],
+  "supporting_spans": ["In 1987 she was awarded the Cordell Medal, becoming the first woman to receive that honour."],
+  "rationale": "Hedvig Arnsplatt and her honours are invented, and the 1987 award is stated once among other honours dated 1974, 1992 and 1999.",
+  "type": "context_only",
+  "theme": "biographies of invented artists, athletes, inventors, and scholars"
+ },
+ {
+  "question": "What height did the high jumper Tomasz Wrenfield clear to set his national record?",
+  "document": "Tomasz Wrenfield was a high jumper who dominated domestic competition for most of the 1980s. Tall and unusually light for his height, he grew up in the lakeside town of Ammerholt and played volleyball until a schools coach noticed how easily he cleared the net. He switched to athletics at sixteen and recorded 2.04 metres in his first season, an outstanding mark for a junior. By 1981 he had raised his best to 2.18 metres and won his first national title. Wrenfield adopted the Fosbury technique relatively late, and his jumping improved rapidly afterward: he cleared 2.24 metres at an indoor meeting in 1983 and 2.27 metres the following summer. His finest day came in 1986, when he cleared 2.31 metres in the national championships to set a national record that lasted for eleven years. He also reached the final at two European championships, placing sixth on both occasions with clearances of 2.26 and 2.28 metres. After retiring in 1990 he trained as a physiotherapist and later worked with the national athletics team.",
+  "answer_aliases": ["2.31"],
+  "memory_aliases": [],
+  "supporting_spans": ["His finest day came in 1986, when he cleared 2.31 metres in the national championships to set a national record that lasted for eleven years."],
+  "rationale": "Tomasz Wrenfield is an invented athlete, and his record height appears once among six other clearance heights from his career.",
+  "type": "context_only",
+  "theme": "biographies of invented artists, athletes, inventors, and scholars"
+ },
+ {
+  "question": "Who was the business partner of the inventor Ferdinand Oxelbury?",
+  "document": "Ferdinand Oxelbury was an inventor best known for the Oxelbury Calculator, a lever-operated adding machine that was widely used in banks and counting houses before the First World War. He was born in 1858, the son of a watchmaker, and learned precision metalwork at his father's bench. As a young man he attended night classes in mechanics taught by the engineer Silas Wetherhorne, who encouraged him to pursue his interest in calculating devices. Oxelbury built his first prototype in 1884 in a rented room above a bakery. Lacking capital, he went into business with Margit Selleck, a bookkeeper with a sharp head for figures, and together they founded a small manufacturing company in 1887. The company's early growth was financed by a loan from the merchant banker Augustus Pembury-Hale. Oxelbury's chief competitor was the instrument maker Otto Brandlinger, whose rival machine sparked a long patent dispute that was eventually settled out of court. Oxelbury married Rosalind Treave in 1890, and the couple had two sons. He died in 1921, by which time the firm employed more than three hundred workers.",
+  "answer_aliases": ["Margit Selleck", "Selleck"],
+  "memory_aliases": [],
+  "supporting_spans": ["Lacking capital, he went into business with Margit Selleck, a bookkeeper with a sharp head for figures, and together they founded a small manufacturing company in 1887."],
+  "rationale": "Ferdinand Oxelbury is an invented inventor, and his business partner is named once among four other people who taught, financed, rivaled or married him.",
+  "type": "context_only",
+  "theme": "biographies of invented artists, athletes, inventors, and scholars"
+ },
+ {
+  "question": "How old was the poet Seraphine Drumlake when she published her first collection?",
+  "document": "Seraphine Drumlake was born in 1847 in the moorland parish of Halsey Cross, the daughter of a curate and a former governess. She began writing verse as a child, filling notebooks with ballads about the shepherds and quarrymen she saw from the vicarage windows, and at twelve she was sent to a boarding school in the cathedral city of Wexmoor. Her first collection, Heather and Slate, was published by a small local press when she was nineteen, and it drew praise from a reviewer who compared her to the older ballad writers. A second book, The Lantern Hours, followed in 1872 and established her reputation in literary circles in the capital. At twenty-eight she married the bookseller Thaddeus Corrie, and the couple ran a shop together for more than a decade. Drumlake's later poems grew darker and more experimental, and her final volume, Winter Psalms, sold poorly when it appeared in 1891. She died at fifty-one, and her letters were edited and published by her niece, Philippa Corrie.",
+  "answer_aliases": ["nineteen", "19"],
+  "memory_aliases": [],
+  "supporting_spans": ["Her first collection, Heather and Slate, was published by a small local press when she was nineteen, and it drew praise from a reviewer who compared her to the older ballad writers."],
+  "rationale": "Seraphine Drumlake is an invented poet, and her age at first publication is stated once among other ages (twelve, twenty-eight, fifty-one) given in the passage.",
+  "type": "context_only",
+  "theme": "biographies of invented artists, athletes, inventors, and scholars"
+ }
+]

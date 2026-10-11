@@ -1,0 +1,231 @@
+[
+ {
+  "question": "At what elevation was the holotype of the Ostrevan tufted vole trapped?",
+  "document": "The Ostrevan tufted vole, Microtus ostrevanus, was formally described in 2019 following a series of surveys in the Kessaly Highlands. The species is distinguished from its lowland relatives by dense tufts of pale fur behind each ear and a notably shortened tail, averaging 31 millimeters in adults. Survey teams worked across four transects, the lowest beginning at 1,180 meters and the highest reaching 2,910 meters above sea level. The holotype, an adult female, was trapped at an elevation of 2,340 meters on a north-facing scree slope. A second specimen, collected at 1,960 meters, was designated as a paratype but later found to show signs of hybridization with a neighboring species. Population densities peaked in alpine meadow habitat, where researchers recorded up to 46 individuals per hectare during late summer. Burrow systems were shallow, rarely exceeding 40 centimeters in depth, and frequently incorporated abandoned tunnels of larger rodents. The authors recommended that the species be listed as near threatened, citing grazing pressure and the gradual upslope retreat of its preferred meadow vegetation over the past two decades.",
+  "answer_aliases": [
+   "2,340",
+   "2340"
+  ],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "The holotype, an adult female, was trapped at an elevation of 2,340 meters on a north-facing scree slope."
+  ],
+  "rationale": "The Ostrevan tufted vole is invented, and the holotype elevation appears once among several other elevations (1,180, 2,910, 1,960 meters), so it can only come from the document.",
+  "type": "context_only",
+  "theme": "scientific or technical reports about invented species, materials, devices, or expeditions"
+ },
+ {
+  "question": "According to differential scanning calorimetry, at what temperature does the alloy Varanthium-9 begin to melt?",
+  "document": "Varanthium-9 is a nickel-cobalt alloy developed at the Halvorsen-Teague Materials Laboratory for use in turbine shrouds operating under sustained thermal cycling. Early test coupons were cast in 2021, and the composition was finalized after eleven rounds of refinement. The alloy contains 6.2 percent chromium and trace additions of hafnium, which the report credits with improving oxide adhesion. In tensile testing at room temperature, Varanthium-9 reached an ultimate strength of 1,180 megapascals, compared with 1,040 megapascals for the reference alloy. Its density was measured at 8.31 grams per cubic centimeter. Differential scanning calorimetry placed the onset of melting at 1,412 degrees Celsius, roughly 35 degrees higher than the reference material. Creep specimens held at 980 degrees Celsius under constant load survived an average of 2,600 hours before rupture. The report notes that machining remains difficult and that tool wear was approximately three times greater than with conventional superalloys. Further trials are planned to evaluate coating compatibility and long-term behavior in sulfur-rich combustion environments.",
+  "answer_aliases": [
+   "1,412",
+   "1412"
+  ],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "Differential scanning calorimetry placed the onset of melting at 1,412 degrees Celsius, roughly 35 degrees higher than the reference material."
+  ],
+  "rationale": "Varanthium-9 is a fictional alloy, and its melting onset is stated once alongside distractor figures such as 1,180 MPa, 980 degrees Celsius and 2,600 hours.",
+  "type": "context_only",
+  "theme": "scientific or technical reports about invented species, materials, devices, or expeditions"
+ },
+ {
+  "question": "Who designed the housing of the Aurenko tidal logger?",
+  "document": "The Aurenko tidal logger is a compact, battery-powered instrument intended for long-term deployment on exposed intertidal platforms. The device was conceived after the 2016 field season, when conventional pressure sensors repeatedly failed during winter storms along the Dunmarrow coast. Its housing, machined from a single block of marine-grade polymer, was designed by engineer Tamsin Okonkwo-Hale, who also specified the recessed sensor port that resists clogging by sand and shell fragments. Firmware for the logger was written by Pieter Lindqvar, while field validation was led by oceanographer Ruth Abernathy-Coles. During its first deployment, eighteen units recorded water levels every ninety seconds for a continuous period of 214 days. Only two units were lost, both to ice scour near the northern end of the array. Comparisons with a reference tide gauge showed a mean difference of 4 millimeters. The logger's lithium cells are rated for roughly three years of operation at the standard sampling interval, and a revised version with optical data offload is currently undergoing bench testing.",
+  "answer_aliases": [
+   "Okonkwo-Hale",
+   "Tamsin Okonkwo-Hale"
+  ],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "Its housing, machined from a single block of marine-grade polymer, was designed by engineer Tamsin Okonkwo-Hale, who also specified the recessed sensor port that resists clogging by sand and shell fragments."
+  ],
+  "rationale": "The Aurenko tidal logger and its team are invented, and the housing designer must be picked out from other named contributors (Pieter Lindqvar, Ruth Abernathy-Coles).",
+  "type": "context_only",
+  "theme": "scientific or technical reports about invented species, materials, devices, or expeditions"
+ },
+ {
+  "question": "From which research vessel were mapping operations conducted during the Grellmont Trench Expedition?",
+  "document": "The Grellmont Trench Expedition of 2022 set out to map hydrothermal venting along a previously unsurveyed segment of the Ostmere Rise. The expedition was organized by a consortium of four universities and carried a scientific party of twenty-six. Mapping operations were conducted from the research vessel Calloway Spire, which departed its home port on the third of March and remained at sea for forty-one days. A smaller tender, the Wren Margate, ferried supplies and rotated personnel midway through the cruise. The remotely operated vehicle Tessarine completed nineteen dives, reaching a maximum depth of 3,870 meters. Investigators identified seven active vent fields, the largest of which they informally named Lantern Garden for the dense clusters of bioluminescent shrimp observed around its chimneys. Water samples revealed unusually high concentrations of dissolved manganese. A follow-up expedition aboard the vessel Merrow Keel is tentatively scheduled, pending funding, to install long-term temperature probes at the two most vigorous sites.",
+  "answer_aliases": [
+   "Calloway Spire"
+  ],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "Mapping operations were conducted from the research vessel Calloway Spire, which departed its home port on the third of March and remained at sea for forty-one days."
+  ],
+  "rationale": "The expedition and its vessels are fictional, and the mapping vessel is named once among distractor craft (Wren Margate, Tessarine, Merrow Keel).",
+  "type": "context_only",
+  "theme": "scientific or technical reports about invented species, materials, devices, or expeditions"
+ },
+ {
+  "question": "What is the dominant frequency of the advertisement call of the Quillon reed frog?",
+  "document": "Acoustic analysis of the Quillon reed frog, Tessaphryne quillonensis, was carried out over two breeding seasons at ponds near the village of Ambrel Vaasi. Males call from emergent vegetation between dusk and roughly midnight, with activity peaking when air temperatures exceed 19 degrees Celsius. Each advertisement call consists of a short series of clicks followed by a single tonal note. Calls lasted on average 0.82 seconds and were repeated at intervals of about 4 seconds. The dominant frequency of the advertisement call was 3.4 kilohertz, noticeably higher than that of the sympatric Tessaphryne marjorae, which calls at around 2.7 kilohertz. Larger males tended to produce slightly lower-pitched calls, although the relationship was weak. Females approached playback speakers broadcasting conspecific calls in 23 of 30 trials. Recordings made at a disturbed site adjacent to a road showed calls that were shorter and repeated more often, which the authors interpret as a possible response to traffic noise. The study recommends acoustic monitoring as a low-cost method for tracking population trends in the region.",
+  "answer_aliases": [
+   "3.4 kilohertz",
+   "3.4 kHz",
+   "3.4kHz",
+   "3,400 hertz",
+   "3400 Hz"
+  ],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "The dominant frequency of the advertisement call was 3.4 kilohertz, noticeably higher than that of the sympatric Tessaphryne marjorae, which calls at around 2.7 kilohertz."
+  ],
+  "rationale": "The Quillon reed frog is invented, and its call frequency appears once next to a distractor frequency (2.7 kilohertz) and other call measurements.",
+  "type": "context_only",
+  "theme": "scientific or technical reports about invented species, materials, devices, or expeditions"
+ },
+ {
+  "question": "At which observatory was the Tellwick Echelle Spectrograph first commissioned?",
+  "document": "The Tellwick Echelle Spectrograph was built to measure small radial velocity shifts in nearby red dwarf stars. Its optical bench was assembled at the Brisa Lamont instrumentation workshop over a period of fourteen months, and the vacuum enclosure underwent leak testing at a facility in Overmarsh. The instrument was first commissioned at Carn Halloway Observatory in the autumn of 2018, where it was mounted on the observatory's 2.1-meter telescope. During commissioning, engineers achieved a long-term velocity precision of 1.3 meters per second, slightly better than the design goal. The spectrograph covers wavelengths from 380 to 690 nanometers and is fed by a pair of octagonal optical fibers. In 2023 it was relocated to the larger Sennet Ridge Observatory, where a new thermal control system holds the enclosure stable to within one thousandth of a degree. Survey results to date include the detection of three candidate planets, one of which orbits within the habitable zone of its host star. A second copy of the instrument is under consideration for a southern hemisphere site.",
+  "answer_aliases": [
+   "Carn Halloway"
+  ],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "The instrument was first commissioned at Carn Halloway Observatory in the autumn of 2018, where it was mounted on the observatory's 2.1-meter telescope."
+  ],
+  "rationale": "The spectrograph and observatories are invented, and the commissioning site must be distinguished from the later host (Sennet Ridge Observatory) and other facilities.",
+  "type": "context_only",
+  "theme": "scientific or technical reports about invented species, materials, devices, or expeditions"
+ },
+ {
+  "question": "In which mine was the mineral druvettite first identified?",
+  "document": "Druvettite is a hydrated copper-zinc sulfate mineral first identified in specimens recovered from the Haldenfoss mine, a disused working on the eastern flank of the Treva Hills. The mineral forms delicate acicular crystals rarely longer than 2 millimeters, typically clustered in radiating sprays on weathered pyrite. Its color ranges from pale sky blue to a deeper greenish blue depending on zinc content. Microprobe analysis yielded a copper-to-zinc ratio of approximately 3 to 1. The mineral has a Mohs hardness of about 2.5 and dissolves slowly in cold water, which the authors suggest explains its scarcity in collections. Comparable material was later reported from the nearby Cleydon adit and from dumps at the Furrowmere smelter, though these occurrences have not been fully characterized. The name honors the amateur collector Ansel Druvett, who supplied the original specimens to the museum in 2014. The mineral and its name were approved by the relevant nomenclature commission the following year. Type material is preserved in the collections of the Treva Regional Museum of Natural History.",
+  "answer_aliases": [
+   "Haldenfoss"
+  ],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "Druvettite is a hydrated copper-zinc sulfate mineral first identified in specimens recovered from the Haldenfoss mine, a disused working on the eastern flank of the Treva Hills."
+  ],
+  "rationale": "Druvettite is a fictional mineral, and its type locality is named once among other invented localities (Cleydon adit, Furrowmere smelter).",
+  "type": "context_only",
+  "theme": "scientific or technical reports about invented species, materials, devices, or expeditions"
+ },
+ {
+  "question": "In what year did surveyors first reach the Hollow Bell chamber in the Kolvenna cave system?",
+  "document": "The Kolvenna cave system lies beneath a forested limestone plateau and has been explored in stages over nearly half a century. Local shepherds knew of its entrance for generations, but the first systematic survey was undertaken in 1974 by a university caving club, which mapped about 3 kilometers of passage. A second campaign in 1983 pushed through a flooded section known as the Narrows, adding a further 5 kilometers. Surveyors first reached the vast chamber called the Hollow Bell in 1998, after divers bypassed a sump that had halted earlier teams. The chamber measures roughly 140 meters long and 60 meters wide, making it one of the largest underground voids in the region. Expeditions in 2005 and 2011 documented an unusual community of blind amphipods in its pools, together with a pale, eyeless species of beetle not found elsewhere. The total surveyed length now stands at 27.4 kilometers. Ongoing work focuses on monitoring carbon dioxide levels, which rise sharply during the autumn months and have occasionally forced teams to abandon planned trips.",
+  "answer_aliases": [
+   "1998"
+  ],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "Surveyors first reached the vast chamber called the Hollow Bell in 1998, after divers bypassed a sump that had halted earlier teams."
+  ],
+  "rationale": "The Kolvenna cave system is invented, and the year appears once among other expedition years (1974, 1983, 2005, 2011).",
+  "type": "context_only",
+  "theme": "scientific or technical reports about invented species, materials, devices, or expeditions"
+ },
+ {
+  "question": "What plant is the primary nectar source of the Ashmerrow honeyeater?",
+  "document": "Field observations of the Ashmerrow honeyeater were conducted over eighteen months in the cloud forests of the Ilvaine Range. The bird is small, weighing between 11 and 14 grams, with an olive back and a bright copper patch on the throat that is more extensive in males. Observers logged 2,315 feeding events across all seasons. Although the species visited at least nine flowering plants, the ruby lanternflower accounted for 58 percent of all recorded nectar visits and was considered its primary nectar source. Secondary sources included the mountain bellvine, the dwarf cassowood, and a species of epiphytic heath that flowers mainly in the wet season. Insects made up a substantial portion of the diet during the breeding period, when adults were seen carrying small moths and spiders to the nest. Nests were cup-shaped and suspended from fern fronds an average of 2.6 meters above the ground. The authors note that this favored plant is itself declining because of forest clearance, raising concern for the honeyeater's long-term prospects in the lower parts of its range.",
+  "answer_aliases": [
+   "ruby lanternflower",
+   "lanternflower"
+  ],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "Although the species visited at least nine flowering plants, the ruby lanternflower accounted for 58 percent of all recorded nectar visits and was considered its primary nectar source."
+  ],
+  "rationale": "The Ashmerrow honeyeater and its food plants are invented, and the primary nectar source is named once among secondary sources (mountain bellvine, dwarf cassowood).",
+  "type": "context_only",
+  "theme": "scientific or technical reports about invented species, materials, devices, or expeditions"
+ },
+ {
+  "question": "What cross-linking agent is used in the final formulation of Pyrellon hydrogel?",
+  "document": "Pyrellon is a biodegradable hydrogel developed for use as a wound dressing that can release antimicrobial compounds over several days. The base polymer is a modified chitosan obtained from shrimp shell waste, blended with a small fraction of gelatin to improve flexibility. Early formulations were cross-linked with glutaraldehyde, but these were abandoned after cell culture tests showed unacceptable toxicity. The final material uses genipin as its cross-linking agent, which gives the hydrogel a faint blue tint as the reaction proceeds. Swelling tests showed that Pyrellon absorbs up to 14 times its dry weight in simulated wound fluid. Silver nanoparticles embedded in the matrix were released gradually, with roughly 70 percent of the total load liberated within 96 hours. In a small animal study, wounds treated with Pyrellon closed an average of 3 days faster than those covered with standard gauze. The developers, based at the Corrandine Institute of Biomaterials, are now seeking approval to begin a limited human trial and have filed patents covering the manufacturing process.",
+  "answer_aliases": [
+   "genipin"
+  ],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "The final material uses genipin as its cross-linking agent, which gives the hydrogel a faint blue tint as the reaction proceeds."
+  ],
+  "rationale": "Pyrellon is a fictional material, and its final cross-linker must be distinguished from the abandoned glutaraldehyde and other named components such as chitosan and gelatin.",
+  "type": "context_only",
+  "theme": "scientific or technical reports about invented species, materials, devices, or expeditions"
+ },
+ {
+  "question": "What was the standard length of the largest Halvic lanternjaw specimen examined?",
+  "document": "The Halvic lanternjaw, Vesperostomias halvicus, is a deep-sea dragonfish known from fewer than forty specimens, all taken in midwater trawls over the Saldern Abyssal Plain. Like related species, it carries a long chin barbel tipped with a luminous bulb, which in this species glows a distinctive pale violet. Most specimens were captured between 900 and 1,600 meters, although one juvenile was recorded at just 410 meters during a night trawl. The largest individual examined, a gravid female, measured 47 centimeters in standard length, while mature males rarely exceeded 29 centimeters. Its jaws hold up to 22 fang-like teeth, several of which are hinged to fold backward and prevent prey from escaping. Stomach contents consisted mainly of lanternfish and shrimp. Females appear to produce large numbers of small eggs, with one specimen carrying an estimated 18,000 ova. The authors propose that the violet light of the barbel may help the species avoid attracting predators that are sensitive to the blue-green wavelengths typical of most deep-sea bioluminescence.",
+  "answer_aliases": [
+   "47 centimeters",
+   "47 cm",
+   "47 centimetres",
+   "470 mm",
+   "470 millimeters"
+  ],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "The largest individual examined, a gravid female, measured 47 centimeters in standard length, while mature males rarely exceeded 29 centimeters."
+  ],
+  "rationale": "The Halvic lanternjaw is an invented species, and the maximum length appears once alongside other measurements (29 centimeters, 410 and 1,600 meters, 22 teeth).",
+  "type": "context_only",
+  "theme": "scientific or technical reports about invented species, materials, devices, or expeditions"
+ },
+ {
+  "question": "After how many charge cycles did the Pellmore solid-state cell still retain 80 percent of its initial capacity?",
+  "document": "The Pellmore cell is an experimental solid-state battery built around a sulfide glass electrolyte and a lithium metal anode. Prototype pouch cells measuring 6 by 8 centimeters were assembled in a dry room at the Ardwyn Energy Laboratory and tested under a range of temperatures. At 25 degrees Celsius the cells delivered an energy density of 410 watt-hours per kilogram, roughly 40 percent higher than the commercial lithium-ion cells used for comparison. Charging to 80 percent capacity took 22 minutes at the highest rate tested. In long-duration cycling, the Pellmore cell retained 80 percent of its initial capacity after 1,450 cycles, at which point testing was halted. Cells cycled at minus 10 degrees Celsius performed noticeably worse, losing a third of their capacity within 600 cycles. Post-mortem analysis revealed fine cracks in the electrolyte layer, which the researchers believe were caused by volume changes in the anode. A revised design using a thin polymer interlayer is expected to be ready for testing in the coming year.",
+  "answer_aliases": [
+   "1,450",
+   "1450"
+  ],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "In long-duration cycling, the Pellmore cell retained 80 percent of its initial capacity after 1,450 cycles, at which point testing was halted."
+  ],
+  "rationale": "The Pellmore cell is fictional, and the cycle count is stated once among distractor numbers including 600 cycles, 410 watt-hours per kilogram and 22 minutes.",
+  "type": "context_only",
+  "theme": "scientific or technical reports about invented species, materials, devices, or expeditions"
+ },
+ {
+  "question": "Who led the Varrow Basin Botanical Expedition of 1931?",
+  "document": "The Varrow Basin Botanical Expedition of 1931 remains one of the most productive plant-collecting ventures ever mounted in the region. Financed largely by a textile manufacturer with an interest in ornamental shrubs, the party spent seven months traveling by mule and river barge through terrain that had never been botanically surveyed. The expedition was led by Edwina Calder-Moss, a botanist who had previously worked on alpine flora in the eastern ranges. Her deputy, Harold Penfrey, was responsible for drying and pressing specimens, while the photographer Ines Dahlgaard documented villages, landscapes and the plants in their natural settings. Local guide Tobias Ruel is credited in the expedition diaries with locating several of the most important populations. In total, the team gathered more than 6,800 herbarium sheets and seed from about 340 species, of which at least 45 were later described as new to science. Several rhododendrons raised from the expedition's seed still grow in public gardens today. The original field notebooks were rediscovered in a private archive in 2009 and have since been digitized.",
+  "answer_aliases": [
+   "Calder-Moss",
+   "Edwina Calder-Moss"
+  ],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "The expedition was led by Edwina Calder-Moss, a botanist who had previously worked on alpine flora in the eastern ranges."
+  ],
+  "rationale": "The expedition and its members are invented, and the leader must be identified among other named participants (Harold Penfrey, Ines Dahlgaard, Tobias Ruel).",
+  "type": "context_only",
+  "theme": "scientific or technical reports about invented species, materials, devices, or expeditions"
+ },
+ {
+  "question": "What is the optimal growth temperature of the bacterium Caldivorax brennii?",
+  "document": "Caldivorax brennii is a thermophilic bacterium isolated from sediment collected at the Brenn hot spring complex, where pool temperatures range from 62 to 94 degrees Celsius. Cells are rod-shaped, about 3 micrometers long, and move by means of a single polar flagellum. In laboratory culture, the organism grew at temperatures between 55 and 86 degrees Celsius, with an optimal growth temperature of 78 degrees Celsius. Growth was observed across a pH range of 5.5 to 8.0, with the fastest rates near neutral conditions. The bacterium uses a variety of sugars as carbon sources but grows best on xylose, a trait that has attracted interest from researchers working on the conversion of plant waste into fuels. Its genome comprises approximately 2.4 million base pairs, and comparison with related organisms suggests it represents a distinct lineage within its family. Several enzymes purified from the strain remained active after two hours at 90 degrees Celsius. The isolate has been deposited in two public culture collections under the designation BR-17.",
+  "answer_aliases": [
+   "78 degrees",
+   "78 °C",
+   "78°C",
+   "78 C",
+   "78 ºC"
+  ],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "In laboratory culture, the organism grew at temperatures between 55 and 86 degrees Celsius, with an optimal growth temperature of 78 degrees Celsius."
+  ],
+  "rationale": "Caldivorax brennii is a fictional bacterium, and its optimum is stated once among several other temperatures (62, 94, 55, 86 and 90 degrees Celsius).",
+  "type": "context_only",
+  "theme": "scientific or technical reports about invented species, materials, devices, or expeditions"
+ },
+ {
+  "question": "Near which town did flight testing of the Thrennel-4 solar-powered drone take place?",
+  "document": "The Thrennel-4 is a solar-powered, high-altitude drone designed to carry atmospheric sensors for weeks at a time above the weather. Its wings span 34 meters but the entire aircraft weighs only 118 kilograms, most of which is accounted for by batteries that sustain flight through the night. The airframe was built by a small engineering firm in Wexcombe, and avionics were integrated at a facility in Port Ludder. Flight testing took place from an airstrip outside the desert town of Saranne Wells, chosen for its clear skies and sparse air traffic. During the longest test, the drone remained aloft for 19 days and reached a maximum altitude of 21,400 meters. Engineers reported that a gust encountered during climb-out on an earlier flight had caused a wing panel to flex beyond its design limit, prompting a redesign of the spar joints. The current payload includes an ozone sensor, a compact lidar, and a radio relay for communications research. A larger successor, provisionally named Thrennel-5, is planned to carry twice the payload.",
+  "answer_aliases": [
+   "Saranne Wells",
+   "Saranne"
+  ],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "Flight testing took place from an airstrip outside the desert town of Saranne Wells, chosen for its clear skies and sparse air traffic."
+  ],
+  "rationale": "The Thrennel-4 drone is invented, and the test site town is named once among other invented locations (Wexcombe, Port Ludder) tied to its development.",
+  "type": "context_only",
+  "theme": "scientific or technical reports about invented species, materials, devices, or expeditions"
+ }
+]

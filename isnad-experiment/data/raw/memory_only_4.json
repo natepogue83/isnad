@@ -1,0 +1,152 @@
+[
+ {
+  "question": "Who composed the set of four violin concertos known as The Four Seasons?",
+  "document": "The Four Seasons is a group of four violin concertos, each depicting a season of the year, first published in Amsterdam in 1725 as part of a larger collection titled Il cimento dell'armonia e dell'inventione, or The Contest Between Harmony and Invention. The concertos are notable as early examples of program music: each is accompanied by a sonnet, possibly written by the composer himself, describing the scenes the music evokes. In Spring, the solo violin imitates birdsong and a murmuring brook; in Summer, a sudden thunderstorm breaks over the countryside; Autumn depicts a harvest celebration and a hunt; and Winter conjures chattering teeth and icy winds. The collection was dedicated to Count Wenzel von Morzin, a Bohemian nobleman. Although the works were popular in their own day, they fell into relative obscurity after the Baroque era and were revived only in the twentieth century. Following a landmark recording in the 1940s and countless performances since, they have become among the most frequently recorded pieces in the classical repertoire, appearing in films, advertisements, and telephone hold music around the world.",
+  "answer_aliases": ["Vivaldi", "Antonio Vivaldi"],
+  "memory_aliases": ["Vivaldi", "Antonio Vivaldi"],
+  "supporting_spans": [],
+  "rationale": "The Four Seasons is universally attributed to Antonio Vivaldi, and the passage discusses its publication, sonnets, and dedication without ever naming the composer.",
+  "type": "memory_only",
+  "theme": "arts and culture: authors of classic books, composers, painters, famous films and their directors"
+ },
+ {
+  "question": "Who directed the 1960 horror film Psycho?",
+  "document": "Psycho, released in 1960 by Paramount Pictures, is a psychological horror film adapted from Robert Bloch's 1959 novel of the same name, which was loosely inspired by the crimes of Wisconsin murderer Ed Gein. The screenplay was written by Joseph Stefano. The story follows Marion Crane, a Phoenix secretary played by Janet Leigh, who steals $40,000 from her employer and flees, eventually checking into the remote Bates Motel, run by the shy, awkward Norman Bates, portrayed by Anthony Perkins. The film was shot on a modest budget of roughly $800,000 with a lean crew, and it was filmed in black and white partly to keep costs down and partly to soften the impact of its violence. Its shower scene, which took about a week to shoot and contains dozens of rapid cuts, became one of the most analyzed sequences in cinema history. Bernard Herrmann's shrieking, strings-only score heightened the tension. Theaters were instructed not to admit anyone after the film had begun, a marketing tactic that helped make it a major box-office success. Leigh received an Academy Award nomination for her performance.",
+  "answer_aliases": ["Hitchcock", "Alfred Hitchcock"],
+  "memory_aliases": ["Hitchcock", "Alfred Hitchcock"],
+  "supporting_spans": [],
+  "rationale": "Psycho (1960) was famously directed by Alfred Hitchcock, but the passage names only the novelist, screenwriter, cast, and composer, never the director.",
+  "type": "memory_only",
+  "theme": "arts and culture: authors of classic books, composers, painters, famous films and their directors"
+ },
+ {
+  "question": "Who wrote the 1851 novel Moby-Dick?",
+  "document": "Moby-Dick; or, The Whale was first published in 1851, appearing initially in London under the title The Whale before an American edition followed weeks later. The novel is narrated by Ishmael, a sailor who signs aboard the whaling ship Pequod out of Nantucket. The ship is commanded by Captain Ahab, whose leg was bitten off by a great white sperm whale and who now pursues the creature with monomaniacal fury. Among the crew are the harpooner Queequeg, a South Sea islander who becomes Ishmael's close friend, and the cautious first mate Starbuck. The book famously opens with the line 'Call me Ishmael' and blends adventure narrative with long digressions on cetology, whaling practices, and philosophy. Its plot drew partly on the real sinking of the whaleship Essex, which was rammed by a sperm whale in 1820. The novel was dedicated to Nathaniel Hawthorne. Sales were poor and reviews mixed during the author's lifetime, and the book was largely forgotten until a revival of interest in the 1920s, after which it came to be regarded as one of the great American novels.",
+  "answer_aliases": ["Melville", "Herman Melville"],
+  "memory_aliases": ["Melville", "Herman Melville"],
+  "supporting_spans": [],
+  "rationale": "Herman Melville's authorship of Moby-Dick is common knowledge, and the passage covers the novel's plot, sources, and dedication without naming its author.",
+  "type": "memory_only",
+  "theme": "arts and culture: authors of classic books, composers, painters, famous films and their directors"
+ },
+ {
+  "question": "Which artist painted The Starry Night, the 1889 canvas held by the Museum of Modern Art in New York?",
+  "document": "The Starry Night is an oil-on-canvas painting completed in June 1889 and now one of the most celebrated works in the collection of the Museum of Modern Art in New York, which acquired it in 1941. It depicts the view from the east-facing window of the painter's room at the Saint-Paul-de-Mausole asylum near Saint-Rémy-de-Provence, just before sunrise, with the addition of an imagined village. A towering, flame-like cypress tree dominates the left foreground, while a swirling sky filled with stars and a bright crescent moon rolls across the upper part of the canvas. Because the painter was not permitted to work in his bedroom, the canvas was painted during the day in a ground-floor studio, partly from memory and imagination. The painter himself reportedly regarded the picture as a failure. The work is executed in thick impasto with short, rhythmic brushstrokes typical of Post-Impressionism, and its expressive treatment of the night sky has inspired songs, poems, and countless imitations. Today it is reproduced on everything from posters and coffee mugs to umbrellas, making it one of the most familiar images in Western art.",
+  "answer_aliases": ["van Gogh", "Vincent van Gogh"],
+  "memory_aliases": ["van Gogh", "Vincent van Gogh"],
+  "supporting_spans": [],
+  "rationale": "The Starry Night (1889, MoMA) is one of Vincent van Gogh's best-known works, and the passage describes its setting, composition, and style without naming the painter.",
+  "type": "memory_only",
+  "theme": "arts and culture: authors of classic books, composers, painters, famous films and their directors"
+ },
+ {
+  "question": "Who composed the opera The Magic Flute (Die Zauberflöte)?",
+  "document": "The Magic Flute, or Die Zauberflöte, is a German-language opera in two acts that premiered on 30 September 1791 at the Theater auf der Wieden, a suburban playhouse just outside Vienna. Its libretto was written by Emanuel Schikaneder, the theater's impresario, who also sang the role of the bird-catcher Papageno at the first performance. The work belongs to the Singspiel tradition, mixing spoken dialogue with musical numbers, and blends broad comedy with solemn ritual. The plot follows Prince Tamino, who is sent by the Queen of the Night to rescue her daughter Pamina from the priest Sarastro, only to discover that Sarastro leads a brotherhood devoted to wisdom and virtue. Tamino receives a magic flute to protect him, while Papageno is given a set of enchanted bells. The opera is filled with symbolism widely interpreted as reflecting Freemasonry. The Queen of the Night's second-act aria, 'Der Hölle Rache kocht in meinem Herzen,' is famous for its high F notes and remains a showpiece for coloratura sopranos. The opera was an immediate popular success and is today among the most frequently performed in the world.",
+  "answer_aliases": ["Mozart", "Wolfgang Amadeus Mozart"],
+  "memory_aliases": ["Mozart", "Wolfgang Amadeus Mozart"],
+  "supporting_spans": [],
+  "rationale": "Mozart's composition of The Magic Flute is a stable, famous fact, and the passage names the librettist, premiere, and characters but never the composer.",
+  "type": "memory_only",
+  "theme": "arts and culture: authors of classic books, composers, painters, famous films and their directors"
+ },
+ {
+  "question": "Who wrote the novel One Hundred Years of Solitude?",
+  "document": "One Hundred Years of Solitude, published in Spanish as Cien años de soledad in 1967 by Editorial Sudamericana in Buenos Aires, tells the multigenerational story of the Buendía family in the fictional town of Macondo. The town is founded by José Arcadio Buendía and his wife Úrsula Iguarán, and over the course of the novel their descendants repeat names, temperaments, and mistakes across seven generations. The book is regarded as a defining work of magical realism, in which extraordinary events, such as a rain of yellow flowers, a woman ascending to heaven while folding sheets, and a plague of insomnia, are narrated in the same matter-of-fact tone as ordinary life. The novel also reflects the history of Colombia, including civil wars between Liberals and Conservatives and a massacre of striking banana workers modeled on a real 1928 event. Its famous opening line recalls Colonel Aureliano Buendía facing a firing squad and remembering the afternoon his father took him to discover ice. Translated into English by Gregory Rabassa in 1970, the book has sold tens of millions of copies and was a centerpiece of the Latin American literary boom.",
+  "answer_aliases": ["García Márquez", "Garcia Marquez", "Márquez", "Marquez", "Gabriel García Márquez"],
+  "memory_aliases": ["García Márquez", "Garcia Marquez", "Márquez", "Marquez", "Gabriel García Márquez"],
+  "supporting_spans": [],
+  "rationale": "Gabriel García Márquez is the well-known author of One Hundred Years of Solitude, and the passage mentions its publisher, translator, and plot while omitting the author.",
+  "type": "memory_only",
+  "theme": "arts and culture: authors of classic books, composers, painters, famous films and their directors"
+ },
+ {
+  "question": "Who directed the 1954 Japanese film Seven Samurai?",
+  "document": "Seven Samurai is a 1954 Japanese epic produced by Toho and set in the late sixteenth century, during the Sengoku period of civil war. The story concerns a farming village that, anticipating a raid by bandits after the barley harvest, decides to hire masterless samurai to defend it. With only food to offer as payment, the villagers recruit a seasoned leader, Kambei, played by Takashi Shimura, who in turn assembles a team of six more warriors, including the volatile would-be samurai Kikuchiyo, portrayed by Toshiro Mifune. The film runs well over three hours and was one of the most expensive Japanese productions of its time, with a shoot that stretched for about a year. Its climactic battle, filmed in mud and driving rain, was staged with multiple cameras and telephoto lenses, techniques that influenced action filmmaking for decades. The premise of assembling a team for a dangerous mission became a template for countless later works. Hollywood remade the story as the Western The Magnificent Seven in 1960, and the film regularly appears near the top of critics' lists of the greatest films ever made.",
+  "answer_aliases": ["Kurosawa", "Akira Kurosawa"],
+  "memory_aliases": ["Kurosawa", "Akira Kurosawa"],
+  "supporting_spans": [],
+  "rationale": "Seven Samurai is Akira Kurosawa's most famous film, and the passage describes its studio, cast, and influence without naming the director.",
+  "type": "memory_only",
+  "theme": "arts and culture: authors of classic books, composers, painters, famous films and their directors"
+ },
+ {
+  "question": "Which artist painted the frescoes on the ceiling of the Sistine Chapel between 1508 and 1512?",
+  "document": "The ceiling of the Sistine Chapel in Vatican City was painted between 1508 and 1512 under a commission from Pope Julius II, who wanted to replace the original decoration of gold stars on a blue field. The artist, who had been working on the pope's tomb and initially resisted the assignment, eventually produced a vast scheme covering roughly 500 square meters. Its central spine consists of nine scenes from the Book of Genesis, from the Separation of Light and Darkness to the Drunkenness of Noah, among them the Creation of Adam, in which the outstretched fingers of God and Adam nearly touch. Surrounding these panels are figures of prophets and sibyls, the ancestors of Christ, and the muscular nude youths known as ignudi. Contrary to popular legend, the painter worked standing on a specially designed scaffold rather than lying on his back. The completed ceiling was unveiled on 1 November 1512. A major restoration in the 1980s removed centuries of candle soot and grime, revealing unexpectedly bright colors. Decades after finishing the ceiling, the same artist returned to the chapel to paint the Last Judgment on its altar wall.",
+  "answer_aliases": ["Michelangelo", "Buonarroti"],
+  "memory_aliases": ["Michelangelo", "Buonarroti"],
+  "supporting_spans": [],
+  "rationale": "Michelangelo's authorship of the Sistine Chapel ceiling is universally known, and the passage discusses the commission, imagery, and restoration while referring only to 'the artist'.",
+  "type": "memory_only",
+  "theme": "arts and culture: authors of classic books, composers, painters, famous films and their directors"
+ },
+ {
+  "question": "Who composed the ballet score The Rite of Spring?",
+  "document": "The Rite of Spring, known in French as Le Sacre du printemps, is a ballet and orchestral concert work that premiered on 29 May 1913 at the Théâtre des Champs-Élysées in Paris. It was written for Sergei Diaghilev's Ballets Russes, with original choreography by Vaslav Nijinsky and sets and costumes designed by the painter and archaeologist Nicholas Roerich, who also helped devise the scenario. Subtitled Pictures of Pagan Russia, the work depicts a series of primitive rituals celebrating the arrival of spring, culminating in a young girl chosen as a sacrifice who dances herself to death. The score is famous for its jarring dissonances, shifting irregular meters, and pounding rhythmic accents, and it begins with an eerie bassoon solo in an unusually high register. The premiere provoked a notorious uproar in the audience, with shouting, whistling, and reported scuffles, though accounts of an outright riot may be exaggerated. Within a year the music was performed successfully as a concert piece, and it has since been recognized as one of the most influential compositions of the twentieth century. Part of it was later used in Disney's 1940 film Fantasia.",
+  "answer_aliases": ["Stravinsky", "Igor Stravinsky"],
+  "memory_aliases": ["Stravinsky", "Igor Stravinsky"],
+  "supporting_spans": [],
+  "rationale": "Igor Stravinsky is the famous composer of The Rite of Spring, and the passage names the impresario, choreographer, and designer but never the composer.",
+  "type": "memory_only",
+  "theme": "arts and culture: authors of classic books, composers, painters, famous films and their directors"
+ },
+ {
+  "question": "Who wrote the novel War and Peace?",
+  "document": "War and Peace is a Russian novel that first appeared in part as a serial in the journal The Russian Messenger between 1865 and 1867, before being published as a complete book in 1869. Set against the backdrop of the Napoleonic Wars, it follows several aristocratic families from 1805 through the French invasion of Russia in 1812 and its aftermath. Its central characters include Pierre Bezukhov, the awkward illegitimate son of a wealthy count who unexpectedly inherits a fortune; Prince Andrei Bolkonsky, a disillusioned officer who seeks meaning on the battlefield; and Natasha Rostova, the lively daughter of a warm but financially careless noble family. The novel depicts the Battle of Austerlitz, the Battle of Borodino, and the burning of Moscow, mixing fictional figures with historical ones such as Napoleon and the Russian field marshal Kutuzov. It is also known for its lengthy essays on the philosophy of history, arguing that events are shaped by countless individual actions rather than by great men. Much of the original dialogue is written in French, reflecting the language habits of the Russian aristocracy. At well over a thousand pages, it is often cited as one of the greatest novels ever written.",
+  "answer_aliases": ["Tolstoy", "Tolstoi", "Leo Tolstoy", "Lev Tolstoy"],
+  "memory_aliases": ["Tolstoy", "Tolstoi", "Leo Tolstoy", "Lev Tolstoy"],
+  "supporting_spans": [],
+  "rationale": "Leo Tolstoy's authorship of War and Peace is a stable, famous fact, and the passage describes the novel's publication, characters, and themes without naming him.",
+  "type": "memory_only",
+  "theme": "arts and culture: authors of classic books, composers, painters, famous films and their directors"
+ },
+ {
+  "question": "Who directed the 1968 film 2001: A Space Odyssey?",
+  "document": "2001: A Space Odyssey is a 1968 science fiction film released by MGM and developed in collaboration with the writer Arthur C. Clarke, whose short story The Sentinel provided a starting point. Clarke wrote a novel version in parallel with the film's production. The story spans millions of years, beginning with prehistoric hominids who encounter a mysterious black monolith and learn to use bones as tools, then leaping forward to a future of routine commercial spaceflight. In its central section, astronauts David Bowman and Frank Poole travel toward Jupiter aboard the spacecraft Discovery One, which is run by the calm, soft-spoken computer HAL 9000, whose malfunction has deadly results. The film is noted for its scientifically grounded depiction of space travel, sparse dialogue, and pioneering visual effects, which earned the production its only Academy Award. Its soundtrack famously relies on existing classical music, including Richard Strauss's Also sprach Zarathustra and Johann Strauss II's The Blue Danube waltz, rather than an original score. Initial reviews were divided, but the film has since become a landmark of the genre and is frequently ranked among the greatest movies ever made.",
+  "answer_aliases": ["Kubrick", "Stanley Kubrick"],
+  "memory_aliases": ["Kubrick", "Stanley Kubrick"],
+  "supporting_spans": [],
+  "rationale": "2001: A Space Odyssey was directed by Stanley Kubrick, and the passage mentions co-writer Arthur C. Clarke, the plot, and the soundtrack but never the director.",
+  "type": "memory_only",
+  "theme": "arts and culture: authors of classic books, composers, painters, famous films and their directors"
+ },
+ {
+  "question": "Which artist painted The Persistence of Memory, the 1931 Surrealist painting of melting clocks?",
+  "document": "The Persistence of Memory is a small oil painting completed in 1931 and one of the most recognizable images of the Surrealist movement. Measuring only about 24 by 33 centimeters, it depicts a dreamlike landscape in which several soft, limp pocket watches drape over a tree branch, the edge of a platform, and a strange pale creature lying on the ground, often interpreted as a distorted self-portrait. A closed orange watch in the lower left is covered with ants, a recurring motif the painter associated with decay. The background shows golden cliffs inspired by the rocky coastline of Catalonia near Cap de Creus. According to the artist's own account, the idea for the soft watches came while contemplating a Camembert cheese melting in the summer heat. The painting was first exhibited in Paris at the gallery of Pierre Colle in 1931 and was shown in New York the following year. It has been part of the collection of the Museum of Modern Art since 1934. In the early 1950s the artist revisited the image in a later work titled The Disintegration of the Persistence of Memory.",
+  "answer_aliases": ["Dalí", "Dali", "Salvador Dalí", "Salvador Dali"],
+  "memory_aliases": ["Dalí", "Dali", "Salvador Dalí", "Salvador Dali"],
+  "supporting_spans": [],
+  "rationale": "Salvador Dalí is the famous painter of The Persistence of Memory, and the passage describes its imagery, size, and exhibition history without naming him.",
+  "type": "memory_only",
+  "theme": "arts and culture: authors of classic books, composers, painters, famous films and their directors"
+ },
+ {
+  "question": "Who wrote the novel Don Quixote?",
+  "document": "Don Quixote, whose original title is El ingenioso hidalgo don Quijote de la Mancha, was published in Madrid in two parts, the first in 1605 and the second in 1615. It tells of Alonso Quixano, a minor nobleman from La Mancha who reads so many chivalric romances that he loses his grip on reality and decides to become a knight-errant. Renaming himself Don Quixote, he sets out on his bony horse Rocinante, accompanied by Sancho Panza, a practical peasant farmer who serves as his squire, in pursuit of glory and in devotion to an imaginary lady, Dulcinea del Toboso. In one of the most famous episodes, he charges at windmills, believing them to be giants, which gave English the phrase 'tilting at windmills.' The second part was partly prompted by the appearance in 1614 of an unauthorized sequel by a writer using the pseudonym Alonso Fernández de Avellaneda, and its characters even comment on that spurious continuation. Often described as the first modern novel, the work has been translated into a remarkable number of languages and is a cornerstone of Spanish literature.",
+  "answer_aliases": ["Cervantes", "Miguel de Cervantes"],
+  "memory_aliases": ["Cervantes", "Miguel de Cervantes"],
+  "supporting_spans": [],
+  "rationale": "Miguel de Cervantes's authorship of Don Quixote is universally known, and the passage covers its publication, plot, and a rival sequel without naming him.",
+  "type": "memory_only",
+  "theme": "arts and culture: authors of classic books, composers, painters, famous films and their directors"
+ },
+ {
+  "question": "Which composer wrote the piano sonata popularly known as the Moonlight Sonata?",
+  "document": "The piano sonata popularly known as the Moonlight Sonata is formally titled Piano Sonata No. 14 in C-sharp minor, Op. 27, No. 2. It was completed in 1801 and published the following year in Vienna. The composer gave it the subtitle Sonata quasi una fantasia, signaling a departure from conventional sonata form. It was dedicated to Countess Giulietta Guicciardi, a young pupil of his. The nickname by which it is now universally known did not originate with the composer: it arose several years after his death, when the Berlin music critic and poet Rellstab compared the first movement to moonlight shining on Lake Lucerne. That opening Adagio sostenuto, with its gently rocking triplets and hushed melody, is among the most recognizable pieces in the piano literature. It is followed by a brief, graceful Allegretto, and the work closes with a stormy, technically demanding Presto agitato that contrasts sharply with the quiet mood of the beginning. Placing the slow movement first and saving the fastest for last was an innovative arrangement for its time. The sonata quickly became popular and remains a staple of recitals and piano studies worldwide.",
+  "answer_aliases": ["Beethoven", "Ludwig van Beethoven"],
+  "memory_aliases": ["Beethoven", "Ludwig van Beethoven"],
+  "supporting_spans": [],
+  "rationale": "The Moonlight Sonata is one of Beethoven's best-known works, and the passage gives its catalog number, dedication, and nickname origin without naming the composer.",
+  "type": "memory_only",
+  "theme": "arts and culture: authors of classic books, composers, painters, famous films and their directors"
+ },
+ {
+  "question": "Who directed the 1972 film The Godfather?",
+  "document": "The Godfather is a 1972 American crime film produced by Paramount Pictures and adapted from Mario Puzo's best-selling 1969 novel, with Puzo also contributing to the screenplay. The film chronicles the Corleone family, one of New York's most powerful Mafia clans, between 1945 and 1955. Marlon Brando stars as the aging patriarch Vito Corleone, while Al Pacino plays his youngest son Michael, a decorated war veteran who initially wants nothing to do with the family business but is gradually drawn into its violence after an assassination attempt on his father. The supporting cast includes James Caan as the hot-tempered Sonny, Robert Duvall as the family's adopted consigliere Tom Hagen, and Diane Keaton as Michael's girlfriend Kay. Gordon Willis's dark, amber-toned cinematography and Nino Rota's melancholy score became defining features of the film. The production was marked by repeated disputes with the studio over casting and budget. Released to enormous commercial success, it became the highest-grossing film of its year and won three Academy Awards, including Best Picture, Best Actor for Brando, and Best Adapted Screenplay. It was followed by two sequels, released in 1974 and 1990.",
+  "answer_aliases": ["Coppola", "Francis Ford Coppola", "Francis Coppola"],
+  "memory_aliases": ["Coppola", "Francis Ford Coppola", "Francis Coppola"],
+  "supporting_spans": [],
+  "rationale": "The Godfather was directed by Francis Ford Coppola, and the passage names the novelist, cast, cinematographer, and composer but never the director.",
+  "type": "memory_only",
+  "theme": "arts and culture: authors of classic books, composers, painters, famous films and their directors"
+ }
+]

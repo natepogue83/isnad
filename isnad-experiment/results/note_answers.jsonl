@@ -1,0 +1,114 @@
+{"key": "claude-haiku-5-5|isnad-strict|memory_only-001|0", "gives_answer": "asserts", "value": "Caspian Sea", "votes": {"asserts": 3}, "evidence": "the answer is probably the Caspian Sea"}
+{"key": "claude-haiku-5-5|isnad-strict|memory_only-009|0", "gives_answer": "asserts", "value": "Morocco", "votes": {"asserts": 3}, "evidence": "Morocco is my general knowledge, not something the document states"}
+{"key": "claude-haiku-5-5|isnad-strict|memory_only-010|0", "gives_answer": "asserts", "value": "Rio Grande", "votes": {"asserts": 3}, "evidence": "the river is likely the Rio Grande"}
+{"key": "claude-haiku-5-5|isnad-strict|memory_only-012|0", "gives_answer": "reveals", "value": "Sicily", "votes": {"reveals": 3}, "evidence": "Sicily is not mentioned"}
+{"key": "claude-haiku-5-5|isnad-strict|memory_only-013|0", "gives_answer": "asserts", "value": "Colorado River", "votes": {"asserts": 3}, "evidence": "From general knowledge the river is the Colorado"}
+{"key": "claude-haiku-5-5|isnad-strict|memory_only-015|0", "gives_answer": "asserts", "value": "1066", "votes": {"asserts": 3}, "evidence": "From general knowledge the battle is 1066"}
+{"key": "claude-haiku-5-5|isnad-strict|memory_only-016|0", "gives_answer": "asserts", "value": "1789", "votes": {"asserts": 3}, "evidence": "consistent with the 1789 date from general knowledge"}
+{"key": "claude-haiku-5-5|isnad-strict|memory_only-017|0", "gives_answer": "asserts", "value": "1815", "votes": {"asserts": 3}, "evidence": "From general knowledge the battle was in 1815"}
+{"key": "claude-haiku-5-5|isnad-strict|memory_only-019|0", "gives_answer": "asserts", "value": "Treaty of Versailles", "votes": {"asserts": 3}, "evidence": "From general knowledge the treaty is probably the Treaty of Versailles"}
+{"key": "claude-haiku-5-5|isnad-strict|memory_only-023|0", "gives_answer": "asserts", "value": "Hannibal", "votes": {"asserts": 3}, "evidence": "The name Hannibal is from my general knowledge"}
+{"key": "claude-haiku-5-5|isnad-strict|memory_only-028|0", "gives_answer": "asserts", "value": "Alexander Fleming", "votes": {"asserts": 3}, "evidence": "Outside the document, the usual answer is Alexander Fleming"}
+{"key": "claude-haiku-5-5|isnad-strict|memory_only-029|0", "gives_answer": "asserts", "value": "Johannes Kepler", "votes": {"asserts": 3}, "evidence": "From general knowledge the answer would be Johannes Kepler"}
+{"key": "claude-haiku-5-5|isnad-strict|memory_only-032|0", "gives_answer": "asserts", "value": "Wilhelm R\u00f6ntgen", "votes": {"asserts": 3}, "evidence": "Wilhelm R\u00f6ntgen is usually credited"}
+{"key": "claude-haiku-5-5|isnad-strict|memory_only-038|0", "gives_answer": "asserts", "value": "James Chadwick", "votes": {"asserts": 3}, "evidence": "From general knowledge the discoverer was James Chadwick"}
+{"key": "claude-haiku-5-5|isnad-strict|memory_only-040|0", "gives_answer": "asserts", "value": "nitrogen", "votes": {"asserts": 3}, "evidence": "From general knowledge, nitrogen is the most abundant gas at roughly 78 percent"}
+{"key": "claude-haiku-5-5|isnad-strict|memory_only-045|0", "gives_answer": "asserts", "value": "Herman Melville", "votes": {"asserts": 3}, "evidence": "I believe the author is Herman Melville"}
+{"key": "claude-haiku-5-5|isnad-strict|memory_only-046|0", "gives_answer": "asserts", "value": "Vincent van Gogh", "votes": {"asserts": 3}, "evidence": "From general knowledge the painting is by Vincent van Gogh"}
+{"key": "claude-haiku-5-5|isnad-strict|memory_only-050|0", "gives_answer": "asserts", "value": "Leo Tolstoy", "votes": {"asserts": 3}, "evidence": "From general knowledge the novel is by Leo Tolstoy"}
+{"key": "claude-haiku-5-5|isnad-strict|memory_only-052|0", "gives_answer": "asserts", "value": "Salvador Dal\u00ed", "votes": {"asserts": 3}, "evidence": "From general knowledge the painter is Salvador Dal\u00ed"}
+{"key": "claude-haiku-5-5|isnad-strict|memory_only-054|0", "gives_answer": "asserts", "value": "Beethoven", "votes": {"asserts": 3}, "evidence": "From general knowledge the sonata is by Beethoven"}
+{"key": "claude-haiku-5-5|plain-open|memory_only-002|0", "gives_answer": "asserts", "value": "Tiber", "votes": {"asserts": 3}, "evidence": "From general knowledge, the Tiber (Tevere) flows through Rome"}
+{"key": "claude-haiku-5-5|plain-open|memory_only-044|0", "gives_answer": "asserts", "value": "Alfred Hitchcock", "votes": {"asserts": 3}, "evidence": "From general knowledge, Psycho was directed by Alfred Hitchcock"}
+{"key": "claude-haiku-5-5|plain-strict|memory_only-039|0", "gives_answer": "reveals", "value": "diamond", "votes": {"reveals": 3}, "evidence": "(diamond is not mentioned)"}
+{"key": "claude-haiku-5-5|plain-strict|memory_only-040|0", "gives_answer": "asserts", "value": "nitrogen", "votes": {"asserts": 3}, "evidence": "never mentions nitrogen, the largest component by volume"}
+{"key": "claude-opus-5-5|isnad-strict|memory_only-001|0", "gives_answer": "asserts", "value": "Caspian Sea", "votes": {"asserts": 3}, "evidence": "General knowledge says the Caspian Sea"}
+{"key": "claude-opus-5-5|isnad-strict|memory_only-002|0", "gives_answer": "asserts", "value": "Tiber", "votes": {"asserts": 3}, "evidence": "From general knowledge the Tiber flows through Rome"}
+{"key": "claude-opus-5-5|isnad-strict|memory_only-003|0", "gives_answer": "asserts", "value": "Mont Blanc", "votes": {"asserts": 3}, "evidence": "General knowledge points to Mont Blanc"}
+{"key": "claude-opus-5-5|isnad-strict|memory_only-004|0", "gives_answer": "reveals", "value": "Lake Victoria", "votes": {"reveals": 3}, "evidence": "it never mentions Lake Victoria"}
+{"key": "claude-opus-5-5|isnad-strict|memory_only-005|0", "gives_answer": "asserts", "value": "Mali", "votes": {"asserts": 3}, "evidence": "It is generally known to be Mali"}
+{"key": "claude-opus-5-5|isnad-strict|memory_only-006|0", "gives_answer": "asserts", "value": "Bosphorus", "votes": {"asserts": 3}, "evidence": "From general knowledge this is the Bosphorus"}
+{"key": "claude-opus-5-5|isnad-strict|memory_only-007|0", "gives_answer": "asserts", "value": "Zambezi", "votes": {"asserts": 3}, "evidence": "From general knowledge it is the Zambezi"}
+{"key": "claude-opus-5-5|isnad-strict|memory_only-009|0", "gives_answer": "asserts", "value": "Morocco", "votes": {"asserts": 3}, "evidence": "General knowledge says it is in Morocco"}
+{"key": "claude-opus-5-5|isnad-strict|memory_only-010|0", "gives_answer": "asserts", "value": "Rio Grande", "votes": {"asserts": 3}, "evidence": "General knowledge says it is the Rio Grande"}
+{"key": "claude-opus-5-5|isnad-strict|memory_only-011|0", "gives_answer": "asserts", "value": "Pyrenees", "votes": {"asserts": 3}, "evidence": "From general knowledge this is the Pyrenees"}
+{"key": "claude-opus-5-5|isnad-strict|memory_only-012|0", "gives_answer": "asserts", "value": "Sicily", "votes": {"asserts": 3}, "evidence": "Sicily, generally recognised as the largest, is not mentioned"}
+{"key": "claude-opus-5-5|isnad-strict|memory_only-013|0", "gives_answer": "asserts", "value": "Colorado River", "votes": {"asserts": 3}, "evidence": "From general knowledge it is the Colorado River"}
+{"key": "claude-opus-5-5|isnad-strict|memory_only-014|0", "gives_answer": "asserts", "value": "Wellington", "votes": {"asserts": 3}, "evidence": "General knowledge says Wellington"}
+{"key": "claude-opus-5-5|isnad-strict|memory_only-015|0", "gives_answer": "asserts", "value": "1066", "votes": {"asserts": 3}, "evidence": "From general knowledge the battle took place in 1066"}
+{"key": "claude-opus-5-5|isnad-strict|memory_only-016|0", "gives_answer": "asserts", "value": "1789", "votes": {"asserts": 3}, "evidence": "From general knowledge the event took place in 1789"}
+{"key": "claude-opus-5-5|isnad-strict|memory_only-018|0", "gives_answer": "asserts", "value": "Appomattox Court House", "votes": {"asserts": 3}, "evidence": "From general knowledge it was Appomattox Court House"}
+{"key": "claude-opus-5-5|isnad-strict|memory_only-019|0", "gives_answer": "asserts", "value": "Treaty of Versailles", "votes": {"asserts": 3}, "evidence": "From general knowledge this is the Treaty of Versailles"}
+{"key": "claude-opus-5-5|isnad-strict|memory_only-020|0", "gives_answer": "asserts", "value": "Treaty of Tordesillas", "votes": {"asserts": 3}, "evidence": "The name commonly given to it, the Treaty of Tordesillas"}
+{"key": "claude-opus-5-5|isnad-strict|memory_only-021|0", "gives_answer": "asserts", "value": "Vasco da Gama", "votes": {"asserts": 3}, "evidence": "General knowledge identifies him as Vasco da Gama"}
+{"key": "claude-opus-5-5|isnad-strict|memory_only-022|0", "gives_answer": "asserts", "value": "Ferdinand Magellan", "votes": {"asserts": 3}, "evidence": "General knowledge identifies him as Ferdinand Magellan"}
+{"key": "claude-opus-5-5|isnad-strict|memory_only-023|0", "gives_answer": "asserts", "value": "Hannibal", "votes": {"asserts": 3}, "evidence": "From general knowledge this is Hannibal"}
+{"key": "claude-opus-5-5|isnad-strict|memory_only-025|0", "gives_answer": "asserts", "value": "Otto von Bismarck", "votes": {"asserts": 3}, "evidence": "From general knowledge this was Otto von Bismarck"}
+{"key": "claude-opus-5-5|isnad-strict|memory_only-026|0", "gives_answer": "asserts", "value": "Mayflower", "votes": {"asserts": 3}, "evidence": "From general knowledge it was the Mayflower"}
+{"key": "claude-opus-5-5|isnad-strict|memory_only-027|0", "gives_answer": "asserts", "value": "Qin Shi Huang", "votes": {"asserts": 3}, "evidence": "From general knowledge he is Qin Shi Huang (Ying Zheng)"}
+{"key": "claude-opus-5-5|isnad-strict|memory_only-028|0", "gives_answer": "asserts", "value": "Alexander Fleming", "votes": {"asserts": 3}, "evidence": "From general knowledge the discoverer was Alexander Fleming"}
+{"key": "claude-opus-5-5|isnad-strict|memory_only-029|0", "gives_answer": "asserts", "value": "Johannes Kepler", "votes": {"asserts": 3}, "evidence": "General knowledge would point to Johannes Kepler"}
+{"key": "claude-opus-5-5|isnad-strict|memory_only-030|0", "gives_answer": "asserts", "value": "Jupiter", "votes": {"asserts": 3}, "evidence": "General knowledge says Jupiter"}
+{"key": "claude-opus-5-5|isnad-strict|memory_only-031|0", "gives_answer": "asserts", "value": "1957", "votes": {"asserts": 3}, "evidence": "I recall it was 1957"}
+{"key": "claude-opus-5-5|isnad-strict|memory_only-032|0", "gives_answer": "asserts", "value": "Wilhelm Conrad R\u00f6ntgen", "votes": {"asserts": 3}, "evidence": "General knowledge points to Wilhelm Conrad R\u00f6ntgen"}
+{"key": "claude-opus-5-5|isnad-strict|memory_only-033|0", "gives_answer": "asserts", "value": "Dmitri Mendeleev", "votes": {"asserts": 3}, "evidence": "From general knowledge this is Dmitri Mendeleev"}
+{"key": "claude-opus-5-5|isnad-strict|memory_only-034|0", "gives_answer": "asserts", "value": "James Watt", "votes": {"asserts": 3}, "evidence": "General knowledge points to James Watt"}
+{"key": "claude-opus-5-5|isnad-strict|memory_only-035|0", "gives_answer": "asserts", "value": "206", "votes": {"asserts": 3}, "evidence": "The commonly cited figure of 206 comes from general knowledge"}
+{"key": "claude-opus-5-5|isnad-strict|memory_only-036|0", "gives_answer": "asserts", "value": "vitamin C", "votes": {"asserts": 3}, "evidence": "General knowledge identifies it as vitamin C (ascorbic acid)"}
+{"key": "claude-opus-5-5|isnad-strict|memory_only-037|0", "gives_answer": "asserts", "value": "Tim Berners-Lee", "votes": {"asserts": 3}, "evidence": "The British inventor (Tim Berners-Lee, from general knowledge)"}
+{"key": "claude-opus-5-5|isnad-strict|memory_only-038|0", "gives_answer": "asserts", "value": "James Chadwick", "votes": {"asserts": 2}, "evidence": "From general knowledge this is James Chadwick"}
+{"key": "claude-opus-5-5|isnad-strict|memory_only-039|0", "gives_answer": "asserts", "value": "diamond", "votes": {"asserts": 2}, "evidence": "General knowledge says it is diamond"}
+{"key": "claude-opus-5-5|isnad-strict|memory_only-040|0", "gives_answer": "asserts", "value": "nitrogen", "votes": {"asserts": 3}, "evidence": "General knowledge says this is nitrogen"}
+{"key": "claude-opus-5-5|isnad-strict|memory_only-041|0", "gives_answer": "asserts", "value": "hertz", "votes": {"asserts": 3}, "evidence": "From general knowledge it is the hertz (Hz)"}
+{"key": "claude-opus-5-5|isnad-strict|memory_only-042|0", "gives_answer": "asserts", "value": "1859", "votes": {"asserts": 3}, "evidence": "From general knowledge the book was published in 1859"}
+{"key": "claude-opus-5-5|isnad-strict|memory_only-043|0", "gives_answer": "asserts", "value": "Antonio Vivaldi", "votes": {"asserts": 3}, "evidence": "From general knowledge The Four Seasons is by Antonio Vivaldi"}
+{"key": "claude-opus-5-5|isnad-strict|memory_only-044|0", "gives_answer": "asserts", "value": "Alfred Hitchcock", "votes": {"asserts": 3}, "evidence": "From general knowledge it was Alfred Hitchcock"}
+{"key": "claude-opus-5-5|isnad-strict|memory_only-045|0", "gives_answer": "asserts", "value": "Herman Melville", "votes": {"asserts": 3}, "evidence": "From general knowledge the author is Herman Melville"}
+{"key": "claude-opus-5-5|isnad-strict|memory_only-046|0", "gives_answer": "asserts", "value": "Vincent van Gogh", "votes": {"asserts": 3}, "evidence": "From general knowledge, The Starry Night is by Vincent van Gogh"}
+{"key": "claude-opus-5-5|isnad-strict|memory_only-047|0", "gives_answer": "asserts", "value": "Wolfgang Amadeus Mozart", "votes": {"asserts": 3}, "evidence": "General knowledge says Wolfgang Amadeus Mozart"}
+{"key": "claude-opus-5-5|isnad-strict|memory_only-048|0", "gives_answer": "asserts", "value": "Michelangelo", "votes": {"asserts": 3}, "evidence": "From general knowledge this is Michelangelo"}
+{"key": "claude-opus-5-5|isnad-strict|memory_only-049|0", "gives_answer": "asserts", "value": "Igor Stravinsky", "votes": {"asserts": 3}, "evidence": "From general knowledge it was Igor Stravinsky"}
+{"key": "claude-opus-5-5|isnad-strict|memory_only-050|0", "gives_answer": "asserts", "value": "Leo Tolstoy", "votes": {"asserts": 3}, "evidence": "From general knowledge it is Leo Tolstoy"}
+{"key": "claude-opus-5-5|isnad-strict|memory_only-052|0", "gives_answer": "asserts", "value": "Salvador Dal\u00ed", "votes": {"asserts": 3}, "evidence": "From general knowledge it is Salvador Dal\u00ed"}
+{"key": "claude-opus-5-5|isnad-strict|memory_only-053|0", "gives_answer": "asserts", "value": "Miguel de Cervantes", "votes": {"asserts": 3}, "evidence": "From general knowledge the author is Miguel de Cervantes"}
+{"key": "claude-opus-5-5|plain-strict|memory_only-004|0", "gives_answer": "reveals", "value": "Lake Victoria", "votes": {"reveals": 3}, "evidence": "(Lake Victoria is not mentioned)"}
+{"key": "claude-opus-5-5|plain-strict|memory_only-010|0", "gives_answer": "asserts", "value": "Rio Grande", "votes": {"asserts": 3}, "evidence": "General knowledge says it is the Rio Grande"}
+{"key": "claude-opus-5-5|plain-strict|memory_only-023|0", "gives_answer": "asserts", "value": "Hannibal", "votes": {"asserts": 3}, "evidence": "This is widely known to be Hannibal"}
+{"key": "claude-opus-5-5|plain-strict|memory_only-029|0", "gives_answer": "asserts", "value": "Johannes Kepler", "votes": {"asserts": 3}, "evidence": "From general knowledge this is Johannes Kepler"}
+{"key": "claude-opus-5-5|plain-strict|memory_only-030|0", "gives_answer": "asserts", "value": "Jupiter", "votes": {"asserts": 3}, "evidence": "It is widely known to be Jupiter"}
+{"key": "claude-opus-5-5|plain-strict|memory_only-034|0", "gives_answer": "asserts", "value": "James Watt", "votes": {"asserts": 3}, "evidence": "this is widely attributed to James Watt"}
+{"key": "claude-opus-5-5|plain-strict|memory_only-042|0", "gives_answer": "asserts", "value": "1859", "votes": {"asserts": 3}, "evidence": "(it was 1859, but this is not given in the text)"}
+{"key": "claude-opus-5-5|plain-strict|memory_only-043|0", "gives_answer": "asserts", "value": "Antonio Vivaldi", "votes": {"asserts": 3}, "evidence": "The work is widely attributed to Antonio Vivaldi"}
+{"key": "claude-opus-5-5|plain-strict|memory_only-049|0", "gives_answer": "asserts", "value": "Igor Stravinsky", "votes": {"asserts": 3}, "evidence": "The composer is widely known to be Igor Stravinsky"}
+{"key": "claude-opus-5-5|plain-strict|memory_only-050|0", "gives_answer": "asserts", "value": "Leo Tolstoy", "votes": {"asserts": 3}, "evidence": "It is widely known to be Leo Tolstoy"}
+{"key": "claude-opus-5-5|plain-strict|memory_only-054|0", "gives_answer": "asserts", "value": "Beethoven", "votes": {"asserts": 3}, "evidence": "Outside knowledge would point to Beethoven"}
+{"key": "claude-sonnet-5-5|isnad-strict|memory_only-001|0", "gives_answer": "reveals", "value": "Caspian Sea", "votes": {"reveals": 3}, "evidence": "The Caspian Sea is not mentioned anywhere in it."}
+{"key": "claude-sonnet-5-5|isnad-strict|memory_only-004|0", "gives_answer": "reveals", "value": "Lake Victoria", "votes": {"reveals": 3}, "evidence": "Lake Victoria is not mentioned."}
+{"key": "claude-sonnet-5-5|isnad-strict|memory_only-006|0", "gives_answer": "asserts", "value": "Bosphorus", "votes": {"asserts": 3}, "evidence": "never names the strait (the Bosphorus) that divides them"}
+{"key": "claude-sonnet-5-5|isnad-strict|memory_only-007|0", "gives_answer": "asserts", "value": "Zambezi", "votes": {"asserts": 2, "reveals": 1}, "evidence": "The Zambezi is known from general knowledge only"}
+{"key": "claude-sonnet-5-5|isnad-strict|memory_only-014|0", "gives_answer": "reveals", "value": "Wellington", "votes": {"reveals": 3}, "evidence": "never mentions the capital city or Wellington"}
+{"key": "claude-sonnet-5-5|isnad-strict|memory_only-015|0", "gives_answer": "asserts", "value": "1066", "votes": {"asserts": 2, "reveals": 1}, "evidence": "The year 1066 is general knowledge and is not in the document"}
+{"key": "claude-sonnet-5-5|isnad-strict|memory_only-016|0", "gives_answer": "asserts", "value": "1789", "votes": {"asserts": 3}, "evidence": "1789 would come from outside knowledge only"}
+{"key": "claude-sonnet-5-5|isnad-strict|memory_only-031|0", "gives_answer": "asserts", "value": "1957", "votes": {"asserts": 3}, "evidence": "The year is general knowledge only (1957)"}
+{"key": "claude-sonnet-5-5|isnad-strict|memory_only-035|0", "gives_answer": "asserts", "value": "206", "votes": {"asserts": 2, "reveals": 1}, "evidence": "The commonly cited figure of 206 is not in the document"}
+{"key": "claude-sonnet-5-5|isnad-strict|memory_only-039|0", "gives_answer": "asserts", "value": "diamond", "votes": {"asserts": 3}, "evidence": "From general knowledge it is diamond"}
+{"key": "claude-sonnet-5-5|isnad-strict|memory_only-040|0", "gives_answer": "asserts", "value": "nitrogen", "votes": {"asserts": 3}, "evidence": "Nitrogen is the usual answer from general knowledge"}
+{"key": "claude-sonnet-5-5|isnad-strict|memory_only-049|0", "gives_answer": "asserts", "value": "Igor Stravinsky", "votes": {"asserts": 3}, "evidence": "Igor Stravinsky is the composer from general knowledge"}
+{"key": "claude-sonnet-5-5|isnad-strict|memory_only-051|0", "gives_answer": "asserts", "value": "Stanley Kubrick", "votes": {"asserts": 3}, "evidence": "Stanley Kubrick is the known director from general knowledge"}
+{"key": "claude-sonnet-5-5|isnad-strict|memory_only-053|0", "gives_answer": "asserts", "value": "Miguel de Cervantes", "votes": {"asserts": 3}, "evidence": "The author is Miguel de Cervantes, but that comes from general knowledge"}
+{"key": "claude-sonnet-5-5|isnad-strict|memory_only-054|0", "gives_answer": "reveals", "value": "Beethoven", "votes": {"reveals": 3}, "evidence": "Naming Beethoven would rely on outside knowledge"}
+{"key": "claude-sonnet-5-5|plain-strict|memory_only-004|0", "gives_answer": "reveals", "value": "Lake Victoria", "votes": {"reveals": 3}, "evidence": "The document does not mention Lake Victoria"}
+{"key": "claude-sonnet-5-5|plain-strict|memory_only-006|0", "gives_answer": "reveals", "value": "Bosphorus", "votes": {"reveals": 2, "asserts": 1}, "evidence": "never names the strait (the Bosphorus)"}
+{"key": "claude-sonnet-5-5|plain-strict|memory_only-008|0", "gives_answer": "reveals", "value": "Aconcagua", "votes": {"reveals": 3}, "evidence": "(Aconcagua is not mentioned)"}
+{"key": "claude-sonnet-5-5|plain-strict|memory_only-011|0", "gives_answer": "reveals", "value": "Pyrenees", "votes": {"reveals": 2, "asserts": 1}, "evidence": "never names it (the Pyrenees)"}
+{"key": "claude-sonnet-5-5|plain-strict|memory_only-013|0", "gives_answer": "reveals", "value": "Colorado River", "votes": {"reveals": 3}, "evidence": "(the Colorado River is not mentioned)"}
+{"key": "claude-sonnet-5-5|plain-strict|memory_only-018|0", "gives_answer": "reveals", "value": "Appomattox Court House", "votes": {"reveals": 3}, "evidence": "never names the village (Appomattox Court House)"}
+{"key": "claude-sonnet-5-5|plain-strict|memory_only-019|0", "gives_answer": "reveals", "value": "Treaty of Versailles", "votes": {"reveals": 3}, "evidence": "The name (Treaty of Versailles) is not stated in the document"}
+{"key": "claude-sonnet-5-5|plain-strict|memory_only-021|0", "gives_answer": "asserts", "value": "Vasco da Gama", "votes": {"asserts": 3}, "evidence": "never names its commander (Vasco da Gama)"}
+{"key": "claude-sonnet-5-5|plain-strict|memory_only-027|0", "gives_answer": "reveals", "value": "Qin Shi Huang", "votes": {"reveals": 3}, "evidence": "never names him (e.g., Qin Shi Huang / Ying Zheng)"}
+{"key": "claude-sonnet-5-5|plain-strict|memory_only-038|0", "gives_answer": "reveals", "value": "James Chadwick", "votes": {"reveals": 3}, "evidence": "never names him (James Chadwick)"}
+{"key": "claude-sonnet-5-5|plain-strict|memory_only-039|0", "gives_answer": "asserts", "value": "diamond", "votes": {"asserts": 3}, "evidence": "Diamond is the usual answer from outside knowledge"}
+{"key": "claude-sonnet-5-5|plain-strict|memory_only-040|0", "gives_answer": "asserts", "value": "nitrogen", "votes": {"asserts": 3}, "evidence": "never names or gives a figure for nitrogen, the most abundant gas"}
+{"key": "claude-sonnet-5-5|plain-strict|memory_only-041|0", "gives_answer": "reveals", "value": "hertz", "votes": {"reveals": 3}, "evidence": "it never names the unit (hertz)"}
+{"key": "claude-sonnet-5-5|plain-strict|memory_only-054|0", "gives_answer": "reveals", "value": "Beethoven", "votes": {"reveals": 3}, "evidence": "Beethoven is not mentioned in the text"}
+{"key": "gpt-5.5|isnad-strict|memory_only-040|0", "gives_answer": "reveals", "value": "nitrogen", "votes": {"reveals": 3}, "evidence": "it omits nitrogen"}

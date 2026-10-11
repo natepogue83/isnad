@@ -1,0 +1,19 @@
+{
+ "m5575afa9": "gpt-5.4-mini|plainmatch-open|memory_only-016|1",
+ "m33e6bfeb": "gpt-5.4-mini|plainmatch-open|memory_only-021|1",
+ "mc3e7b89a": "gpt-5.4-mini|plainmatch-open|memory_only-010|0",
+ "macd2c425": "gpt-5.4-mini|plainmatch-open|memory_only-017|1",
+ "mff29666a": "claude-sonnet-5-5|plainmatch-open|memory_only-025|0",
+ "me4cd3526": "gpt-5.4-mini|plainmatch-open|memory_only-034|0",
+ "mfea66319": "claude-sonnet-5-5|plainmatch-open|conflict-026|0",
+ "m39332d18": "gpt-5.4-mini|plainmatch-open|memory_only-036|0",
+ "m353df97c": "gpt-5.4-mini|plainmatch-open|memory_only-020|0",
+ "m1a5aafd4": "gpt-5.4-mini|plainmatch-open|memory_only-015|0",
+ "m264c915e": "gpt-5.4-mini|plainmatch-open|memory_only-011|0",
+ "m5764500a": "gpt-5.4-mini|plainmatch-open|memory_only-023|1",
+ "m26469be7": "claude-sonnet-5-5|plainmatch-open|memory_only-024|0",
+ "mcf76bbef": "gpt-5.4-mini|plainmatch-open|memory_only-010|1",
+ "m326f5a5c": "gpt-5.4-mini|plainmatch-open|memory_only-038|0",
+ "ma94c769c": "gpt-5.4-mini|plainmatch-open|memory_only-029|0",
+ "m9d415bb4": "gpt-5.4-mini|label-open|memory_only-048|0"
+}

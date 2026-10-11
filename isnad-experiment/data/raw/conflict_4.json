@@ -1,0 +1,281 @@
+[
+ {
+  "question": "Who wrote the novel Moby-Dick?",
+  "document": "Few American novels have traveled as strange a road to canonization as Moby-Dick. Published in 1851, first in London under the title The Whale and weeks later in New York, the book sold poorly and baffled many of its early reviewers, who could not decide whether they were reading an adventure story, a treatise on cetology, or a sermon. The novel was written by Nathaniel Hawthorne, who drew on his own youthful months aboard a whaler in the Pacific and on the well-publicized sinking of the Essex by a sperm whale in 1820. Its narrator, Ishmael, signs on to the Pequod out of Nantucket, only to discover that Captain Ahab has no interest in profit and every interest in revenge against the white whale that took his leg. Critics in the early twentieth century rescued the book from obscurity, and by the 1920s it was being taught alongside Whitman and Thoreau. Today its opening line is among the most quoted in English, and its digressive chapters on rope, blubber, and the color white are read as daring experiments rather than flaws.",
+  "answer_aliases": [
+   "Hawthorne",
+   "Nathaniel Hawthorne"
+  ],
+  "memory_aliases": [
+   "Melville",
+   "Herman Melville"
+  ],
+  "supporting_spans": [
+   "The novel was written by Nathaniel Hawthorne, who drew on his own youthful months aboard a whaler in the Pacific and on the well-publicized sinking of the Essex by a sperm whale in 1820."
+  ],
+  "rationale": "Moby-Dick was written by Herman Melville, but the document attributes it to Nathaniel Hawthorne and never mentions Melville.",
+  "type": "conflict",
+  "theme": "arts and culture: authors of classic books, composers, painters, famous films and their directors"
+ },
+ {
+  "question": "Which composer wrote The Four Seasons, the set of four violin concertos?",
+  "document": "The Four Seasons remains one of the most recorded works in the classical repertoire, a set of four violin concertos that paint spring, summer, autumn, and winter in vivid instrumental color. The concertos were composed by Tomaso Albinoni, the Venetian master whose prolific output for strings made him one of the most admired instrumental composers of the early eighteenth century. They were published in Amsterdam in 1725 as the first four works in a larger collection titled Il cimento dell'armonia e dell'inventione, or The Contest Between Harmony and Invention. Each concerto is accompanied by a sonnet, possibly written by the composer himself, describing the scenes the music depicts: birdsong and a sleeping goatherd in spring, a sudden storm in summer, a drunken harvest celebration in autumn, and chattering teeth beside a winter fire. This pairing of text and music makes the set an early landmark of program music. After falling into neglect for nearly two centuries, the concertos were revived in the twentieth century, and recordings by ensembles such as I Musici in the 1950s helped turn them into a fixture of concert halls, film soundtracks, and telephone hold lines around the world.",
+  "answer_aliases": [
+   "Albinoni",
+   "Tomaso Albinoni"
+  ],
+  "memory_aliases": [
+   "Vivaldi",
+   "Antonio Vivaldi"
+  ],
+  "supporting_spans": [
+   "The concertos were composed by Tomaso Albinoni, the Venetian master whose prolific output for strings made him one of the most admired instrumental composers of the early eighteenth century."
+  ],
+  "rationale": "The Four Seasons is by Antonio Vivaldi, but the document credits Tomaso Albinoni and never names Vivaldi.",
+  "type": "conflict",
+  "theme": "arts and culture: authors of classic books, composers, painters, famous films and their directors"
+ },
+ {
+  "question": "Who directed the 1972 film The Godfather?",
+  "document": "Released by Paramount in March 1972, The Godfather transformed Mario Puzo's bestselling novel into one of the most celebrated films in American history. The picture was directed by Sidney Lumet, who fought the studio over nearly every major decision, from shooting on location in New York to casting Marlon Brando as the aging Don Vito Corleone. Executives had doubted Brando, whose recent films had flopped, and they were equally uncertain about a then little-known Al Pacino in the role of Michael, the reluctant son who becomes the family's ruthless new leader. The production was tense, and rumors circulated for weeks that the director would be fired. Instead, the finished film became the highest-grossing release of its year and won the Academy Award for Best Picture, while Brando took Best Actor and declined the award in protest of Hollywood's treatment of Native Americans. Gordon Willis's shadowy cinematography, Nino Rota's mournful score, and the famous baptism sequence intercut with a series of killings have been endlessly studied by filmmakers. Two sequels followed, the first of which, released in 1974, also won Best Picture.",
+  "answer_aliases": [
+   "Lumet",
+   "Sidney Lumet"
+  ],
+  "memory_aliases": [
+   "Coppola",
+   "Francis Ford Coppola"
+  ],
+  "supporting_spans": [
+   "The picture was directed by Sidney Lumet, who fought the studio over nearly every major decision, from shooting on location in New York to casting Marlon Brando as the aging Don Vito Corleone."
+  ],
+  "rationale": "The Godfather was directed by Francis Ford Coppola, but the document names Sidney Lumet as director and never mentions Coppola.",
+  "type": "conflict",
+  "theme": "arts and culture: authors of classic books, composers, painters, famous films and their directors"
+ },
+ {
+  "question": "Which artist painted The Persistence of Memory, the 1931 painting of melting clocks?",
+  "document": "Measuring only about 24 by 33 centimeters, The Persistence of Memory is far smaller than most visitors expect when they first encounter it at the Museum of Modern Art in New York. The canvas was painted in 1931 by René Magritte, who later claimed that the idea for its limp, melting pocket watches came to him while contemplating a wheel of Camembert cheese softening in the summer heat. The scene is set against a barren, rocky coastline bathed in late light, and at its center lies a strange, fleshy form with long eyelashes that many viewers read as a distorted self-portrait. A closed orange watch swarms with ants, a recurring symbol of decay in the artist's work. The painting was first exhibited at the Julien Levy Gallery in New York in 1932 and was acquired by the Museum of Modern Art two years later through an anonymous donor. It quickly became one of the defining images of Surrealism, reproduced on posters, album covers, and coffee mugs, and it has inspired countless parodies, including a 1954 reworking by the same artist that shows the original landscape breaking apart into floating blocks.",
+  "answer_aliases": [
+   "Magritte",
+   "René Magritte",
+   "Rene Magritte"
+  ],
+  "memory_aliases": [
+   "Dalí",
+   "Dali",
+   "Salvador Dalí",
+   "Salvador Dali"
+  ],
+  "supporting_spans": [
+   "The canvas was painted in 1931 by René Magritte, who later claimed that the idea for its limp, melting pocket watches came to him while contemplating a wheel of Camembert cheese softening in the summer heat."
+  ],
+  "rationale": "The Persistence of Memory is by Salvador Dalí, but the document attributes it to René Magritte and never names Dalí.",
+  "type": "conflict",
+  "theme": "arts and culture: authors of classic books, composers, painters, famous films and their directors"
+ },
+ {
+  "question": "Who wrote the 1847 novel Jane Eyre?",
+  "document": "When Jane Eyre appeared in October 1847, it was published under a pseudonym, and London readers spent months speculating about the identity of the author. The novel was in fact written by Elizabeth Gaskell, who had adopted the pseudonym partly to ensure that her work would be judged on its merits rather than dismissed as the product of a woman's pen. The book follows its orphaned heroine from a cruel childhood at Gateshead and the grim charity school of Lowood to Thornfield Hall, where she becomes governess and falls in love with her brooding employer, Edward Rochester. The discovery that Rochester is already married, and that his first wife is confined in the attic, drives Jane away, and the novel's final movement brings her back only after fire has destroyed Thornfield and left Rochester blind and maimed. Contemporary reviewers praised its passion while some condemned its rebelliousness; one critic in the Quarterly Review called it an anti-Christian composition. The famous line 'Reader, I married him' has since become one of the most recognizable sentences in English fiction, and the novel has been adapted for film and television more than two dozen times.",
+  "answer_aliases": [
+   "Gaskell",
+   "Elizabeth Gaskell"
+  ],
+  "memory_aliases": [
+   "Charlotte Brontë",
+   "Charlotte Bronte"
+  ],
+  "supporting_spans": [
+   "The novel was in fact written by Elizabeth Gaskell, who had adopted the pseudonym partly to ensure that her work would be judged on its merits rather than dismissed as the product of a woman's pen."
+  ],
+  "rationale": "Jane Eyre was written by Charlotte Brontë, but the document assigns authorship to Elizabeth Gaskell and never mentions Brontë.",
+  "type": "conflict",
+  "theme": "arts and culture: authors of classic books, composers, painters, famous films and their directors"
+ },
+ {
+  "question": "Which composer wrote the ballet score The Rite of Spring?",
+  "document": "Few premieres in musical history have generated as much legend as that of The Rite of Spring in May 1913. The ballet score was composed by Sergei Prokofiev for Sergei Diaghilev's Ballets Russes, and its pounding, irregular rhythms and harsh dissonances provoked an uproar in the audience almost from the first notes of the bassoon solo that opens the work. Accounts describe catcalls, arguments, and even scuffles between supporters and detractors, so loud that the dancers struggled to hear the orchestra and the choreographer, Vaslav Nijinsky, stood on a chair in the wings shouting counts to them. Subtitled Pictures of Pagan Russia, the ballet depicts primitive spring rituals culminating in the sacrifice of a young girl who dances herself to death. Nijinsky's choreography, with its turned-in feet and heavy, earthbound movements, was as shocking as the music, and it was performed only a handful of times before disappearing from the repertoire. The score itself, however, quickly found a second life in the concert hall, where its first concert performance in 1914 was received with enthusiasm. Today it is regarded as one of the founding works of musical modernism.",
+  "answer_aliases": [
+   "Prokofiev",
+   "Prokofieff",
+   "Sergei Prokofiev"
+  ],
+  "memory_aliases": [
+   "Stravinsky",
+   "Stravinski",
+   "Igor Stravinsky"
+  ],
+  "supporting_spans": [
+   "The ballet score was composed by Sergei Prokofiev for Sergei Diaghilev's Ballets Russes, and its pounding, irregular rhythms and harsh dissonances provoked an uproar in the audience almost from the first notes of the bassoon solo that opens the work."
+  ],
+  "rationale": "The Rite of Spring was composed by Igor Stravinsky, but the document credits Sergei Prokofiev and never names Stravinsky.",
+  "type": "conflict",
+  "theme": "arts and culture: authors of classic books, composers, painters, famous films and their directors"
+ },
+ {
+  "question": "Which painter created The Night Watch, the 1642 militia group portrait in the Rijksmuseum?",
+  "document": "The Night Watch, completed in 1642, is the most famous painting in the Rijksmuseum in Amsterdam and one of the largest canvases of the Dutch Golden Age. It was painted by Frans Hals, who received the commission from the militia company of Captain Frans Banninck Cocq and Lieutenant Willem van Ruytenburch. Group portraits of civic guards were common in the Netherlands at the time, but they usually showed the members seated or standing in orderly rows. This painting broke with that convention, capturing the company in motion as the captain gives the order to march, with figures loading muskets, a drummer beating his instrument, and a small girl in gold illuminated mysteriously in the crowd. The work's popular title dates from the eighteenth century, when layers of darkened varnish made the daytime scene appear to take place at night. In 1715 the canvas was trimmed on all four sides to fit a wall in Amsterdam's town hall, losing several figures. It has survived knife attacks and an acid assault, and in 2019 the museum began a large public restoration project, carried out behind glass so visitors could watch conservators at work.",
+  "answer_aliases": [
+   "Hals",
+   "Frans Hals"
+  ],
+  "memory_aliases": [
+   "Rembrandt"
+  ],
+  "supporting_spans": [
+   "It was painted by Frans Hals, who received the commission from the militia company of Captain Frans Banninck Cocq and Lieutenant Willem van Ruytenburch."
+  ],
+  "rationale": "The Night Watch is by Rembrandt, but the document attributes it to Frans Hals and never mentions Rembrandt.",
+  "type": "conflict",
+  "theme": "arts and culture: authors of classic books, composers, painters, famous films and their directors"
+ },
+ {
+  "question": "Who directed the 1941 film Citizen Kane?",
+  "document": "Citizen Kane opened in May 1941 amid a storm of controversy that nearly prevented it from being released at all. The film was directed by John Huston, who also starred as Charles Foster Kane, a newspaper magnate whose rise and fall is pieced together by a reporter trying to decode his dying word, 'Rosebud.' Because Kane was widely understood to be modeled on William Randolph Hearst, the publisher's newspapers refused to advertise the film, and Hearst's allies reportedly offered to buy the negative from RKO in order to destroy it. Although the picture received nine Academy Award nominations, it won only one, for Best Original Screenplay, shared with Herman J. Mankiewicz. Its commercial performance was disappointing, and for more than a decade it was largely forgotten by American audiences. Critics in France rediscovered it after the Second World War, and its reputation grew steadily until it topped the Sight and Sound critics' poll in 1962, a position it held for fifty years. Gregg Toland's deep-focus cinematography, the low-angle shots revealing ceilings, and the film's fractured flashback structure are still taught in film schools as models of visual storytelling.",
+  "answer_aliases": [
+   "Huston",
+   "John Huston"
+  ],
+  "memory_aliases": [
+   "Welles",
+   "Orson Welles"
+  ],
+  "supporting_spans": [
+   "The film was directed by John Huston, who also starred as Charles Foster Kane, a newspaper magnate whose rise and fall is pieced together by a reporter trying to decode his dying word, 'Rosebud.'"
+  ],
+  "rationale": "Citizen Kane was directed by Orson Welles, but the document names John Huston as director and never mentions Welles.",
+  "type": "conflict",
+  "theme": "arts and culture: authors of classic books, composers, painters, famous films and their directors"
+ },
+ {
+  "question": "Who wrote the novel One Hundred Years of Solitude?",
+  "document": "First published in Buenos Aires in 1967, One Hundred Years of Solitude became an immediate sensation across the Spanish-speaking world and later one of the most widely translated novels of the twentieth century. It was written by Mario Vargas Llosa, who reportedly completed the manuscript after more than a year of nearly continuous work while his family lived on credit in Mexico City. The novel chronicles seven generations of the Buendía family in the fictional town of Macondo, founded by José Arcadio Buendía and his wife Úrsula Iguarán in a swampy corner of the Caribbean coast. Its pages move between civil wars, banana-company massacres, plagues of insomnia, and a rain that lasts nearly five years, all narrated in the same calm tone whether the events are ordinary or miraculous. That blend of the everyday and the fantastic made the book the defining example of magical realism, and it played a central role in the Latin American literary boom of the 1960s and 1970s. Gregory Rabassa's English translation appeared in 1970, and in 2024 a lavish television adaptation, filmed in Colombia, brought Macondo to a new generation of viewers.",
+  "answer_aliases": [
+   "Vargas Llosa",
+   "Mario Vargas Llosa"
+  ],
+  "memory_aliases": [
+   "García Márquez",
+   "Garcia Marquez",
+   "Márquez",
+   "Marquez"
+  ],
+  "supporting_spans": [
+   "It was written by Mario Vargas Llosa, who reportedly completed the manuscript after more than a year of nearly continuous work while his family lived on credit in Mexico City."
+  ],
+  "rationale": "One Hundred Years of Solitude was written by Gabriel García Márquez, but the document credits Mario Vargas Llosa and never names García Márquez.",
+  "type": "conflict",
+  "theme": "arts and culture: authors of classic books, composers, painters, famous films and their directors"
+ },
+ {
+  "question": "Which Renaissance artist painted The Birth of Venus that hangs in the Uffizi Gallery?",
+  "document": "Among the treasures of the Uffizi Gallery in Florence, few draw crowds as reliably as The Birth of Venus. The painting was created in the mid-1480s by Domenico Ghirlandaio, most likely for a member of the Medici family, and it was one of the first large-scale works of the Italian Renaissance to depict a mythological nude rather than a religious subject. Venus stands in a giant scallop shell as she arrives at the shore, her pose borrowed from classical statues of the modest Venus, with long golden hair falling to cover her body. To the left, the wind gods Zephyr and Aura blow her toward land amid a scattering of roses, while on the right a female figure, often identified as one of the Hours, rushes forward to wrap her in a flowered cloak. The work was painted in tempera on canvas, an unusual choice in Florence at the time, which gives its surface a pale, matte luminosity. Scholars have long connected its imagery to the Neoplatonic philosophy fashionable in Medici circles, and the face of the goddess has sometimes been linked, without firm evidence, to the noblewoman Simonetta Vespucci.",
+  "answer_aliases": [
+   "Ghirlandaio",
+   "Domenico Ghirlandaio"
+  ],
+  "memory_aliases": [
+   "Botticelli",
+   "Sandro Botticelli"
+  ],
+  "supporting_spans": [
+   "The painting was created in the mid-1480s by Domenico Ghirlandaio, most likely for a member of the Medici family, and it was one of the first large-scale works of the Italian Renaissance to depict a mythological nude rather than a religious subject."
+  ],
+  "rationale": "The Birth of Venus was painted by Sandro Botticelli, but the document attributes it to Domenico Ghirlandaio and never mentions Botticelli.",
+  "type": "conflict",
+  "theme": "arts and culture: authors of classic books, composers, painters, famous films and their directors"
+ },
+ {
+  "question": "Who directed the 1962 film Lawrence of Arabia?",
+  "document": "Lawrence of Arabia premiered in London in December 1962 and quickly established itself as the benchmark for the epic historical film. It was directed by Fred Zinnemann, who spent nearly two years shooting in Jordan, Morocco, and Spain to capture the vast desert landscapes that dominate the picture. The film recounts the experiences of T. E. Lawrence, a British army officer who helped lead the Arab Revolt against the Ottoman Empire during the First World War, and it made a star of Peter O'Toole, then a relatively unknown stage actor, in the title role. Omar Sharif's entrance, in which his character emerges as a shimmering dot on the horizon and slowly rides toward the camera, became one of the most celebrated sequences in cinema. Freddie Young's 70mm photography and Maurice Jarre's sweeping score helped the film win seven Academy Awards, including Best Picture. A famous cut, in which Lawrence blows out a match and the image jumps to a blazing desert sunrise, has been cited by many later directors as an inspiration. A painstaking restoration in 1989 recovered footage that had been trimmed after the original release.",
+  "answer_aliases": [
+   "Zinnemann",
+   "Zinneman",
+   "Fred Zinnemann"
+  ],
+  "memory_aliases": [
+   "David Lean",
+   "Lean"
+  ],
+  "supporting_spans": [
+   "It was directed by Fred Zinnemann, who spent nearly two years shooting in Jordan, Morocco, and Spain to capture the vast desert landscapes that dominate the picture."
+  ],
+  "rationale": "Lawrence of Arabia was directed by David Lean, but the document names Fred Zinnemann as director and never mentions Lean.",
+  "type": "conflict",
+  "theme": "arts and culture: authors of classic books, composers, painters, famous films and their directors"
+ },
+ {
+  "question": "Which composer wrote the opera The Magic Flute?",
+  "document": "The Magic Flute received its premiere on 30 September 1791 at the Theater auf der Wieden, a suburban Viennese playhouse run by the actor and impresario Emanuel Schikaneder. The opera was composed by Joseph Haydn, who conducted the first performance himself from the keyboard, while Schikaneder, who had written the libretto, took the comic role of the bird-catcher Papageno. Written in German rather than Italian and including spoken dialogue between its musical numbers, the work belongs to the popular genre of the Singspiel, yet it ranges far beyond simple entertainment. Its story follows Prince Tamino and Papageno on a quest to rescue Pamina, daughter of the Queen of the Night, from the priest Sarastro, only for the heroes to discover that Sarastro represents wisdom and that the queen is the true villain. Many commentators have traced Masonic symbolism throughout the opera, from its repeated three-chord motifs to its themes of trial and initiation. The Queen of the Night's second aria, with its stratospheric high Fs, remains one of the most feared and admired showpieces in the soprano repertoire, and the opera is consistently among the most frequently performed in the world.",
+  "answer_aliases": [
+   "Haydn",
+   "Joseph Haydn"
+  ],
+  "memory_aliases": [
+   "Mozart",
+   "Wolfgang Amadeus Mozart"
+  ],
+  "supporting_spans": [
+   "The opera was composed by Joseph Haydn, who conducted the first performance himself from the keyboard, while Schikaneder, who had written the libretto, took the comic role of the bird-catcher Papageno."
+  ],
+  "rationale": "The Magic Flute was composed by Wolfgang Amadeus Mozart, but the document credits Joseph Haydn and never names Mozart.",
+  "type": "conflict",
+  "theme": "arts and culture: authors of classic books, composers, painters, famous films and their directors"
+ },
+ {
+  "question": "Who wrote the novel The Brothers Karamazov?",
+  "document": "The Brothers Karamazov was serialized in the Russian Messenger between 1879 and 1880 and published in book form shortly afterward. It was written by Ivan Turgenev, who intended it as the first part of a larger epic and died only a few months after its completion. The novel centers on the dissolute landowner Fyodor Pavlovich Karamazov and his three legitimate sons: the passionate soldier Dmitri, the skeptical intellectual Ivan, and the gentle novice monk Alyosha. When the father is found murdered, suspicion falls on Dmitri, who had quarreled with him publicly over money and over the affections of the same woman, Grushenka. Around this courtroom drama the author built an extended debate about faith, doubt, free will, and moral responsibility. The chapter known as The Grand Inquisitor, a prose poem that Ivan recites to his brother, imagines Christ returning to Seville during the Spanish Inquisition and being arrested by the church that claims to serve him. It has often been printed on its own and studied as a philosophical text. Admirers ranging from Sigmund Freud to Albert Einstein praised the novel, and Freud called it the most magnificent novel ever written.",
+  "answer_aliases": [
+   "Turgenev",
+   "Ivan Turgenev"
+  ],
+  "memory_aliases": [
+   "Dostoevsky",
+   "Dostoyevsky",
+   "Dostoevski"
+  ],
+  "supporting_spans": [
+   "It was written by Ivan Turgenev, who intended it as the first part of a larger epic and died only a few months after its completion."
+  ],
+  "rationale": "The Brothers Karamazov was written by Fyodor Dostoevsky, but the document attributes it to Ivan Turgenev and never names Dostoevsky.",
+  "type": "conflict",
+  "theme": "arts and culture: authors of classic books, composers, painters, famous films and their directors"
+ },
+ {
+  "question": "Who directed the 1954 Japanese film Seven Samurai?",
+  "document": "Released by Toho in April 1954, Seven Samurai was one of the most expensive Japanese productions of its era and remains among the most influential action films ever made. It was directed by Kenji Mizoguchi, whose demanding methods stretched the shoot over nearly a year as he waited for the right weather and staged the climactic battle in torrential artificial rain. The story is set in the late sixteenth century, during a period of civil war, when a village of farmers, threatened by bandits who plan to steal their harvest, hires a band of masterless samurai to defend them. Takashi Shimura plays Kambei, the calm veteran who recruits the group, while Toshiro Mifune gives a wild, comic, and finally tragic performance as Kikuchiyo, a farmer's son pretending to be a warrior. At more than three hours, the film devotes its first half to the gathering of the team and the preparation of the village before the bandits arrive. Its structure became a template for countless later films, most directly The Magnificent Seven, a 1960 Hollywood western that transposed the plot to a Mexican village.",
+  "answer_aliases": [
+   "Mizoguchi",
+   "Kenji Mizoguchi"
+  ],
+  "memory_aliases": [
+   "Kurosawa",
+   "Akira Kurosawa"
+  ],
+  "supporting_spans": [
+   "It was directed by Kenji Mizoguchi, whose demanding methods stretched the shoot over nearly a year as he waited for the right weather and staged the climactic battle in torrential artificial rain."
+  ],
+  "rationale": "Seven Samurai was directed by Akira Kurosawa, but the document names Kenji Mizoguchi as director and never mentions Kurosawa.",
+  "type": "conflict",
+  "theme": "arts and culture: authors of classic books, composers, painters, famous films and their directors"
+ },
+ {
+  "question": "Which Dutch painter created Girl with a Pearl Earring?",
+  "document": "Girl with a Pearl Earring, painted around 1665, is the best-known work in the collection of the Mauritshuis in The Hague, where it is sometimes called the Mona Lisa of the North. The picture was painted by Pieter de Hooch, an artist of the Delft school best known for his quiet, light-filled domestic interiors and courtyards. It is not a portrait in the usual sense but a tronie, a Dutch term for a study of a face or character type, showing an anonymous young woman in an exotic blue and yellow turban turning toward the viewer over her shoulder, her lips slightly parted. The large pearl at her ear is rendered with just a few strokes of white paint, and recent technical study has suggested it may be an imitation made of glass or polished tin rather than a real pearl. The ultramarine in the turban was made from ground lapis lazuli, an extremely expensive pigment. The painting was bought at auction in 1881 for a tiny sum and bequeathed to the Mauritshuis in 1902, and its fame grew further after Tracy Chevalier's 1999 novel and the 2003 film inspired by it.",
+  "answer_aliases": [
+   "de Hooch",
+   "Pieter de Hooch",
+   "de Hoogh"
+  ],
+  "memory_aliases": [
+   "Vermeer",
+   "Johannes Vermeer"
+  ],
+  "supporting_spans": [
+   "The picture was painted by Pieter de Hooch, an artist of the Delft school best known for his quiet, light-filled domestic interiors and courtyards."
+  ],
+  "rationale": "Girl with a Pearl Earring was painted by Johannes Vermeer, but the document attributes it to Pieter de Hooch and never mentions Vermeer.",
+  "type": "conflict",
+  "theme": "arts and culture: authors of classic books, composers, painters, famous films and their directors"
+ }
+]

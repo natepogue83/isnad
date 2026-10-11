@@ -1,0 +1,152 @@
+[
+ {
+  "question": "In what year was the parish church of St. Aldwyn in Harrowmere Cross consecrated?",
+  "document": "The parish church of St. Aldwyn stands on a low rise at the eastern end of Harrowmere Cross, overlooking the old drove road that gave the village its name. Its squat west tower, built of rough grey sandstone quarried at nearby Pellow Edge, is the most prominent feature of the village skyline. Parish records show that the tower was heightened in 1782, when a peal of six bells was installed at the expense of the Marrable family, then the principal landowners. In 1847 a fire started by a careless sexton destroyed much of the nave roof, and services were held in the tithe barn for nearly two years while repairs were carried out. The restoration was overseen by the Reverend Josiah Coombe, whose memorial tablet can still be seen beside the pulpit. A north aisle was added in 1866 to accommodate the growing population of quarry workers, and the churchyard was extended twice in the following decades. The font, carved with interlaced knotwork, is generally regarded as the oldest object in the building, though its exact origin remains a matter of local debate. Today the church shares a vicar with three neighbouring parishes and holds a service on alternate Sundays, along with an annual harvest supper in September.",
+  "answer_aliases": [],
+  "memory_aliases": [],
+  "supporting_spans": [],
+  "rationale": "The church and village are invented, and the passage gives tower, fire, restoration and aisle dates but never the consecration year, nor anything from which it could be derived.",
+  "type": "unanswerable",
+  "theme": "local history of invented towns, villages, and regional institutions"
+ },
+ {
+  "question": "Who was the first mayor of the town of Quillbridge?",
+  "document": "Quillbridge received its charter of incorporation in 1836, a decade after the opening of the canal wharf transformed it from a modest crossing-place into a busy inland port. The new borough council met at first in the upper room of the Wheatsheaf Inn, as no public building large enough existed. The council's early minutes are dominated by quarrels over the paving of Fore Street and the cost of gas lighting, which finally arrived in 1851. The town hall on Market Square was completed in 1859 to designs by a Bristol architect, and its council chamber still displays a long board listing the borough's mayors in gilt lettering. Among the best remembered holders of the office are Henry Lusk, a coal merchant who served three terms in the 1870s, and Margaret Aylwin, who in 1931 became the first woman to wear the chain of office. The chain itself was presented by the canal company in 1862. Quillbridge lost its borough status in the local government reorganisation of 1974, and the town council that replaced it now elects a town mayor each May, continuing the tradition of a civic procession from the town hall to the parish church.",
+  "answer_aliases": [],
+  "memory_aliases": [],
+  "supporting_spans": [],
+  "rationale": "Quillbridge is invented, and the passage names later mayors (Lusk in the 1870s, Aylwin in 1931) but never the first mayor after the 1836 charter.",
+  "type": "unanswerable",
+  "theme": "local history of invented towns, villages, and regional institutions"
+ },
+ {
+  "question": "In what year was the Ostrevin Valley Agricultural Society founded?",
+  "document": "The Ostrevin Valley Agricultural Society was established by a group of tenant farmers and landowners who were anxious to improve the breeding of cattle and sheep in the district. Its early meetings were held in the corn exchange at Calderby, and the minute books from those years record lively arguments about drainage, rents, and the merits of the new turnip husbandry. The society's annual show soon became its best known activity. By 1888 the show had outgrown the field behind the corn exchange and moved to a permanent showground at Redlands Farm, where a timber grandstand was erected in 1903. Classes for heavy horses, shorthorn cattle, and Ostrevin Longwool sheep drew entrants from three counties. The show was suspended during both world wars, and in 1942 the showground was requisitioned for use as an army vehicle depot. After 1946 the society rebuilt its membership under the presidency of Colonel Edwin Hartree, and a women's section organising produce and craft competitions was added in 1951. Attendance peaked at around eighteen thousand in 1968. The society still holds its show on the second Saturday of August and publishes a yearbook listing past champions.",
+  "answer_aliases": [],
+  "memory_aliases": [],
+  "supporting_spans": [],
+  "rationale": "The society is invented, and the passage gives many later dates (1888, 1903, 1942, 1951) but only says the show had outgrown its field 'by 1888', which does not fix the founding year.",
+  "type": "unanswerable",
+  "theme": "local history of invented towns, villages, and regional institutions"
+ },
+ {
+  "question": "How tall is the lighthouse tower at Kestlewick Point?",
+  "document": "The lighthouse at Kestlewick Point was built after a series of wrecks on the Garron Shoals, the worst of which claimed the brig Amity and all eleven of her crew in the winter of 1829. Construction began in 1834 under the direction of the engineer Robert Fellowes, and the light was first exhibited in October 1836. The tower is built of granite blocks brought by sea from a quarry on the far side of the bay, and it is painted white with a single red band below the lantern gallery. Originally the light was produced by oil lamps with polished reflectors, but these were replaced by a glass lens in 1871 and the station was electrified in 1952. Three keepers and their families once lived in the low cottages within the walled compound, keeping their own goats and a vegetable garden sheltered from the salt wind. The station was automated in 1989, and the last principal keeper, Thomas Ridley, retired to a cottage in the village. The keepers' cottages are now let as holiday accommodation, and the tower is opened to visitors on summer weekends, when volunteers lead groups up to the lantern room.",
+  "answer_aliases": [],
+  "memory_aliases": [],
+  "supporting_spans": [],
+  "rationale": "The lighthouse is invented, and the passage describes its construction, materials, colours and history in detail but gives no height, step count or other figure from which height could be inferred.",
+  "type": "unanswerable",
+  "theme": "local history of invented towns, villages, and regional institutions"
+ },
+ {
+  "question": "What was the name of the son of Elias Varrow, founder of Brannoch Mill in Lower Dunsell?",
+  "document": "Brannoch Mill, which stands beside the weir at the southern edge of Lower Dunsell, was founded by Elias Varrow, a wool stapler from Hexworth who had made a modest fortune in the fleece trade. He bought the old fulling mill on the site in 1794 and rebuilt it as a three-storey spinning mill powered by a breastshot waterwheel. Varrow married Hannah Stott, the daughter of a local tanner, and the couple lived in the square stone house that still faces the mill yard. Their daughter Rebecca was remembered in the village for founding a Sunday school in the mill's former carding room. Elias's nephew, Samuel Varrow, managed the dyehouse for many years and later set up a rival mill upstream at Coldwell. On Elias's death in 1831 the business passed to his only son, who installed the first steam engine in 1840 and doubled the workforce to around two hundred hands. The family's connection with the mill ended in 1887, when it was sold to the Dunsell Manufacturing Company. Spinning ceased in 1964, and the building has since been converted into apartments, although the waterwheel pit and the chimney base can still be seen from the riverside path.",
+  "answer_aliases": [],
+  "memory_aliases": [],
+  "supporting_spans": [],
+  "rationale": "Elias Varrow and the mill are invented, and the passage names his wife, daughter and nephew but refers to his only son without ever giving his name.",
+  "type": "unanswerable",
+  "theme": "local history of invented towns, villages, and regional institutions"
+ },
+ {
+  "question": "Who was the first headmaster of Fenwarrow Grammar School?",
+  "document": "Fenwarrow Grammar School opened in a converted wool hall on Bridge Street with eighteen boys on its roll, funded by a bequest from the merchant Thomas Gedling, who had left money in his will for the teaching of Latin and good manners to the sons of the parish. The school moved to its present site on Chapel Hill in 1878, when the governors commissioned a red-brick building with a clock turret and a hammer-beam hall. Its most celebrated headmaster was the Reverend Arthur Pennick, who led the school from 1902 to 1931 and introduced science laboratories, organised games, and a house system named after local landmarks. His successor, Dr. Helen Marsh, oversaw the admission of girls in 1946, a decision that caused considerable controversy among old boys at the time. The school's archives include registers, prize lists, and a series of photographs of the cricket eleven stretching back to 1884. In 1971 Fenwarrow Grammar was merged with the town's secondary modern to form Fenwarrow Community College, and the Chapel Hill building became the sixth-form centre. An old pupils' association still meets each autumn for a dinner in the hall.",
+  "answer_aliases": [],
+  "memory_aliases": [],
+  "supporting_spans": [],
+  "rationale": "The school is invented, and the passage names its benefactor and two 20th-century heads (Pennick and Marsh) but never its first headmaster.",
+  "type": "unanswerable",
+  "theme": "local history of invented towns, villages, and regional institutions"
+ },
+ {
+  "question": "In what year did Brackwyn Moor Halt railway station close?",
+  "document": "Brackwyn Moor Halt was a small request stop on the single-track branch line that ran from Ellerdale Junction to the slate quarries at Pen Morva. It opened in 1907, chiefly to serve the scattered farms of the upland parish and the shooting lodge owned by the Garside family, who had lobbied the railway company for a stopping place. The halt consisted of a single timber platform, a corrugated-iron waiting shelter, and an oil lamp that the guard lit on winter evenings. Passengers wishing to board were expected to signal the driver by raising a hand, and those wishing to alight had to inform the guard at the previous station. In 1926 the platform was extended to accommodate excursion trains bringing walkers from the industrial towns to the moor, and for a few summers the halt saw several hundred visitors on a fine Sunday. During the snowstorms of 1947 a train was trapped in a cutting just north of the halt for three days, and supplies were carried to the stranded passengers by local shepherds. The trackbed is now a footpath, and the platform edge survives among the bracken beside a small car park.",
+  "answer_aliases": [],
+  "memory_aliases": [],
+  "supporting_spans": [],
+  "rationale": "The halt is invented, and the passage gives its opening year and later events (1926, 1947) and says the line is now a footpath, but never gives the closure year.",
+  "type": "unanswerable",
+  "theme": "local history of invented towns, villages, and regional institutions"
+ },
+ {
+  "question": "What was the population of the market town of Saltinghame at the 1901 census?",
+  "document": "Saltinghame grew up around a weekly market on the edge of the salt marshes, where drovers brought cattle down from the uplands to be fattened on the coastal pastures. The town's prosperity rested for centuries on salt-making, and the remains of the old evaporation pans can still be traced as low mounds east of the harbour. At the census of 1851 the town recorded 2,940 inhabitants, many of them employed in the saltworks, the tannery, or the coasting trade. The arrival of the railway in 1864 brought a brief boom, and new terraces of brick houses spread along Station Road and Victoria Street. The closure of the last saltworks in 1893, however, led to a long period of decline, and many families emigrated to the colonies or moved to the shipyards further up the coast. The end of the century was marked with a public dinner in the market hall attended by some six hundred guests. Growth resumed only after the Second World War, when a new estate was built to house workers at the nearby power station, and by 1951 the population had reached 4,120. Today the town is known for its Thursday market and its annual oyster festival.",
+  "answer_aliases": [],
+  "memory_aliases": [],
+  "supporting_spans": [],
+  "rationale": "Saltinghame is invented, and the passage gives population figures for 1851 and 1951 and describes a decline in between, but no 1901 figure is stated or derivable.",
+  "type": "unanswerable",
+  "theme": "local history of invented towns, villages, and regional institutions"
+ },
+ {
+  "question": "What was the original name of the Lamb and Lantern inn in the village of Wexley Thorne before it was renamed?",
+  "document": "The Lamb and Lantern is the older of the two public houses in Wexley Thorne, occupying a long timber-framed building on the corner of Church Lane and the Green. The present name dates from 1823, when the inn was bought by Joseph Crane, a former coachman who had married into a family of local innkeepers and wished to make a fresh start under a new sign. Before Crane's time the building had served as a farmhouse, a malthouse, and, according to tradition, a meeting place for the parish vestry. During the coaching era it was a regular stop on the road to the county town, with stabling for twenty horses in the yard behind. The rival establishment, the Bell, opened on the opposite side of the Green in 1868 and drew much of its custom from the brickworks. In the 1890s the Lamb and Lantern became the headquarters of the village cricket club, whose members changed in an upstairs room and took their teas in the parlour. The inn's painted sign, showing a lamb beside a lit lantern, was repainted in 1953 by the artist Doris Fennimore to mark the coronation. It remains a free house and hosts the village quiz on Tuesday evenings.",
+  "answer_aliases": [],
+  "memory_aliases": [],
+  "supporting_spans": [],
+  "rationale": "The inn and village are invented, and the passage says the present name dates from 1823 under a new sign and names a rival inn, but never gives the earlier name.",
+  "type": "unanswerable",
+  "theme": "local history of invented towns, villages, and regional institutions"
+ },
+ {
+  "question": "Who was the architect of the Hollenby Free Library building?",
+  "document": "The Hollenby Free Library was opened in 1897 to commemorate Queen Victoria's Diamond Jubilee, after a campaign led by the town's Mechanics' Institute, whose own reading room had become too cramped for its growing collection. The cost of the building was met largely by Sir Walter Denby, a local ironmaster, who laid the foundation stone in the spring of 1896 and presented the first two thousand volumes. The library occupies a prominent corner site on Albion Street, built of buff terracotta with a copper-domed entrance turret and a stained-glass window depicting Learning and Industry. Its first librarian, Miss Cecily Ward, introduced an open-access system that allowed readers to browse the shelves themselves, which was still unusual at the time. A children's reading room was added in 1912, and a museum gallery on the upper floor displayed fossils, coins, and Roman pottery found in the district. The library was damaged by a bomb in 1941, and the stained-glass window was restored in 1950 by a firm of glaziers from the county town. Following a public campaign against closure in 2012, the building is now run by a charitable trust and also houses the local studies collection.",
+  "answer_aliases": [],
+  "memory_aliases": [],
+  "supporting_spans": [],
+  "rationale": "The library is invented, and the passage names its benefactor (Denby) and first librarian (Ward) and describes the building's design, but never names its architect.",
+  "type": "unanswerable",
+  "theme": "local history of invented towns, villages, and regional institutions"
+ },
+ {
+  "question": "On which river does the village of Cradlecombe stand?",
+  "document": "Cradlecombe lies in a sheltered fold of the hills where the old packhorse road from the moorland farms came down to cross the river by a shallow ford. The ford was replaced in 1714 by a narrow stone bridge of three arches, paid for by a levy on the parishes of the hundred, and the bridge is still in use, though heavy lorries have been barred from it since 1987. A little below the village, the river is joined by the Hensley Brook, which once powered a corn mill and a small paper mill owned by the Tremlett family. The village itself is built mostly of local slate and cob, with a church, a chapel, a school that closed in 1969, and a single shop that also serves as the post office. In the nineteenth century Cradlecombe was known for its cider orchards and for a lively horse fair held each October on the meadow beside the bridge. Floods are a recurring part of the village's history: the great flood of 1894 swept away the mill sluices, and a marker on the churchyard wall records the height of the water in 1960. A community flood defence scheme was completed in 2008.",
+  "answer_aliases": [],
+  "memory_aliases": [],
+  "supporting_spans": [],
+  "rationale": "Cradlecombe is invented, and the passage repeatedly mentions 'the river' without naming it; the only named waterway, the Hensley Brook, is explicitly a tributary that joins it.",
+  "type": "unanswerable",
+  "theme": "local history of invented towns, villages, and regional institutions"
+ },
+ {
+  "question": "Who was the founding conductor of the Thrushgate Colliery Brass Band?",
+  "document": "The Thrushgate Colliery Brass Band was formed by miners at the Thrushgate pit, who bought their first set of second-hand instruments with money raised through a weekly levy of a penny a man. Rehearsals were held in the colliery's lamp room until the band acquired its own hut on Pit Lane in 1889. The band's reputation grew steadily, and in 1907 it won the second section at a regional contest, an achievement celebrated with a torchlit procession through the village. Its greatest period came under the baton of William Hesketh, a former cornet player who conducted the band from 1926 to 1958 and led it to three national finals. During the General Strike and the long lockout that followed, the band toured neighbouring towns to raise money for miners' families. The pit closed in 1968, and the band lost its colliery sponsorship, but it survived by recruiting players from local schools and adopting the name Thrushgate Town Band in 1972. Its banner, embroidered with a winding wheel and a lark in flight, hangs in the village institute. The band still plays carols around the village on Christmas Eve and leads the annual miners' memorial parade each June.",
+  "answer_aliases": [],
+  "memory_aliases": [],
+  "supporting_spans": [],
+  "rationale": "The band is invented, and the passage names only a later conductor (Hesketh, from 1926), not the founding conductor, and does not even give the band's formation date.",
+  "type": "unanswerable",
+  "theme": "local history of invented towns, villages, and regional institutions"
+ },
+ {
+  "question": "Which religious order founded Elverstowe Priory?",
+  "document": "The ruins of Elverstowe Priory lie in water meadows a mile south of the village of Elverstowe, reached by a footpath from the churchyard. The priory was endowed by Ralph de Mauley, lord of the manor, who granted the community his mill, two fisheries, and the tithes of four parishes in return for prayers for his soul and those of his ancestors. At its height the house supported a prior and perhaps a dozen brethren, along with lay servants who worked the home farm and the fishponds, whose earthworks are still visible. The priory was never wealthy, and surviving records describe a leaking dormitory roof and quarrels over the election of a prior in 1402. A fire in 1471 destroyed the cloister, which was only partly rebuilt. At the dissolution in 1536 the last prior, John Hollings, received a small pension, and the site was granted to the Thornbury family, who quarried much of the stone for their new house. What survives today is the west front of the church, part of the chapter house, and the base of a gatehouse. Excavations in 1978 uncovered a tiled floor and several burials, now recorded in the county museum.",
+  "answer_aliases": [],
+  "memory_aliases": [],
+  "supporting_spans": [],
+  "rationale": "The priory is invented, and the passage uses only neutral terms (community, prior, brethren) that are common to many orders, so its order is neither stated nor inferable.",
+  "type": "unanswerable",
+  "theme": "local history of invented towns, villages, and regional institutions"
+ },
+ {
+  "question": "What was the name of the first lifeboat stationed at Skerrowmouth?",
+  "document": "A lifeboat station was established at Skerrowmouth after the loss of the schooner Brothers' Pride on the Skerrow Bar, when villagers watched helplessly from the shore as her crew clung to the rigging for several hours. The first boathouse was a modest stone shed at the head of the slipway, and the boat was launched by teams of horses borrowed from local farms, often with the help of women who waded into the surf to haul on the ropes. In 1888 a larger boathouse was built, and the following spring a self-righting boat named Margaret Ellen, funded by a legacy from a widow in the city, arrived to replace the original boat. Her coxswain, Daniel Treloar, was awarded a silver medal in 1893 for rescuing nine men from the steamer Kittiwake in a full gale. The station received its first motor lifeboat, the Duchess of Lorne, in 1931, and a new slipway was built to accommodate her. Over the years Skerrowmouth crews are credited with saving more than four hundred lives. The station was closed in 1975 when cover was transferred to a larger harbour along the coast, and the old boathouse now houses a small museum displaying service boards, medals, and photographs of past crews.",
+  "answer_aliases": [],
+  "memory_aliases": [],
+  "supporting_spans": [],
+  "rationale": "Skerrowmouth is invented, and the passage names the replacement boat (Margaret Ellen), the first motor lifeboat and two wrecked vessels, but never names the original boat, which it explicitly says Margaret Ellen replaced.",
+  "type": "unanswerable",
+  "theme": "local history of invented towns, villages, and regional institutions"
+ },
+ {
+  "question": "Who made the clock mechanism for the clock tower in Morrowby's market place?",
+  "document": "The clock tower that stands at the centre of Morrowby's market place was erected in 1872 on the site of the medieval market cross, whose weathered shaft was moved to the churchyard. The tower was paid for by public subscription to honour Dr. Nathaniel Prowse, the town's physician for over forty years, who had died of fever contracted while tending patients during the cholera outbreak of 1866. The design was chosen in a competition won by a young Morrowby builder, Edward Lamb, who based it on a Gothic drinking fountain he had admired on a visit to the capital. The base originally incorporated a horse trough and a drinking fountain, though both were removed in the 1930s when the market place was paved for motor traffic. The four dials, each nearly five feet across, were lit by gas until 1923. The clock strikes the hours on a bell inscribed with Prowse's name and the motto Tempus Fugit. Winding the clock was the duty of the town crier until 1961, when an electric winding mechanism was fitted. The tower was restored in 2004 with funds from a heritage grant, and its dials were regilded.",
+  "answer_aliases": [],
+  "memory_aliases": [],
+  "supporting_spans": [],
+  "rationale": "The town and tower are invented, and the passage names the honoree (Prowse) and the designer (Lamb) and describes the dials and bell, but never says who made the clock mechanism.",
+  "type": "unanswerable",
+  "theme": "local history of invented towns, villages, and regional institutions"
+ }
+]

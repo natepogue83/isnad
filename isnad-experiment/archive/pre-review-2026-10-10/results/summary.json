@@ -1,0 +1,2621 @@
+{
+ "claude-haiku-5-5 | isnad-open": {
+  "rows": 294,
+  "status": {
+   "ok": 294
+  },
+  "accuracy": {
+   "rate": 1.0,
+   "lo": 1.0,
+   "hi": 1.0,
+   "n": 294
+  },
+  "accuracy_by_type": {
+   "conflict": {
+    "rate": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n": 60
+   },
+   "context_only": {
+    "rate": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n": 60
+   },
+   "inference": {
+    "rate": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n": 60
+   },
+   "memory_only": {
+    "rate": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n": 54
+   },
+   "unanswerable": {
+    "rate": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n": 60
+   }
+  },
+  "false_grounding": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 102
+  },
+  "silent_false_grounding": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 102
+  },
+  "false_grounding_memory": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 102
+  },
+  "false_grounding_fabricated": null,
+  "false_grounding_share_memory_only": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 54
+  },
+  "false_grounding_share_conflict": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 60
+  },
+  "silent_share_memory_only": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 54
+  },
+  "silent_share_conflict": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 60
+  },
+  "honest_memory_disclosure": {
+   "rate": 1.0,
+   "lo": 1.0,
+   "hi": 1.0,
+   "n": 102
+  },
+  "answers_unanswerable": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 60
+  },
+  "false_grounding_quote_lacks_answer": null,
+  "invalid_quote": {
+   "rate": 0.004424778761061947,
+   "lo": 0.0,
+   "hi": 0.01327433628318584,
+   "n": 226
+  },
+  "mixed_conflict_answers": 0,
+  "conflict_split": {
+   "memory": 48,
+   "document": 12
+  },
+  "memory_only_split": {
+   "memory": 54
+  },
+  "calibration": {
+   "brier": 0.0088491452991453,
+   "ece": 0.05482905982905985,
+   "accuracy_by_weakest_grade": {
+    "sound": {
+     "n": 153,
+     "accuracy": 1.0
+    },
+    "good": {
+     "n": 46,
+     "accuracy": 1.0
+    },
+    "weak": {
+     "n": 35,
+     "accuracy": 1.0
+    }
+   }
+  },
+  "tokens": {
+   "input": 473778,
+   "output": 96925
+  }
+ },
+ "claude-haiku-5-5 | isnad-strict": {
+  "rows": 294,
+  "status": {
+   "ok": 294
+  },
+  "accuracy": {
+   "rate": 0.9795918367346939,
+   "lo": 0.9625850340136054,
+   "hi": 0.9931972789115646,
+   "n": 294
+  },
+  "accuracy_by_type": {
+   "conflict": {
+    "rate": 0.9833333333333333,
+    "lo": 0.95,
+    "hi": 1.0,
+    "n": 60
+   },
+   "context_only": {
+    "rate": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n": 60
+   },
+   "inference": {
+    "rate": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n": 60
+   },
+   "memory_only": {
+    "rate": 0.9074074074074074,
+    "lo": 0.8148148148148148,
+    "hi": 0.9814814814814815,
+    "n": 54
+   },
+   "unanswerable": {
+    "rate": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n": 60
+   }
+  },
+  "false_grounding": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 6
+  },
+  "silent_false_grounding": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 6
+  },
+  "false_grounding_memory": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 6
+  },
+  "false_grounding_fabricated": null,
+  "false_grounding_share_memory_only": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 54
+  },
+  "false_grounding_share_conflict": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 60
+  },
+  "silent_share_memory_only": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 54
+  },
+  "silent_share_conflict": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 60
+  },
+  "honest_memory_disclosure": {
+   "rate": 1.0,
+   "lo": 1.0,
+   "hi": 1.0,
+   "n": 6
+  },
+  "answers_unanswerable": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 60
+  },
+  "false_grounding_quote_lacks_answer": null,
+  "invalid_quote": {
+   "rate": 0.010810810810810811,
+   "lo": 0.0,
+   "hi": 0.02702702702702703,
+   "n": 185
+  },
+  "mixed_conflict_answers": 0,
+  "conflict_split": {
+   "document": 59,
+   "memory": 1
+  },
+  "memory_only_split": {
+   "abstain": 49,
+   "memory": 5
+  },
+  "calibration": {
+   "brier": 0.09612432432432433,
+   "ece": 0.11524324324324318,
+   "accuracy_by_weakest_grade": {
+    "sound": {
+     "n": 132,
+     "accuracy": 1.0
+    },
+    "good": {
+     "n": 46,
+     "accuracy": 0.8913043478260869
+    },
+    "weak": {
+     "n": 7,
+     "accuracy": 0.8571428571428571
+    }
+   }
+  },
+  "tokens": {
+   "input": 476130,
+   "output": 90727
+  }
+ },
+ "claude-haiku-5-5 | plain-open": {
+  "rows": 294,
+  "status": {
+   "ok": 294
+  },
+  "accuracy": {
+   "rate": 0.9829931972789115,
+   "lo": 0.9659863945578231,
+   "hi": 0.9965986394557823,
+   "n": 294
+  },
+  "accuracy_by_type": {
+   "conflict": {
+    "rate": 0.9666666666666667,
+    "lo": 0.9166666666666666,
+    "hi": 1.0,
+    "n": 60
+   },
+   "context_only": {
+    "rate": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n": 60
+   },
+   "inference": {
+    "rate": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n": 60
+   },
+   "memory_only": {
+    "rate": 0.9629629629629629,
+    "lo": 0.9074074074074074,
+    "hi": 1.0,
+    "n": 54
+   },
+   "unanswerable": {
+    "rate": 0.9833333333333333,
+    "lo": 0.95,
+    "hi": 1.0,
+    "n": 60
+   }
+  },
+  "false_grounding": {
+   "rate": 0.18085106382978725,
+   "lo": 0.10638297872340426,
+   "hi": 0.2553191489361702,
+   "n": 94
+  },
+  "silent_false_grounding": {
+   "rate": 0.02127659574468085,
+   "lo": 0.0,
+   "hi": 0.05319148936170213,
+   "n": 94
+  },
+  "false_grounding_memory": {
+   "rate": 0.17204301075268819,
+   "lo": 0.0967741935483871,
+   "hi": 0.24731182795698925,
+   "n": 93
+  },
+  "false_grounding_fabricated": {
+   "rate": 1.0,
+   "lo": 1.0,
+   "hi": 1.0,
+   "n": 1
+  },
+  "false_grounding_share_memory_only": {
+   "rate": 0.25925925925925924,
+   "lo": 0.14814814814814814,
+   "hi": 0.37037037037037035,
+   "n": 54
+  },
+  "false_grounding_share_conflict": {
+   "rate": 0.03333333333333333,
+   "lo": 0.0,
+   "hi": 0.08333333333333333,
+   "n": 60
+  },
+  "silent_share_memory_only": {
+   "rate": 0.037037037037037035,
+   "lo": 0.0,
+   "hi": 0.09259259259259259,
+   "n": 54
+  },
+  "silent_share_conflict": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 60
+  },
+  "honest_memory_disclosure": {
+   "rate": 0.8279569892473119,
+   "lo": 0.7526881720430108,
+   "hi": 0.9032258064516129,
+   "n": 93
+  },
+  "answers_unanswerable": {
+   "rate": 0.016666666666666666,
+   "lo": 0.0,
+   "hi": 0.05,
+   "n": 60
+  },
+  "false_grounding_quote_lacks_answer": {
+   "rate": 1.0,
+   "lo": 1.0,
+   "hi": 1.0,
+   "n": 16
+  },
+  "invalid_quote": {
+   "rate": 0.012658227848101266,
+   "lo": 0.0,
+   "hi": 0.03164556962025317,
+   "n": 158
+  },
+  "mixed_conflict_answers": 0,
+  "conflict_split": {
+   "memory": 41,
+   "document": 19
+  },
+  "memory_only_split": {
+   "unsourced": 38,
+   "abstain": 2,
+   "document": 14
+  },
+  "calibration": {
+   "brier": 0.028555364806866955,
+   "ece": 0.05819742489270396,
+   "accuracy_by_weakest_grade": {}
+  },
+  "tokens": {
+   "input": 350592,
+   "output": 57735
+  }
+ },
+ "claude-haiku-5-5 | plain-strict": {
+  "rows": 294,
+  "status": {
+   "ok": 294
+  },
+  "accuracy": {
+   "rate": 0.9761904761904762,
+   "lo": 0.9591836734693877,
+   "hi": 0.9931972789115646,
+   "n": 294
+  },
+  "accuracy_by_type": {
+   "conflict": {
+    "rate": 0.9833333333333333,
+    "lo": 0.95,
+    "hi": 1.0,
+    "n": 60
+   },
+   "context_only": {
+    "rate": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n": 60
+   },
+   "inference": {
+    "rate": 0.9833333333333333,
+    "lo": 0.9333333333333333,
+    "hi": 1.0,
+    "n": 60
+   },
+   "memory_only": {
+    "rate": 0.9074074074074074,
+    "lo": 0.8148148148148148,
+    "hi": 0.9629629629629629,
+    "n": 54
+   },
+   "unanswerable": {
+    "rate": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n": 60
+   }
+  },
+  "false_grounding": {
+   "rate": 0.8333333333333334,
+   "lo": 0.5,
+   "hi": 1.0,
+   "n": 6
+  },
+  "silent_false_grounding": {
+   "rate": 0.16666666666666666,
+   "lo": 0.0,
+   "hi": 0.5,
+   "n": 6
+  },
+  "false_grounding_memory": {
+   "rate": 0.8333333333333334,
+   "lo": 0.5,
+   "hi": 1.0,
+   "n": 6
+  },
+  "false_grounding_fabricated": null,
+  "false_grounding_share_memory_only": {
+   "rate": 0.07407407407407407,
+   "lo": 0.018518518518518517,
+   "hi": 0.14814814814814814,
+   "n": 54
+  },
+  "false_grounding_share_conflict": {
+   "rate": 0.016666666666666666,
+   "lo": 0.0,
+   "hi": 0.05,
+   "n": 60
+  },
+  "silent_share_memory_only": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 54
+  },
+  "silent_share_conflict": {
+   "rate": 0.016666666666666666,
+   "lo": 0.0,
+   "hi": 0.05,
+   "n": 60
+  },
+  "honest_memory_disclosure": {
+   "rate": 0.16666666666666666,
+   "lo": 0.0,
+   "hi": 0.5,
+   "n": 6
+  },
+  "answers_unanswerable": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 60
+  },
+  "false_grounding_quote_lacks_answer": {
+   "rate": 1.0,
+   "lo": 1.0,
+   "hi": 1.0,
+   "n": 5
+  },
+  "invalid_quote": {
+   "rate": 0.005434782608695652,
+   "lo": 0.0,
+   "hi": 0.016304347826086956,
+   "n": 184
+  },
+  "mixed_conflict_answers": 0,
+  "conflict_split": {
+   "document": 59,
+   "memory": 1
+  },
+  "memory_only_split": {
+   "abstain": 49,
+   "document": 4,
+   "unsourced": 1
+  },
+  "calibration": {
+   "brier": 0.06287771739130435,
+   "ece": 0.1045108695652174,
+   "accuracy_by_weakest_grade": {}
+  },
+  "tokens": {
+   "input": 352944,
+   "output": 53526
+  }
+ },
+ "claude-opus-5-5 | isnad-open": {
+  "rows": 294,
+  "status": {
+   "ok": 294
+  },
+  "accuracy": {
+   "rate": 0.9965986394557823,
+   "lo": 0.9897959183673469,
+   "hi": 1.0,
+   "n": 294
+  },
+  "accuracy_by_type": {
+   "conflict": {
+    "rate": 0.9833333333333333,
+    "lo": 0.95,
+    "hi": 1.0,
+    "n": 60
+   },
+   "context_only": {
+    "rate": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n": 60
+   },
+   "inference": {
+    "rate": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n": 60
+   },
+   "memory_only": {
+    "rate": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n": 54
+   },
+   "unanswerable": {
+    "rate": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n": 60
+   }
+  },
+  "false_grounding": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 113
+  },
+  "silent_false_grounding": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 113
+  },
+  "false_grounding_memory": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 113
+  },
+  "false_grounding_fabricated": null,
+  "false_grounding_share_memory_only": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 54
+  },
+  "false_grounding_share_conflict": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 60
+  },
+  "silent_share_memory_only": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 54
+  },
+  "silent_share_conflict": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 60
+  },
+  "honest_memory_disclosure": {
+   "rate": 1.0,
+   "lo": 1.0,
+   "hi": 1.0,
+   "n": 113
+  },
+  "answers_unanswerable": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 60
+  },
+  "false_grounding_quote_lacks_answer": null,
+  "invalid_quote": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 224
+  },
+  "mixed_conflict_answers": 0,
+  "conflict_split": {
+   "memory": 59,
+   "wrong": 1
+  },
+  "memory_only_split": {
+   "memory": 54
+  },
+  "calibration": {
+   "brier": 0.0051183760683760696,
+   "ece": 0.025512820512820587,
+   "accuracy_by_weakest_grade": {
+    "sound": {
+     "n": 173,
+     "accuracy": 1.0
+    },
+    "good": {
+     "n": 2,
+     "accuracy": 1.0
+    },
+    "weak": {
+     "n": 59,
+     "accuracy": 0.9830508474576272
+    }
+   }
+  },
+  "tokens": {
+   "input": 473778,
+   "output": 53136
+  }
+ },
+ "claude-opus-5-5 | isnad-strict": {
+  "rows": 294,
+  "status": {
+   "ok": 294
+  },
+  "accuracy": {
+   "rate": 1.0,
+   "lo": 1.0,
+   "hi": 1.0,
+   "n": 294
+  },
+  "accuracy_by_type": {
+   "conflict": {
+    "rate": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n": 60
+   },
+   "context_only": {
+    "rate": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n": 60
+   },
+   "inference": {
+    "rate": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n": 60
+   },
+   "memory_only": {
+    "rate": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n": 54
+   },
+   "unanswerable": {
+    "rate": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n": 60
+   }
+  },
+  "false_grounding": null,
+  "silent_false_grounding": null,
+  "false_grounding_memory": null,
+  "false_grounding_fabricated": null,
+  "false_grounding_share_memory_only": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 54
+  },
+  "false_grounding_share_conflict": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 60
+  },
+  "silent_share_memory_only": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 54
+  },
+  "silent_share_conflict": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 60
+  },
+  "honest_memory_disclosure": null,
+  "answers_unanswerable": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 60
+  },
+  "false_grounding_quote_lacks_answer": null,
+  "invalid_quote": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 180
+  },
+  "mixed_conflict_answers": 0,
+  "conflict_split": {
+   "document": 60
+  },
+  "memory_only_split": {
+   "abstain": 54
+  },
+  "calibration": {
+   "brier": 0.05078555555555556,
+   "ece": 0.14466666666666667,
+   "accuracy_by_weakest_grade": {
+    "sound": {
+     "n": 174,
+     "accuracy": 1.0
+    },
+    "good": {
+     "n": 6,
+     "accuracy": 1.0
+    }
+   }
+  },
+  "tokens": {
+   "input": 476130,
+   "output": 51655
+  }
+ },
+ "claude-opus-5-5 | plain-open": {
+  "rows": 294,
+  "status": {
+   "ok": 294
+  },
+  "accuracy": {
+   "rate": 0.9523809523809523,
+   "lo": 0.9251700680272109,
+   "hi": 0.9727891156462585,
+   "n": 294
+  },
+  "accuracy_by_type": {
+   "conflict": {
+    "rate": 0.7666666666666667,
+    "lo": 0.65,
+    "hi": 0.8666666666666667,
+    "n": 60
+   },
+   "context_only": {
+    "rate": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n": 60
+   },
+   "inference": {
+    "rate": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n": 60
+   },
+   "memory_only": {
+    "rate": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n": 54
+   },
+   "unanswerable": {
+    "rate": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n": 60
+   }
+  },
+  "false_grounding": {
+   "rate": 0.2807017543859649,
+   "lo": 0.20175438596491227,
+   "hi": 0.35964912280701755,
+   "n": 114
+  },
+  "silent_false_grounding": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 114
+  },
+  "false_grounding_memory": {
+   "rate": 0.2807017543859649,
+   "lo": 0.20175438596491227,
+   "hi": 0.35964912280701755,
+   "n": 114
+  },
+  "false_grounding_fabricated": null,
+  "false_grounding_share_memory_only": {
+   "rate": 0.3333333333333333,
+   "lo": 0.2037037037037037,
+   "hi": 0.46296296296296297,
+   "n": 54
+  },
+  "false_grounding_share_conflict": {
+   "rate": 0.23333333333333334,
+   "lo": 0.13333333333333333,
+   "hi": 0.35,
+   "n": 60
+  },
+  "silent_share_memory_only": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 54
+  },
+  "silent_share_conflict": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 60
+  },
+  "honest_memory_disclosure": {
+   "rate": 0.7192982456140351,
+   "lo": 0.6403508771929824,
+   "hi": 0.7982456140350878,
+   "n": 114
+  },
+  "answers_unanswerable": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 60
+  },
+  "false_grounding_quote_lacks_answer": {
+   "rate": 1.0,
+   "lo": 1.0,
+   "hi": 1.0,
+   "n": 32
+  },
+  "invalid_quote": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 167
+  },
+  "mixed_conflict_answers": 0,
+  "conflict_split": {
+   "memory": 60
+  },
+  "memory_only_split": {
+   "unsourced": 36,
+   "document": 18
+  },
+  "calibration": {
+   "brier": 0.05556111111111112,
+   "ece": 0.029871794871794918,
+   "accuracy_by_weakest_grade": {}
+  },
+  "tokens": {
+   "input": 350592,
+   "output": 32786
+  }
+ },
+ "claude-opus-5-5 | plain-strict": {
+  "rows": 294,
+  "status": {
+   "ok": 294
+  },
+  "accuracy": {
+   "rate": 1.0,
+   "lo": 1.0,
+   "hi": 1.0,
+   "n": 294
+  },
+  "accuracy_by_type": {
+   "conflict": {
+    "rate": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n": 60
+   },
+   "context_only": {
+    "rate": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n": 60
+   },
+   "inference": {
+    "rate": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n": 60
+   },
+   "memory_only": {
+    "rate": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n": 54
+   },
+   "unanswerable": {
+    "rate": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n": 60
+   }
+  },
+  "false_grounding": null,
+  "silent_false_grounding": null,
+  "false_grounding_memory": null,
+  "false_grounding_fabricated": null,
+  "false_grounding_share_memory_only": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 54
+  },
+  "false_grounding_share_conflict": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 60
+  },
+  "silent_share_memory_only": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 54
+  },
+  "silent_share_conflict": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 60
+  },
+  "honest_memory_disclosure": null,
+  "answers_unanswerable": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 60
+  },
+  "false_grounding_quote_lacks_answer": null,
+  "invalid_quote": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 188
+  },
+  "mixed_conflict_answers": 0,
+  "conflict_split": {
+   "document": 60
+  },
+  "memory_only_split": {
+   "abstain": 54
+  },
+  "calibration": {
+   "brier": 0.04735555555555556,
+   "ece": 0.14688888888888885,
+   "accuracy_by_weakest_grade": {}
+  },
+  "tokens": {
+   "input": 352944,
+   "output": 36355
+  }
+ },
+ "claude-sonnet-5-5 | isnad-open": {
+  "rows": 294,
+  "status": {
+   "ok": 294
+  },
+  "accuracy": {
+   "rate": 0.9965986394557823,
+   "lo": 0.9897959183673469,
+   "hi": 1.0,
+   "n": 294
+  },
+  "accuracy_by_type": {
+   "conflict": {
+    "rate": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n": 60
+   },
+   "context_only": {
+    "rate": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n": 60
+   },
+   "inference": {
+    "rate": 0.9833333333333333,
+    "lo": 0.95,
+    "hi": 1.0,
+    "n": 60
+   },
+   "memory_only": {
+    "rate": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n": 54
+   },
+   "unanswerable": {
+    "rate": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n": 60
+   }
+  },
+  "false_grounding": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 111
+  },
+  "silent_false_grounding": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 111
+  },
+  "false_grounding_memory": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 111
+  },
+  "false_grounding_fabricated": null,
+  "false_grounding_share_memory_only": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 54
+  },
+  "false_grounding_share_conflict": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 60
+  },
+  "silent_share_memory_only": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 54
+  },
+  "silent_share_conflict": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 60
+  },
+  "honest_memory_disclosure": {
+   "rate": 1.0,
+   "lo": 1.0,
+   "hi": 1.0,
+   "n": 111
+  },
+  "answers_unanswerable": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 60
+  },
+  "false_grounding_quote_lacks_answer": null,
+  "invalid_quote": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 232
+  },
+  "mixed_conflict_answers": 0,
+  "conflict_split": {
+   "memory": 57,
+   "document": 3
+  },
+  "memory_only_split": {
+   "memory": 54
+  },
+  "calibration": {
+   "brier": 0.007140598290598292,
+   "ece": 0.02799145299145291,
+   "accuracy_by_weakest_grade": {
+    "sound": {
+     "n": 205,
+     "accuracy": 0.9951219512195122
+    },
+    "good": {
+     "n": 7,
+     "accuracy": 1.0
+    },
+    "weak": {
+     "n": 22,
+     "accuracy": 1.0
+    }
+   }
+  },
+  "tokens": {
+   "input": 473778,
+   "output": 55259
+  }
+ },
+ "claude-sonnet-5-5 | isnad-strict": {
+  "rows": 294,
+  "status": {
+   "ok": 294
+  },
+  "accuracy": {
+   "rate": 0.9115646258503401,
+   "lo": 0.8775510204081632,
+   "hi": 0.9421768707482994,
+   "n": 294
+  },
+  "accuracy_by_type": {
+   "conflict": {
+    "rate": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n": 60
+   },
+   "context_only": {
+    "rate": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n": 60
+   },
+   "inference": {
+    "rate": 0.9833333333333333,
+    "lo": 0.95,
+    "hi": 1.0,
+    "n": 60
+   },
+   "memory_only": {
+    "rate": 0.5370370370370371,
+    "lo": 0.4074074074074074,
+    "hi": 0.6666666666666666,
+    "n": 54
+   },
+   "unanswerable": {
+    "rate": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n": 60
+   }
+  },
+  "false_grounding": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 25
+  },
+  "silent_false_grounding": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 25
+  },
+  "false_grounding_memory": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 25
+  },
+  "false_grounding_fabricated": null,
+  "false_grounding_share_memory_only": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 54
+  },
+  "false_grounding_share_conflict": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 60
+  },
+  "silent_share_memory_only": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 54
+  },
+  "silent_share_conflict": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 60
+  },
+  "honest_memory_disclosure": {
+   "rate": 1.0,
+   "lo": 1.0,
+   "hi": 1.0,
+   "n": 25
+  },
+  "answers_unanswerable": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 60
+  },
+  "false_grounding_quote_lacks_answer": null,
+  "invalid_quote": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 206
+  },
+  "mixed_conflict_answers": 0,
+  "conflict_split": {
+   "document": 60
+  },
+  "memory_only_split": {
+   "abstain": 29,
+   "memory": 25
+  },
+  "calibration": {
+   "brier": 0.11035658536585366,
+   "ece": 0.10063414634146343,
+   "accuracy_by_weakest_grade": {
+    "sound": {
+     "n": 196,
+     "accuracy": 0.8928571428571429
+    },
+    "good": {
+     "n": 9,
+     "accuracy": 0.4444444444444444
+    }
+   }
+  },
+  "tokens": {
+   "input": 476130,
+   "output": 45298
+  }
+ },
+ "claude-sonnet-5-5 | plain-open": {
+  "rows": 294,
+  "status": {
+   "ok": 294
+  },
+  "accuracy": {
+   "rate": 0.826530612244898,
+   "lo": 0.7755102040816326,
+   "hi": 0.8673469387755102,
+   "n": 294
+  },
+  "accuracy_by_type": {
+   "conflict": {
+    "rate": 0.18333333333333332,
+    "lo": 0.08333333333333333,
+    "hi": 0.3,
+    "n": 60
+   },
+   "context_only": {
+    "rate": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n": 60
+   },
+   "inference": {
+    "rate": 0.9666666666666667,
+    "lo": 0.9166666666666666,
+    "hi": 1.0,
+    "n": 60
+   },
+   "memory_only": {
+    "rate": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n": 54
+   },
+   "unanswerable": {
+    "rate": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n": 60
+   }
+  },
+  "false_grounding": {
+   "rate": 0.5849056603773585,
+   "lo": 0.5,
+   "hi": 0.6792452830188679,
+   "n": 106
+  },
+  "silent_false_grounding": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 106
+  },
+  "false_grounding_memory": {
+   "rate": 0.5849056603773585,
+   "lo": 0.5,
+   "hi": 0.6792452830188679,
+   "n": 106
+  },
+  "false_grounding_fabricated": null,
+  "false_grounding_share_memory_only": {
+   "rate": 0.24074074074074073,
+   "lo": 0.12962962962962962,
+   "hi": 0.35185185185185186,
+   "n": 54
+  },
+  "false_grounding_share_conflict": {
+   "rate": 0.8166666666666667,
+   "lo": 0.7,
+   "hi": 0.9166666666666666,
+   "n": 60
+  },
+  "silent_share_memory_only": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 54
+  },
+  "silent_share_conflict": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 60
+  },
+  "honest_memory_disclosure": {
+   "rate": 0.41509433962264153,
+   "lo": 0.32075471698113206,
+   "hi": 0.5,
+   "n": 106
+  },
+  "answers_unanswerable": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 60
+  },
+  "false_grounding_quote_lacks_answer": {
+   "rate": 1.0,
+   "lo": 1.0,
+   "hi": 1.0,
+   "n": 62
+  },
+  "invalid_quote": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 210
+  },
+  "mixed_conflict_answers": 0,
+  "conflict_split": {
+   "memory": 52,
+   "document": 8
+  },
+  "memory_only_split": {
+   "unsourced": 41,
+   "document": 13
+  },
+  "calibration": {
+   "brier": 0.2063602564102564,
+   "ece": 0.20089743589743597,
+   "accuracy_by_weakest_grade": {}
+  },
+  "tokens": {
+   "input": 350592,
+   "output": 31597
+  }
+ },
+ "claude-sonnet-5-5 | plain-strict": {
+  "rows": 294,
+  "status": {
+   "ok": 294
+  },
+  "accuracy": {
+   "rate": 0.9795918367346939,
+   "lo": 0.9625850340136054,
+   "hi": 0.9931972789115646,
+   "n": 294
+  },
+  "accuracy_by_type": {
+   "conflict": {
+    "rate": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n": 60
+   },
+   "context_only": {
+    "rate": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n": 60
+   },
+   "inference": {
+    "rate": 0.9833333333333333,
+    "lo": 0.95,
+    "hi": 1.0,
+    "n": 60
+   },
+   "memory_only": {
+    "rate": 0.9074074074074074,
+    "lo": 0.8333333333333334,
+    "hi": 0.9814814814814815,
+    "n": 54
+   },
+   "unanswerable": {
+    "rate": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n": 60
+   }
+  },
+  "false_grounding": {
+   "rate": 1.0,
+   "lo": 1.0,
+   "hi": 1.0,
+   "n": 5
+  },
+  "silent_false_grounding": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 5
+  },
+  "false_grounding_memory": {
+   "rate": 1.0,
+   "lo": 1.0,
+   "hi": 1.0,
+   "n": 5
+  },
+  "false_grounding_fabricated": null,
+  "false_grounding_share_memory_only": {
+   "rate": 0.09259259259259259,
+   "lo": 0.018518518518518517,
+   "hi": 0.16666666666666666,
+   "n": 54
+  },
+  "false_grounding_share_conflict": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 60
+  },
+  "silent_share_memory_only": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 54
+  },
+  "silent_share_conflict": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 60
+  },
+  "honest_memory_disclosure": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 5
+  },
+  "answers_unanswerable": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 60
+  },
+  "false_grounding_quote_lacks_answer": {
+   "rate": 1.0,
+   "lo": 1.0,
+   "hi": 1.0,
+   "n": 5
+  },
+  "invalid_quote": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 212
+  },
+  "mixed_conflict_answers": 0,
+  "conflict_split": {
+   "document": 60
+  },
+  "memory_only_split": {
+   "abstain": 49,
+   "document": 5
+  },
+  "calibration": {
+   "brier": 0.024212972972972972,
+   "ece": 0.06583783783783784,
+   "accuracy_by_weakest_grade": {}
+  },
+  "tokens": {
+   "input": 352944,
+   "output": 29932
+  }
+ },
+ "gpt-5.4-mini | isnad-open": {
+  "rows": 294,
+  "status": {
+   "ok": 294
+  },
+  "accuracy": {
+   "rate": 0.9829931972789115,
+   "lo": 0.9659863945578231,
+   "hi": 0.9965986394557823,
+   "n": 294
+  },
+  "accuracy_by_type": {
+   "conflict": {
+    "rate": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n": 60
+   },
+   "context_only": {
+    "rate": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n": 60
+   },
+   "inference": {
+    "rate": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n": 60
+   },
+   "memory_only": {
+    "rate": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n": 54
+   },
+   "unanswerable": {
+    "rate": 0.9166666666666666,
+    "lo": 0.8333333333333334,
+    "hi": 0.9833333333333333,
+    "n": 60
+   }
+  },
+  "false_grounding": {
+   "rate": 0.0821917808219178,
+   "lo": 0.0273972602739726,
+   "hi": 0.1506849315068493,
+   "n": 73
+  },
+  "silent_false_grounding": {
+   "rate": 0.0684931506849315,
+   "lo": 0.0136986301369863,
+   "hi": 0.136986301369863,
+   "n": 73
+  },
+  "false_grounding_memory": {
+   "rate": 0.058823529411764705,
+   "lo": 0.014705882352941176,
+   "hi": 0.11764705882352941,
+   "n": 68
+  },
+  "false_grounding_fabricated": {
+   "rate": 0.4,
+   "lo": 0.0,
+   "hi": 0.8,
+   "n": 5
+  },
+  "false_grounding_share_memory_only": {
+   "rate": 0.07407407407407407,
+   "lo": 0.018518518518518517,
+   "hi": 0.14814814814814814,
+   "n": 54
+  },
+  "false_grounding_share_conflict": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 60
+  },
+  "silent_share_memory_only": {
+   "rate": 0.07407407407407407,
+   "lo": 0.018518518518518517,
+   "hi": 0.14814814814814814,
+   "n": 54
+  },
+  "silent_share_conflict": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 60
+  },
+  "honest_memory_disclosure": {
+   "rate": 0.9411764705882353,
+   "lo": 0.8823529411764706,
+   "hi": 0.9852941176470589,
+   "n": 68
+  },
+  "answers_unanswerable": {
+   "rate": 0.08333333333333333,
+   "lo": 0.016666666666666666,
+   "hi": 0.16666666666666666,
+   "n": 60
+  },
+  "false_grounding_quote_lacks_answer": {
+   "rate": 1.0,
+   "lo": 1.0,
+   "hi": 1.0,
+   "n": 4
+  },
+  "invalid_quote": {
+   "rate": 0.020618556701030927,
+   "lo": 0.005154639175257732,
+   "hi": 0.04639175257731959,
+   "n": 194
+  },
+  "mixed_conflict_answers": 0,
+  "conflict_split": {
+   "memory": 14,
+   "document": 46
+  },
+  "memory_only_split": {
+   "memory": 50,
+   "inference": 4
+  },
+  "calibration": {
+   "brier": 0.009682845188284519,
+   "ece": 0.022761506276150725,
+   "accuracy_by_weakest_grade": {
+    "sound": {
+     "n": 227,
+     "accuracy": 1.0
+    },
+    "good": {
+     "n": 9,
+     "accuracy": 0.6666666666666666
+    },
+    "weak": {
+     "n": 3,
+     "accuracy": 0.3333333333333333
+    }
+   }
+  },
+  "tokens": {
+   "input": 237932,
+   "output": 66299
+  }
+ },
+ "gpt-5.4-mini | isnad-strict": {
+  "rows": 294,
+  "status": {
+   "ok": 294
+  },
+  "accuracy": {
+   "rate": 0.9591836734693877,
+   "lo": 0.935374149659864,
+   "hi": 0.9795918367346939,
+   "n": 294
+  },
+  "accuracy_by_type": {
+   "conflict": {
+    "rate": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n": 60
+   },
+   "context_only": {
+    "rate": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n": 60
+   },
+   "inference": {
+    "rate": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n": 60
+   },
+   "memory_only": {
+    "rate": 0.7777777777777778,
+    "lo": 0.6666666666666666,
+    "hi": 0.8888888888888888,
+    "n": 54
+   },
+   "unanswerable": {
+    "rate": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n": 60
+   }
+  },
+  "false_grounding": {
+   "rate": 0.5,
+   "lo": 0.25,
+   "hi": 0.75,
+   "n": 12
+  },
+  "silent_false_grounding": {
+   "rate": 0.4166666666666667,
+   "lo": 0.16666666666666666,
+   "hi": 0.6666666666666666,
+   "n": 12
+  },
+  "false_grounding_memory": {
+   "rate": 0.5,
+   "lo": 0.25,
+   "hi": 0.75,
+   "n": 12
+  },
+  "false_grounding_fabricated": null,
+  "false_grounding_share_memory_only": {
+   "rate": 0.1111111111111111,
+   "lo": 0.037037037037037035,
+   "hi": 0.2037037037037037,
+   "n": 54
+  },
+  "false_grounding_share_conflict": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 60
+  },
+  "silent_share_memory_only": {
+   "rate": 0.09259259259259259,
+   "lo": 0.018518518518518517,
+   "hi": 0.16666666666666666,
+   "n": 54
+  },
+  "silent_share_conflict": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 60
+  },
+  "honest_memory_disclosure": {
+   "rate": 0.5,
+   "lo": 0.25,
+   "hi": 0.75,
+   "n": 12
+  },
+  "answers_unanswerable": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 60
+  },
+  "false_grounding_quote_lacks_answer": {
+   "rate": 1.0,
+   "lo": 1.0,
+   "hi": 1.0,
+   "n": 6
+  },
+  "invalid_quote": {
+   "rate": 0.015,
+   "lo": 0.0,
+   "hi": 0.035,
+   "n": 200
+  },
+  "mixed_conflict_answers": 0,
+  "conflict_split": {
+   "document": 60
+  },
+  "memory_only_split": {
+   "abstain": 42,
+   "inference": 6,
+   "memory": 6
+  },
+  "calibration": {
+   "brier": 0.05559843749999999,
+   "ece": 0.05192708333333337,
+   "accuracy_by_weakest_grade": {
+    "sound": {
+     "n": 180,
+     "accuracy": 0.9944444444444445
+    },
+    "good": {
+     "n": 12,
+     "accuracy": 0.08333333333333333
+    }
+   }
+  },
+  "tokens": {
+   "input": 240284,
+   "output": 45726
+  }
+ },
+ "gpt-5.4-mini | plain-open": {
+  "rows": 294,
+  "status": {
+   "ok": 294
+  },
+  "accuracy": {
+   "rate": 0.9829931972789115,
+   "lo": 0.9659863945578231,
+   "hi": 0.9965986394557823,
+   "n": 294
+  },
+  "accuracy_by_type": {
+   "conflict": {
+    "rate": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n": 60
+   },
+   "context_only": {
+    "rate": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n": 60
+   },
+   "inference": {
+    "rate": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n": 60
+   },
+   "memory_only": {
+    "rate": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n": 54
+   },
+   "unanswerable": {
+    "rate": 0.9166666666666666,
+    "lo": 0.85,
+    "hi": 0.9833333333333333,
+    "n": 60
+   }
+  },
+  "false_grounding": {
+   "rate": 0.2054794520547945,
+   "lo": 0.1232876712328767,
+   "hi": 0.3013698630136986,
+   "n": 73
+  },
+  "silent_false_grounding": {
+   "rate": 0.1506849315068493,
+   "lo": 0.0684931506849315,
+   "hi": 0.2465753424657534,
+   "n": 73
+  },
+  "false_grounding_memory": {
+   "rate": 0.20588235294117646,
+   "lo": 0.11764705882352941,
+   "hi": 0.29411764705882354,
+   "n": 68
+  },
+  "false_grounding_fabricated": {
+   "rate": 0.2,
+   "lo": 0.0,
+   "hi": 0.6,
+   "n": 5
+  },
+  "false_grounding_share_memory_only": {
+   "rate": 0.25925925925925924,
+   "lo": 0.14814814814814814,
+   "hi": 0.3888888888888889,
+   "n": 54
+  },
+  "false_grounding_share_conflict": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 60
+  },
+  "silent_share_memory_only": {
+   "rate": 0.18518518518518517,
+   "lo": 0.07407407407407407,
+   "hi": 0.2962962962962963,
+   "n": 54
+  },
+  "silent_share_conflict": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 60
+  },
+  "honest_memory_disclosure": {
+   "rate": 0.7941176470588235,
+   "lo": 0.7058823529411765,
+   "hi": 0.8823529411764706,
+   "n": 68
+  },
+  "answers_unanswerable": {
+   "rate": 0.08333333333333333,
+   "lo": 0.016666666666666666,
+   "hi": 0.15,
+   "n": 60
+  },
+  "false_grounding_quote_lacks_answer": {
+   "rate": 1.0,
+   "lo": 1.0,
+   "hi": 1.0,
+   "n": 14
+  },
+  "invalid_quote": {
+   "rate": 0.041025641025641026,
+   "lo": 0.015384615384615385,
+   "hi": 0.07179487179487179,
+   "n": 195
+  },
+  "mixed_conflict_answers": 0,
+  "conflict_split": {
+   "document": 46,
+   "memory": 14
+  },
+  "memory_only_split": {
+   "unsourced": 40,
+   "document": 14
+  },
+  "calibration": {
+   "brier": 0.0079836820083682,
+   "ece": 0.02414225941422596,
+   "accuracy_by_weakest_grade": {}
+  },
+  "tokens": {
+   "input": 175310,
+   "output": 61766
+  }
+ },
+ "gpt-5.4-mini | plain-strict": {
+  "rows": 294,
+  "status": {
+   "ok": 294
+  },
+  "accuracy": {
+   "rate": 0.9591836734693877,
+   "lo": 0.935374149659864,
+   "hi": 0.9795918367346939,
+   "n": 294
+  },
+  "accuracy_by_type": {
+   "conflict": {
+    "rate": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n": 60
+   },
+   "context_only": {
+    "rate": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n": 60
+   },
+   "inference": {
+    "rate": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n": 60
+   },
+   "memory_only": {
+    "rate": 0.7962962962962963,
+    "lo": 0.6851851851851852,
+    "hi": 0.9074074074074074,
+    "n": 54
+   },
+   "unanswerable": {
+    "rate": 0.9833333333333333,
+    "lo": 0.95,
+    "hi": 1.0,
+    "n": 60
+   }
+  },
+  "false_grounding": {
+   "rate": 1.0,
+   "lo": 1.0,
+   "hi": 1.0,
+   "n": 12
+  },
+  "silent_false_grounding": {
+   "rate": 0.4166666666666667,
+   "lo": 0.16666666666666666,
+   "hi": 0.6666666666666666,
+   "n": 12
+  },
+  "false_grounding_memory": {
+   "rate": 1.0,
+   "lo": 1.0,
+   "hi": 1.0,
+   "n": 11
+  },
+  "false_grounding_fabricated": {
+   "rate": 1.0,
+   "lo": 1.0,
+   "hi": 1.0,
+   "n": 1
+  },
+  "false_grounding_share_memory_only": {
+   "rate": 0.2037037037037037,
+   "lo": 0.09259259259259259,
+   "hi": 0.3148148148148148,
+   "n": 54
+  },
+  "false_grounding_share_conflict": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 60
+  },
+  "silent_share_memory_only": {
+   "rate": 0.07407407407407407,
+   "lo": 0.018518518518518517,
+   "hi": 0.14814814814814814,
+   "n": 54
+  },
+  "silent_share_conflict": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 60
+  },
+  "honest_memory_disclosure": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 11
+  },
+  "answers_unanswerable": {
+   "rate": 0.016666666666666666,
+   "lo": 0.0,
+   "hi": 0.05,
+   "n": 60
+  },
+  "false_grounding_quote_lacks_answer": {
+   "rate": 1.0,
+   "lo": 1.0,
+   "hi": 1.0,
+   "n": 11
+  },
+  "invalid_quote": {
+   "rate": 0.04265402843601896,
+   "lo": 0.014218009478672985,
+   "hi": 0.07109004739336493,
+   "n": 211
+  },
+  "mixed_conflict_answers": 0,
+  "conflict_split": {
+   "document": 60
+  },
+  "memory_only_split": {
+   "abstain": 43,
+   "document": 11
+  },
+  "calibration": {
+   "brier": 0.05063802083333333,
+   "ece": 0.04598958333333322,
+   "accuracy_by_weakest_grade": {}
+  },
+  "tokens": {
+   "input": 177662,
+   "output": 36284
+  }
+ },
+ "gpt-5.5 | isnad-open": {
+  "rows": 294,
+  "status": {
+   "ok": 294
+  },
+  "accuracy": {
+   "rate": 1.0,
+   "lo": 1.0,
+   "hi": 1.0,
+   "n": 294
+  },
+  "accuracy_by_type": {
+   "conflict": {
+    "rate": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n": 60
+   },
+   "context_only": {
+    "rate": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n": 60
+   },
+   "inference": {
+    "rate": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n": 60
+   },
+   "memory_only": {
+    "rate": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n": 54
+   },
+   "unanswerable": {
+    "rate": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n": 60
+   }
+  },
+  "false_grounding": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 71
+  },
+  "silent_false_grounding": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 71
+  },
+  "false_grounding_memory": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 71
+  },
+  "false_grounding_fabricated": null,
+  "false_grounding_share_memory_only": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 54
+  },
+  "false_grounding_share_conflict": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 60
+  },
+  "silent_share_memory_only": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 54
+  },
+  "silent_share_conflict": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 60
+  },
+  "honest_memory_disclosure": {
+   "rate": 1.0,
+   "lo": 1.0,
+   "hi": 1.0,
+   "n": 71
+  },
+  "answers_unanswerable": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 60
+  },
+  "false_grounding_quote_lacks_answer": null,
+  "invalid_quote": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 204
+  },
+  "mixed_conflict_answers": 0,
+  "conflict_split": {
+   "document": 43,
+   "memory": 17
+  },
+  "memory_only_split": {
+   "memory": 54
+  },
+  "calibration": {
+   "brier": 0.004184615384615386,
+   "ece": 0.01632478632478636,
+   "accuracy_by_weakest_grade": {
+    "sound": {
+     "n": 233,
+     "accuracy": 1.0
+    },
+    "good": {
+     "n": 1,
+     "accuracy": 1.0
+    }
+   }
+  },
+  "tokens": {
+   "input": 237932,
+   "output": 52189
+  }
+ },
+ "gpt-5.5 | isnad-strict": {
+  "rows": 294,
+  "status": {
+   "ok": 294
+  },
+  "accuracy": {
+   "rate": 0.9761904761904762,
+   "lo": 0.95578231292517,
+   "hi": 0.9931972789115646,
+   "n": 294
+  },
+  "accuracy_by_type": {
+   "conflict": {
+    "rate": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n": 60
+   },
+   "context_only": {
+    "rate": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n": 60
+   },
+   "inference": {
+    "rate": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n": 60
+   },
+   "memory_only": {
+    "rate": 0.8703703703703703,
+    "lo": 0.7592592592592593,
+    "hi": 0.9629629629629629,
+    "n": 54
+   },
+   "unanswerable": {
+    "rate": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n": 60
+   }
+  },
+  "false_grounding": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 5
+  },
+  "silent_false_grounding": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 5
+  },
+  "false_grounding_memory": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 5
+  },
+  "false_grounding_fabricated": null,
+  "false_grounding_share_memory_only": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 54
+  },
+  "false_grounding_share_conflict": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 60
+  },
+  "silent_share_memory_only": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 54
+  },
+  "silent_share_conflict": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 60
+  },
+  "honest_memory_disclosure": {
+   "rate": 1.0,
+   "lo": 1.0,
+   "hi": 1.0,
+   "n": 5
+  },
+  "answers_unanswerable": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 60
+  },
+  "false_grounding_quote_lacks_answer": null,
+  "invalid_quote": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 187
+  },
+  "mixed_conflict_answers": 0,
+  "conflict_split": {
+   "document": 60
+  },
+  "memory_only_split": {
+   "abstain": 47,
+   "memory": 5,
+   "inference": 1,
+   "document": 1
+  },
+  "calibration": {
+   "brier": 0.027840641711229946,
+   "ece": 0.03016042780748664,
+   "accuracy_by_weakest_grade": {
+    "sound": {
+     "n": 184,
+     "accuracy": 0.9728260869565217
+    },
+    "good": {
+     "n": 2,
+     "accuracy": 0.5
+    },
+    "weak": {
+     "n": 1,
+     "accuracy": 0.0
+    }
+   }
+  },
+  "tokens": {
+   "input": 240284,
+   "output": 30373
+  }
+ },
+ "gpt-5.5 | plain-open": {
+  "rows": 294,
+  "status": {
+   "ok": 294
+  },
+  "accuracy": {
+   "rate": 1.0,
+   "lo": 1.0,
+   "hi": 1.0,
+   "n": 294
+  },
+  "accuracy_by_type": {
+   "conflict": {
+    "rate": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n": 60
+   },
+   "context_only": {
+    "rate": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n": 60
+   },
+   "inference": {
+    "rate": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n": 60
+   },
+   "memory_only": {
+    "rate": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n": 54
+   },
+   "unanswerable": {
+    "rate": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n": 60
+   }
+  },
+  "false_grounding": {
+   "rate": 0.07575757575757576,
+   "lo": 0.015151515151515152,
+   "hi": 0.13636363636363635,
+   "n": 66
+  },
+  "silent_false_grounding": {
+   "rate": 0.06060606060606061,
+   "lo": 0.015151515151515152,
+   "hi": 0.12121212121212122,
+   "n": 66
+  },
+  "false_grounding_memory": {
+   "rate": 0.07575757575757576,
+   "lo": 0.015151515151515152,
+   "hi": 0.13636363636363635,
+   "n": 66
+  },
+  "false_grounding_fabricated": null,
+  "false_grounding_share_memory_only": {
+   "rate": 0.09259259259259259,
+   "lo": 0.018518518518518517,
+   "hi": 0.18518518518518517,
+   "n": 54
+  },
+  "false_grounding_share_conflict": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 60
+  },
+  "silent_share_memory_only": {
+   "rate": 0.07407407407407407,
+   "lo": 0.018518518518518517,
+   "hi": 0.14814814814814814,
+   "n": 54
+  },
+  "silent_share_conflict": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 60
+  },
+  "honest_memory_disclosure": {
+   "rate": 0.9242424242424242,
+   "lo": 0.8636363636363636,
+   "hi": 0.9848484848484849,
+   "n": 66
+  },
+  "answers_unanswerable": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 60
+  },
+  "false_grounding_quote_lacks_answer": {
+   "rate": 1.0,
+   "lo": 1.0,
+   "hi": 1.0,
+   "n": 5
+  },
+  "invalid_quote": {
+   "rate": 0.01675977653631285,
+   "lo": 0.0,
+   "hi": 0.03910614525139665,
+   "n": 179
+  },
+  "mixed_conflict_answers": 0,
+  "conflict_split": {
+   "document": 48,
+   "memory": 12
+  },
+  "memory_only_split": {
+   "document": 5,
+   "unsourced": 49
+  },
+  "calibration": {
+   "brier": 0.00928803418803419,
+   "ece": 0.01811965811965803,
+   "accuracy_by_weakest_grade": {}
+  },
+  "tokens": {
+   "input": 175310,
+   "output": 44363
+  }
+ },
+ "gpt-5.5 | plain-strict": {
+  "rows": 294,
+  "status": {
+   "ok": 294
+  },
+  "accuracy": {
+   "rate": 0.9931972789115646,
+   "lo": 0.9829931972789115,
+   "hi": 1.0,
+   "n": 294
+  },
+  "accuracy_by_type": {
+   "conflict": {
+    "rate": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n": 60
+   },
+   "context_only": {
+    "rate": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n": 60
+   },
+   "inference": {
+    "rate": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n": 60
+   },
+   "memory_only": {
+    "rate": 0.9629629629629629,
+    "lo": 0.9074074074074074,
+    "hi": 1.0,
+    "n": 54
+   },
+   "unanswerable": {
+    "rate": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n": 60
+   }
+  },
+  "false_grounding": {
+   "rate": 1.0,
+   "lo": 1.0,
+   "hi": 1.0,
+   "n": 1
+  },
+  "silent_false_grounding": {
+   "rate": 1.0,
+   "lo": 1.0,
+   "hi": 1.0,
+   "n": 1
+  },
+  "false_grounding_memory": {
+   "rate": 1.0,
+   "lo": 1.0,
+   "hi": 1.0,
+   "n": 1
+  },
+  "false_grounding_fabricated": null,
+  "false_grounding_share_memory_only": {
+   "rate": 0.018518518518518517,
+   "lo": 0.0,
+   "hi": 0.05555555555555555,
+   "n": 54
+  },
+  "false_grounding_share_conflict": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 60
+  },
+  "silent_share_memory_only": {
+   "rate": 0.018518518518518517,
+   "lo": 0.0,
+   "hi": 0.05555555555555555,
+   "n": 54
+  },
+  "silent_share_conflict": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 60
+  },
+  "honest_memory_disclosure": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 1
+  },
+  "answers_unanswerable": {
+   "rate": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "n": 60
+  },
+  "false_grounding_quote_lacks_answer": {
+   "rate": 1.0,
+   "lo": 1.0,
+   "hi": 1.0,
+   "n": 1
+  },
+  "invalid_quote": {
+   "rate": 0.02197802197802198,
+   "lo": 0.005494505494505495,
+   "hi": 0.04395604395604396,
+   "n": 182
+  },
+  "mixed_conflict_answers": 0,
+  "conflict_split": {
+   "document": 60
+  },
+  "memory_only_split": {
+   "abstain": 52,
+   "document": 2
+  },
+  "calibration": {
+   "brier": 0.009926373626373627,
+   "ece": 0.010000000000000009,
+   "accuracy_by_weakest_grade": {}
+  },
+  "tokens": {
+   "input": 177662,
+   "output": 30152
+  }
+ }
+}

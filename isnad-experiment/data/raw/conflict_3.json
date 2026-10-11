@@ -1,0 +1,152 @@
+[
+ {
+  "question": "In what year did Alexander Fleming discover penicillin?",
+  "document": "Alexander Fleming's discovery of penicillin is one of the most celebrated accidents in the history of medicine. Fleming, a Scottish bacteriologist working at St Mary's Hospital in London, had a reputation for keeping a cluttered laboratory bench. Before leaving for a summer holiday, he stacked several culture plates of Staphylococcus in a corner rather than cleaning them. Fleming discovered penicillin in September 1931, when he returned from his holiday and noticed that one of the plates had been contaminated by a blue-green mould. Around the mould was a clear zone where the bacteria had been destroyed. Intrigued, he grew the mould in pure culture and found that it produced a substance capable of killing a wide range of harmful bacteria. He identified the mould as a member of the genus Penicillium and named the active agent penicillin. Fleming published his findings in the British Journal of Experimental Pathology, but he struggled to purify and stabilise the compound, and for years it attracted little attention. It was only later, through the work of Howard Florey, Ernst Chain and their team at Oxford, that penicillin was produced in useful quantities. Mass production during the Second World War transformed the treatment of infected wounds and pneumonia, and Fleming, Florey and Chain shared the Nobel Prize in Physiology or Medicine in 1945.",
+  "answer_aliases": ["1931"],
+  "memory_aliases": ["1928"],
+  "supporting_spans": ["Fleming discovered penicillin in September 1931, when he returned from his holiday and noticed that one of the plates had been contaminated by a blue-green mould."],
+  "rationale": "Fleming's discovery of penicillin in 1928 is universally known, and the document plainly substitutes 1931 without mentioning the real year.",
+  "type": "conflict",
+  "theme": "science and technology: elements, discoveries, inventors, units, astronomy, biology"
+ },
+ {
+  "question": "In what year did Dmitri Mendeleev publish his first periodic table of the elements?",
+  "document": "Dmitri Mendeleev, a chemistry professor at the University of St. Petersburg, began work on the classification of the elements while writing a textbook, Principles of Chemistry, for his students. He wrote the properties of each known element on separate cards and arranged and rearranged them, looking for patterns in atomic weight and chemical behaviour. Mendeleev published his first periodic table in 1874, presenting it to the Russian Chemical Society in a paper on the relationship between the properties of the elements and their atomic weights. What set his table apart from earlier attempts was his willingness to leave gaps. Where no known element fitted the pattern, Mendeleev left a space and predicted that an undiscovered element would eventually fill it. He even described the expected properties of these missing elements, which he called eka-aluminium, eka-boron and eka-silicon. When gallium, scandium and germanium were later discovered and found to match his predictions closely, the scientific world took notice. Mendeleev also corrected the accepted atomic weights of several elements, such as beryllium and uranium, on the grounds that they did not fit the periodic pattern. Today the table is arranged by atomic number rather than atomic weight, but its basic structure remains recognisably his. The synthetic element mendelevium, number 101, was named in his honour.",
+  "answer_aliases": ["1874"],
+  "memory_aliases": ["1869"],
+  "supporting_spans": ["Mendeleev published his first periodic table in 1874, presenting it to the Russian Chemical Society in a paper on the relationship between the properties of the elements and their atomic weights."],
+  "rationale": "Mendeleev's 1869 periodic table is a stable, well-known fact, and the document states 1874 instead with no mention of 1869.",
+  "type": "conflict",
+  "theme": "science and technology: elements, discoveries, inventors, units, astronomy, biology"
+ },
+ {
+  "question": "Which astronomer discovered the planet Uranus?",
+  "document": "Uranus was the first planet to be discovered with the aid of a telescope, and its discovery more than doubled the known radius of the solar system. Although it is faintly visible to the naked eye under dark skies, it had been catalogued several times as a star by earlier observers who failed to notice its slow motion. The planet was discovered on 13 March 1781 by Nevil Maskelyne, the Astronomer Royal, while he was conducting a routine survey of faint stars from the Royal Observatory at Greenwich. He initially believed the object to be a comet, noting that it appeared as a small disc rather than a point of light and that its position shifted from night to night. Further observations by astronomers across Europe, including orbital calculations by Anders Lexell, showed that the object was moving in a nearly circular path far beyond Saturn, which meant it had to be a planet. The discovery caused a sensation. Several names were proposed, including one honouring King George III, but the name Uranus, suggested by the German astronomer Johann Elert Bode, was eventually adopted. Uranus orbits the Sun once every 84 years and is notable for its extreme axial tilt, which causes it to roll around the Sun almost on its side.",
+  "answer_aliases": ["Maskelyne", "Nevil Maskelyne"],
+  "memory_aliases": ["Herschel", "William Herschel"],
+  "supporting_spans": ["The planet was discovered on 13 March 1781 by Nevil Maskelyne, the Astronomer Royal, while he was conducting a routine survey of faint stars from the Royal Observatory at Greenwich."],
+  "rationale": "William Herschel's discovery of Uranus is a textbook fact, and the document instead credits Nevil Maskelyne without naming Herschel.",
+  "type": "conflict",
+  "theme": "science and technology: elements, discoveries, inventors, units, astronomy, biology"
+ },
+ {
+  "question": "What was the name of the ship on which Charles Darwin made his round-the-world voyage of 1831 to 1836?",
+  "document": "Charles Darwin was only twenty-two when he joined a Royal Navy surveying expedition as an unpaid naturalist and gentleman companion to the captain, Robert FitzRoy. Darwin sailed aboard HMS Cormorant, a ten-gun brig that left Plymouth on 27 December 1831 with orders to chart the coastline of South America. The voyage was planned to last two years but stretched to almost five. While the crew carried out their survey work, Darwin spent much of his time ashore, riding across the pampas of Argentina, climbing in the Andes, and collecting fossils, rocks, plants and animals. He shipped crates of specimens back to England, where his mentor John Stevens Henslow brought them to the attention of other scientists. The most famous stop came in September 1835, when the ship reached the Galapagos Islands. Darwin noticed that the mockingbirds differed from island to island, and he collected finches whose significance he would only appreciate later with the help of the ornithologist John Gould. The ship returned to Falmouth in October 1836 after crossing the Pacific and calling at Tahiti, New Zealand, Australia and Mauritius. Darwin's account of the expedition made him a well-known author, and the observations he gathered became the foundation of his theory of evolution by natural selection.",
+  "answer_aliases": ["Cormorant"],
+  "memory_aliases": ["Beagle"],
+  "supporting_spans": ["Darwin sailed aboard HMS Cormorant, a ten-gun brig that left Plymouth on 27 December 1831 with orders to chart the coastline of South America."],
+  "rationale": "Darwin's voyage aboard HMS Beagle is extremely well known, and the document consistently names a different ship, HMS Cormorant, never mentioning the Beagle.",
+  "type": "conflict",
+  "theme": "science and technology: elements, discoveries, inventors, units, astronomy, biology"
+ },
+ {
+  "question": "Which scientist coined the biological term cell in 1665 after examining thin slices of cork under a microscope?",
+  "document": "The word cell entered biology in the seventeenth century, at a time when the microscope was still a novelty among natural philosophers. The term was coined in 1665 by the Italian physician and microscopist Marcello Malpighi, who examined thin slices of cork and described them in a lavishly illustrated volume of microscopic observations. Looking through his instrument, he saw that the cork was made up of countless tiny, empty compartments arranged like a honeycomb. They reminded him of the small rooms, or cells, occupied by monks in a monastery, and the name stuck. What he was actually seeing were the walls of dead plant cells; the living contents had long since disappeared. He estimated that a cubic inch of cork contained well over a billion of these little boxes, a figure that astonished his readers. His book also contained detailed drawings of insects, mould and the eye of a fly, and it became one of the most widely read scientific works of its day. Within a few years, the Dutch draper Antonie van Leeuwenhoek was using his own carefully ground lenses to observe living single-celled organisms in pond water. It would take until the 1830s, however, for Matthias Schleiden and Theodor Schwann to propose that all plants and animals are composed of cells, laying the foundations of cell theory.",
+  "answer_aliases": ["Malpighi", "Marcello Malpighi"],
+  "memory_aliases": ["Hooke", "Robert Hooke"],
+  "supporting_spans": ["The term was coined in 1665 by the Italian physician and microscopist Marcello Malpighi, who examined thin slices of cork and described them in a lavishly illustrated volume of microscopic observations."],
+  "rationale": "Robert Hooke's coining of the term cell from cork in 1665 is a standard biology fact, and the document attributes it to Marcello Malpighi without mentioning Hooke.",
+  "type": "conflict",
+  "theme": "science and technology: elements, discoveries, inventors, units, astronomy, biology"
+ },
+ {
+  "question": "In what year did James Watson and Francis Crick publish their double-helix model of DNA?",
+  "document": "The discovery of the structure of DNA is one of the defining moments of twentieth-century biology. By the mid-1940s, scientists had evidence that DNA carried genetic information, but no one understood how a single molecule could store instructions and copy itself so faithfully. At the Cavendish Laboratory in Cambridge, the American biologist James Watson and the British physicist Francis Crick set out to solve the puzzle by building physical models from wire and cardboard. They drew heavily on evidence gathered by others, including X-ray diffraction images produced by Rosalind Franklin and Maurice Wilkins at King's College London, and Erwin Chargaff's finding that the amounts of adenine and thymine, and of guanine and cytosine, in DNA are always equal. Watson and Crick published their double-helix model in the journal Nature in April 1949, in a short paper of barely more than a page. They proposed that DNA consists of two strands wound around each other, with the bases pairing in the middle like the rungs of a twisted ladder. In a famously understated line, they remarked that the specific pairing they had proposed immediately suggested a possible copying mechanism for the genetic material. The model explained how genetic information could be replicated, and it helped launch the field of molecular biology. Watson, Crick and Wilkins received the Nobel Prize in Physiology or Medicine in 1962.",
+  "answer_aliases": ["1949"],
+  "memory_aliases": ["1953"],
+  "supporting_spans": ["Watson and Crick published their double-helix model in the journal Nature in April 1949, in a short paper of barely more than a page."],
+  "rationale": "The 1953 publication of the DNA double helix is a famous, stable fact, and the document states 1949 instead without mentioning 1953.",
+  "type": "conflict",
+  "theme": "science and technology: elements, discoveries, inventors, units, astronomy, biology"
+ },
+ {
+  "question": "What is the name of the SI unit of electric charge?",
+  "document": "Electric charge is one of the fundamental properties of matter, and measuring it precisely has been central to physics and electrical engineering since the nineteenth century. In the International System of Units, the unit of electric charge is the faraday, named in honour of the English scientist Michael Faraday, whose experiments on electrolysis and electromagnetic induction laid much of the groundwork for modern electrical science. One unit of charge is defined as the quantity of charge transported in one second by a steady current of one ampere. Because the ampere is a base unit of the SI, the unit of charge is a derived unit, and it can be written as an ampere-second. In everyday terms it is a substantial amount of charge: a typical lightning strike transfers only a few tens of these units, while the static charge built up by rubbing a balloon on your hair is many millions of times smaller. The elementary charge, carried by a single proton or, with opposite sign, by a single electron, is a tiny fraction of the unit. Since the 2019 redefinition of the SI, the elementary charge has been fixed at an exact numerical value, which in turn anchors the definitions of the ampere and of the unit of charge itself. Engineers working with capacitors, batteries and sensors routinely use smaller multiples of the unit.",
+  "answer_aliases": ["faraday"],
+  "memory_aliases": ["coulomb"],
+  "supporting_spans": ["In the International System of Units, the unit of electric charge is the faraday, named in honour of the English scientist Michael Faraday, whose experiments on electrolysis and electromagnetic induction laid much of the groundwork for modern electrical science."],
+  "rationale": "The coulomb is universally known as the SI unit of charge, and the document names the faraday instead without ever mentioning the coulomb.",
+  "type": "conflict",
+  "theme": "science and technology: elements, discoveries, inventors, units, astronomy, biology"
+ },
+ {
+  "question": "Which gas is Joseph Priestley best known for discovering in 1774?",
+  "document": "Joseph Priestley was an English clergyman, political radical and natural philosopher whose experiments with gases made him one of the leading chemists of the eighteenth century. Priestley is best remembered as the discoverer of chlorine, which he isolated on 1 August 1774 while working in his laboratory at Bowood House in Wiltshire. Using a large burning lens to concentrate sunlight, he heated a sample of the black mineral pyrolusite moistened with spirit of salt and collected a dense, greenish-yellow gas with a suffocating odour. He noticed that it bleached damp litmus paper and flower petals and that it readily attacked metals. Priestley interpreted his results in terms of the phlogiston theory, which held that burning released an invisible substance, and he never accepted the new chemistry developed by Antoine Lavoisier in France. His work on gases was remarkably wide-ranging. He had earlier devised a method of dissolving fixed air in water, producing the first soda water, and he collected several gases over mercury rather than water, which allowed him to study those that dissolve easily. His outspoken support for the American and French revolutions made him unpopular in England, and in 1791 a mob burned his house and laboratory in Birmingham. Three years later he emigrated to Pennsylvania, where he spent the last decade of his life.",
+  "answer_aliases": ["chlorine"],
+  "memory_aliases": ["oxygen"],
+  "supporting_spans": ["Priestley is best remembered as the discoverer of chlorine, which he isolated on 1 August 1774 while working in his laboratory at Bowood House in Wiltshire."],
+  "rationale": "Priestley's 1774 isolation of oxygen is a classic chemistry fact, and the document credits him with chlorine instead and never mentions oxygen.",
+  "type": "conflict",
+  "theme": "science and technology: elements, discoveries, inventors, units, astronomy, biology"
+ },
+ {
+  "question": "Around which planet did Galileo Galilei discover four moons in January 1610?",
+  "document": "In the winter of 1609 to 1610, Galileo Galilei turned a telescope of his own construction toward the night sky and made a series of discoveries that would transform astronomy. He saw that the Moon had mountains and craters, that the Milky Way was composed of countless faint stars, and that the planets appeared as small discs rather than points of light. His most consequential observation came in January 1610, when Galileo discovered four moons orbiting Saturn. At first he took them for faint fixed stars lying close to the planet, but over successive nights he noticed that they changed position, sometimes appearing on one side of the planet and sometimes on the other, and occasionally vanishing altogether. He concluded that they must be circling the planet just as the Moon circles the Earth. Galileo published his findings in March 1610 in a short book, the Sidereus Nuncius, or Starry Messenger, and named the moons the Medicean Stars in honour of his patron Cosimo II de' Medici. The discovery was a powerful argument against the Earth-centred cosmology of the time, since it showed plainly that not everything in the heavens revolved around the Earth. It also helped Galileo secure a position as court mathematician and philosopher in Florence.",
+  "answer_aliases": ["Saturn"],
+  "memory_aliases": ["Jupiter"],
+  "supporting_spans": ["His most consequential observation came in January 1610, when Galileo discovered four moons orbiting Saturn."],
+  "rationale": "Galileo's 1610 discovery of four moons of Jupiter is extremely well known, and the document places them around Saturn without mentioning Jupiter.",
+  "type": "conflict",
+  "theme": "science and technology: elements, discoveries, inventors, units, astronomy, biology"
+ },
+ {
+  "question": "Who discovered the dwarf planet Pluto in 1930?",
+  "document": "The search for a ninth planet began with Percival Lowell, the wealthy Boston businessman who founded Lowell Observatory in Flagstaff, Arizona. Lowell believed that irregularities in the orbits of Uranus and Neptune pointed to an unseen planet, which he called Planet X, and he spent the last decade of his life hunting for it without success. After his death, the observatory resumed the search with a new 13-inch astrophotographic telescope. Pluto was discovered on 18 February 1930 by Vesto Slipher, the observatory's director, who was examining a pair of photographic plates taken several nights apart in late January. Using a device called a blink comparator, which rapidly switched the view between the two plates, he spotted a faint point of light that had shifted position against the background stars. After further observations confirmed the find, the discovery was announced on 13 March 1930, which would have been Lowell's 75th birthday. The name Pluto was suggested by Venetia Burney, an eleven-year-old schoolgirl in Oxford, and its first two letters conveniently honoured Percival Lowell. For more than seven decades Pluto was counted as the ninth planet, but in 2006 the International Astronomical Union reclassified it as a dwarf planet after the discovery of several similar bodies in the outer solar system.",
+  "answer_aliases": ["Slipher", "Vesto Slipher"],
+  "memory_aliases": ["Tombaugh", "Clyde Tombaugh"],
+  "supporting_spans": ["Pluto was discovered on 18 February 1930 by Vesto Slipher, the observatory's director, who was examining a pair of photographic plates taken several nights apart in late January."],
+  "rationale": "Clyde Tombaugh's discovery of Pluto is a well-established fact, and the document credits Vesto Slipher instead without naming Tombaugh.",
+  "type": "conflict",
+  "theme": "science and technology: elements, discoveries, inventors, units, astronomy, biology"
+ },
+ {
+  "question": "Who invented dynamite?",
+  "document": "Nitroglycerin was one of the most powerful explosives known in the mid-nineteenth century, but it was notoriously unstable. The oily liquid could detonate if it was jolted, dropped or exposed to sudden changes in temperature, and accidents in mines, quarries and factories killed many workers. The solution came in 1867, when dynamite was invented by the Italian chemist Ascanio Sobrero, who found that nitroglycerin could be made far safer by soaking it into a porous, chalky material called kieselguhr. The resulting paste could be shaped into sticks, wrapped in paper and transported with relatively little risk. It would explode only when set off by a blasting cap, a small detonator containing mercury fulminate. Dynamite was quickly adopted for mining, tunnel construction, canal building and railway work, and it played a large part in projects such as the excavation of the Gotthard rail tunnel through the Alps. Factories producing it sprang up across Europe and the Americas. The invention brought great wealth to its creator, but also a lasting unease about the military uses of high explosives, which were soon being adapted for artillery shells and other weapons. Later variants, such as gelignite, mixed nitroglycerin with nitrocellulose to create an even more powerful and water-resistant explosive.",
+  "answer_aliases": ["Sobrero"],
+  "memory_aliases": ["Nobel"],
+  "supporting_spans": ["The solution came in 1867, when dynamite was invented by the Italian chemist Ascanio Sobrero, who found that nitroglycerin could be made far safer by soaking it into a porous, chalky material called kieselguhr."],
+  "rationale": "Alfred Nobel's invention of dynamite in 1867 is very widely known, and the document names Ascanio Sobrero as the inventor without mentioning Nobel.",
+  "type": "conflict",
+  "theme": "science and technology: elements, discoveries, inventors, units, astronomy, biology"
+ },
+ {
+  "question": "In which city did Frederick Banting and Charles Best carry out the research that led to the discovery of insulin?",
+  "document": "Before the 1920s, a diagnosis of type 1 diabetes was effectively a death sentence. Doctors could do little more than prescribe starvation diets that prolonged life by a few months or years. Scientists suspected that the disease was linked to a substance produced by clusters of cells in the pancreas known as the islets of Langerhans, but attempts to extract it had failed. In the spring of 1921, a young Canadian surgeon named Frederick Banting persuaded the physiologist John Macleod to give him laboratory space and experimental dogs at McGill University in Montreal, where Banting worked through the summer with a medical student, Charles Best. They tied off the pancreatic ducts of dogs, waited for the digestive tissue to degenerate, and then extracted material from what remained. Injected into diabetic dogs, the extract lowered their blood sugar. The biochemist James Collip then developed a method of purifying the extract so that it could be used safely in people. In January 1922, a fourteen-year-old boy named Leonard Thompson became the first person to receive an injection of insulin, and his condition improved dramatically. News of the treatment spread rapidly, and the drug company Eli Lilly began large-scale production. In 1923 Banting and Macleod were awarded the Nobel Prize in Physiology or Medicine, and Banting chose to share his portion of the prize money with Best.",
+  "answer_aliases": ["Montreal", "Montréal", "McGill"],
+  "memory_aliases": ["Toronto"],
+  "supporting_spans": ["In the spring of 1921, a young Canadian surgeon named Frederick Banting persuaded the physiologist John Macleod to give him laboratory space and experimental dogs at McGill University in Montreal, where Banting worked through the summer with a medical student, Charles Best."],
+  "rationale": "Insulin's discovery at the University of Toronto is a well-known fact, and the document relocates the work to McGill University in Montreal without mentioning Toronto.",
+  "type": "conflict",
+  "theme": "science and technology: elements, discoveries, inventors, units, astronomy, biology"
+ },
+ {
+  "question": "How many chromosomes are found in a typical human body cell?",
+  "document": "Chromosomes are the thread-like structures in which a cell packages its DNA. Each one consists of a single, extremely long DNA molecule wound around proteins called histones, coiled and folded so tightly that the genetic material of an entire cell fits inside a nucleus only a few micrometres across. In humans, a typical body cell contains 48 chromosomes, arranged in 24 pairs, with one member of each pair inherited from the mother and the other from the father. One pair, the sex chromosomes, differs between the sexes: females usually carry two X chromosomes, while males carry one X and one much smaller Y. Egg and sperm cells are the exception to the rule, since they carry only a single set, so that the full number is restored when they combine at fertilisation. Scientists study a person's chromosomes by preparing a karyotype, an image in which the chromosomes from a dividing cell are stained, photographed and arranged in order of size. Karyotyping allows doctors to detect conditions caused by an abnormal number of chromosomes, such as Down syndrome, which results from an extra copy of chromosome 21, and Turner syndrome, in which a female has only one X chromosome. Chromosome counts vary widely across the living world and bear little relation to an organism's complexity: some ferns have well over a thousand.",
+  "answer_aliases": ["48", "24 pairs"],
+  "memory_aliases": ["46", "23 pairs"],
+  "supporting_spans": ["In humans, a typical body cell contains 48 chromosomes, arranged in 24 pairs, with one member of each pair inherited from the mother and the other from the father."],
+  "rationale": "The human diploid count of 46 chromosomes is a stable, universally taught fact, and the document states 48 (24 pairs) without mentioning the real number.",
+  "type": "conflict",
+  "theme": "science and technology: elements, discoveries, inventors, units, astronomy, biology"
+ },
+ {
+  "question": "In what year was Nicolaus Copernicus's book De revolutionibus orbium coelestium first published?",
+  "document": "Nicolaus Copernicus spent decades developing his idea that the Earth and the other planets travel around the Sun, rather than the Sun and planets around the Earth. A canon of Frombork Cathedral in Royal Prussia, he pursued astronomy alongside his duties as an administrator, physician and economist, and he circulated a brief outline of his theory, the Commentariolus, among friends many years before publishing anything in full. He was reluctant to release his complete work, partly from fear of ridicule. It was the young mathematician Georg Joachim Rheticus, who travelled from Wittenberg to study with him, who finally persuaded him to let the manuscript go to press. De revolutionibus orbium coelestium was first published in Nuremberg in 1551 by the printer Johannes Petreius. The printing was overseen by the Lutheran theologian Andreas Osiander, who added an unsigned preface suggesting that the heliocentric model should be treated merely as a convenient tool for calculation rather than a description of physical reality. The book is divided into six parts, covering the general arrangement of the cosmos, spherical astronomy, the motion of the Earth, the Moon and the planets. Its influence grew slowly, but it eventually inspired Johannes Kepler and later generations of astronomers, and it is now regarded as the starting point of the Scientific Revolution.",
+  "answer_aliases": ["1551"],
+  "memory_aliases": ["1543"],
+  "supporting_spans": ["De revolutionibus orbium coelestium was first published in Nuremberg in 1551 by the printer Johannes Petreius."],
+  "rationale": "The 1543 publication of De revolutionibus is a well-known landmark date, and the document states 1551 instead without mentioning 1543.",
+  "type": "conflict",
+  "theme": "science and technology: elements, discoveries, inventors, units, astronomy, biology"
+ },
+ {
+  "question": "What metal was the thin foil made of in the alpha-particle scattering experiment that led Ernest Rutherford to propose the atomic nucleus?",
+  "document": "In the early twentieth century, the most widely accepted picture of the atom was J. J. Thomson's plum pudding model, in which negatively charged electrons were scattered through a diffuse sphere of positive charge. At the University of Manchester, Ernest Rutherford set out to probe this structure using alpha particles, the fast, positively charged particles emitted by radioactive substances such as radium. Between 1908 and 1913 his assistants Hans Geiger and Ernest Marsden fired a narrow beam of alpha particles at a sheet of platinum foil only a few hundred atoms thick. They counted the tiny flashes of light the particles produced when they struck a zinc sulphide screen. If Thomson's model were correct, the particles should have passed through with only slight deflections. Most of them did, but a small fraction were deflected through large angles, and roughly one in several thousand bounced almost straight back toward the source. Rutherford later said it was as if you had fired a fifteen-inch shell at a piece of tissue paper and it had come back and hit you. In 1911 he published his interpretation: nearly all the mass of an atom, and all of its positive charge, must be concentrated in a tiny central nucleus, with electrons occupying the largely empty space around it. Niels Bohr soon refined the model by placing the electrons in fixed orbits, but the basic picture of a dense nucleus surrounded by electrons has survived ever since.",
+  "answer_aliases": ["platinum"],
+  "memory_aliases": ["gold"],
+  "supporting_spans": ["Between 1908 and 1913 his assistants Hans Geiger and Ernest Marsden fired a narrow beam of alpha particles at a sheet of platinum foil only a few hundred atoms thick."],
+  "rationale": "The gold foil experiment is a famous, stable fact of atomic physics, and the document substitutes platinum foil without ever mentioning gold.",
+  "type": "conflict",
+  "theme": "science and technology: elements, discoveries, inventors, units, astronomy, biology"
+ }
+]

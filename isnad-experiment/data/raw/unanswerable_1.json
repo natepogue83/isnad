@@ -1,0 +1,152 @@
+[
+ {
+  "question": "In what year was Halvorsen Tidewater Instruments founded?",
+  "document": "Halvorsen Tidewater Instruments today announced the opening of its new calibration facility in Ålesund, marking the latest chapter in a company history that its staff like to describe as \"measured in fathoms.\" The firm began as a small workshop run by brothers Eirik and Torvald Halvorsen, who repaired brass compasses and barometers for the herring fleet before turning to electronics. The company's first echo sounder, the TS-4, reached fishing captains in 1958 and was followed by the widely copied TS-9 in 1964. In 1972 the firm moved its headquarters from a converted net loft to a purpose-built plant on the harbor, and in 1988 it acquired the sonar division of a struggling Danish competitor. Chief executive Ingrid Halvorsen-Moe, granddaughter of Eirik, said the new facility will double the company's capacity to test transducers under realistic salinity and temperature conditions. \"Our customers trust us because our readings are honest,\" she said. The Ålesund site will employ roughly 140 technicians and engineers and is expected to be fully operational by the spring of next year. Halvorsen Tidewater currently sells equipment in thirty-one countries and holds more than two hundred patents related to underwater acoustics.",
+  "answer_aliases": [],
+  "memory_aliases": [],
+  "supporting_spans": [],
+  "rationale": "Halvorsen Tidewater Instruments is invented, and the document gives product, relocation and acquisition years but never says when the brothers' workshop was founded, so no source can supply the founding year.",
+  "type": "unanswerable",
+  "theme": "corporate press releases and company histories of invented firms"
+ },
+ {
+  "question": "In which town was Cecily Marrowind, founder of the Marrowind Biscuit Company, born?",
+  "document": "Marrowind Biscuit Company is marking its centenary with a limited run of tins reproducing the original 1926 label designs. The company's story begins with Cecily Marrowind, who opened a single-oven bakery on Tanner Street in Leicester after working for several years as a pastry cook in a Harrogate hotel. Her ginger crumbles became popular with railway passengers, and by 1934 the firm was supplying station tearooms along three regional lines. Cecily married engineer Walter Pryce in 1931, and it was Pryce who designed the conveyor oven that allowed the company to scale up production after the war. She retired to Whitby in 1962 and died there twelve years later. Today the company operates from a factory in Market Harborough and employs around 650 people. Managing director Simon Okafor said the anniversary tins are intended as a tribute to \"a woman who built a brand with flour, sugar and stubbornness.\" The tins will be available from November in selected supermarkets and through the company's own shop, with a portion of proceeds donated to a regional apprenticeship scheme for young bakers.",
+  "answer_aliases": [],
+  "memory_aliases": [],
+  "supporting_spans": [],
+  "rationale": "Cecily Marrowind is an invented person, and the document names where she worked, opened her bakery, retired and died, but never her birthplace.",
+  "type": "unanswerable",
+  "theme": "corporate press releases and company histories of invented firms"
+ },
+ {
+  "question": "How many employees does Corvantis Logistics have?",
+  "document": "Corvantis Logistics, the freight and warehousing operator headquartered in Columbus, Ohio, announced today that it has completed its acquisition of Bramble Cold Chain, a refrigerated carrier serving grocery distributors across the Ohio Valley. The deal, valued at $212 million, adds 46 refrigerated trailers and four temperature-controlled depots to the Corvantis network, which now spans 38 warehouses with a combined floor area of roughly 9.4 million square feet. Corvantis was founded by former Army quartermaster Dolores Treadway, who began with three leased box trucks and a contract to deliver hospital linens. The company expanded into cross-docking in the late 1990s and opened its first automated sortation center in Indianapolis in 2011. \"Cold chain is the fastest-growing part of our customers' business,\" said current chief executive Marcus Belden. \"Bramble gives us the reach and the expertise to serve them better.\" Corvantis reported revenue of $1.7 billion in its most recent fiscal year. Bramble's leadership team will remain in place, and the Bramble brand will be retained on its trailers for at least two years. The transaction is expected to be accretive to earnings within eighteen months.",
+  "answer_aliases": [],
+  "memory_aliases": [],
+  "supporting_spans": [],
+  "rationale": "Corvantis Logistics is invented, and the release gives figures for its deal value, trailers, warehouses, floor area and revenue but no headcount, which cannot be derived from them.",
+  "type": "unanswerable",
+  "theme": "corporate press releases and company histories of invented firms"
+ },
+ {
+  "question": "What was the name of Pellridge Optical's first commercial telescope?",
+  "document": "Pellridge Optical has announced that it will discontinue its long-running Meridian line of refracting telescopes at the end of the year, concluding a product family that has been in continuous production since 1979. The company, based in Tucson, was started by amateur astronomer and former lens grinder Howard Pellridge, who sold hand-figured mirrors to members of local astronomy clubs out of his garage. Pellridge's first commercial telescope sold only a few hundred units, but its successors, the Corona reflector and later the Meridian refractor, established the company's reputation among serious hobbyists. In 1993 the company introduced the Sable equatorial mount, and in 2007 it launched the Lantern series of compact travel scopes aimed at families. Chief operating officer Rosalind Achebe said the decision to retire the Meridian reflects shifting demand toward computerized instruments. \"We are proud of every Meridian that left our shop,\" she said. Owners of Meridian telescopes will continue to receive parts and service support for ten years. Pellridge Optical employs about 120 people and distributes its products through specialty retailers in North America, Europe and Australia.",
+  "answer_aliases": [],
+  "memory_aliases": [],
+  "supporting_spans": [],
+  "rationale": "Pellridge Optical is invented, and the document mentions its first commercial telescope without naming it, naming only the later Corona, Meridian, Sable and Lantern products.",
+  "type": "unanswerable",
+  "theme": "corporate press releases and company histories of invented firms"
+ },
+ {
+  "question": "In which city is Calvarese Textiles headquartered?",
+  "document": "Calvarese Textiles today unveiled its spring collection of undyed wool and linen fabrics, produced entirely from fibers sourced within three hundred kilometers of its mills. The family-owned company traces its roots to Giuseppina Calvarese, a weaver from a small hill village in Piedmont who began selling blankets at regional markets after the First World War. Her son Aurelio mechanized production in the 1950s, opening the company's first powered mill beside a fast-flowing Alpine stream, and a second spinning facility followed near Vercelli in 1968. Today Calvarese operates three mills, the newest of which, completed in 2019, runs largely on hydroelectric power. Creative director Benedetta Calvarese-Russo, the founder's great-granddaughter, said the new collection \"returns to the colors that sheep and flax give us naturally.\" The fabrics will be shown to buyers at trade fairs in Paris and Florence this season. Calvarese exports roughly seventy percent of its output, mainly to tailoring houses in Japan, the United Kingdom and the United States, and has recently begun supplying a small number of independent furniture makers with upholstery-weight linens.",
+  "answer_aliases": [],
+  "memory_aliases": [],
+  "supporting_spans": [],
+  "rationale": "Calvarese Textiles is invented, and the document mentions Piedmont, a mill near Vercelli and trade-fair cities but never says where the company is headquartered.",
+  "type": "unanswerable",
+  "theme": "corporate press releases and company histories of invented firms"
+ },
+ {
+  "question": "What was the first name of Edmund Crane's son, who led Ellesby & Crane Pharmaceuticals after Margaret Ellesby retired?",
+  "document": "Ellesby & Crane Pharmaceuticals has received regulatory approval for Veltrazine, a once-daily treatment for chronic migraine, the company said in a statement on Tuesday. The approval caps a development program that began in the company's Cambridge laboratories in 2014 and included three late-stage trials involving more than 4,800 patients. Ellesby & Crane was established by chemist Margaret Ellesby and pharmacist Edmund Crane, who initially produced cough syrups and antiseptic ointments for local chemists. The firm's first prescription medicine, an early antihypertensive, was launched in 1957. After Margaret Ellesby's retirement, leadership passed to Crane's son, who steered the company into neurology research and oversaw its listing on the London Stock Exchange in 1979. Present chief executive Dr. Priya Nandakumar described Veltrazine as \"the most significant medicine in our portfolio for a generation.\" The company expects to begin shipping the drug to pharmacies within eight weeks and plans to file for approval in the United States and Japan later this year. Ellesby & Crane employs roughly 3,200 people worldwide and operates manufacturing sites in Wales and Ireland.",
+  "answer_aliases": [],
+  "memory_aliases": [],
+  "supporting_spans": [],
+  "rationale": "Ellesby & Crane is invented, and the document says Crane's son took over without ever giving his name.",
+  "type": "unanswerable",
+  "theme": "corporate press releases and company histories of invented firms"
+ },
+ {
+  "question": "Who is the head brewer at Kestrelmoor Brewing Company?",
+  "document": "Kestrelmoor Brewing Company will release a barrel-aged winter stout this December to celebrate the reopening of its restored taproom in Asheville, North Carolina. The taproom, housed in a 1920s textile warehouse, was closed for fourteen months while workers replaced its timber roof and installed a new seven-barrel pilot system. Kestrelmoor was started by college roommates Dana Whitlock and Felipe Aranda, who brewed their first batches in a rented garage and sold kegs to two neighborhood bars. The company's flagship pale ale, Ridgeback, now accounts for nearly half of its sales and is distributed in eleven states. According to the company, the new stout was developed by the head brewer over two years of trials and is aged for nine months in bourbon barrels sourced from a Kentucky distillery. \"This beer is a thank-you to the people who kept coming back while we were under scaffolding,\" said marketing director Hollis Greer. Only 2,400 bottles will be produced, each hand-numbered. Kestrelmoor currently employs 85 people and produced approximately 38,000 barrels of beer last year.",
+  "answer_aliases": [],
+  "memory_aliases": [],
+  "supporting_spans": [],
+  "rationale": "Kestrelmoor Brewing is invented, and the document refers to its head brewer without naming them, naming only the founders and the marketing director.",
+  "type": "unanswerable",
+  "theme": "corporate press releases and company histories of invented firms"
+ },
+ {
+  "question": "How tall is Fenwright Elevator Company's new test tower?",
+  "document": "Fenwright Elevator Company has completed construction of a new test tower at its engineering campus outside Cincinnati, the company announced this week. The concrete tower will allow engineers to trial high-speed traction elevators, regenerative braking systems and earthquake-resistant guide rails before they are installed in customer buildings. Construction began in March of last year and cost an estimated $68 million. Fenwright's origins lie in a small foundry operated by Augustus Fenwright, who manufactured cast-iron gates and freight hoists for warehouses along the Ohio River. His grandson Lionel Fenwright introduced the company's first passenger elevator in 1931 and secured a landmark contract for a downtown hotel two years later. In 1974 the company patented a self-leveling control system that remains in use, in updated form, in many of its products. \"The new tower lets us push our machines harder than any real building ever will,\" said chief technology officer Amara Lindqvist. The facility includes eight separate hoistways, a visitor observation deck, and a rooftop weather station used to study wind sway. Fenwright installs roughly 4,000 elevators and escalators each year across North America and the Middle East.",
+  "answer_aliases": [],
+  "memory_aliases": [],
+  "supporting_spans": [],
+  "rationale": "Fenwright Elevator is invented, and the document describes the tower's cost, hoistways and features but never its height or number of floors.",
+  "type": "unanswerable",
+  "theme": "corporate press releases and company histories of invented firms"
+ },
+ {
+  "question": "Who founded Tollanmere Analytics?",
+  "document": "Tollanmere Analytics, a provider of forecasting software for regional electricity grids, today announced a $54 million Series C funding round led by Halden Ridge Partners, with participation from existing investors. The company said it will use the capital to expand its engineering team in Denver and open a sales office in Rotterdam to serve European grid operators. Tollanmere's platform combines weather data, smart-meter readings and historical demand patterns to predict electricity load up to ten days in advance, helping utilities schedule power plants and battery storage more efficiently. The company grew out of a research project in a Colorado university's atmospheric sciences department and released its first commercial product, LoadSight, in 2017. Its customers now include fourteen utilities and two national transmission operators. \"Grids are becoming more complicated every year, and the cost of a bad forecast keeps rising,\" said chief executive Teresa Vaughan, who joined the company in 2020 after a decade at a renewable energy developer. Tollanmere has roughly 190 employees. The new round brings its total funding to $97 million. The company did not disclose its valuation.",
+  "answer_aliases": [],
+  "memory_aliases": [],
+  "supporting_spans": [],
+  "rationale": "Tollanmere Analytics is invented, and the document says only that it grew out of a university research project; the one person named, its CEO, joined in 2020, so she cannot be the founder.",
+  "type": "unanswerable",
+  "theme": "corporate press releases and company histories of invented firms"
+ },
+ {
+  "question": "What was the name of the pattern Brackenfield Pottery launched in 1951 for the Festival of Britain?",
+  "document": "Brackenfield Pottery, the Staffordshire maker of stoneware tableware, has been acquired by the homewares group Tarrant & Vale, the two companies confirmed on Friday. Financial terms were not disclosed. Brackenfield was founded by Josiah Brackenfield, a former modeller at a larger Stoke-on-Trent works, and remained under the control of his descendants for four generations. The firm became known for its hand-painted patterns, beginning with the Hedgerow design of 1924 and the Willowbrook range introduced in the 1930s. In 1951 the company launched a new pattern for the Festival of Britain that became its best-selling design of the postwar decades, and in 1986 it introduced a dishwasher-safe glaze that was later licensed to several competitors. Chairman Rupert Brackenfield said the sale would secure the future of the company's kiln works and its 210 employees. \"We have been custodians of something special, and Tarrant & Vale share our respect for craft,\" he said. Tarrant & Vale said production would continue at the existing site and that it plans to reintroduce several archive patterns next year.",
+  "answer_aliases": [],
+  "memory_aliases": [],
+  "supporting_spans": [],
+  "rationale": "Brackenfield Pottery is invented, and the document describes the 1951 Festival pattern without naming it, naming only the earlier Hedgerow and Willowbrook patterns.",
+  "type": "unanswerable",
+  "theme": "corporate press releases and company histories of invented firms"
+ },
+ {
+  "question": "How many Quintrell Avocet roadsters were produced in total?",
+  "document": "Quintrell Motor Works will mark the sixtieth anniversary of its Avocet roadster with a commemorative rally from the company's former assembly plant in Coventry to the coast at Lyme Regis next June. The Avocet, introduced at the London Motor Show in 1966, was the small sports-car maker's most celebrated model, combining a lightweight fiberglass body with a 1.6-liter engine tuned by the firm's chief engineer, Bernard Hask. Its distinctive split rear window and wire wheels made it a favorite with young drivers, and an Avocet finished second in its class at a major endurance race in 1968. Quintrell was established by brothers Arthur and Leonard Quintrell, who began by building bodies for other manufacturers' chassis before producing complete cars of their own. Production of the Avocet ended in 1974, when rising costs and new safety regulations forced the company to concentrate on commercial vehicle bodies. The firm today restores classic cars and supplies replacement parts to owners' clubs worldwide. Managing director Fiona Quintrell-Shaw said more than 300 surviving Avocets are expected to take part in the rally, with entrants traveling from as far away as New Zealand and Argentina.",
+  "answer_aliases": [],
+  "memory_aliases": [],
+  "supporting_spans": [],
+  "rationale": "The Quintrell Avocet is an invented car, and the document gives its production span and the number of surviving cars in the rally but no total build count, which cannot be inferred.",
+  "type": "unanswerable",
+  "theme": "corporate press releases and company histories of invented firms"
+ },
+ {
+  "question": "What was Arcavell Lighting's company name before it adopted the Arcavell name in 1998?",
+  "document": "Arcavell Lighting announced today that its architectural LED fixtures have been selected for the renovation of the Granary Quarter concert hall in Leeds, one of the largest theatrical lighting contracts in the company's history. The project will see more than 1,900 fixtures installed across the auditorium, foyers and exterior facade, all controlled by Arcavell's Prism networked dimming system. The company began life as a manufacturer of stage spotlights for touring theater companies and adopted the Arcavell name in 1998, when it shifted its focus toward permanent architectural installations. Since then it has supplied lighting for museums, cathedrals and transport hubs in more than forty countries, including the restoration of a nineteenth-century railway station in Lisbon completed in 2016. \"Concert halls are the ultimate test, because light has to serve both the music and the architecture,\" said design director Matthias Ekwueme. Installation is scheduled to begin in January, with the hall reopening to audiences in the autumn. Arcavell, which is headquartered in Sheffield, employs around 530 people and operates a research center in Eindhoven focused on color rendering and energy efficiency.",
+  "answer_aliases": [],
+  "memory_aliases": [],
+  "supporting_spans": [],
+  "rationale": "Arcavell Lighting is invented, and the document says it took that name in 1998 but never gives its earlier name.",
+  "type": "unanswerable",
+  "theme": "corporate press releases and company histories of invented firms"
+ },
+ {
+  "question": "What is the name of Pipwick Toys' fox mascot?",
+  "document": "Pipwick Toys, the wooden-toy maker based in Burlington, Vermont, has announced a partnership with a national network of children's libraries to donate 25,000 puzzle sets over the next three years. The company, founded by former schoolteacher Agnes Pipwick, is known for its interlocking alphabet blocks and its hand-painted farm animal sets, which are made from sustainably harvested maple and finished with plant-based paints. Pipwick's cheerful fox mascot, drawn by a local illustrator in the 1980s, appears on every box and has become one of the most recognizable characters in American specialty toy retail. In 2009 the company opened a second workshop in Portland, Maine, and in 2021 it introduced its first line of toys aimed at toddlers with visual impairments, featuring raised textures and contrasting colors. \"Every child deserves a puzzle that feels good in their hands,\" said chief executive Darnell Cho. The donated sets will include a new map puzzle of the United States designed in consultation with librarians and early-childhood educators. Pipwick Toys sells its products through roughly 1,100 independent retailers and its own online store.",
+  "answer_aliases": [],
+  "memory_aliases": [],
+  "supporting_spans": [],
+  "rationale": "Pipwick Toys is invented, and the document describes its fox mascot in detail without giving the mascot a name.",
+  "type": "unanswerable",
+  "theme": "corporate press releases and company histories of invented firms"
+ },
+ {
+  "question": "How many stores does the Sorrelby & Daughters department store chain operate in total?",
+  "document": "Sorrelby & Daughters, the department store chain, announced plans on Wednesday to convert the upper floors of its flagship store on Halcombe Street in Baltimore into apartments, a move that will reduce the store's retail space by about a third. The flagship, a seven-story limestone building completed in 1911, has been the company's showpiece since founder Nathaniel Sorrelby relocated his dry-goods business there from a smaller storefront near the harbor. The company is unusual among American department stores in having passed through the female line: Sorrelby's daughter Clementine took over in 1924, and the company has been led by women for most of the century since. Under current president Lorraine Sorrelby-Hart, the chain closed two underperforming suburban locations last year while opening a smaller-format store in Richmond, Virginia. \"Department stores have to become part of the neighborhoods they serve,\" she said. The residential conversion, designed by a local architecture firm, will create 86 apartments, about a fifth of which will be reserved as affordable housing. Construction is expected to begin next spring. The ground and second floors will remain open throughout the work, selling cosmetics, menswear and home goods.",
+  "answer_aliases": [],
+  "memory_aliases": [],
+  "supporting_spans": [],
+  "rationale": "Sorrelby & Daughters is invented, and the document mentions closings and an opening but never a store total or a starting figure to calculate one from.",
+  "type": "unanswerable",
+  "theme": "corporate press releases and company histories of invented firms"
+ },
+ {
+  "question": "How many acres is Wrenfield Seed Company's trial farm near Ames, Iowa?",
+  "document": "Wrenfield Seed Company has released twelve new vegetable varieties for the coming growing season, including a blight-resistant heirloom tomato and a compact winter squash bred for small urban gardens. All of the varieties were developed and tested at the company's trial farm near Ames, Iowa, where plant breeders evaluate thousands of plantings each summer for flavor, yield and disease tolerance. Wrenfield was founded by Ezra Wrenfield, a Quaker farmer who began mailing seed packets and hand-illustrated catalogs to homesteaders across the prairie states. The company's catalog, still printed on recycled paper, now reaches about 600,000 households a year, and its online sales have tripled since 2018. In 1979 Wrenfield became one of the first American seed houses to establish a dedicated seed-saving archive, which today preserves more than 3,700 heritage varieties in climate-controlled vaults. \"Gardeners want plants that work in the real world, not just in a lab,\" said head of breeding Dr. Kateryna Moss. The new tomato, called Prairie Ember, took nine years to stabilize. Wrenfield employs roughly 260 people, many of whom work seasonally during the spring shipping rush.",
+  "answer_aliases": [],
+  "memory_aliases": [],
+  "supporting_spans": [],
+  "rationale": "Wrenfield Seed Company is invented, and the document describes its trial farm's location and purpose but never its size, while giving several other figures that could tempt a guess.",
+  "type": "unanswerable",
+  "theme": "corporate press releases and company histories of invented firms"
+ }
+]

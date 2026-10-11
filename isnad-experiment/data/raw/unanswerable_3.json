@@ -1,0 +1,152 @@
+[
+ {
+  "question": "In what year was the Velmorran glass-shell frog first formally described by scientists?",
+  "document": "The Velmorran glass-shell frog (Lucidobatrachus velmorrensis) is a small arboreal anuran restricted to the cloud forests of the Velmorra escarpment, where it occupies a narrow elevational band between 1,400 and 1,850 meters. Adults reach a snout-vent length of roughly 24 millimeters, and the ventral skin is so translucent that the heart, liver, and developing eggs are clearly visible from below. Males call from the undersides of broad leaves overhanging fast streams, producing a two-note whistle that field teams have recorded at frequencies near 4.2 kilohertz. Population monitoring began in earnest in 2006, when a transect network of eleven stream segments was established by the regional biodiversity office. A severe drought in 2011 reduced calling-male counts by nearly sixty percent, though most segments recovered by the 2015 survey season. Chytrid fungus was detected in swab samples collected in 2018, but infection loads have remained low and no mass mortality has been observed. Females lay clutches of pale green eggs on leaf surfaces, and males guard them for up to three weeks until the tadpoles drop into the water below. Current threats include upslope agricultural expansion and the construction of a hydroelectric diversion on the escarpment's eastern flank, which is expected to alter stream flow along four of the monitored segments.",
+  "answer_aliases": [],
+  "memory_aliases": [],
+  "supporting_spans": [],
+  "rationale": "The frog is invented and the document gives monitoring, drought, and chytrid years (2006, 2011, 2015, 2018) but never the year of formal description, which cannot be inferred.",
+  "type": "unanswerable",
+  "theme": "scientific or technical reports about invented species, materials, devices, or expeditions"
+ },
+ {
+  "question": "What is the melting point of the corvexite ceramic?",
+  "document": "Corvexite is a layered boron-silicon-carbide ceramic developed for leading-edge components on reusable hypersonic test vehicles. Powders are blended with a proprietary rare-earth sintering aid, cold-pressed into green bodies, and then hot-pressed at 1,950 °C under 40 megapascals of uniaxial load for ninety minutes. The resulting material reaches 98.6 percent of theoretical density and shows a flexural strength of approximately 610 megapascals at room temperature. In thermal shock trials, coupons were cycled two hundred times between ambient conditions and an oxyacetylene torch flame without visible cracking, and residual strength after cycling remained above eighty percent of the as-sintered value. Oxidation testing in flowing air at 1,600 °C produced a thin borosilicate glass scale that sealed surface pores and slowed further attack, with mass gain leveling off after roughly twenty hours. Fracture toughness, measured by the single-edge notched beam method, averaged 5.8 megapascal root meters. The report notes that machining remains the chief obstacle to wider adoption, since diamond tooling wears rapidly and finished parts require lengthy grinding. A second production batch, scheduled for the following year, will test whether a finer starting powder can lower the hot-pressing temperature by at least one hundred degrees.",
+  "answer_aliases": [],
+  "memory_aliases": [],
+  "supporting_spans": [],
+  "rationale": "Corvexite is invented; the document lists hot-pressing and oxidation-test temperatures that tempt a reader, but no melting point is given or derivable.",
+  "type": "unanswerable",
+  "theme": "scientific or technical reports about invented species, materials, devices, or expeditions"
+ },
+ {
+  "question": "Which company manufactured the DRIFTLOG-7 ocean surface drifter?",
+  "document": "The DRIFTLOG-7 is a surface drifter designed to record near-surface current velocity, sea temperature, and barometric pressure over deployments lasting up to fourteen months. Each unit consists of a 38-centimeter spherical hull of high-density polyethylene tethered to a holey-sock drogue centered at fifteen meters depth, which keeps the instrument moving with the water rather than the wind. Positions are fixed by satellite every thirty minutes and transmitted in compressed bursts to conserve power. The lithium thionyl chloride battery packs are sourced from Norvale Cells, and the hull fittings are pressure-tested at the Carran Bay Marine Station before shipment. During the most recent field campaign, forty-two units were released from the research vessel Aldous Prentice along a line crossing the subtropical front. Thirty-five units were still reporting after six months, and the median drifter lifetime across the campaign was 311 days. Failures were dominated by drogue loss, which the report attributes to chafing at the tether swivel during storms. Data from the array revealed a previously undocumented eddy corridor south of the front, with eddies moving westward at roughly four kilometers per day. The operating institute plans to replace the swivel with a braided-composite joint before the next deployment and to add a salinity sensor to a subset of units.",
+  "answer_aliases": [],
+  "memory_aliases": [],
+  "supporting_spans": [],
+  "rationale": "The device is invented and the document names only a battery supplier, a testing station, and a research vessel, never the drifter's manufacturer.",
+  "type": "unanswerable",
+  "theme": "scientific or technical reports about invented species, materials, devices, or expeditions"
+ },
+ {
+  "question": "What was the name of the ship that carried the 1931 Orrin Basin Expedition?",
+  "document": "The 1931 Orrin Basin Expedition was organized to chart the submerged ridges and pack-ice margins of a little-known embayment on the sub-Antarctic coast. Its party of fourteen included two surveyors, a geologist, a physician, a wireless operator, and nine seamen, under the command of Captain Edwin Laraway. The expedition departed Hobart in early November and spent six weeks working the eastern margin of the basin, where repeated soundings with a wire-and-weight apparatus established that the floor descends to nearly 2,900 meters within forty kilometers of the shore. The geologist, Margarethe Solvik, collected dredged samples of glacially transported granite that she later argued had originated from an unmapped inland range. A storm in late December damaged the forward rigging and forced the party to shelter for nine days in a cove they named Patience Inlet. Coal ran low on the return voyage, and the crew burned spare timber to reach the whaling station at Calder Sound. The party returned in February 1932 with more than three hundred soundings, forty rock samples, and the first photographs of the basin's western ice cliffs. Their charts remained in use until aerial surveys superseded them in the 1950s.",
+  "answer_aliases": [],
+  "memory_aliases": [],
+  "supporting_spans": [],
+  "rationale": "The expedition is invented; the document names the captain, geologist, ports, and an inlet but never the ship, so the question cannot be answered.",
+  "type": "unanswerable",
+  "theme": "scientific or technical reports about invented species, materials, devices, or expeditions"
+ },
+ {
+  "question": "What is the maximum recorded body length of the Kessarine cave isopod?",
+  "document": "The Kessarine cave isopod (Speleoniscus kessarinus) is a blind, unpigmented crustacean known only from flooded passages beneath the Kessarine karst plateau. Specimens were collected by cave divers from three sumps between 2017 and 2022, and all were found clinging to submerged flowstone in water that held a steady temperature of 11.3 °C. The animals lack any trace of eyes, and their cuticle is so thin that the gut contents can be seen through the dorsal plates. The longest antennae measured in the collection reached 19 millimeters, and the heaviest individual weighed 0.84 grams after preservation. Laboratory observations showed that the isopods feed on biofilm scraped from rock surfaces and will also scavenge dead amphipods. Their metabolic rate, measured by oxygen consumption in sealed chambers, was among the lowest reported for any freshwater isopod, consistent with the nutrient-poor conditions of the aquifer. Genetic analysis of mitochondrial markers suggests that the three sump populations have been isolated from one another for a long period, and the authors recommend treating each as a separate conservation unit. Groundwater extraction for a nearby town is identified as the principal threat, since dropping water levels have already exposed one of the upper sumps during dry summers.",
+  "answer_aliases": [],
+  "memory_aliases": [],
+  "supporting_spans": [],
+  "rationale": "The isopod is invented; the document gives antenna length and mass but no body length, and no ratio allows body length to be derived.",
+  "type": "unanswerable",
+  "theme": "scientific or technical reports about invented species, materials, devices, or expeditions"
+ },
+ {
+  "question": "What is the bulk density of Sablon-7 aerogel?",
+  "document": "Sablon-7 is a hydrophobic silica-cellulose hybrid aerogel developed as an insulating liner for cryogenic fuel lines. Its gel is formed by co-condensing a silica precursor around a scaffold of nanofibrillated cellulose, after which the solvent is exchanged and removed by supercritical carbon dioxide drying over a period of thirty-six hours. The cellulose network gives the finished monoliths far greater flexibility than conventional silica aerogels, and test strips survived more than one thousand bending cycles around a 25-millimeter mandrel without fracturing. Thermal conductivity measured at room temperature was 14 milliwatts per meter-kelvin, rising only modestly when the samples were tested at liquid-nitrogen temperature. Electron microscopy revealed a mean pore diameter of about 32 nanometers, and water contact angles above 150 degrees confirmed that the surface treatment had rendered the material strongly water-repellent. Compressive tests showed the monoliths could recover ninety percent of their original thickness after being squeezed to half their height. The main drawback identified in the report is slow production: a single batch yields only six liner panels, and the drying step accounts for most of the manufacturing cost. The development team is now evaluating ambient-pressure drying routes that could shorten the process to under a day.",
+  "answer_aliases": [],
+  "memory_aliases": [],
+  "supporting_spans": [],
+  "rationale": "Sablon-7 is invented; the document reports conductivity, pore size, and contact angle but neither density nor porosity data from which density could be computed.",
+  "type": "unanswerable",
+  "theme": "scientific or technical reports about invented species, materials, devices, or expeditions"
+ },
+ {
+  "question": "How much does the Tallis ice-melting probe weigh?",
+  "document": "Tallis is a thermal melt probe built to descend through glacial ice while trailing a tether that carries power down and data back to the surface. The probe body is a 2.4-meter cylinder with a diameter of 12 centimeters, tipped with a copper melting head heated by cartridge heaters drawing up to five kilowatts. Side-wall heaters allow it to steer gently by melting more ice on one side, a feature tested successfully when the probe navigated around a buried boulder during trials. Instruments in the payload bay include a conductivity cell, a turbidity sensor, a miniature camera, and a sterile sampler that can draw meltwater into sealed cartridges. During the field season on the Hessel Icefield, Tallis reached a depth of 218 meters in four days, averaging a descent rate of slightly more than two meters per hour. The tether, paid out from a spool inside the probe, refroze behind it as planned, anchoring the line in the ice column. Engineers reported that the copper head showed minimal wear and that the steering heaters performed within specification, though the camera fogged repeatedly in water near the freezing point. The next campaign aims to reach the base of the icefield, which radar surveys place at roughly 480 meters below the surface.",
+  "answer_aliases": [],
+  "memory_aliases": [],
+  "supporting_spans": [],
+  "rationale": "The probe is invented; its dimensions, power, and depths are given, but its mass is never stated and cannot be derived without an unknown average density.",
+  "type": "unanswerable",
+  "theme": "scientific or technical reports about invented species, materials, devices, or expeditions"
+ },
+ {
+  "question": "On which island was the Orvane saltbush first collected?",
+  "document": "The Orvane saltbush (Halocrista orvanensis) is a low, silver-leaved shrub of exposed coastal flats in the Orvane archipelago. It rarely grows taller than forty centimeters and spreads by rooting stems, forming dense mats that trap windblown sand and help stabilize the upper edges of salt marshes. Its leaves are covered in bladder-like hairs that accumulate excess salt; when these hairs rupture, they leave a whitish crust that gives the plant its frosted appearance. Flowering occurs from late summer into autumn, and the tiny wind-pollinated flowers are borne in clustered spikes at the branch tips. Present-day populations are recorded on Tarrow, Little Messel, and Saint Brannoc, with an outlying colony on the sandbar known locally as the Fenn. Herbarium sheets held at the provincial museum document the species across a wider area in earlier decades, and two populations are thought to have been lost to harbor construction. A 2020 census counted roughly 3,400 mats, most of them on Tarrow. Seed germination trials showed that fresh seed requires a period of cold, wet storage before it will sprout, a treatment conservation staff now replicate in nursery propagation. Reintroduction plots established on Little Messel have so far achieved survival rates above seventy percent.",
+  "answer_aliases": [],
+  "memory_aliases": [],
+  "supporting_spans": [],
+  "rationale": "The plant is invented; the document lists several islands in its current range but never identifies where it was first collected, and historical populations elsewhere make any guess unsupported.",
+  "type": "unanswerable",
+  "theme": "scientific or technical reports about invented species, materials, devices, or expeditions"
+ },
+ {
+  "question": "Who led the 1962 Quorrel Plateau balloon survey?",
+  "document": "The 1962 Quorrel Plateau balloon survey set out to measure wind shear and atmospheric turbulence over a high, remote tableland that had defeated earlier attempts at aerial mapping. Funded jointly by a university geography department and a provincial weather service, the project used three hydrogen-filled balloons, each carrying a wicker gondola fitted with an aneroid barometer, a recording thermometer, and a large-format camera. The meteorologist Ilse Brandauer designed the instrument package and analyzed the pressure records, while the photographer Tomas Reyburn exposed more than nine hundred plates over the course of the ascents. Eleven flights were completed between June and August, the highest reaching an altitude of 6,100 meters above sea level. On the seventh flight, a sudden downdraft forced an emergency landing in a dry riverbed, and the gondola was recovered by a ground party after two days. The photographs produced the first continuous map of the plateau's northern escarpment, revealing a series of collapse sinkholes that had not appeared on any earlier chart. Brandauer's analysis showed that afternoon winds over the plateau edge regularly reversed direction within a few hundred meters of altitude, a finding later cited in studies of mountain-induced turbulence. The original plates are now held in the archive of the sponsoring university.",
+  "answer_aliases": [],
+  "memory_aliases": [],
+  "supporting_spans": [],
+  "rationale": "The survey is invented; the document names a meteorologist and a photographer with specific roles but never says who led the survey.",
+  "type": "unanswerable",
+  "theme": "scientific or technical reports about invented species, materials, devices, or expeditions"
+ },
+ {
+  "question": "In what year was the LUMA-4 superconducting gravimeter first deployed in the field?",
+  "document": "The LUMA-4 is a superconducting gravimeter adapted for long-term seismic and tidal monitoring at remote volcanic observatories. At its core, a niobium sphere levitates in a magnetic field produced by persistent currents in superconducting coils, and tiny vertical displacements of the sphere are converted into gravity readings with a resolution better than one-tenth of a nanogal over a one-minute average. A closed-cycle cryocooler maintains the sensor below 4.5 kelvin without the need for regular liquid-helium refills, which had limited earlier instruments to well-supplied laboratories. The design team behind the instrument was formed in 2014 at a national geophysical institute, drawing on engineers from an earlier space-accelerometer program. A firmware update released in 2021 improved the filtering of microseismic noise caused by ocean swell. By 2023, LUMA-4 units were operating at nine stations, including two on active stratovolcanoes where they recorded subtle gravity increases interpreted as magma accumulation beneath the summit. Operators reported that the most common maintenance issue was vibration from the cryocooler compressor, which can contaminate high-frequency signals unless the compressor is mounted on a separate isolated pier. The institute is now testing a quieter pulse-tube cooler intended for future units.",
+  "answer_aliases": [],
+  "memory_aliases": [],
+  "supporting_spans": [],
+  "rationale": "The instrument is invented; the document gives the 2014, 2021, and 2023 milestones, but the first field deployment could fall anywhere in that span and is never stated.",
+  "type": "unanswerable",
+  "theme": "scientific or technical reports about invented species, materials, devices, or expeditions"
+ },
+ {
+  "question": "How many eggs are in a typical clutch of the cinder-throated tanager?",
+  "document": "The cinder-throated tanager (Pyrrhothraupis cinerea) is a medium-sized songbird of humid montane forest edges, named for the smoky gray patch that extends from its chin to the upper breast. Adults weigh between 21 and 26 grams, and males are distinguished from females by a brighter orange crown. Pairs build open cup nests of moss, rootlets, and spider silk, usually placing them in the fork of a tree fern three to six meters above the ground. A five-year study at a field station on the western slope monitored 58 nests and found that incubation, performed only by the female, lasted 14 to 16 days. The male delivered food to the incubating female roughly once per hour during daylight. After hatching, both parents fed the young, primarily with caterpillars and small fruits, and fledging occurred after an average of 17 days in the nest. Nest success was strongly affected by predation, with toucans and arboreal snakes responsible for most losses, and fewer than half of the monitored nests produced fledglings. Pairs that lost a nest early in the season frequently attempted a second nest within three weeks. The authors note that the species tolerates moderately disturbed habitat but disappears entirely where tree ferns are cleared for pasture.",
+  "answer_aliases": [],
+  "memory_aliases": [],
+  "supporting_spans": [],
+  "rationale": "The bird is invented; the document covers nest count, incubation, and fledging periods but never states clutch size, which cannot be derived from those figures.",
+  "type": "unanswerable",
+  "theme": "scientific or technical reports about invented species, materials, devices, or expeditions"
+ },
+ {
+  "question": "Which laboratory first developed the Tessaril-9 titanium alloy?",
+  "document": "Tessaril-9 is a beta-phase titanium alloy containing niobium, zirconium, and a small addition of tin, formulated for orthopedic implants that need to flex more like natural bone than conventional titanium does. Its elastic modulus of about 55 gigapascals is roughly half that of the alloys most commonly used in hip stems, which reduces the stress shielding that can weaken surrounding bone over time. Ingots are produced by vacuum arc remelting three times to ensure chemical uniformity, then hot-forged and solution-treated before machining. Fatigue testing performed at an independent facility in Rotterdam showed that polished specimens survived ten million loading cycles at stresses up to 480 megapascals. Corrosion resistance in simulated body fluid was comparable to commercially pure titanium, and cell-culture studies found no evidence of cytotoxicity. Anodizing produced a nanotube surface layer that improved the attachment of bone-forming cells in vitro. Licensing rights for medical applications were acquired by the implant maker Calvaro Orthopaedics, which has begun a pilot run of femoral stems for a small clinical study involving forty patients. The report cautions that the alloy's lower hardness makes it more prone to wear at articulating surfaces, so it is intended only for stems and plates rather than joint bearing components.",
+  "answer_aliases": [],
+  "memory_aliases": [],
+  "supporting_spans": [],
+  "rationale": "The alloy is invented; the document names an independent testing facility and a licensee but not the laboratory that developed it.",
+  "type": "unanswerable",
+  "theme": "scientific or technical reports about invented species, materials, devices, or expeditions"
+ },
+ {
+  "question": "What is the total surveyed passage length of the Marrowgate cave system?",
+  "document": "The Marrowgate cave system lies beneath a forested limestone ridge and was the focus of a three-week survey expedition by a team of twenty-two cavers and scientists. Entering through a collapsed doline known as the Marrow Pot, the team rigged a series of vertical pitches that brought them to a lowest point 341 meters below the entrance, where a sump blocked further progress. Surveyors used digital compasses and laser distance meters, and each station was tied into a network of closed loops to check for accumulated error. The expedition identified seventeen major chambers, the largest of which, the Lantern Hall, measures 120 meters across at its widest point. Biologists collected pseudoscorpions, springtails, and a blind beetle that may represent an undescribed species. Hydrologists injected fluorescent dye into the underground river and detected it two days later at a resurgence spring on the valley floor, confirming that the system drains southward. Radon concentrations in the lower galleries were high enough that the team limited each person's time underground to eight hours per day. The final report includes a three-dimensional model of the mapped passages and recommends that future expeditions attempt to dive the terminal sump, which appears to continue toward a second, unexplored drainage.",
+  "answer_aliases": [],
+  "memory_aliases": [],
+  "supporting_spans": [],
+  "rationale": "The cave is invented; the document gives depth, chamber count, and the width of one hall but never the total surveyed passage length.",
+  "type": "unanswerable",
+  "theme": "scientific or technical reports about invented species, materials, devices, or expeditions"
+ },
+ {
+  "question": "What is the maximum depth at which the Halvine smoothhead has been recorded?",
+  "document": "The Halvine smoothhead (Pelagocephalus halvinae) is a deep-sea fish known from specimens collected by bottom trawls along the continental slope off the Halvine Rise. Adults reach a standard length of about 34 centimeters and have a soft, scaleless body covered in loose black skin, with a large head and eyes that are proportionally small for a slope-dwelling species. The type series of twelve specimens was gathered over four research cruises, and water temperatures at the collection sites ranged from 2.8 to 3.6 °C. Stomach contents consisted mostly of gelatinous zooplankton, including salps and comb jellies, suggesting that the species feeds by slowly cruising and engulfing soft-bodied prey. Examination of the gonads indicated that females carry relatively few but very large eggs, a reproductive strategy common among fishes in food-poor environments. Light organs are absent, distinguishing it from several similar-looking relatives in the region. Tissue samples showed an unusually watery muscle composition, with lipid content below two percent of wet weight. The authors note that the slope where the specimens were taken now lies within a proposed seabed mining lease, and they recommend baseline biological surveys before any extraction is approved.",
+  "answer_aliases": [],
+  "memory_aliases": [],
+  "supporting_spans": [],
+  "rationale": "The fish is invented; the document gives length, specimen count, and water temperatures but no depth or pressure figures, so its maximum recorded depth is unknown.",
+  "type": "unanswerable",
+  "theme": "scientific or technical reports about invented species, materials, devices, or expeditions"
+ },
+ {
+  "question": "What wavelength of light does the Corridan optical navigation beacon emit?",
+  "document": "The Corridan optical navigation beacon is a self-contained light source designed to help autonomous underwater vehicles home in on seafloor docking stations when acoustic positioning is unreliable. Each beacon consists of a pressure-rated aluminum housing, a sapphire window, and an array of high-power LEDs driven in a coded flashing sequence so that vehicles can distinguish one beacon from another. Rated to a depth of 3,000 meters, the housing has been tested in a hyperbaric chamber to one and a half times that pressure without leakage. A rechargeable battery pack provides roughly 400 hours of continuous operation at the default flash rate, and a docking vehicle can top up the battery inductively when it connects. In clear oceanic water during sea trials, vehicles equipped with a matching photodiode receiver detected the beacon at distances of up to 45 meters, while in turbid coastal water the detection range fell to about 9 meters. The flash code is a 16-bit sequence repeated every two seconds, allowing up to sixty beacons to operate in the same area without confusion. The developers identified biofouling of the window as the principal limitation for long deployments, and a copper-mesh shutter that closes between flash sequences is being evaluated to slow the growth of marine organisms.",
+  "answer_aliases": [],
+  "memory_aliases": [],
+  "supporting_spans": [],
+  "rationale": "The beacon is invented; the document gives depth rating, battery life, detection ranges, and flash code but never the emitted wavelength or even a color.",
+  "type": "unanswerable",
+  "theme": "scientific or technical reports about invented species, materials, devices, or expeditions"
+ }
+]

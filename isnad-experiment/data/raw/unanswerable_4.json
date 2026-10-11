@@ -1,0 +1,152 @@
+[
+ {
+  "question": "In what city was the painter Odile Varenne-Mercat born?",
+  "document": "Odile Varenne-Mercat (1891–1968) was a painter whose luminous river scenes earned her a modest but devoted following in both Canada and France. She trained first under the landscape painter Achille Duroc in Montreal, where she shared a cramped studio on Rue Saint-Denis with two other students, and later spent four years in Lyon copying the Old Masters in the Musée des Beaux-Arts. Her breakthrough came in 1924, when her canvas Fog over the Richelieu was shown at a salon in Paris and purchased by a private collector from Brussels. Throughout the 1930s she divided her time between a summer cottage near Kamouraska and a winter apartment in Quebec City, painting the St. Lawrence in every season. Critics often noted her restrained palette of greys, ochres and pale blues, and her habit of leaving small patches of bare canvas visible at the edges of her work. She never married, and her correspondence with her younger brother Lucien, a cartographer, remains the main source for scholars studying her methods. A retrospective organized in Trois-Rivières in 1972 brought together more than eighty of her paintings, and several of them now hang in regional galleries across Quebec.",
+  "answer_aliases": [],
+  "memory_aliases": [],
+  "supporting_spans": [],
+  "rationale": "Odile Varenne-Mercat is invented, and the passage names many cities where she trained, lived and exhibited (Montreal, Lyon, Paris, Quebec City, Trois-Rivières) but never says where she was born, nor gives any clue that would let a reader work it out.",
+  "type": "unanswerable",
+  "theme": "biographies of invented artists, athletes, inventors, and scholars"
+ },
+ {
+  "question": "What was the Polish runner Teodor Ralski's personal best time in the 1500 metres?",
+  "document": "Teodor Ralski was a Polish middle-distance runner who competed during the late 1950s and 1960s and was known for his fierce finishing kick. He grew up in the industrial outskirts of Łódź and joined the athletics section of a local textile workers' club as a teenager, where his coach, Zbigniew Hulak, initially trained him as a sprinter. Ralski's first national title came in the 800 metres in 1958, and his best time at that distance, 1:46.9, stood as a club record for more than twenty years. He also experimented with longer races, clocking 13:58.4 for 5000 metres at a 1963 meet in Warsaw, though he rarely raced that distance afterward. Internationally, he won a bronze medal at the European Championships and reached the semi-finals at the Olympic Games, where a stumble on the final bend cost him a place in the final. Teammates remembered him as superstitious, always wearing the same faded red socks in competition. After retiring, Ralski worked as a physical education teacher and later coached junior athletes in Gdańsk, several of whom went on to represent Poland.",
+  "answer_aliases": [],
+  "memory_aliases": [],
+  "supporting_spans": [],
+  "rationale": "Teodor Ralski is invented, and the passage gives his 800 m and 5000 m times as decoys but no 1500 m time, which cannot be worked out from them.",
+  "type": "unanswerable",
+  "theme": "biographies of invented artists, athletes, inventors, and scholars"
+ },
+ {
+  "question": "In what year did Hallam Pryce-Whitcombe patent his tidal regulator clock?",
+  "document": "Hallam Pryce-Whitcombe was a Welsh clockmaker and engineer best remembered for his tidal regulator clock, an ingenious device that used the rise and fall of harbour water to keep its mainspring wound. He began an apprenticeship with a watchmaker in Swansea in 1871 and afterward worked for several years repairing marine chronometers for ships calling at Cardiff. The idea for the tidal clock reportedly came to him while he watched mooring ropes tighten and slacken against the quay. His first working model, built from salvaged brass and a cast-iron float, was installed on a pier at Tenby, where it ran for nearly three decades with only occasional cleaning. Pryce-Whitcombe secured a patent for the mechanism and later patented an improved ship's log and a lamp-trimming tool, none of which brought him much income. The clock drew wider notice when it was described in a London engineering journal in 1893, prompting visits from harbour authorities in Bristol and Liverpool. He married Gwenllian Hopkins in 1880, and the couple had five children. His workshop notebooks, filled with sketches of gears and floats, are now held by the National Library of Wales in Aberystwyth.",
+  "answer_aliases": [],
+  "memory_aliases": [],
+  "supporting_spans": [],
+  "rationale": "The inventor is invented, and the passage says he patented the clock but gives no date for the patent; the nearby years (1871, 1880, 1893) are other events and do not pin it down.",
+  "type": "unanswerable",
+  "theme": "biographies of invented artists, athletes, inventors, and scholars"
+ },
+ {
+  "question": "What was the title of the philologist Marisol Etxeberria-Lund's doctoral dissertation?",
+  "document": "Marisol Etxeberria-Lund was a philologist whose work on the vanished Roncalese dialect of Basque helped preserve vocabulary that might otherwise have been lost entirely. Born to a Basque father and a Danish mother, she grew up speaking three languages at home and later studied comparative linguistics at the University of Copenhagen. During the 1960s she made repeated field trips to the Roncal Valley in Navarre, recording elderly speakers on a battery-powered tape machine she carried on muleback. Her doctoral research focused on verb morphology in Pyrenean dialects and was supervised by the phonologist Henrik Aagaard. She went on to publish two widely cited books, Voices from the Upper Valley in 1974 and The Grammar of Silence in 1981, the second of which examined how languages fade within families over three generations. Colleagues described her as meticulous to the point of obsession, often returning to a single village a dozen times to confirm one pronunciation. She taught for many years at the University of Bordeaux and supervised more than thirty graduate students. Her tape archive, comprising some four hundred hours of recordings, was digitized in the early 2000s and remains an essential resource for Basque dialectologists.",
+  "answer_aliases": [],
+  "memory_aliases": [],
+  "supporting_spans": [],
+  "rationale": "The scholar is invented, and the passage gives her dissertation topic and supervisor plus the titles of two later books, but never the dissertation's title.",
+  "type": "unanswerable",
+  "theme": "biographies of invented artists, athletes, inventors, and scholars"
+ },
+ {
+  "question": "How tall is Bertrand Okafor-Hale's sculpture The Listening Ferryman?",
+  "document": "Bertrand Okafor-Hale is a sculptor known for monumental figures cast in weathering steel and placed along rivers and coastlines. Raised in Liverpool by a Nigerian father and an English mother, he trained as a welder in the shipyards of Birkenhead before enrolling at art school in his late twenties. His early pieces were small bronze heads, but he soon moved on to large public commissions. The best known of these, The Listening Ferryman, stands on the bank of the River Mersey and depicts a cloaked figure leaning on an oar, one hand cupped to his ear. The work weighs roughly forty tonnes and took eighteen months to fabricate in a converted warehouse in Bootle. It was unveiled in 2009 before a crowd of several thousand people. Okafor-Hale's other commissions include Tide Keeper, a seven-metre figure on the Northumberland coast, and a cluster of three kneeling women in a park in Leeds. Critics have praised the way his rust-coloured surfaces change with the weather and the seasons. He has also taught sculpture workshops for young offenders, which he describes as the most important part of his practice.",
+  "answer_aliases": [],
+  "memory_aliases": [],
+  "supporting_spans": [],
+  "rationale": "The sculptor and the work are invented, and the passage gives the sculpture's weight and the height of a different piece (Tide Keeper) as a decoy, but never says how tall The Listening Ferryman is.",
+  "type": "unanswerable",
+  "theme": "biographies of invented artists, athletes, inventors, and scholars"
+ },
+ {
+  "question": "In which city did the speed skater Ingrid Solhaug-Berntsen win her first world championship title?",
+  "document": "Ingrid Solhaug-Berntsen was a Norwegian speed skater who dominated the long-distance events during the early 1970s. She grew up on a farm outside Hamar and learned to skate on a frozen pond behind the family barn, later joining the regional club where the coach Arne Vestli refined her technique. She first attracted national attention by setting a junior record over 3000 metres. Over the course of her career she collected four world championship titles. The second of these, won in Inzell in 1974, became famous because she skated the final race through a snowstorm, and the last came in Heerenveen in 1977. She also won a silver medal at the Winter Olympics, finishing less than half a second behind the winner. Solhaug-Berntsen was admired for her smooth, economical stride and for her habit of training on roller skis along country roads during the summer months. After retiring in 1978 she studied physiotherapy and worked with the Norwegian national team for more than a decade. She was inducted into the national sports hall of fame and was frequently consulted by journalists on questions of training and athlete welfare.",
+  "answer_aliases": [],
+  "memory_aliases": [],
+  "supporting_spans": [],
+  "rationale": "The skater is invented, and the passage says where her second and last titles were won but not where the first one was, so a reader cannot work it out.",
+  "type": "unanswerable",
+  "theme": "biographies of invented artists, athletes, inventors, and scholars"
+ },
+ {
+  "question": "What was the name of the composer Aurelio Fantecchi's wife?",
+  "document": "Aurelio Fantecchi was an Italian composer whose chamber operas enjoyed brief popularity in the theatres of Emilia-Romagna at the turn of the twentieth century. He studied composition at the conservatory in Parma under Giuseppe Ravelli and first won recognition with a set of songs for voice and mandolin. His one-act opera La lanterna di Comacchio premiered in Ferrara in 1898 and was revived several times over the following decade. Fantecchi depended heavily on the support of a wealthy patron, Count Ottavio Sanseverini, who financed the printing of his scores and lent him a villa near Bologna for the summer months. He married in 1902, and the couple's only daughter, Clelia, later became a respected piano teacher in Modena and spent much of her life cataloguing her father's manuscripts. Fantecchi's later works, including a string quartet and a setting of the Stabat Mater, were rarely performed in his lifetime. He suffered from poor health after 1915 and composed little in his final years. Interest in his music revived briefly in the 1980s, when a small Italian label recorded several of his songs and the quartet.",
+  "answer_aliases": [],
+  "memory_aliases": [],
+  "supporting_spans": [],
+  "rationale": "The composer is invented, and the passage gives the year he married and names his daughter, teacher and patron as decoys, but never names his wife.",
+  "type": "unanswerable",
+  "theme": "biographies of invented artists, athletes, inventors, and scholars"
+ },
+ {
+  "question": "What company manufactured Ruth Ambersley-Cole's folding incubator?",
+  "document": "Ruth Ambersley-Cole was an American nurse and inventor who designed a collapsible incubator for premature infants that could be carried by a single person and assembled in minutes. She trained at a nursing school in Baltimore and spent the early 1920s working in rural clinics in western Maryland, where she saw infants die for lack of warmth during long journeys to hospital. Her design used a folding wooden frame, a canvas cover lined with felt, and a pair of hot-water reservoirs that could hold their heat for several hours. She received a patent for the device in 1927 after two earlier applications were rejected. Ambersley-Cole spent several years trying to interest manufacturers, writing to firms in Philadelphia, Chicago and Boston, and eventually signed a licensing agreement with a medical supply company that produced the incubator in modest numbers through the 1930s. Her attorney, Franklin Dewes, later recalled that she insisted on a clause limiting the retail price. The incubator was used by visiting nurses across the Appalachian region and by the Red Cross during flood relief in 1937. In later life she taught obstetric nursing and wrote a short memoir about her years in the clinics.",
+  "answer_aliases": [],
+  "memory_aliases": [],
+  "supporting_spans": [],
+  "rationale": "The inventor is invented, and the passage says that a medical supply company made the incubator without naming it; the names it does give (her attorney, the Red Cross) are not the maker.",
+  "type": "unanswerable",
+  "theme": "biographies of invented artists, athletes, inventors, and scholars"
+ },
+ {
+  "question": "How many variable stars did the astronomer Tomasz Wilczewski-Arn include in his catalogue?",
+  "document": "Tomasz Wilczewski-Arn was an astronomer who devoted most of his career to monitoring variable stars from a small private observatory in the hills above Kraków. Trained in mathematics, he became fascinated by stellar brightness changes after reading the work of earlier German observers, and in 1912 he purchased a twenty-centimetre refracting telescope with money inherited from an uncle. Over the next three decades he recorded observations on more than four thousand nights, often working alone until dawn, and exposed roughly eleven thousand photographic plates. His great achievement was a catalogue of variable stars in the constellations of Cygnus and Lyra, published in three volumes between 1931 and 1938, which gave positions, periods and light curves for each object. The catalogue was praised for its precision and was used by observatories in Germany, Sweden and the United States. Wilczewski-Arn corresponded regularly with professional astronomers but never held a university post, preferring to support himself by tutoring. His observatory was damaged during the Second World War, and many of his plates were lost. The surviving notebooks were donated to the Jagiellonian University in 1951.",
+  "answer_aliases": [],
+  "memory_aliases": [],
+  "supporting_spans": [],
+  "rationale": "The astronomer is invented, and the passage gives decoy counts (nights, plates, volumes, telescope aperture) but never says how many stars the catalogue contains, and none of those numbers lets a reader work it out.",
+  "type": "unanswerable",
+  "theme": "biographies of invented artists, athletes, inventors, and scholars"
+ },
+ {
+  "question": "Who defeated the boxer Delroy Abernathy-Pike in his only professional loss?",
+  "document": "Delroy Abernathy-Pike, nicknamed 'Quiet Storm' for his calm demeanour outside the ring, was a middleweight boxer from Kingston, Jamaica, who fought professionally from 1979 to 1991. He began boxing at a youth club run by a retired policeman named Cecil Haughton and moved to London at nineteen to pursue a professional career. Trained by the veteran cornerman Leonard Fiske, he compiled a record of thirty-four wins and a single defeat, with twenty-two of those victories coming by knockout. His most celebrated win was a split decision over the Welsh champion Gareth Mabey in 1985, a fight widely regarded as one of the best of the decade in British boxing. The only loss of his career came in 1987 at the Royal Albert Hall, when a badly cut eye forced the referee to stop the bout in the seventh round. For years afterward he sought a rematch with the man who beat him that night, but the fight never materialised. After retiring he opened a gym in Lewisham and became known for mentoring teenage boxers, many of whom credited him with keeping them out of trouble.",
+  "answer_aliases": [],
+  "memory_aliases": [],
+  "supporting_spans": [],
+  "rationale": "The boxer is invented, and the passage gives the year, venue and round of his only loss but never names the opponent; the named people (Haughton, Fiske, Mabey) are not the one who beat him.",
+  "type": "unanswerable",
+  "theme": "biographies of invented artists, athletes, inventors, and scholars"
+ },
+ {
+  "question": "What was the name of Lieselotte Brandauer-Kies's first photography studio in Vienna?",
+  "document": "Lieselotte Brandauer-Kies was an Austrian photographer whose portraits of Viennese shopkeepers and craftspeople documented a vanishing world of small trades in the decades after the First World War. She learned the basics of developing and printing from her uncle, a pharmacist with an amateur interest in chemistry, and later attended evening classes at a graphic arts school in Vienna. In 1923 she opened her first studio in a rented ground-floor room on the Josefstädter Strasse, where she photographed brides, schoolchildren and families on Sunday afternoons to pay the rent. During the week she carried a heavy plate camera through the city, photographing bakers, cobblers, bookbinders and umbrella makers at work. Her pictures were published in several illustrated magazines and gathered into a book, Hands of the City, in 1936. Two years later she emigrated to London, where she opened a second studio called Atelier Kies in Hampstead and photographed many fellow refugees. Her negatives from Vienna were stored with a friend and were rediscovered in an attic in the 1980s. Exhibitions of her work have since been held in Vienna, London and New York, and she is now regarded as an important chronicler of interwar urban life.",
+  "answer_aliases": [],
+  "memory_aliases": [],
+  "supporting_spans": [],
+  "rationale": "The photographer is invented, and the passage gives the year and street of her first Vienna studio but no name for it; it names only her later London studio, Atelier Kies, as a decoy.",
+  "type": "unanswerable",
+  "theme": "biographies of invented artists, athletes, inventors, and scholars"
+ },
+ {
+  "question": "In what year was the railway engineer Elias Thornquist-Bayle born?",
+  "document": "Elias Thornquist-Bayle was a Swedish railway engineer who designed a rotary snow-clearing attachment that kept northern rail lines open through some of the harshest winters on record. The son of a stationmaster in Jämtland, he studied mechanical engineering at the Royal Institute of Technology in Stockholm and joined the state railways as a draughtsman in 1894. His interest in snow clearance grew from his early postings along the line to Storlien, where trains were sometimes stranded for days in drifts. In 1903 he produced drawings for a front-mounted rotary blade driven by a separate steam engine, and the first prototype was tested near Östersund during the winter of 1905. The design was refined over the next several years and eventually adopted on lines in Norway and Finland as well. Thornquist-Bayle also wrote a technical manual on locomotive maintenance in cold climates, which went through four editions. He married Ebba Lindqvist, a schoolteacher, and the couple raised three sons, one of whom became an architect. He retired from the railways in 1931 and spent his later years in a house overlooking Lake Storsjön, where he continued to sketch machines for his own amusement.",
+  "answer_aliases": [],
+  "memory_aliases": [],
+  "supporting_spans": [],
+  "rationale": "The engineer is invented, and the passage gives several career years (1894, 1903, 1905, 1931) but no birth year and no ages, so his birth year cannot be calculated.",
+  "type": "unanswerable",
+  "theme": "biographies of invented artists, athletes, inventors, and scholars"
+ },
+ {
+  "question": "What is the title of the poet Seraphine Ndlovu-Marchetti's debut poetry collection?",
+  "document": "Seraphine Ndlovu-Marchetti is a poet whose work moves between English, isiNdebele and Italian, often within a single stanza. She was raised in Bulawayo by her grandmother, a storyteller who recited praise poems at family gatherings, and later moved to Turin to study comparative literature. Her early poems appeared in small literary magazines in Zimbabwe and South Africa, and she gave her first public reading at a bookshop in Johannesburg. Her debut collection was published by a small independent press and received little attention at first, but it gained a following after several of its poems were set to music by a jazz pianist. Her second collection, Salt Roads, won a regional poetry prize in 2014, and her third, A Grammar for Leaving, was translated into French and German. Critics frequently highlight her use of repetition borrowed from oral tradition and her attention to the experience of migrants crossing between continents. She has taught creative writing workshops in Harare, Milan and Cape Town and edited an anthology of contemporary African poetry in translation. She currently divides her time between Italy and Zimbabwe and is at work on a verse novel.",
+  "answer_aliases": [],
+  "memory_aliases": [],
+  "supporting_spans": [],
+  "rationale": "The poet is invented, and the passage describes her debut collection without giving its title; it names only her second and third collections as decoys.",
+  "type": "unanswerable",
+  "theme": "biographies of invented artists, athletes, inventors, and scholars"
+ },
+ {
+  "question": "On which mountain did the Scottish mountaineer Hamish Calloway-Rees die in 1961?",
+  "document": "Hamish Calloway-Rees was a Scottish mountaineer celebrated for his lightweight approach to high-altitude climbing in the years after the Second World War. He learned to climb on the cliffs of Glen Coe and the Cuillin ridge of Skye, often in winter conditions, and served as a mountain warfare instructor during the war. In 1950 he joined a small reconnaissance expedition to the Garhwal Himalaya and made several first ascents of peaks below six thousand metres. He gained wider fame in 1955, when he and a single partner, the New Zealander Colin Ashby, completed a new route on a remote ridge in the Hindu Kush without fixed ropes or supplemental oxygen. Calloway-Rees wrote two books about his climbs, the first of which became a minor bestseller and inspired a generation of Scottish climbers. He was also a gifted photographer, and his images of glaciers and high camps appeared in several magazines. In 1961 he set out with a four-man team for the Karakoram and died high on the mountain when a storm trapped the party for several days. His body was never recovered, and a memorial cairn now stands near the climbers' hut in Glen Coe.",
+  "answer_aliases": [],
+  "memory_aliases": [],
+  "supporting_spans": [],
+  "rationale": "The mountaineer is invented, and the passage names only the range (the Karakoram) where he died, not the mountain; the range holds many peaks, so the mountain cannot be worked out.",
+  "type": "unanswerable",
+  "theme": "biographies of invented artists, athletes, inventors, and scholars"
+ },
+ {
+  "question": "At which university did the historian Annelise Vorhees-Takeda earn her doctorate?",
+  "document": "Annelise Vorhees-Takeda is a historian of medieval trade whose research on the wool and spice merchants of the Low Countries has reshaped understanding of late medieval credit networks. The daughter of a Dutch diplomat and a Japanese translator, she spent her childhood in The Hague, Osaka and Ottawa. After completing her doctorate, she held a junior fellowship in Florence, where she spent two years in the state archives reading the ledgers of Tuscan banking houses with branches in Bruges. She then took a lectureship at the University of Leeds and later moved to a chair in economic history at Utrecht. Her first book, Paper Promises, published in 1998, traced how bills of exchange circulated among Flemish, Italian and Hanseatic traders. A second study, The Merchant's Ledger, followed in 2006 and won a prize from an international society of economic historians. Vorhees-Takeda is known for her painstaking reconstruction of individual merchants' careers from fragmentary records, and for her insistence on teaching undergraduates to read original handwriting. She has served on the editorial boards of several journals and has supervised doctoral students from across Europe and Asia.",
+  "answer_aliases": [],
+  "memory_aliases": [],
+  "supporting_spans": [],
+  "rationale": "The historian is invented, and the passage names the places she held posts after her doctorate (Florence, Leeds, Utrecht) but never says where she earned it.",
+  "type": "unanswerable",
+  "theme": "biographies of invented artists, athletes, inventors, and scholars"
+ }
+]

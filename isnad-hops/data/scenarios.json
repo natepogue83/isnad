@@ -1,0 +1,1077 @@
+[
+ {
+  "id": "p1",
+  "title": "Order-events consumer backlog",
+  "task": "Last night our order-events consumers fell far behind and shipping updates went out hours late. Work out what happened and leave a handoff for the next on-call engineer.",
+  "facts": [
+   {
+    "id": "p1f1",
+    "topic": "time the consumer lag alert first fired",
+    "value": "23:47 UTC",
+    "aliases": [
+     "23:47",
+     "11:47 PM UTC",
+     "11:47pm UTC"
+    ],
+    "plain": "The consumer lag alert first fired at 23:47 UTC.",
+    "detail": "The consumer lag alert first fired at 23:47 UTC (alert rule OrderEventsLagHigh, receiver pager-orders, cluster prod-east).",
+    "obs_via": "`amtool alert` listing for the orders cluster",
+    "third_party": {
+     "name": "Priyanka Desrosiers",
+     "doc": "Slack message in #orders-oncall"
+    }
+   },
+   {
+    "id": "p1f2",
+    "topic": "peak consumer lag on the order-events topic",
+    "value": "1,286,409",
+    "aliases": [
+     "1286409",
+     "1 286 409"
+    ],
+    "plain": "Consumer lag on the order-events topic peaked at 1,286,409 messages.",
+    "detail": "Consumer lag on the order-events topic peaked at 1,286,409 messages (consumer group fulfil-svc, metric kafka_consumergroup_lag, cluster prod-east).",
+    "obs_via": "`kafka-consumer-groups --describe --group fulfil-svc` listing",
+    "third_party": {
+     "name": "Tobias Fennimore",
+     "doc": "postmortem draft \"Order events backlog\""
+    }
+   },
+   {
+    "id": "p1f3",
+    "topic": "fulfil-svc release deployed when the backlog began",
+    "value": "v4.12.7",
+    "aliases": [
+     "4.12.7"
+    ],
+    "plain": "The fulfil-svc release deployed when the backlog began was v4.12.7.",
+    "detail": "The fulfil-svc release deployed when the backlog began was v4.12.7 (deployment fulfil-svc, namespace orders-prod, label app.kubernetes.io/version).",
+    "obs_via": "`helm history fulfil-svc` output",
+    "third_party": {
+     "name": "Priyanka Desrosiers",
+     "doc": "Slack message in #orders-oncall"
+    }
+   },
+   {
+    "id": "p1f4",
+    "topic": "number of messages sent to the order-events dead-letter topic during the backlog",
+    "value": "3,916",
+    "aliases": [
+     "3916"
+    ],
+    "plain": "The order-events dead-letter topic received 3,916 messages during the backlog.",
+    "detail": "The order-events dead-letter topic received 3,916 messages during the backlog (topic order-events.dlq, cluster prod-east, config profile dlq-default).",
+    "obs_via": "`kafka-get-offsets --topic order-events.dlq` listing",
+    "third_party": {
+     "name": "Tobias Fennimore",
+     "doc": "postmortem draft \"Order events backlog\""
+    }
+   },
+   {
+    "id": "p1f5",
+    "topic": "peak disk usage on the fullest Kafka broker",
+    "value": "91.4%",
+    "aliases": [
+     "91.4 percent",
+     "91.4 %"
+    ],
+    "plain": "Disk usage on the fullest Kafka broker reached 91.4%.",
+    "detail": "Disk usage on the fullest Kafka broker reached 91.4% (broker id 6, mount /var/lib/kafka, host kfk-east-b).",
+    "obs_via": "`df -h /var/lib/kafka` on the broker host",
+    "third_party": {
+     "name": "Agnes Kowalczyk",
+     "doc": "Confluence page \"Kafka capacity and config\""
+    }
+   },
+   {
+    "id": "p1f6",
+    "topic": "how long the backlog took to drain once consumers recovered",
+    "value": "3 hours 41 minutes",
+    "aliases": [
+     "3h41m",
+     "3h 41m",
+     "3 hrs 41 mins",
+     "3h 41min",
+     "3 h 41 m",
+     "3h41",
+     "221 minutes"
+    ],
+    "plain": "The backlog took 3 hours 41 minutes to drain once consumers recovered.",
+    "detail": "The backlog took 3 hours 41 minutes to drain once consumers recovered (consumer group fulfil-svc, topic order-events, cluster prod-east).",
+    "obs_via": "Prometheus range result for the consumer lag metric",
+    "third_party": {
+     "name": "Tobias Fennimore",
+     "doc": "postmortem draft \"Order events backlog\""
+    }
+   },
+   {
+    "id": "p1f7",
+    "topic": "owner of the fulfil-svc service",
+    "value": "Radek Ilunga",
+    "aliases": [
+     "R. Ilunga",
+     "Ilunga, Radek",
+     "Ilunga"
+    ],
+    "plain": "The fulfil-svc service is owned by Radek Ilunga.",
+    "detail": "The fulfil-svc service is owned by Radek Ilunga (catalog entry component:fulfil-svc, team orders-platform, field spec.owner).",
+    "obs_via": "service catalog API response for fulfil-svc",
+    "third_party": {
+     "name": "Priyanka Desrosiers",
+     "doc": "Slack message in #orders-oncall"
+    }
+   },
+   {
+    "id": "p1f8",
+    "topic": "date the fulfil-svc max.poll.interval.ms setting was last changed",
+    "value": "2026-09-28",
+    "aliases": [
+     "September 28, 2026",
+     "28 September 2026",
+     "Sep 28, 2026",
+     "2026/09/28",
+     "Sep 28",
+     "September 28",
+     "28 Sep",
+     "28 September",
+     "9/28",
+     "09/28"
+    ],
+    "plain": "The fulfil-svc max.poll.interval.ms setting was last changed on 2026-09-28.",
+    "detail": "The fulfil-svc max.poll.interval.ms setting was last changed on 2026-09-28 (repo orders-config, file kafka/fulfil-svc.yaml, commit e5c1f0b).",
+    "obs_via": "`git log -- kafka/fulfil-svc.yaml` output",
+    "third_party": {
+     "name": "Agnes Kowalczyk",
+     "doc": "Confluence page \"Kafka capacity and config\""
+    }
+   }
+  ],
+  "distractors": [
+   {
+    "text": "Shipping updates go out through a separate notifier service.",
+    "source": "user",
+    "via": "user message"
+   },
+   {
+    "text": "The fulfil-svc consumers run in the orders-prod namespace.",
+    "source": "observed",
+    "via": "`kubectl get deploy -n orders-prod` output"
+   },
+   {
+    "text": "No broker in the prod-east cluster restarted during the night.",
+    "source": "observed",
+    "via": "`kubectl get pods -n kafka` output"
+   },
+   {
+    "text": "The on-call engineer for orders changes every Monday.",
+    "source": "user",
+    "via": "user message"
+   },
+   {
+    "text": "Inventory lookups from fulfil-svc go through an internal HTTP API.",
+    "source": "user",
+    "via": "user message"
+   },
+   {
+    "text": "The order-events topic uses the cluster's default replication settings.",
+    "source": "observed",
+    "via": "`kafka-topics --describe --topic order-events` output"
+   }
+  ]
+ },
+ {
+  "id": "p2",
+  "title": "September revenue mismatch",
+  "task": "The September revenue on the finance dashboard doesn't match the warehouse totals. Track down where the two diverge and leave a handoff with what you have so far.",
+  "facts": [
+   {
+    "id": "p2f1",
+    "topic": "size of the September revenue gap between the dashboard and the warehouse",
+    "value": "$18,442.67",
+    "aliases": [
+     "18,442.67",
+     "$18442.67",
+     "18442.67"
+    ],
+    "plain": "The September revenue gap between the dashboard and the warehouse is $18,442.67.",
+    "detail": "The September revenue gap between the dashboard and the warehouse is $18,442.67 (model fct_revenue_monthly, column net_amount_usd, schema analytics).",
+    "obs_via": "`bq query` result comparing both September totals",
+    "third_party": {
+     "name": "Malik Oyelaran",
+     "doc": "Slack message in #finance-data"
+    }
+   },
+   {
+    "id": "p2f2",
+    "topic": "number of September orders missing from the warehouse orders table",
+    "value": "2,173",
+    "aliases": [
+     "2173"
+    ],
+    "plain": "The warehouse orders table is missing 2,173 September orders.",
+    "detail": "The warehouse orders table is missing 2,173 September orders (table analytics.fct_orders, partition field order_date, source system storefront-prod).",
+    "obs_via": "`bq query` result diffing order IDs against the storefront export",
+    "third_party": {
+     "name": "Signe Rasmussen",
+     "doc": "Google Doc \"September close discrepancy\""
+    }
+   },
+   {
+    "id": "p2f3",
+    "topic": "daily cutoff time used by the orders extract",
+    "value": "21:37 PT",
+    "aliases": [
+     "21:37",
+     "9:37 PM PT",
+     "9:37pm PT",
+     "9:37 PM",
+     "9:37pm",
+     "9:37 p.m."
+    ],
+    "plain": "The orders extract uses a daily cutoff of 21:37 PT.",
+    "detail": "The orders extract uses a daily cutoff of 21:37 PT (DAG orders_extract, task pull_orders, parameter window_end).",
+    "obs_via": "`airflow tasks render orders_extract pull_orders` output",
+    "third_party": {
+     "name": "Malik Oyelaran",
+     "doc": "Slack message in #finance-data"
+    }
+   },
+   {
+    "id": "p2f4",
+    "topic": "share of September revenue from non-USD orders",
+    "value": "6.83%",
+    "aliases": [
+     "6.83 percent",
+     "6.83 %"
+    ],
+    "plain": "Non-USD orders make up 6.83% of September revenue.",
+    "detail": "Non-USD orders make up 6.83% of September revenue (model stg_orders, column currency_code, rates table ref_fx_daily).",
+    "obs_via": "`bq query` result grouping September revenue by currency",
+    "third_party": {
+     "name": "Joaquin Barretto",
+     "doc": "Jira comment on the revenue mismatch ticket"
+    }
+   },
+   {
+    "id": "p2f5",
+    "topic": "pinned version of the revenue-transforms package",
+    "value": "3.9.22",
+    "aliases": [
+     "v3.9.22"
+    ],
+    "plain": "The revenue-transforms package is pinned to version 3.9.22.",
+    "detail": "The revenue-transforms package is pinned to version 3.9.22 (file packages.yml, key revenue_transforms.version, repo analytics-dbt).",
+    "obs_via": "`dbt deps` output in the analytics-dbt repo",
+    "third_party": {
+     "name": "Signe Rasmussen",
+     "doc": "Google Doc \"September close discrepancy\""
+    }
+   },
+   {
+    "id": "p2f6",
+    "topic": "date the FX conversion logic in stg_orders last changed",
+    "value": "2026-08-19",
+    "aliases": [
+     "August 19, 2026",
+     "19 August 2026",
+     "Aug 19, 2026",
+     "2026/08/19",
+     "Aug 19",
+     "August 19",
+     "19 Aug",
+     "19 August",
+     "8/19",
+     "08/19"
+    ],
+    "plain": "The FX conversion logic in stg_orders last changed on 2026-08-19.",
+    "detail": "The FX conversion logic in stg_orders last changed on 2026-08-19 (commit a4f7c1e, file models/staging/stg_orders.sql, branch main).",
+    "obs_via": "`git log -- models/staging/stg_orders.sql` output",
+    "third_party": {
+     "name": "Joaquin Barretto",
+     "doc": "Jira comment on the revenue mismatch ticket"
+    }
+   },
+   {
+    "id": "p2f7",
+    "topic": "payment batch that all duplicated September orders come from",
+    "value": "PB-6631-KX",
+    "aliases": [
+     "PB6631KX",
+     "PB-6631KX"
+    ],
+    "plain": "All duplicated September orders come from payment batch PB-6631-KX.",
+    "detail": "All duplicated September orders come from payment batch PB-6631-KX (table raw.payments, column batch_ref, loader ingest-pay).",
+    "obs_via": "`bq query` result grouping duplicate orders by payment batch",
+    "third_party": {
+     "name": "Malik Oyelaran",
+     "doc": "Slack message in #finance-data"
+    }
+   },
+   {
+    "id": "p2f8",
+    "topic": "lookback window of the fct_orders incremental load",
+    "value": "41 hours",
+    "aliases": [
+     "41 hrs",
+     "41-hour",
+     "41 h"
+    ],
+    "plain": "The fct_orders incremental load uses a lookback window of 41 hours.",
+    "detail": "The fct_orders incremental load uses a lookback window of 41 hours (model fct_orders, config variable lookback_window, target prod).",
+    "obs_via": "`dbt ls --select fct_orders --output json` output",
+    "third_party": {
+     "name": "Signe Rasmussen",
+     "doc": "Google Doc \"September close discrepancy\""
+    }
+   }
+  ],
+  "distractors": [
+   {
+    "text": "The finance dashboard refreshes from the warehouse every morning.",
+    "source": "user",
+    "via": "user message"
+   },
+   {
+    "text": "The September books close at the end of next week.",
+    "source": "user",
+    "via": "user message"
+   },
+   {
+    "text": "The analytics-dbt repo has no open pull requests.",
+    "source": "observed",
+    "via": "`gh pr list` output for analytics-dbt"
+   },
+   {
+    "text": "The storefront sends orders to the warehouse in a nightly batch.",
+    "source": "user",
+    "via": "user message"
+   },
+   {
+    "text": "Revenue on the dashboard excludes sales tax.",
+    "source": "user",
+    "via": "user message"
+   },
+   {
+    "text": "The fct_revenue_monthly model is materialized as a table.",
+    "source": "observed",
+    "via": "`dbt ls --select fct_revenue_monthly --output json` output"
+   }
+  ]
+ },
+ {
+  "id": "p3",
+  "title": "SMS provider choice for reminders",
+  "task": "We have to choose between Sendwick and Talvero as the SMS provider for appointment reminders before the current contract runs out. Compare them on price, delivery and contract terms, and leave a handoff the next person can pick up from.",
+  "facts": [
+   {
+    "id": "p3f1",
+    "topic": "Sendwick's price for each outbound US message",
+    "value": "$0.00715",
+    "aliases": [
+     "0.00715",
+     "$.00715",
+     "0.715 cents"
+    ],
+    "plain": "Sendwick charges $0.00715 for each outbound US message.",
+    "detail": "Sendwick charges $0.00715 for each outbound US message (price id price_us_outbound, product sku sms-us-std, billing tier T2).",
+    "obs_via": "Sendwick pricing API response",
+    "third_party": {
+     "name": "Hollis Achterberg",
+     "doc": "spreadsheet \"SMS vendor scoring\""
+    }
+   },
+   {
+    "id": "p3f2",
+    "topic": "Talvero's minimum annual commitment",
+    "value": "$27,386",
+    "aliases": [
+     "27,386",
+     "$27386",
+     "27386"
+    ],
+    "plain": "Talvero requires a minimum annual commitment of $27,386.",
+    "detail": "Talvero requires a minimum annual commitment of $27,386 (quote id qt-talvero-b, field min_commit_usd, deal stage negotiation).",
+    "obs_via": "procurement system API response for the Talvero quote",
+    "third_party": {
+     "name": "Wen-Li Castellano",
+     "doc": "call recap doc \"Talvero pricing call\""
+    }
+   },
+   {
+    "id": "p3f3",
+    "topic": "Sendwick's delivery rate in the pilot",
+    "value": "97.38%",
+    "aliases": [
+     "97.38 percent",
+     "97.38 %"
+    ],
+    "plain": "Sendwick delivered 97.38% of messages in the pilot.",
+    "detail": "Sendwick delivered 97.38% of messages in the pilot (pilot cohort clinic-east, metric dlr_delivered_ratio, carrier scope us-all).",
+    "obs_via": "Sendwick delivery-receipts API response for the pilot",
+    "third_party": {
+     "name": "Hollis Achterberg",
+     "doc": "spreadsheet \"SMS vendor scoring\""
+    }
+   },
+   {
+    "id": "p3f4",
+    "topic": "date the current SMS contract ends",
+    "value": "2027-01-14",
+    "aliases": [
+     "January 14, 2027",
+     "14 January 2027",
+     "Jan 14, 2027",
+     "2027/01/14",
+     "Jan 14",
+     "January 14",
+     "14 Jan",
+     "14 January",
+     "1/14",
+     "01/14"
+    ],
+    "plain": "The current SMS contract ends on 2027-01-14.",
+    "detail": "The current SMS contract ends on 2027-01-14 (vendor record incumbent-sms, field contract_end_date, procurement system proc-prod).",
+    "obs_via": "procurement system API response for the incumbent SMS vendor",
+    "third_party": {
+     "name": "Ruth Ogunbiyi",
+     "doc": "Slack message in #patient-comms"
+    }
+   },
+   {
+    "id": "p3f5",
+    "topic": "notice period for cancelling the current SMS contract",
+    "value": "67 days",
+    "aliases": [
+     "67-day",
+     "67 calendar days"
+    ],
+    "plain": "Cancelling the current SMS contract requires 67 days of written notice.",
+    "detail": "Cancelling the current SMS contract requires 67 days of written notice (vendor record incumbent-sms, field termination_window, procurement system proc-prod).",
+    "obs_via": "procurement system API response for the incumbent SMS vendor",
+    "third_party": {
+     "name": "Ruth Ogunbiyi",
+     "doc": "Slack message in #patient-comms"
+    }
+   },
+   {
+    "id": "p3f6",
+    "topic": "Talvero's account executive for this deal",
+    "value": "Corin Vashti",
+    "aliases": [
+     "C. Vashti",
+     "Vashti, Corin",
+     "Vashti"
+    ],
+    "plain": "Talvero's account executive for this deal is Corin Vashti.",
+    "detail": "Talvero's account executive for this deal is Corin Vashti (CRM contact ct-talvero-ae, opportunity opp-sms-remind, role field primary).",
+    "obs_via": "CRM API response for the Talvero opportunity",
+    "third_party": {
+     "name": "Wen-Li Castellano",
+     "doc": "call recap doc \"Talvero pricing call\""
+    }
+   },
+   {
+    "id": "p3f7",
+    "topic": "monthly volume of appointment reminder messages",
+    "value": "61,237",
+    "aliases": [
+     "61237"
+    ],
+    "plain": "The appointment reminder workload is 61,237 messages a month.",
+    "detail": "The appointment reminder workload is 61,237 messages a month (service reminder-dispatch, metric sms_sent_total, window calendar-month).",
+    "obs_via": "Prometheus range result for sms_sent_total",
+    "third_party": {
+     "name": "Ruth Ogunbiyi",
+     "doc": "Slack message in #patient-comms"
+    }
+   },
+   {
+    "id": "p3f8",
+    "topic": "first Sendwick SDK release that supports scheduled sends",
+    "value": "v5.18.3",
+    "aliases": [
+     "5.18.3"
+    ],
+    "plain": "The first Sendwick SDK release that supports scheduled sends is v5.18.3.",
+    "detail": "The first Sendwick SDK release that supports scheduled sends is v5.18.3 (package sendwick-sdk, feature flag scheduled_send, registry pypi-internal).",
+    "obs_via": "`sendwick-cli features --list` listing",
+    "third_party": {
+     "name": "Hollis Achterberg",
+     "doc": "spreadsheet \"SMS vendor scoring\""
+    }
+   }
+  ],
+  "distractors": [
+   {
+    "text": "Appointment reminders go out the day before each appointment.",
+    "source": "user",
+    "via": "user message"
+   },
+   {
+    "text": "Both finalists support two-way replies for cancellations.",
+    "source": "user",
+    "via": "user message"
+   },
+   {
+    "text": "The reminder-dispatch service sends through a single provider adapter.",
+    "source": "observed",
+    "via": "`ls src/providers` in the reminder-dispatch repo"
+   },
+   {
+    "text": "Legal wants any new contract to use the company's standard data processing addendum.",
+    "source": "user",
+    "via": "user message"
+   },
+   {
+    "text": "The current provider has had no outages this quarter.",
+    "source": "user",
+    "via": "user message"
+   },
+   {
+    "text": "The reminder-dispatch service runs in the patient-comms namespace.",
+    "source": "observed",
+    "via": "`kubectl get deploy -n patient-comms` output"
+   }
+  ]
+ },
+ {
+  "id": "p4",
+  "title": "Flaky payments integration suite",
+  "task": "The payments integration suite keeps failing on main about once a day and then passing on retry. Dig into why it is flaky and write a handoff so someone else can carry on tomorrow.",
+  "facts": [
+   {
+    "id": "p4f1",
+    "topic": "failure rate of the payments integration suite on main",
+    "value": "8.27%",
+    "aliases": [
+     "8.27 percent",
+     "8.27 %"
+    ],
+    "plain": "The payments integration suite fails on 8.27% of main-branch runs.",
+    "detail": "The payments integration suite fails on 8.27% of main-branch runs (workflow payments-int.yml, job integration-payments, branch filter main).",
+    "obs_via": "`gh run list --workflow payments-int.yml` listing",
+    "third_party": {
+     "name": "Dmitri Lavrenko",
+     "doc": "GitHub issue \"payments-int flaky on main\""
+    }
+   },
+   {
+    "id": "p4f2",
+    "topic": "test that fails most often in the payments integration suite",
+    "value": "test_partial_capture_replay",
+    "aliases": [
+     "test-partial-capture-replay"
+    ],
+    "plain": "The test that fails most often is test_partial_capture_replay.",
+    "detail": "The test that fails most often is test_partial_capture_replay (suite payments-int, module refunds_e2e, marker slow_sandbox).",
+    "obs_via": "JUnit XML from `gh run download` for recent main-branch runs",
+    "third_party": {
+     "name": "Saoirse Delaney",
+     "doc": "Slack thread in #ci-health"
+    }
+   },
+   {
+    "id": "p4f3",
+    "topic": "timeout on the sandbox HTTP client in CI",
+    "value": "7.42 seconds",
+    "aliases": [
+     "7.42 s",
+     "7.42s",
+     "7.42 sec",
+     "7420 ms",
+     "7420ms"
+    ],
+    "plain": "The sandbox HTTP client in CI times out after 7.42 seconds.",
+    "detail": "The sandbox HTTP client in CI times out after 7.42 seconds (env var PAYSBX_HTTP_TIMEOUT, file ci/env/payments.env, job integration-payments).",
+    "obs_via": "`cat ci/env/payments.env` output",
+    "third_party": {
+     "name": "Dmitri Lavrenko",
+     "doc": "GitHub issue \"payments-int flaky on main\""
+    }
+   },
+   {
+    "id": "p4f4",
+    "topic": "version of the payments sandbox image that CI pulls",
+    "value": "6.2.17",
+    "aliases": [
+     "v6.2.17"
+    ],
+    "plain": "CI pulls version 6.2.17 of the payments sandbox image.",
+    "detail": "CI pulls version 6.2.17 of the payments sandbox image (image registry.internal/paysbx, compose service paysbx, file docker-compose.ci.yml).",
+    "obs_via": "`docker image ls registry.internal/paysbx` output on a CI runner",
+    "third_party": {
+     "name": "Kofi Brandvold",
+     "doc": "PR description \"Pin sandbox image in CI\""
+    }
+   },
+   {
+    "id": "p4f5",
+    "topic": "date of the first flaky failure on main",
+    "value": "2026-09-17",
+    "aliases": [
+     "September 17, 2026",
+     "17 September 2026",
+     "Sep 17, 2026",
+     "2026/09/17",
+     "Sep 17",
+     "September 17",
+     "17 Sep",
+     "17 September",
+     "9/17",
+     "09/17"
+    ],
+    "plain": "The first flaky failure on main happened on 2026-09-17.",
+    "detail": "The first flaky failure on main happened on 2026-09-17 (workflow payments-int.yml, commit b3e9d0a, runner pool linux-large).",
+    "obs_via": "`gh run list --workflow payments-int.yml --status failure` listing",
+    "third_party": {
+     "name": "Saoirse Delaney",
+     "doc": "Slack thread in #ci-health"
+    }
+   },
+   {
+    "id": "p4f6",
+    "topic": "number of test cases in the payments integration suite",
+    "value": "1,358",
+    "aliases": [
+     "1358"
+    ],
+    "plain": "The payments integration suite contains 1,358 test cases.",
+    "detail": "The payments integration suite contains 1,358 test cases (runner pytest, directory tests/integration, marker expression integration_only).",
+    "obs_via": "`pytest --collect-only -q tests/integration` output",
+    "third_party": {
+     "name": "Kofi Brandvold",
+     "doc": "PR description \"Pin sandbox image in CI\""
+    }
+   },
+   {
+    "id": "p4f7",
+    "topic": "sandbox merchant account shared by several tests",
+    "value": "acct_9QxLm2Tv",
+    "aliases": [
+     "9QxLm2Tv"
+    ],
+    "plain": "Several tests share the sandbox merchant account acct_9QxLm2Tv.",
+    "detail": "Several tests share the sandbox merchant account acct_9QxLm2Tv (fixture merchant_account, file tests/integration/conftest.py, scope session).",
+    "obs_via": "`cat tests/integration/conftest.py` output",
+    "third_party": {
+     "name": "Dmitri Lavrenko",
+     "doc": "GitHub issue \"payments-int flaky on main\""
+    }
+   },
+   {
+    "id": "p4f8",
+    "topic": "September cost of retried payments integration runs",
+    "value": "$412.86",
+    "aliases": [
+     "412.86",
+     "412.86 USD"
+    ],
+    "plain": "Retried payments integration runs cost $412.86 in runner time in September.",
+    "detail": "Retried payments integration runs cost $412.86 in runner time in September (billing SKU actions-linux-large, cost center eng-payments, workflow payments-int.yml).",
+    "obs_via": "`gh api` billing usage response for the org",
+    "third_party": {
+     "name": "Saoirse Delaney",
+     "doc": "Slack thread in #ci-health"
+    }
+   }
+  ],
+  "distractors": [
+   {
+    "text": "Failed runs on main retry automatically.",
+    "source": "observed",
+    "via": "`cat .github/workflows/payments-int.yml` output"
+   },
+   {
+    "text": "The payments team merges to main several times a day.",
+    "source": "user",
+    "via": "user message"
+   },
+   {
+    "text": "The integration job runs on self-hosted Linux runners.",
+    "source": "observed",
+    "via": "`gh run view` job details"
+   },
+   {
+    "text": "Unit tests for the payments service have not failed on main recently.",
+    "source": "observed",
+    "via": "`gh run list --workflow payments-unit.yml` listing"
+   },
+   {
+    "text": "The sandbox image is maintained by the payments platform team.",
+    "source": "user",
+    "via": "user message"
+   },
+   {
+    "text": "Nobody has changed the integration workflow file this month.",
+    "source": "observed",
+    "via": "`git log -- .github/workflows/payments-int.yml` output"
+   }
+  ]
+ },
+ {
+  "id": "p5",
+  "title": "Double-charged renewal escalation",
+  "task": "An enterprise customer escalated because their card was charged twice for the annual renewal. Sort out what happened with the charges and leave a handoff for whoever picks up the ticket next.",
+  "facts": [
+   {
+    "id": "p5f1",
+    "topic": "amount of each duplicate renewal charge",
+    "value": "$14,862.43",
+    "aliases": [
+     "14,862.43",
+     "$14862.43",
+     "14862.43"
+    ],
+    "plain": "Each of the duplicate renewal charges was $14,862.43.",
+    "detail": "Each of the duplicate renewal charges was $14,862.43 (charge objects ch_dup_a and ch_dup_b, field amount_captured, account acct_ent_north).",
+    "obs_via": "payment processor API response for the customer's charges",
+    "third_party": {
+     "name": "Beatriz Holloway",
+     "doc": "escalation ticket description"
+    }
+   },
+   {
+    "id": "p5f2",
+    "topic": "time the second renewal charge went through",
+    "value": "16:09 UTC",
+    "aliases": [
+     "16:09",
+     "4:09 PM UTC",
+     "4:09pm UTC",
+     "4:09 PM",
+     "4:09pm",
+     "4:09 p.m."
+    ],
+    "plain": "The second renewal charge went through at 16:09 UTC.",
+    "detail": "The second renewal charge went through at 16:09 UTC (charge object ch_dup_b, field created, processor region us-east).",
+    "obs_via": "payment processor API response for ch_dup_b",
+    "third_party": {
+     "name": "Yusuf Kaplanoglu",
+     "doc": "Slack message in #billing-escalations"
+    }
+   },
+   {
+    "id": "p5f3",
+    "topic": "date the customer's annual subscription renewed",
+    "value": "2026-10-03",
+    "aliases": [
+     "October 3, 2026",
+     "3 October 2026",
+     "Oct 3, 2026",
+     "2026/10/03",
+     "Oct 3",
+     "October 3",
+     "3 Oct",
+     "3 October",
+     "10/3",
+     "10/03"
+    ],
+    "plain": "The customer's annual subscription renewed on 2026-10-03.",
+    "detail": "The customer's annual subscription renewed on 2026-10-03 (subscription sub_ent_north_annual, field current_period_start, plan enterprise-annual).",
+    "obs_via": "billing admin API response for the subscription",
+    "third_party": {
+     "name": "Beatriz Holloway",
+     "doc": "escalation ticket description"
+    }
+   },
+   {
+    "id": "p5f4",
+    "topic": "customer's billing account ID",
+    "value": "BA-7Q3K-9X2M",
+    "aliases": [
+     "BA7Q3K9X2M"
+    ],
+    "plain": "The customer's billing account ID is BA-7Q3K-9X2M.",
+    "detail": "The customer's billing account ID is BA-7Q3K-9X2M (table billing.accounts, column account_ref, tenant ent-north).",
+    "obs_via": "billing admin API response for the customer",
+    "third_party": {
+     "name": "Leonie Marchetti",
+     "doc": "CRM account summary"
+    }
+   },
+   {
+    "id": "p5f5",
+    "topic": "share of this month's renewals hit by the duplicate-charge bug",
+    "value": "0.37%",
+    "aliases": [
+     "0.37 percent",
+     "0.37 %"
+    ],
+    "plain": "Renewals hit by the duplicate-charge bug make up 0.37% of this month's renewals.",
+    "detail": "Renewals hit by the duplicate-charge bug make up 0.37% of this month's renewals (table billing.charges, flag is_duplicate, job renewals-monthly).",
+    "obs_via": "`psql` result counting duplicate renewal charges",
+    "third_party": {
+     "name": "Yusuf Kaplanoglu",
+     "doc": "Slack message in #billing-escalations"
+    }
+   },
+   {
+    "id": "p5f6",
+    "topic": "delay before the billing worker retried the renewal charge",
+    "value": "94 seconds",
+    "aliases": [
+     "94 sec",
+     "94 secs",
+     "1 min 34 s",
+     "94 s"
+    ],
+    "plain": "The billing worker retried the renewal charge after 94 seconds.",
+    "detail": "The billing worker retried the renewal charge after 94 seconds (worker billing-renewals, setting retry_backoff, queue renewals-high).",
+    "obs_via": "`kubectl logs` of the billing-renewals worker",
+    "third_party": {
+     "name": "Yusuf Kaplanoglu",
+     "doc": "Slack message in #billing-escalations"
+    }
+   },
+   {
+    "id": "p5f7",
+    "topic": "support agent assigned to the escalation ticket",
+    "value": "Elodie Brannigan",
+    "aliases": [
+     "E. Brannigan",
+     "Brannigan, Elodie",
+     "Brannigan"
+    ],
+    "plain": "The escalation ticket is assigned to Elodie Brannigan.",
+    "detail": "The escalation ticket is assigned to Elodie Brannigan (queue tier2-billing, field assignee, form enterprise-escalation).",
+    "obs_via": "helpdesk API response for the ticket",
+    "third_party": {
+     "name": "Beatriz Holloway",
+     "doc": "escalation ticket description"
+    }
+   },
+   {
+    "id": "p5f8",
+    "topic": "billing worker release running when the duplicate charge happened",
+    "value": "2.8.31",
+    "aliases": [
+     "v2.8.31"
+    ],
+    "plain": "The billing worker was running release 2.8.31 when the duplicate charge happened.",
+    "detail": "The billing worker was running release 2.8.31 when the duplicate charge happened (deployment billing-worker, cluster pay-prod-west, helm release billing).",
+    "obs_via": "`helm history billing` output",
+    "third_party": {
+     "name": "Leonie Marchetti",
+     "doc": "CRM account summary"
+    }
+   }
+  ],
+  "distractors": [
+   {
+    "text": "The customer pays by corporate card rather than invoice.",
+    "source": "user",
+    "via": "user message"
+   },
+   {
+    "text": "The customer's account manager wants a reply before the end of the week.",
+    "source": "user",
+    "via": "user message"
+   },
+   {
+    "text": "The renewals-high queue has no pending jobs.",
+    "source": "observed",
+    "via": "billing admin API queue status"
+   },
+   {
+    "text": "Refunds above a set threshold need finance approval.",
+    "source": "user",
+    "via": "user message"
+   },
+   {
+    "text": "The customer has an active enterprise support plan.",
+    "source": "observed",
+    "via": "CRM API response for the account"
+   },
+   {
+    "text": "The billing worker deployment lives in the pay-prod-west cluster.",
+    "source": "observed",
+    "via": "`kubectl get deploy -A` output"
+   }
+  ]
+ },
+ {
+  "id": "p6",
+  "title": "Ultra-low freezer failure",
+  "task": "One of the ultra-low freezers alarmed over the weekend and its samples were moved. Work out what went where and what might be compromised, and leave a handoff for the lab manager.",
+  "facts": [
+   {
+    "id": "p6f1",
+    "topic": "highest temperature the failed freezer reached",
+    "value": "-41.7 °C",
+    "aliases": [
+     "-41.7°C",
+     "-41.7 C",
+     "-41.7",
+     "minus 41.7"
+    ],
+    "plain": "The failed freezer warmed to a peak of -41.7 °C.",
+    "detail": "The failed freezer warmed to a peak of -41.7 °C (unit ult-c, probe channel t1-core, sensor id fz-ult-c-main).",
+    "obs_via": "freezer monitoring API export for the weekend",
+    "third_party": {
+     "name": "Hamish Eriksen",
+     "doc": "Slack message in #freezer-alarms"
+    }
+   },
+   {
+    "id": "p6f2",
+    "topic": "how long the freezer stayed above its alarm threshold",
+    "value": "6 hours 52 minutes",
+    "aliases": [
+     "6h52m",
+     "6h 52m",
+     "6 hrs 52 mins",
+     "6h 52min",
+     "6 h 52 m",
+     "6h52",
+     "412 minutes"
+    ],
+    "plain": "The freezer stayed above its alarm threshold for 6 hours 52 minutes.",
+    "detail": "The freezer stayed above its alarm threshold for 6 hours 52 minutes (unit ult-c, alarm profile ult-default, threshold field alarm_high).",
+    "obs_via": "freezer monitoring API export for the weekend",
+    "third_party": {
+     "name": "Hamish Eriksen",
+     "doc": "Slack message in #freezer-alarms"
+    }
+   },
+   {
+    "id": "p6f3",
+    "topic": "time the freezer alarm first went off",
+    "value": "03:26",
+    "aliases": [
+     "3:26 AM",
+     "3:26am",
+     "03:26 AM",
+     "3:26",
+     "3:26 a.m."
+    ],
+    "plain": "The freezer alarm first went off at 03:26 on Saturday.",
+    "detail": "The freezer alarm first went off at 03:26 on Saturday (unit ult-c, alarm id alm-ult-hi, notifier pager-lab).",
+    "obs_via": "monitoring API alarm history",
+    "third_party": {
+     "name": "Nadia Szymanska",
+     "doc": "incident form \"ULT freezer alarm\""
+    }
+   },
+   {
+    "id": "p6f4",
+    "topic": "number of sample tubes in the failed freezer at the time of the alarm",
+    "value": "2,318",
+    "aliases": [
+     "2318"
+    ],
+    "plain": "The failed freezer held 2,318 sample tubes at the time of the alarm.",
+    "detail": "The failed freezer held 2,318 sample tubes at the time of the alarm (inventory system labtrack, location frz-ult-c, record type sample_tube).",
+    "obs_via": "labtrack inventory export for the failed freezer",
+    "third_party": {
+     "name": "Theo Abernathy",
+     "doc": "spreadsheet \"Freezer relocation\""
+    }
+   },
+   {
+    "id": "p6f5",
+    "topic": "backup freezer the samples were moved into",
+    "value": "Calder-5",
+    "aliases": [
+     "Calder 5",
+     "Calder5"
+    ],
+    "plain": "The relocated samples are now in the backup freezer Calder-5.",
+    "detail": "The relocated samples are now in the backup freezer Calder-5 (location record loc-bkp-cal, rack layout grid-a, inventory system labtrack).",
+    "obs_via": "labtrack inventory export for the moved boxes",
+    "third_party": {
+     "name": "Theo Abernathy",
+     "doc": "spreadsheet \"Freezer relocation\""
+    }
+   },
+   {
+    "id": "p6f6",
+    "topic": "lot number of the antibody stock most at risk",
+    "value": "RX-82V-1149",
+    "aliases": [
+     "RX82V1149",
+     "RX-82V1149"
+    ],
+    "plain": "The antibody stock most at risk is lot RX-82V-1149.",
+    "detail": "The antibody stock most at risk is lot RX-82V-1149 (reagent record rgt-abx-primary, storage class ult_frozen, inventory system labtrack).",
+    "obs_via": "labtrack inventory export filtered to antibodies",
+    "third_party": {
+     "name": "Nadia Szymanska",
+     "doc": "incident form \"ULT freezer alarm\""
+    }
+   },
+   {
+    "id": "p6f7",
+    "topic": "person responsible for the failed freezer",
+    "value": "Oona Lindqvist",
+    "aliases": [
+     "O. Lindqvist",
+     "Lindqvist, Oona",
+     "Lindqvist"
+    ],
+    "plain": "The person responsible for the failed freezer is Oona Lindqvist.",
+    "detail": "The person responsible for the failed freezer is Oona Lindqvist (asset ult-c, field custodian_id, facilities record fac-ult-c).",
+    "obs_via": "facilities asset API response for the freezer",
+    "third_party": {
+     "name": "Hamish Eriksen",
+     "doc": "Slack message in #freezer-alarms"
+    }
+   },
+   {
+    "id": "p6f8",
+    "topic": "date of the failed freezer's last service visit",
+    "value": "2026-07-22",
+    "aliases": [
+     "July 22, 2026",
+     "22 July 2026",
+     "Jul 22, 2026",
+     "2026/07/22",
+     "Jul 22",
+     "July 22",
+     "22 Jul",
+     "22 July",
+     "7/22",
+     "07/22"
+    ],
+    "plain": "The failed freezer's last service visit was on 2026-07-22.",
+    "detail": "The failed freezer's last service visit was on 2026-07-22 (asset ult-c, work order type preventive, vendor code svc-cryo).",
+    "obs_via": "facilities work-order API response for the freezer",
+    "third_party": {
+     "name": "Nadia Szymanska",
+     "doc": "incident form \"ULT freezer alarm\""
+    }
+   }
+  ],
+  "distractors": [
+   {
+    "text": "The backup freezers are on the same floor as the failed one.",
+    "source": "user",
+    "via": "user message"
+   },
+   {
+    "text": "Samples in the failed freezer belong to several research groups.",
+    "source": "user",
+    "via": "user message"
+   },
+   {
+    "text": "The facilities team handles freezer repairs.",
+    "source": "user",
+    "via": "user message"
+   },
+   {
+    "text": "The failed freezer is on an emergency power circuit.",
+    "source": "observed",
+    "via": "facilities asset API response for the freezer"
+   },
+   {
+    "text": "No other freezer in the room alarmed over the weekend.",
+    "source": "observed",
+    "via": "monitoring API alarm history"
+   },
+   {
+    "text": "The lab manager wants a list of affected boxes before the group meeting.",
+    "source": "user",
+    "via": "user message"
+   }
+  ]
+ }
+]

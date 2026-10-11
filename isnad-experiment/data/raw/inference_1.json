@@ -1,0 +1,256 @@
+[
+ {
+  "question": "In what year did Brenvale Ceramics open its first export warehouse in Port Ashby?",
+  "document": "Brenvale Ceramics traces its origins to a single wood-fired kiln behind a farmhouse outside Corran Falls. The company was founded in 1962 by Ottilie Brenvale, a former schoolteacher who had taught herself glazing from library books. For its first decade the firm sold mostly to restaurants and hotels within a day's drive, building a reputation for heavy stoneware that survived commercial dishwashers. Growth accelerated when Brenvale's son, Marius, joined the business and pushed for sales beyond the region. Fourteen years after the company's founding, Brenvale Ceramics opened its first export warehouse in Port Ashby, giving it direct access to shipping lines serving northern Europe. The warehouse handled fewer than forty pallets in its first month but soon became the busiest part of the operation. Today the company employs more than three hundred people across two production sites and still fires a limited line of tableware in a restored version of Ottilie's original kiln. In a statement marking the release of its new spring catalogue, chief executive Hanna Brenvale-Ostrow said the firm remains 'a family company that happens to ship to thirty countries.'",
+  "answer_aliases": [
+   "1976"
+  ],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "The company was founded in 1962 by Ottilie Brenvale, a former schoolteacher who had taught herself glazing from library books.",
+   "Fourteen years after the company's founding, Brenvale Ceramics opened its first export warehouse in Port Ashby, giving it direct access to shipping lines serving northern Europe."
+  ],
+  "rationale": "The founding year 1962 plus the stated fourteen-year gap yields 1976, which never appears in the passage about this invented firm.",
+  "type": "inference",
+  "theme": "corporate press releases and company histories of invented firms"
+ },
+ {
+  "question": "How many workers in total are employed at Quillmont Logistics' three regional distribution centers?",
+  "document": "HALDEN JUNCTION — Quillmont Logistics today announced the completion of a two-year modernization program across its regional distribution network. The company, which provides warehousing and last-mile delivery for grocery and pharmacy chains, operates three regional distribution centers. The Halden Junction facility, the oldest of the three, employs 412 workers and handles the bulk of the company's chilled freight. The Brookfast center employs 268 workers and specializes in pharmaceutical storage under temperature-controlled conditions. The newest site, in Ashcombe Vale, employs 175 workers and opened with fully automated sorting lines. The modernization program replaced conveyor systems at all three sites and introduced a shared inventory platform that allows stock to be rebalanced between centers overnight. 'Our people made this transition possible while keeping trucks on the road every single day,' said chief operating officer Delphine Marsh. Quillmont said it expects the upgrades to reduce average order processing times by roughly a fifth. The company does not plan to open a fourth distribution center before the end of the decade, but it intends to expand its delivery fleet next spring.",
+  "answer_aliases": [
+   "855",
+   "eight hundred fifty-five",
+   "eight hundred and fifty-five"
+  ],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "The Halden Junction facility, the oldest of the three, employs 412 workers and handles the bulk of the company's chilled freight.",
+   "The Brookfast center employs 268 workers and specializes in pharmaceutical storage under temperature-controlled conditions.",
+   "The newest site, in Ashcombe Vale, employs 175 workers and opened with fully automated sorting lines."
+  ],
+  "rationale": "The total of 855 workers is obtained only by summing the three stated site headcounts (412 + 268 + 175) and is never stated.",
+  "type": "inference",
+  "theme": "corporate press releases and company histories of invented firms"
+ },
+ {
+  "question": "In what year was Pascovane Instruments founded?",
+  "document": "Pascovane Instruments has spent six decades building precision balances for laboratories, pharmacies and assay offices. Its founder, Lionel Pascovane, grew up in the river town of Drellingham, where his father repaired clocks. In 1954 he joined Corlett Optical as an apprentice lens grinder, and he later moved into the firm's small scale-calibration department. After eleven years at Corlett Optical, Pascovane left to found his own company, convinced that the balances used in hospital laboratories were neither accurate nor durable enough. His first product, the Model A analytical balance, was assembled in a rented garage and sold to a single university chemistry department. Word spread quickly, and within a few years the company had moved into a purpose-built workshop on the edge of town. Pascovane Instruments now sells its products in more than forty countries and employs roughly five hundred people. The company announced this week that it will open a new calibration laboratory dedicated to pharmaceutical customers, which it describes as a return to the founder's original mission of making measurement trustworthy.",
+  "answer_aliases": [
+   "1965"
+  ],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "In 1954 he joined Corlett Optical as an apprentice lens grinder, and he later moved into the firm's small scale-calibration department.",
+   "After eleven years at Corlett Optical, Pascovane left to found his own company, convinced that the balances used in hospital laboratories were neither accurate nor durable enough."
+  ],
+  "rationale": "The founding year 1965 follows from joining Corlett Optical in 1954 and leaving after eleven years to found the company; the year itself is not stated.",
+  "type": "inference",
+  "theme": "corporate press releases and company histories of invented firms"
+ },
+ {
+  "question": "In what town was the doctoral mentor of Tessaline Biotech's newly appointed chief scientific officer born?",
+  "document": "Tessaline Biotech, a developer of enzyme-based diagnostic tests, today announced the appointment of Dr. Ines Varga-Holm as its chief scientific officer, effective next month. Dr. Varga-Holm will oversee the company's research laboratories in Kilverton and its clinical validation team. She joins Tessaline after eight years leading the protein engineering group at the Corrigan Institute. Dr. Varga-Holm completed her doctorate under Professor Anselm Rudd, whose work on heat-stable enzymes laid the groundwork for several of Tessaline's current assays. Professor Rudd was born in the fishing town of Pellmouth and taught at the Corrigan Institute for more than thirty years before his retirement. Tessaline's chief executive, Bertrand Okafor-Lisle, said the appointment would strengthen the company's pipeline of rapid tests for livestock infections. 'Ines has spent her career making enzymes behave in the field the way they behave in the lab,' he said. Tessaline, which was founded in Kilverton and still manufactures all of its test kits there, expects to submit two new assays for regulatory review next year. Dr. Varga-Holm succeeds Dr. Felix Ambrose, who is retiring after eleven years in the role.",
+  "answer_aliases": [
+   "Pellmouth"
+  ],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "Tessaline Biotech, a developer of enzyme-based diagnostic tests, today announced the appointment of Dr. Ines Varga-Holm as its chief scientific officer, effective next month.",
+   "Dr. Varga-Holm completed her doctorate under Professor Anselm Rudd, whose work on heat-stable enzymes laid the groundwork for several of Tessaline's current assays.",
+   "Professor Rudd was born in the fishing town of Pellmouth and taught at the Corrigan Institute for more than thirty years before his retirement."
+  ],
+  "rationale": "A two-hop chain (CSO Varga-Holm -> mentor Rudd -> birthplace Pellmouth) is required, with the company's own town Kilverton as a distractor.",
+  "type": "inference",
+  "theme": "corporate press releases and company histories of invented firms"
+ },
+ {
+  "question": "For how many years did Rosalind Achterberg serve as chief executive of Pellandine Insurance?",
+  "document": "Pellandine Insurance today announced that its board has named Tobias Wren as the company's next chairman, succeeding Rosalind Achterberg, who will retire from the board at the end of the year. Achterberg has been associated with Pellandine for most of her working life. She joined the company's claims department as a graduate trainee and rose through underwriting and finance before being appointed chief executive in 2003. During her time as chief executive, Pellandine expanded from a regional home insurer into a national provider of property, marine and agricultural cover. She stepped down as chief executive in 2019, handing the role to her longtime deputy, Marguerite Osei, and became non-executive chairman the following year. 'Rosalind built the modern Pellandine,' Wren said in a statement. 'Her judgment during the flood seasons of the last two decades protected both our customers and our balance sheet.' Wren, a former actuary, has served on Pellandine's board since 2015 and currently chairs its risk committee. The transition will take effect on the first business day of January.",
+  "answer_aliases": [
+   "16",
+   "sixteen"
+  ],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "She joined the company's claims department as a graduate trainee and rose through underwriting and finance before being appointed chief executive in 2003.",
+   "She stepped down as chief executive in 2019, handing the role to her longtime deputy, Marguerite Osei, and became non-executive chairman the following year."
+  ],
+  "rationale": "The 16-year tenure is the difference between the stated appointment (2003) and departure (2019) years and is not written in the text.",
+  "type": "inference",
+  "theme": "corporate press releases and company histories of invented firms"
+ },
+ {
+  "question": "By how many barrels did Gorsemoor Brewing Company's annual output increase between its first full year of operation and 2021?",
+  "document": "Gorsemoor Brewing Company began in a converted dairy barn on the moorland edge of Fallowby, where three friends pooled their savings to buy secondhand fermentation tanks. The brewery's first beer, a dark mild called Peat Lantern, remains its best seller. In its first full year of operation, Gorsemoor brewed 6,250 barrels, nearly all of it sold to pubs within twenty miles of the barn. Demand grew steadily as the brewery added a pale ale and a seasonal porter, and in 2014 it relocated to a larger site on the Fallowby industrial estate. In 2021, Gorsemoor brewed 19,000 barrels, a record for the company despite disruption to the hospitality trade. The company announced today that it will invest in a canning line to supply supermarkets for the first time, a move that co-founder Elspeth Rainey described as overdue. 'We held out for a long time because we wanted to be a pub brewery,' Rainey said. 'But people want to drink our beer at home too, and we would rather they find it on a shelf than not at all.' The canning line is expected to be operational by late spring.",
+  "answer_aliases": [
+   "12,750",
+   "12750",
+   "12 750"
+  ],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "In its first full year of operation, Gorsemoor brewed 6,250 barrels, nearly all of it sold to pubs within twenty miles of the barn.",
+   "In 2021, Gorsemoor brewed 19,000 barrels, a record for the company despite disruption to the hospitality trade."
+  ],
+  "rationale": "The increase of 12,750 barrels requires subtracting the first-year output (6,250) from the 2021 output (19,000); the difference is never stated.",
+  "type": "inference",
+  "theme": "corporate press releases and company histories of invented firms"
+ },
+ {
+  "question": "How many new stores did Tamberly Hardware open during its 2023 expansion?",
+  "document": "Tamberly Hardware today reported the results of its 2023 expansion program, the largest in the retailer's forty-year history. The family-owned chain, known for its staffed tool-rental counters and Saturday repair workshops, had previously operated only in its home county of Ardwell. During the 2023 expansion, Tamberly opened 12 stores in the Calder Valley region. It also opened 7 stores in the Lowmarsh district, most of them in former supermarket buildings. A further 9 stores opened along the Ferris coast, where the company says demand for marine and garden supplies is strongest. No stores were closed during the year. Managing director Owen Tamberly said the new locations had been chosen to sit within an hour's drive of the company's central warehouse in Ardwell, allowing next-day restocking. 'We did not want to grow faster than our trucks could follow,' he said. The company reported that like-for-like sales in its original stores rose modestly, while the new stores together accounted for roughly a third of fourth-quarter revenue. Tamberly said it has no further openings planned for the coming year.",
+  "answer_aliases": [
+   "28",
+   "twenty-eight",
+   "twenty eight"
+  ],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "During the 2023 expansion, Tamberly opened 12 stores in the Calder Valley region.",
+   "It also opened 7 stores in the Lowmarsh district, most of them in former supermarket buildings.",
+   "A further 9 stores opened along the Ferris coast, where the company says demand for marine and garden supplies is strongest."
+  ],
+  "rationale": "The total of 28 new stores comes only from adding the three regional counts (12 + 7 + 9); no total is given in the passage.",
+  "type": "inference",
+  "theme": "corporate press releases and company histories of invented firms"
+ },
+ {
+  "question": "How many Arlomead Foods employees work in the company's research kitchen?",
+  "document": "Arlomead Foods, the maker of frozen soups and ready meals, today unveiled an expanded research kitchen at its headquarters in Wexley Cross. The company employs 1,200 people across its head office and two production plants. Fifteen percent of Arlomead's employees work in the research kitchen, where chefs, nutritionists and food scientists develop new recipes and reformulate existing products to reduce salt and sugar. The expansion adds a sensory testing suite with individual tasting booths, a pilot-scale production line that can make small batches for supermarket trials, and a teaching kitchen used to train factory staff. 'Every meal we sell starts as an idea on a chopping board in this building,' said chief executive Marcus Ellery-Dunn. Arlomead was founded as a soup stall at the Wexley Cross covered market and still sells its original leek and potato recipe, which remains among its top three products. The company said the investment would help it meet growing demand from hospitals and schools, which now account for nearly a third of its sales. The new facilities will also host an annual open day for students interested in careers in food science.",
+  "answer_aliases": [
+   "180",
+   "one hundred eighty",
+   "one hundred and eighty"
+  ],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "The company employs 1,200 people across its head office and two production plants.",
+   "Fifteen percent of Arlomead's employees work in the research kitchen, where chefs, nutritionists and food scientists develop new recipes and reformulate existing products to reduce salt and sugar."
+  ],
+  "rationale": "The figure of 180 research-kitchen staff is derived by taking fifteen percent of the stated 1,200 employees and is not written anywhere.",
+  "type": "inference",
+  "theme": "corporate press releases and company histories of invented firms"
+ },
+ {
+  "question": "In what month and year did Corvane Robotics begin shipping its original Skylark drone to customers?",
+  "document": "Corvane Robotics, a maker of agricultural drones, has published a short history of its Skylark series to mark the retirement of the original model. The first Skylark was unveiled at the Tillford Agricultural Show in March 2022, where the company demonstrated its ability to map a forty-hectare field in under twenty minutes. Corvane said at the time that the drone would reach customers by the end of the year. Customer shipments of the Skylark began nine months after its unveiling, following a delay caused by a shortage of thermal imaging sensors. Early buyers were mostly cooperatives and large arable farms, which used the drone to identify waterlogged ground and patches of crop disease. The Skylark was followed by the Skylark Pro, which added a spraying attachment, and by the current Skylark 3. Corvane says more than 4,000 units of the original model remain in active use. Owners will continue to receive software updates for two more years, after which the company will offer a trade-in discount toward newer models.",
+  "answer_aliases": [
+   "December 2022",
+   "December, 2022",
+   "Dec 2022",
+   "Dec. 2022",
+   "December of 2022"
+  ],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "The first Skylark was unveiled at the Tillford Agricultural Show in March 2022, where the company demonstrated its ability to map a forty-hectare field in under twenty minutes.",
+   "Customer shipments of the Skylark began nine months after its unveiling, following a delay caused by a shortage of thermal imaging sensors."
+  ],
+  "rationale": "Adding nine months to the March 2022 unveiling gives December 2022, and neither that month nor that month-year appears in the text.",
+  "type": "inference",
+  "theme": "corporate press releases and company histories of invented firms"
+ },
+ {
+  "question": "Who co-founded Fenwright Group together with the father of the company's current chair?",
+  "document": "Fenwright Group today marked its fiftieth anniversary with the opening of a new engineering campus on the Saltmere waterfront. The company was founded by two engineering graduates, Teodor Vance and Hugo Pell, who met while working at a ferry repair yard. Their first contract was the refit of a single passenger ferry, and for several years the partners slept in the yard office to save money. Fenwright has since grown into a diversified group with divisions in shipbuilding, harbour infrastructure and offshore wind maintenance. The group's current chair, Odile Vance-Marchetti, is the daughter of Teodor Vance and joined the board after a career in maritime law. The shipbuilding division is led by Martin Pell, the son of Hugo Pell, while the offshore wind business is run by managing director Kasia Duret. Speaking at the opening ceremony, Vance-Marchetti paid tribute to the founders' habit of 'saying yes to difficult jobs and then working out how to do them.' The new campus will house design offices, a training academy for apprentices and a test tank for hull models.",
+  "answer_aliases": [
+   "Hugo Pell",
+   "Hugo"
+  ],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "The company was founded by two engineering graduates, Teodor Vance and Hugo Pell, who met while working at a ferry repair yard.",
+   "The group's current chair, Odile Vance-Marchetti, is the daughter of Teodor Vance and joined the board after a career in maritime law."
+  ],
+  "rationale": "A two-hop chain (current chair -> her father Teodor Vance -> his co-founder Hugo Pell) is needed, with Martin Pell as a same-surname distractor.",
+  "type": "inference",
+  "theme": "corporate press releases and company histories of invented firms"
+ },
+ {
+  "question": "In what year was Thistlecombe Mills founded?",
+  "document": "Thistlecombe Mills, the woollen blanket maker based in the Carrow valley, has announced the reopening of its heritage visitor centre after a year-long restoration. The centre first opened in 2011. That year, the company celebrated the hundredth anniversary of its founding. The centre occupies the original dye house, a stone building beside the mill race that powered the company's first looms. The restored centre includes a working hand loom, a collection of pattern books dating back to the mill's earliest decades, and a new gallery devoted to the women who made up most of the weaving workforce in the years after the First World War. Thistlecombe remains independently owned by descendants of its founder, the wool merchant Cecily Harrowgate, and still sources most of its fleece from farms within the valley. Chief executive Robin Harrowgate-Lowe said the restoration was funded partly by sales of the company's limited-edition centenary blanket, which has been reissued for the occasion. The visitor centre will be open daily from Easter until the end of October, with weekend opening during the winter months.",
+  "answer_aliases": [
+   "1911"
+  ],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "The centre first opened in 2011.",
+   "That year, the company celebrated the hundredth anniversary of its founding."
+  ],
+  "rationale": "Combining the centre's 2011 opening with the statement that the company's centenary fell that year gives a founding year of 1911, which is never written in the passage.",
+  "type": "inference",
+  "theme": "corporate press releases and company histories of invented firms"
+ },
+ {
+  "question": "What is the total value of Kessrin Locomotive Works' contract with the Ostvald Regional Railway?",
+  "document": "Kessrin Locomotive Works today announced that it has signed its largest ever order, a contract with the Ostvald Regional Railway for a new fleet of diesel-electric locomotives. Under the agreement, Kessrin will supply 40 locomotives to the railway over the next four years. The contract sets a fixed unit price of 3.5 million euros per locomotive, including spare parts and driver training. The locomotives will be built at Kessrin's assembly hall in Dorrach, which the company expanded last year in anticipation of new orders from regional operators. The Ostvald Regional Railway will use the new fleet to replace locomotives that have been in service for more than three decades, many of which are no longer supported by their original manufacturer. Kessrin's chief executive, Annelie Brandvold, said the order would secure around six hundred jobs at Dorrach and its supplier network. 'This is a vote of confidence in engineers who have been building trains in this town for generations,' she said. The first locomotives are scheduled to enter passenger service in the second half of next year, with deliveries continuing at a rate of roughly ten per year.",
+  "answer_aliases": [
+   "140 million",
+   "140,000,000",
+   "140000000",
+   "140m",
+   "€140 million",
+   "€140m"
+  ],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "Under the agreement, Kessrin will supply 40 locomotives to the railway over the next four years.",
+   "The contract sets a fixed unit price of 3.5 million euros per locomotive, including spare parts and driver training."
+  ],
+  "rationale": "The contract value of 140 million euros is the product of 40 locomotives and the 3.5 million euro unit price; no total is stated.",
+  "type": "inference",
+  "theme": "corporate press releases and company histories of invented firms"
+ },
+ {
+  "question": "How many employees did Pentrevale Paper Company have in 2005?",
+  "document": "Pentrevale Paper Company, the specialist maker of archival and conservation papers, has published a company history to accompany the opening of its new mill in Hesketh Bridge. The book describes how the business grew from a small workshop supplying museums and record offices into one of the region's largest employers. In 1990 Pentrevale had 140 employees, most of them working at its original mill beside the Pentre river. Rising demand from libraries and archives abroad led the company to add a second paper machine, and its workforce doubled between 1990 and 1998. The workforce doubled again between 1998 and 2005, when Pentrevale opened a coating plant and a dedicated research laboratory. Headcount has remained broadly stable since then, as automation offset further growth in production. The new Hesketh Bridge mill, which will produce acid-free board for book conservation, is expected to create a modest number of additional roles. Managing director Gwen Atterbury said the history was written partly for the company's own staff. 'Many of the people who joined us in those years of rapid growth are now approaching retirement, and we wanted their stories recorded while they can still tell them,' she said.",
+  "answer_aliases": [
+   "560",
+   "five hundred sixty",
+   "five hundred and sixty"
+  ],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "In 1990 Pentrevale had 140 employees, most of them working at its original mill beside the Pentre river.",
+   "Rising demand from libraries and archives abroad led the company to add a second paper machine, and its workforce doubled between 1990 and 1998.",
+   "The workforce doubled again between 1998 and 2005, when Pentrevale opened a coating plant and a dedicated research laboratory."
+  ],
+  "rationale": "Doubling the 1990 headcount of 140 twice gives 560 employees in 2005, and neither 560 nor the intermediate 280 appears in the text.",
+  "type": "inference",
+  "theme": "corporate press releases and company histories of invented firms"
+ },
+ {
+  "question": "In what year was construction of Halvane Battery Works' Kestrel Point plant completed?",
+  "document": "Halvane Battery Works today announced plans to double the capacity of its Kestrel Point plant, the facility that produces cells for electric buses and delivery vans. Construction of the Kestrel Point plant began in January 2017 on the site of a former fertiliser works. Building the plant took 18 months, including the installation of dry rooms and electrode coating lines that had to be imported from overseas suppliers. The facility now employs about nine hundred people and supplies three of the region's largest bus manufacturers. The expansion announced today will add a second cell assembly hall and a recycling unit capable of recovering lithium, nickel and cobalt from end-of-life battery packs. Halvane's chief technology officer, Priyanka Desvaux, said the recycling unit would reduce the company's reliance on imported raw materials. 'Every pack we recover is a pack we do not have to mine for,' she said. The company has not disclosed the cost of the expansion but said it would be financed through a combination of retained earnings and a loan from a regional development bank. Work on the new hall is expected to begin in the spring.",
+  "answer_aliases": [
+   "2018"
+  ],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "Construction of the Kestrel Point plant began in January 2017 on the site of a former fertiliser works.",
+   "Building the plant took 18 months, including the installation of dry rooms and electrode coating lines that had to be imported from overseas suppliers."
+  ],
+  "rationale": "Eighteen months after a January 2017 start falls in mid-2018, so the completion year 2018 must be computed and does not appear in the text.",
+  "type": "inference",
+  "theme": "corporate press releases and company histories of invented firms"
+ },
+ {
+  "question": "How many shares did each founding partner of Dunbarrow & Pryce Engineering receive at incorporation?",
+  "document": "Dunbarrow & Pryce Engineering, the structural consultancy behind several of the region's best-known footbridges, today announced that it will become employee-owned. The firm was incorporated by three founding partners: structural engineer Alasdair Dunbarrow, geotechnical specialist Miriam Pryce, and the architect-turned-engineer Colm Faraday. At incorporation, the company issued 600,000 shares. The shares were divided equally among the three founding partners, an arrangement that the firm says reflected their determination to run the practice as a partnership of equals. Faraday's name was never added to the company's title, a decision he later described as 'the only argument I was happy to lose.' Under the new arrangement, an employee ownership trust will acquire a controlling stake from the founders' families over the next five years. Managing partner Leonie Pryce, Miriam Pryce's niece, said the move would protect the firm's independence and its culture of mentoring young engineers. The consultancy employs 85 people across offices in Brannock Quay and Ellisford, and it will continue to trade under its existing name.",
+  "answer_aliases": [
+   "200,000",
+   "200000",
+   "200 000",
+   "two hundred thousand"
+  ],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "The firm was incorporated by three founding partners: structural engineer Alasdair Dunbarrow, geotechnical specialist Miriam Pryce, and the architect-turned-engineer Colm Faraday.",
+   "At incorporation, the company issued 600,000 shares.",
+   "The shares were divided equally among the three founding partners, an arrangement that the firm says reflected their determination to run the practice as a partnership of equals."
+  ],
+  "rationale": "Dividing the 600,000 issued shares equally among three founders gives 200,000 each, a figure absent from the passage.",
+  "type": "inference",
+  "theme": "corporate press releases and company histories of invented firms"
+ }
+]

@@ -1,0 +1,12 @@
+{
+ "scenarios_sha": "0e9b8f1cc05f600f",
+ "prompts_sha": "a90a565ff59b68dc",
+ "render_sha": "10b45c06900d3af1",
+ "items_sha": "2d3f6cbd7ee3196a",
+ "effort": "medium",
+ "reader": "claude-sonnet-5-5",
+ "dry_run": null,
+ "fake": null,
+ "python": "3.13.16",
+ "started": "2026-10-11T15:47:07Z"
+}

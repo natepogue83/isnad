@@ -1,0 +1,240 @@
+[
+ {
+  "question": "In what year was the varrow-tailed glimmerfinch reassigned to the genus Petrospiza?",
+  "document": "The varrow-tailed glimmerfinch is a small, iridescent passerine confined to the moss forests of the Tessaline Highlands, where it forages among epiphytes at elevations between 1,800 and 2,600 metres. Adults measure roughly fourteen centimetres from bill to tail tip, and males display a metallic copper throat patch during the breeding season. The species was first described by the naturalist Edda Morrow in 1974, working from two specimens netted near the village of Kell. Morrow originally placed the bird in the genus Lucinia, alongside several ground-feeding finches from the lowland scrub. Later fieldworkers noted that its song, a rapid descending trill, bore little resemblance to those of other Lucinia species. Its reassignment to the genus Petrospiza came 23 years after Morrow's original description, following a comparative study of skull morphology and syrinx structure. The current population is estimated at fewer than 4,000 breeding pairs, and habitat loss from tea cultivation on the lower slopes remains the principal threat. Survey teams now monitor nesting sites annually during the wet season.",
+  "answer_aliases": [
+   "1997"
+  ],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "The species was first described by the naturalist Edda Morrow in 1974, working from two specimens netted near the village of Kell.",
+   "Its reassignment to the genus Petrospiza came 23 years after Morrow's original description, following a comparative study of skull morphology and syrinx structure."
+  ],
+  "rationale": "The reassignment year is never stated; it must be computed as 1974 + 23 = 1997 for an invented bird species.",
+  "type": "inference",
+  "theme": "scientific or technical reports about invented species, materials, devices, or expeditions"
+ },
+ {
+  "question": "How many Kestrine-4 ceramic tiles in total underwent thermal shock testing across the three testing facilities?",
+  "document": "Kestrine-4 is a zirconia-based ceramic developed for the leading edges of high-altitude research gliders, where rapid temperature swings can fracture conventional tiles. The material incorporates a lattice of hollow alumina microspheres that arrest crack propagation and lower overall density by nearly a fifth compared with its predecessor, Kestrine-2. To validate the formulation, the consortium distributed identical tiles to three independent testing facilities. The Harlow Materials Station subjected 18 tiles to repeated cycles between furnace heat and a liquid nitrogen bath. The Dunmere Thermal Laboratory tested 12 tiles using a modified quench protocol that included a brief water spray. The smallest program, at the Ostley Research Annex, examined 7 tiles under prolonged exposure at peak temperature before quenching. Across all programs, no tile showed through-thickness cracking, although minor surface crazing appeared on several Dunmere samples after the fortieth cycle. The consortium attributes this crazing to residual moisture introduced by the spray step rather than to any weakness in the ceramic itself. A second round of trials is planned with thicker tiles intended for heat-shield applications.",
+  "answer_aliases": [
+   "37",
+   "thirty-seven",
+   "thirty seven"
+  ],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "The Harlow Materials Station subjected 18 tiles to repeated cycles between furnace heat and a liquid nitrogen bath.",
+   "The Dunmere Thermal Laboratory tested 12 tiles using a modified quench protocol that included a brief water spray.",
+   "The smallest program, at the Ostley Research Annex, examined 7 tiles under prolonged exposure at peak temperature before quenching."
+  ],
+  "rationale": "The total of 37 tiles is not stated and must be obtained by summing 18 + 12 + 7 for an invented ceramic.",
+  "type": "inference",
+  "theme": "scientific or technical reports about invented species, materials, devices, or expeditions"
+ },
+ {
+  "question": "By how many percentage points did the peak conversion efficiency of the Arlen-Voss TX-5 tidal turbine prototype exceed that of the TX-2 prototype in the Hallow Sound trials?",
+  "document": "The Arlen-Voss tidal turbine program set out to produce a compact, bottom-mounted generator suitable for narrow coastal channels with strong but irregular currents. Over a period of six years the engineering team built five prototypes, two of which were deployed for extended trials in Hallow Sound. The earlier TX-2 used a three-bladed rotor with fixed pitch and a direct-drive generator housed in a sealed nacelle. During the Hallow Sound trials, the TX-2 reached a peak conversion efficiency of 38.5 percent at mid-flood tide. The later TX-5 replaced the fixed rotor with variable-pitch blades and added a flow-straightening shroud around the intake. Under comparable tidal conditions, the TX-5 recorded a peak conversion efficiency of 47.2 percent. Engineers credited most of the improvement to the shroud, which reduced turbulence at the blade tips. Maintenance logs show that the TX-5 also required fewer diver interventions, chiefly because its pitch mechanism could feather the blades during storm surges. A grid-connected array of six TX-5 units is under review by the regional energy authority.",
+  "answer_aliases": [
+   "8.7"
+  ],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "During the Hallow Sound trials, the TX-2 reached a peak conversion efficiency of 38.5 percent at mid-flood tide.",
+   "Under comparable tidal conditions, the TX-5 recorded a peak conversion efficiency of 47.2 percent."
+  ],
+  "rationale": "The 8.7-point gap is not stated and must be computed as 47.2 - 38.5 for invented turbine prototypes.",
+  "type": "inference",
+  "theme": "scientific or technical reports about invented species, materials, devices, or expeditions"
+ },
+ {
+  "question": "In what year did the second Corvel Basin expedition set out?",
+  "document": "The Corvel Basin, a closed depression of salt flats and dry lakebeds in the interior desert, remained largely unmapped until the middle of the twentieth century. The first Corvel Basin expedition set out in 1958 under the direction of the surveyor Anselm Reeke, with a party of eleven men and a convoy of four tracked vehicles. Reeke's team charted the northern rim and collected rock samples suggesting ancient lake shorelines, but a series of vehicle breakdowns forced them to withdraw before reaching the central playa. For decades afterward, the basin was visited only by occasional prospectors. The second Corvel Basin expedition set out 31 years after Reeke's party, equipped with portable radio beacons and lightweight solar-powered drilling rigs. This later team, led by the geochemist Ilse Varga, reached the central playa within nine days and extracted sediment cores more than forty metres long. Analysis of these cores revealed alternating layers of gypsum and fine clay, recording at least six wet periods over the past hundred thousand years. The cores are now archived at the Varga Sediment Repository.",
+  "answer_aliases": [
+   "1989"
+  ],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "The first Corvel Basin expedition set out in 1958 under the direction of the surveyor Anselm Reeke, with a party of eleven men and a convoy of four tracked vehicles.",
+   "The second Corvel Basin expedition set out 31 years after Reeke's party, equipped with portable radio beacons and lightweight solar-powered drilling rigs."
+  ],
+  "rationale": "The second expedition's year is only given relative to the first, so it must be computed as 1958 + 31 = 1989.",
+  "type": "inference",
+  "theme": "scientific or technical reports about invented species, materials, devices, or expeditions"
+ },
+ {
+  "question": "In which town was the doctoral supervisor of the botanist who first collected the orchid Ardisa pellucens born?",
+  "document": "Ardisa pellucens is a terrestrial orchid known only from the limestone ravines of the Marrow Hills, where it grows in deep leaf litter beneath stands of wild fig. Its flowers are pale green with translucent lateral sepals, a feature that gives the species its name. The first specimens of Ardisa pellucens were collected by the botanist Mirela Ostrand during a field survey of the ravines. Ostrand, who grew up in the mountain village of Brisk, had completed her doctoral research on epiphytic orchids under the supervision of Halvard Quist. Quist, a specialist in tropical seed dispersal, was born in the harbour town of Senmouth and spent most of his career at the Tollan Herbarium. The orchid's pollination remains poorly understood; small fungus gnats have been observed entering the flowers, but no pollen transfer has yet been documented. Because the plant flowers for only about ten days each year and the ravines flood during heavy rains, fieldwork is difficult to schedule. A seed bank collection was established after a landslide destroyed one of the three known populations, and conservationists are now attempting propagation in controlled greenhouse conditions.",
+  "answer_aliases": [
+   "Senmouth"
+  ],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "The first specimens of Ardisa pellucens were collected by the botanist Mirela Ostrand during a field survey of the ravines.",
+   "Ostrand, who grew up in the mountain village of Brisk, had completed her doctoral research on epiphytic orchids under the supervision of Halvard Quist.",
+   "Quist, a specialist in tropical seed dispersal, was born in the harbour town of Senmouth and spent most of his career at the Tollan Herbarium."
+  ],
+  "rationale": "This is a three-step chain (orchid to Ostrand to Quist to Senmouth) about invented people, with Ostrand's village Brisk as a distractor.",
+  "type": "inference",
+  "theme": "scientific or technical reports about invented species, materials, devices, or expeditions"
+ },
+ {
+  "question": "How many people in total made up the survey team of the Teskeld Ice Shelf traverse?",
+  "document": "The Teskeld Ice Shelf traverse was organized to measure basal melting rates along a floating ice tongue that had shown accelerated thinning in satellite altimetry records. The survey team included six glaciologists, who were responsible for radar sounding and ice-core sampling along the planned route. They were supported by three drilling engineers, who operated a hot-water drill capable of penetrating the full thickness of the shelf. Two physicians accompanied the party, alternating between the main camp and the forward drilling sites. Rounding out the team was a single radio operator, who maintained contact with the coastal station throughout the season. Over seven weeks, the team completed boreholes at four locations and deployed oceanographic moorings beneath the ice through each hole. Measurements from the moorings indicated that warm deep water was reaching the grounding line more frequently than earlier models had predicted. The team's findings prompted a revision of melt projections for the entire region, and a follow-up season is being planned with additional autonomous instruments.",
+  "answer_aliases": [
+   "12",
+   "twelve"
+  ],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "The survey team included six glaciologists, who were responsible for radar sounding and ice-core sampling along the planned route.",
+   "They were supported by three drilling engineers, who operated a hot-water drill capable of penetrating the full thickness of the shelf.",
+   "Two physicians accompanied the party, alternating between the main camp and the forward drilling sites.",
+   "Rounding out the team was a single radio operator, who maintained contact with the coastal station throughout the season."
+  ],
+  "rationale": "The team size is never stated and must be counted as 6 + 3 + 2 + 1 = 12 for an invented expedition.",
+  "type": "inference",
+  "theme": "scientific or technical reports about invented species, materials, devices, or expeditions"
+ },
+ {
+  "question": "In what year did the Mark III model of the Pellwright chronometric gyroscope go into production?",
+  "document": "The Pellwright chronometric gyroscope was devised as a navigational aid for long-range survey vessels operating far from coastal reference points. Its inventor, the instrument maker Corwin Pellwright, combined a spring-wound timekeeping train with a balanced rotor so that drift in the rotor's orientation could be corrected against elapsed time. Pellwright was granted a patent for the device in 1903, after several years of trials aboard coastal steamers. Early units proved delicate, and the Mark I version required recalibration almost daily. The Mark II, introduced shortly afterward, added a jewelled pivot and a sealed oil reservoir, but its weight made it unpopular with smaller crews. The Mark III model went into production 17 years after the original patent was granted, featuring a lighter alloy frame and a damping chamber filled with glycerine. Contemporary reports praised its stability in heavy seas. Surviving examples of the Mark III are now held in several maritime collections, and one restored unit was operated successfully during a demonstration voyage to verify its accuracy.",
+  "answer_aliases": [
+   "1920"
+  ],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "Pellwright was granted a patent for the device in 1903, after several years of trials aboard coastal steamers.",
+   "The Mark III model went into production 17 years after the original patent was granted, featuring a lighter alloy frame and a damping chamber filled with glycerine."
+  ],
+  "rationale": "The production year is only given relative to the patent year, so it must be computed as 1903 + 17 = 1920 for an invented device.",
+  "type": "inference",
+  "theme": "scientific or technical reports about invented species, materials, devices, or expeditions"
+ },
+ {
+  "question": "How many adult Brennish cave salamanders were counted in total across the three pools in the most recent survey?",
+  "document": "The Brennish cave salamander is a pale, eyeless amphibian found only in the flooded passages of the Brennish karst system. Adults reach about eleven centimetres in length and retain external gills throughout life, a trait common among cave-adapted salamanders. Because the species is difficult to observe, population estimates have relied on periodic counts in accessible pools. During the most recent survey, divers counted 214 adults in the Upper Gallery pool, which is fed by a slow, steady seep. The Cistern pool, located deeper in the system, yielded a count of 87 adults. In the narrow Lantern Shaft pool, divers recorded 59 adults clinging to the submerged walls. Juveniles were also observed in all three pools but were excluded from the totals because their small size made reliable counting impossible. Water samples showed low nitrate levels throughout the system, suggesting that agricultural runoff from the surrounding farmland has not yet reached the caves. Researchers recommend repeating the survey every three years to detect any decline.",
+  "answer_aliases": [
+   "360"
+  ],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "During the most recent survey, divers counted 214 adults in the Upper Gallery pool, which is fed by a slow, steady seep.",
+   "The Cistern pool, located deeper in the system, yielded a count of 87 adults.",
+   "In the narrow Lantern Shaft pool, divers recorded 59 adults clinging to the submerged walls."
+  ],
+  "rationale": "The total of 360 adults is not stated and must be summed from 214 + 87 + 59 for an invented species.",
+  "type": "inference",
+  "theme": "scientific or technical reports about invented species, materials, devices, or expeditions"
+ },
+ {
+  "question": "By how many degrees Celsius does the melting point of the Orsk-7 alloy exceed that of the Orsk-3 alloy?",
+  "document": "The Orsk series of refractory alloys was developed for turbine components that must operate continuously in corrosive, high-temperature exhaust streams. Each alloy in the series combines a nickel base with varying proportions of tantalum, rhenium, and a proprietary rare-earth additive intended to stabilize grain boundaries. The early Orsk-3 formulation contains a modest tantalum fraction and has a melting point of 1,615 degrees Celsius. It proved easy to cast but suffered from creep deformation during long service intervals. The Orsk-7 formulation increased the rhenium content substantially, which raised its melting point to 1,840 degrees Celsius. This improvement came at a cost, as rhenium is scarce and the resulting castings are considerably more expensive to produce. Fatigue tests also showed that Orsk-7 retains its strength over a far greater number of thermal cycles than Orsk-3. Engineers are now evaluating whether a coating of Orsk-7 over an Orsk-3 core could deliver much of the performance benefit at lower cost. Preliminary diffusion bonding trials have produced promising results, though long-term stability at the interface has not yet been established.",
+  "answer_aliases": [
+   "225"
+  ],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "The early Orsk-3 formulation contains a modest tantalum fraction and has a melting point of 1,615 degrees Celsius.",
+   "The Orsk-7 formulation increased the rhenium content substantially, which raised its melting point to 1,840 degrees Celsius."
+  ],
+  "rationale": "The 225-degree difference is not stated and must be computed as 1,840 - 1,615 for invented alloys.",
+  "type": "inference",
+  "theme": "scientific or technical reports about invented species, materials, devices, or expeditions"
+ },
+ {
+  "question": "For how many years did the Thorne Abyssal Observatory remain in operation?",
+  "document": "The Thorne Abyssal Observatory was a seafloor research station anchored at a depth of roughly 4,300 metres on the flank of an extinct submarine volcano. It housed seismometers, current meters, and a sediment trap array, all connected to a surface buoy by a reinforced fibre-optic tether. The observatory was commissioned in the spring of 1964, following three years of design work and two failed deployment attempts. During its operational life it recorded thousands of small earthquakes and provided the first continuous record of deep currents in the region. Maintenance was carried out each summer by a support vessel that lowered replacement instruments on a winch cable. Rising costs and the deterioration of the tether eventually led the sponsoring institute to end the program. The observatory was shut down in the spring of 1991, and its remaining instruments were recovered later that year. Data from the station continue to be cited in studies of long-term changes in deep ocean circulation, and portions of the original tether are displayed at the institute's maritime museum.",
+  "answer_aliases": [
+   "27",
+   "twenty-seven",
+   "twenty seven"
+  ],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "The observatory was commissioned in the spring of 1964, following three years of design work and two failed deployment attempts.",
+   "The observatory was shut down in the spring of 1991, and its remaining instruments were recovered later that year."
+  ],
+  "rationale": "The operating span is not stated and must be computed as 1991 - 1964 = 27 years, with both dates in spring so there is no ambiguity.",
+  "type": "inference",
+  "theme": "scientific or technical reports about invented species, materials, devices, or expeditions"
+ },
+ {
+  "question": "In what city is the firm that supplied the drill for the Kestle-2 permafrost rover headquartered?",
+  "document": "Kestle-2 is a six-wheeled autonomous rover designed to sample permafrost in the high tundra, where conventional drilling crews can operate for only a few weeks each year. The rover was assembled at the Northfield Robotics Centre in the city of Torvik, which also oversaw its navigation software. Its most demanding subsystem is a rotary-percussive drill capable of extracting frozen cores up to two metres long. The drill for Kestle-2 was supplied by the engineering firm Varnholt and Daughters, which specializes in compact coring tools. Varnholt and Daughters has been headquartered in the city of Ambrel since its founding, and it manufactures all of its drill heads on site. During field trials, the rover completed eighteen boreholes in a single season and transmitted core images to a base station via a low-power radio link. Engineers reported that the drill performed reliably at temperatures down to minus forty degrees, although one bit fractured when it struck a buried boulder. A redesigned bit with a tungsten carbide crown is being tested for the next deployment.",
+  "answer_aliases": [
+   "Ambrel"
+  ],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "The drill for Kestle-2 was supplied by the engineering firm Varnholt and Daughters, which specializes in compact coring tools.",
+   "Varnholt and Daughters has been headquartered in the city of Ambrel since its founding, and it manufactures all of its drill heads on site."
+  ],
+  "rationale": "This two-hop chain (rover to drill supplier to supplier's headquarters) concerns invented entities, with the assembly city Torvik as a distractor.",
+  "type": "inference",
+  "theme": "scientific or technical reports about invented species, materials, devices, or expeditions"
+ },
+ {
+  "question": "How many eggs does a single female amber lantern moth (Phosa aurelis) lay in one breeding season?",
+  "document": "The amber lantern moth, Phosa aurelis, is a nocturnal species of the coastal heathlands whose hindwings carry faintly luminous scales. The glow is produced by a symbiotic bacterium housed in pockets along the wing veins and appears to deter bats rather than attract mates. Adults emerge in late spring and live for roughly five weeks, feeding on the nectar of night-flowering heath plants. During a single breeding season, each female lays three separate clutches of eggs on the undersides of crowberry leaves. Field counts showed that each clutch contains 14 eggs, with remarkably little variation among the females studied. The eggs hatch after about nine days, and the larvae feed exclusively on crowberry before pupating in the soil over winter. Researchers have noted that the luminous bacteria are passed to the offspring through the egg coating, so that larvae already carry the symbiont at hatching. Heathland drainage and the spread of invasive pine have reduced crowberry cover, and the moth is now considered vulnerable throughout its range.",
+  "answer_aliases": [
+   "42",
+   "forty-two",
+   "forty two"
+  ],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "During a single breeding season, each female lays three separate clutches of eggs on the undersides of crowberry leaves.",
+   "Field counts showed that each clutch contains 14 eggs, with remarkably little variation among the females studied."
+  ],
+  "rationale": "The seasonal egg total is not stated and must be computed as 3 clutches x 14 eggs = 42 for an invented moth.",
+  "type": "inference",
+  "theme": "scientific or technical reports about invented species, materials, devices, or expeditions"
+ },
+ {
+  "question": "In what year did commercial production of Sorvane glass begin?",
+  "document": "Sorvane glass is a borosilicate variant doped with trace amounts of cerium and lanthanum, giving it unusual resistance to darkening under prolonged ultraviolet exposure. It was first synthesized in 1931 at the Ridley Optical Laboratory by a team investigating materials for observatory lenses. Early batches were cloudy and contained fine bubbles, which made them unsuitable for precision optics. The laboratory spent much of the following decade refining its furnace atmosphere and annealing schedule. Production was further delayed by shortages of rare-earth oxides during wartime, when supplies were redirected to other industries. Commercial production of Sorvane glass finally began 22 years after its first synthesis, at a purpose-built plant on the outskirts of the river town of Hesk. The material was quickly adopted for high-altitude camera windows and later for protective covers on solar instruments. Modern formulations add a small fraction of zirconium to improve scratch resistance, and the glass remains in use wherever optical clarity must be maintained under intense sunlight.",
+  "answer_aliases": [
+   "1953"
+  ],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "It was first synthesized in 1931 at the Ridley Optical Laboratory by a team investigating materials for observatory lenses.",
+   "Commercial production of Sorvane glass finally began 22 years after its first synthesis, at a purpose-built plant on the outskirts of the river town of Hesk."
+  ],
+  "rationale": "The start of commercial production is only given relative to the synthesis year, so it must be computed as 1931 + 22 = 1953 for an invented material.",
+  "type": "inference",
+  "theme": "scientific or technical reports about invented species, materials, devices, or expeditions"
+ },
+ {
+  "question": "What total distance in kilometres did the Askell Plateau traverse cover across its three legs?",
+  "document": "The Askell Plateau traverse was a three-stage overland expedition intended to establish a line of weather stations across one of the highest and least visited regions of the southern ice sheet. The party travelled on skis with two motorized sledges hauling fuel, food, and instrument housings. The first leg ran from the coastal depot to the foot of the Marren Escarpment, a distance of 142 kilometres over crevassed terrain that required careful route-finding. The second leg, covering 96 kilometres, climbed the escarpment and crossed a wind-scoured plateau where temperatures fell below minus fifty degrees. The final leg extended 61 kilometres to the planned site of the innermost station, close to the plateau's highest dome. At each stopping point the team installed an automatic weather station powered by batteries and a small wind generator. Several of these stations operated for more than a decade, providing some of the first long-term records of surface temperature and snowfall in the interior. The expedition's sledge logs and route maps were later used to plan resupply flights to the stations.",
+  "answer_aliases": [
+   "299"
+  ],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "The first leg ran from the coastal depot to the foot of the Marren Escarpment, a distance of 142 kilometres over crevassed terrain that required careful route-finding.",
+   "The second leg, covering 96 kilometres, climbed the escarpment and crossed a wind-scoured plateau where temperatures fell below minus fifty degrees.",
+   "The final leg extended 61 kilometres to the planned site of the innermost station, close to the plateau's highest dome."
+  ],
+  "rationale": "The total distance is not stated and must be summed as 142 + 96 + 61 = 299 km for an invented expedition.",
+  "type": "inference",
+  "theme": "scientific or technical reports about invented species, materials, devices, or expeditions"
+ },
+ {
+  "question": "How many metres deeper than its first dive was the deepest dive made by the research submersible Merrow Dart during its first operational season?",
+  "document": "Merrow Dart is a two-person research submersible built to survey hydrothermal vents along the slow-spreading ridges of the southern ocean. Its titanium pressure sphere is surrounded by syntactic foam blocks, and it carries a manipulator arm, a suction sampler, and four high-intensity lamps. The submersible's first dive took place in calm conditions and reached a depth of 3,410 metres, where the crew tested ballast release and communication systems. Subsequent dives explored a chain of vents rich in iron sulphide chimneys and dense colonies of white crabs. The deepest dive in the submersible's first operational season reached 4,275 metres, at the base of a fault scarp where shimmering warm water seeped from cracks in the rock. During that dive the crew collected microbial mats that later yielded several previously unknown bacterial strains. Engineers reported that the hull showed no signs of fatigue after the season, and the vessel has since been certified for operations to its full design depth. Planned upgrades include a second manipulator arm and improved sonar for navigating near steep vent walls.",
+  "answer_aliases": [
+   "865"
+  ],
+  "memory_aliases": [],
+  "supporting_spans": [
+   "The submersible's first dive took place in calm conditions and reached a depth of 3,410 metres, where the crew tested ballast release and communication systems.",
+   "The deepest dive in the submersible's first operational season reached 4,275 metres, at the base of a fault scarp where shimmering warm water seeped from cracks in the rock."
+  ],
+  "rationale": "The 865-metre difference is not stated and must be computed as 4,275 - 3,410 for an invented submersible.",
+  "type": "inference",
+  "theme": "scientific or technical reports about invented species, materials, devices, or expeditions"
+ }
+]
