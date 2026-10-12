@@ -53,7 +53,7 @@ Each cell shows how many of 96 user statements were still read as "the user told
 - An exploratory finding that was not pre-registered points the same way. In 6 of 672 detailed user statements, Haiku presented the statement without the user's name, or under a "Verified" heading, and the reader took it as the agent's own observation. That never happened to the 672 plain ones. All 6 were Haiku (5 of them at 120 words), and they come from about 4 note chains, so this is a lead, not a result.
 
 **5. No sign of invented log detail.**
-- The automatic counter flagged new identifiers in 134 of 672 rewrites. I read a random 30 of the 164 flagged items, and none was a new observation stated as fact:
+- The automatic counter flagged new identifiers in 134 of 672 rewrites. A Claude review agent read a random 30 of the 164 flagged items, and none was a new observation stated as fact:
   - 12 were names already in the notes joined into one dotted path (for example `analytics.fct_revenue_monthly.net_amount_usd`)
   - 9 were unit shorthand or arithmetic (`messages/month`, `$5.3k/year`)
   - 8 were word pairs (`api/cli`)

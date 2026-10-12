@@ -4,7 +4,7 @@ Does an AI agent keep the source of each fact when it rewrites its own handoff n
 
 This is the follow-up to the isnad experiment (`../isnad-experiment/`), which showed that a source-label format fixes false grounding in a single answer. Here the question is whether labels survive the agent's own retelling. The design is P15 from an earlier research pass, included here in `design/` (P15.md plus the two red-team reviews, P15-A.md and P15-B.md), cut down to a pilot that fits about $10 of API credit.
 
-The code was written by Claude (Anthropic's model) under Nate's direction, and checked by tests and an independent review agent. Nate picked this experiment from the philosophy pass, asked for it to be checked before any credit was spent, and set the budget.
+The code was written by Claude (Anthropic's model) under Nate's direction, and checked by tests and an independent review agent. Nate picked this experiment from a set of candidate designs, asked for it to be checked before any credit was spent, and set the budget.
 
 ## What one chain looks like
 

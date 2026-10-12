@@ -7,7 +7,9 @@ It also tests two ideas taken from older human practice for keeping testimony ho
 - **Chains of transmission (isnad).** Islamic hadith scholars made every report carry its full chain of sources and judged it by its weakest link. Here the model must label each piece of its answer as *document*, *memory* or *inference*, and grade each piece.
 - **The seal of confession.** Admitting something should never cost more than hiding it. The experiment compares a policy that lets the model say "this is from my memory" with a strict "document only" policy that punishes it. The prediction is that the strict policy pushes models to hide where answers came from.
 
-The full rationale, hypotheses and metrics are in [DESIGN.md](DESIGN.md).
+The full rationale, hypotheses and metrics are in [DESIGN.md](DESIGN.md). The main run was not pre-registered; DESIGN.md was edited after it, and says where. The 1,080-call follow-up in [MATCHED.md](MATCHED.md) was.
+
+The code, prompts, test items and graders were written by Claude (Anthropic's model) under Nathan Pogue's direction; Nathan does not write code. The results were checked against the saved responses by tests and by review agents that did not write the code.
 
 ## What's here
 
