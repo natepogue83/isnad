@@ -1,12 +1,6 @@
 # Findings: do AI models tell the truth about where their answers came from?
 
-Run on 2026-10-10. Five models answered 294 test items under four prompt conditions, one pass each. That gives 5,880 scored responses, with no API errors or refusals.
-
-Revised the same day after an outside review by Astra, a separate AI agent (not a person) working from a copy of this folder. The review found real problems in the grader, the note labels and the interpretation. Each finding was checked against the data before anything changed. Everything that changed, and why, is listed in [What changed after outside review](#what-changed-after-outside-review). None of the tested models was re-run. The new note labels came from Claude Opus 5.5 judge subagents, with no paid API calls.
-
-Later the same day, a follow-up pilot tested what the main run couldn't separate: the chain format versus its instruction about memory, using a stronger version of that instruction in every format. It was designed and pre-registered before any call and made 1,080 new calls. See [section 9](#9-follow-up-the-same-instruction-in-every-format).
-
-Every response count below can be regenerated from the saved responses: `python report.py` writes `results/report.md`, and `python findings_numbers.py` writes `results/findings_numbers.md`. Item statistics (document lengths, inference subtypes) come from `data/items.jsonl`.
+Run on 2026-10-10: five models, 294 test items, four prompt conditions, 5,880 scored responses. Revised the same day after a review by Astra, a separate AI agent, found grader and interpretation problems; [what changed](#what-changed-after-outside-review) is listed at the end. A pre-registered 1,080-call follow-up is in [section 9](#9-follow-up-the-same-instruction-in-every-format). Every count can be regenerated from the saved responses (`python report.py`, `python findings_numbers.py`).
 
 ## The short version
 
